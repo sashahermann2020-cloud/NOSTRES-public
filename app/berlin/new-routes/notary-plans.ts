@@ -44,7 +44,7 @@ export function notaryVisible(a: Answers): readonly Question[] {
 
 const lawStep = step(
   "Знайте, что цена одинакова у всех нотариусов",
-  "Стоимость услуг нотариуса установлена законом Gerichts- und Notarkostengesetz (GNotKG) и одинакова по всей Германии. Нотариус обязан брать ровно положенное по закону — не больше и не меньше. Консультация и подготовка проекта документа входят в плату за заверение. Плата зависит от стоимости дела (Geschäftswert).",
+  "Стоимость услуг нотариуса установлена законом Gerichts- und Notarkostengesetz (GNotKG) и одинакова по всей Германии. Нотариус обязан брать ровно положенное по закону: не больше и не меньше. Консультация и подготовка проекта документа входят в плату за заверение. Плата зависит от стоимости дела (Geschäftswert).",
   "Выбор",
   act("Notarkammer Berlin: стоимость по закону", o.costs),
   act("Bundesnotarkammer: Notarkosten", o.costsFederal),
@@ -118,7 +118,7 @@ export function notaryPlan(a: Answers): Plan {
     step("Посчитайте плату нотариуса", costText, "Выбор", act("Bundesnotarkammer: примеры для GmbH и UG", o.examples), act(form === "muster" ? "Закон: Musterprotokoll без минимума (§ 105 Abs. 6 GNotKG)" : "Закон: минимум 30 000 € (§ 107 GNotKG)", form === "muster" ? o.musterValue : o.minValue)),
     searchStep(),
     ...(video ? [step("Подготовьтесь к заверению по видео", "Учредить GmbH онлайн можно через портал Bundesnotarkammer. Нужны удостоверение с включённой онлайн-функцией (eID) и PIN, компьютер или iPad и совместимый смартфон. Документ подписывают квалифицированной электронной подписью. За заверение по видео добавляется 25 €.", "Онлайн", act("Bundesnotarkammer: учреждение GmbH онлайн", o.gmbhPortal), act("Bundesnotarkammer: расходы при видео", o.examples))] : []),
-    step("Оплачивайте только официальные счета", "За запись в Handelsregister приходит официальный счёт, обычно от Amtsgericht (суда). Частные справочники присылают похожие счета: их платить не нужно. Сбор суда в Берлине — 150 €, с вкладом имуществом 240 €, плюс треть этой суммы; срок записи на странице суда не указан.", "Ожидание", act("Bundesnotarkammer: о счетах после учреждения", o.gmbhPortal), act("Берлин: сбор Handelsregister", o.register)),
+    step("Оплачивайте только официальные счета", "За запись в Handelsregister приходит официальный счёт, обычно от Amtsgericht (суда). Частные справочники присылают похожие счета: их платить не нужно. Сбор суда в Берлине: 150 €, с вкладом имуществом 240 €, плюс треть этой суммы; срок записи на странице суда не указан.", "Ожидание", act("Bundesnotarkammer: о счетах после учреждения", o.gmbhPortal), act("Берлин: сбор Handelsregister", o.register)),
   ];
   const methods: Method[] = [{
     id: video ? "video" : "office", kind: video ? "online" : "in-person", title: video ? "Нотариус по видеосвязи" : "Нотариус в нотариате",

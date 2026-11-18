@@ -8,7 +8,7 @@ export const RETENTION_MONTHS = 12;
 export const PURGE_BATCH = 2000;
 /** Запросов на таблицу за запуск: потолок 20 000 удалённых строк, чтобы не исчерпать дневной лимит записей D1. */
 export const PURGE_MAX_BATCHES = 10;
-/** Час (UTC), в который выполняется очистка; cron работает каждые 15 минут, очистка — в первое окно этого часа. */
+/** Час (UTC), в который выполняется очистка; cron работает каждые 15 минут, очистка – в первое окно этого часа. */
 export const PURGE_HOUR_UTC = 3;
 
 const TABLES = ["product_events", "issue_reports", "route_feedback"] as const;

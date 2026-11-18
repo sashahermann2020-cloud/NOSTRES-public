@@ -20,7 +20,7 @@ const outcomeLabels: Record<string, string> = {
 
 export function buildAnmeldungSummary({ method, doneSteps, blockedSteps, outcome, sources, generatedAt }: SummaryInput) {
   const lines = [
-    tr("NOSTRES — персональная сводка маршрута"),
+    tr("NOSTRES: персональная сводка маршрута"),
     tr("Цель: зарегистрировать адрес в Берлине (Anmeldung)"),
     `${tr("Способ:")} ${method.title}`,
     `${tr("Срок:")} ${method.deadline}`,

@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import { LOCALES, isLocale } from "./locales";
 import { initLocale, switchLocale, tr, useLocale } from "./store";
 
-/** Выбор языка интерфейса: каждый язык — отдельный адрес (/en/..., /de/...), выбор запоминается в браузере. */
+/** Выбор языка интерфейса: каждый язык – отдельный адрес (/en/..., /de/...), выбор запоминается в браузере. */
 export default function LanguageSwitcher() {
   const locale = useLocale();
   useEffect(() => { void initLocale(); }, []);

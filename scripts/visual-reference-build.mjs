@@ -2,8 +2,8 @@
 // Пересобирает docs/VISUAL_REFERENCE.json из app/globals.css: каждое правило с номером строки,
 // условием @media/@supports/@keyframes, селектором и декларациями в исходном порядке.
 // Формат совпадает с исходным справочником (проверено на CSS, из которого он был создан).
-// Запуск: node scripts/visual-reference-build.mjs        — записать справочник
-//         node scripts/visual-reference-build.mjs --check — только проверить, что справочник актуален
+// Запуск: node scripts/visual-reference-build.mjs        – записать справочник
+//         node scripts/visual-reference-build.mjs --check – только проверить, что справочник актуален
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";

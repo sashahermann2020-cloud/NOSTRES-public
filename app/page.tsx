@@ -334,7 +334,7 @@ export default function Home() {
   return (
     <main id="top" tabIndex={-1}>
       <header className="site-header">
-        <a className="brand" href="#top" aria-label={tr("NOSTRES — на главную")}>
+        <a className="brand" href="#top" aria-label={tr("NOSTRES: на главную")}>
           <span className="brand-mark" aria-hidden="true">N</span>
           <span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span>
         </a>
@@ -575,7 +575,7 @@ export default function Home() {
                 {personalizedResult.warning && <div className="result-warning">{personalizedResult.warning}</div>}
                 <a className="primary-action full-action" href={lh(personalizedResult.actionUrl)} target="_blank" rel="noreferrer">{personalizedResult.actionLabel} <ExternalIcon /></a>
               </section>
-            ) : <div className="result-placeholder">{tr("Ответьте на все вопросы — NOSTRES выберет применимый следующий шаг.")}</div>}
+            ) : <div className="result-placeholder">{tr("Ответьте на все вопросы: NOSTRES выберет применимый следующий шаг.")}</div>}
 
             {viewJourney.actionMethods && personalizedResult && (
               <section className="panel-section method-section" id="method-choice">

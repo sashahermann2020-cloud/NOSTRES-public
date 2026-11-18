@@ -2,7 +2,7 @@ import { germanRuns } from "./german-runs";
 import { lh, tr } from "./i18n/store";
 import { hearingBlockFor } from "./hearing-access";
 
-/** Блок «Люди с нарушением слуха» после шагов маршрута; данные — app/hearing-access.ts. */
+/** Блок «Люди с нарушением слуха» после шагов маршрута; данные – app/hearing-access.ts. */
 export default function HearingAccess({ routeId }: { routeId: string }) {
   const items = hearingBlockFor(routeId);
   if (items.length === 0) return null;

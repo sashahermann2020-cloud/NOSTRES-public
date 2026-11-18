@@ -33,8 +33,8 @@ export interface LinkEvent { kind: EventKind; detail: string }
 export const FAIL_THRESHOLD = 3;
 // Ответы, которыми сайт отказывает роботу, а не сообщает об удалении страницы: 4xx-защита от ботов,
 // 999 (LinkedIn-подобные фильтры) и 520–530 (ошибки сети Cloudflare между проверкой и сайтом).
-// Пример: BMI отвечал роботу 400, ING — 520, Hochschulkompass — 400, хотя для людей страницы открывались.
-// Удалённую страницу выдают 404/410, недоступный сайт — 500–504 или отсутствие ответа: это по-прежнему поломка.
+// Пример: BMI отвечал роботу 400, ING – 520, Hochschulkompass – 400, хотя для людей страницы открывались.
+// Удалённую страницу выдают 404/410, недоступный сайт – 500–504 или отсутствие ответа: это по-прежнему поломка.
 const BLOCKED_STATUSES = new Set([400, 401, 403, 406, 429, 451, 999, 520, 521, 522, 523, 524, 525, 526, 527, 530]);
 export const isBlockedStatus = (status: number) => BLOCKED_STATUSES.has(status);
 const NOT_FOUND_TITLE = /nicht gefunden|not found|seite existiert nicht|seite nicht gefunden|404|fehler\b|error\b|page unavailable|nicht verfügbar/i;

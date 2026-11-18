@@ -68,7 +68,7 @@ const routeConfigsRu = {
     location: "Германия · действия в Берлине",
     breadcrumb: "Steuer-ID",
     categoryLine: "Налоги · Германия",
-    heroLede: "Определите, присвоена ли вам личная IdNr., и пройдите подходящий официальный путь — без платного посредника и передачи номера NOSTRES.",
+    heroLede: "Определите, присвоена ли вам личная IdNr., и пройдите подходящий официальный путь – без платного посредника и передачи номера NOSTRES.",
     facts: [["Номер", "11 цифр · пожизненно"], ["Стоимость", "Бесплатно"], ["Онлайн-запрос", "В среднем 4 недели"]],
     heroSourceId: "taxid-berlin-main",
     heroSourceUrl: "https://service.berlin.de/dienstleistung/329123/",
@@ -85,7 +85,7 @@ const routeConfigsRu = {
     location: "Германия · действия в Берлине",
     breadcrumb: "Медицинская страховка",
     categoryLine: "Здоровье · Германия",
-    heroLede: "Определите официальный путь к страховке, выберите Krankenkasse и получите подтверждение членства и eGK — без платного посредника.",
+    heroLede: "Определите официальный путь к страховке, выберите Krankenkasse и получите подтверждение членства и eGK – без платного посредника.",
     facts: [["Обязанность", "Покрытие без разрыва"], ["Каналы", "Онлайн или через кассу"], ["Срок", "Зависит от Krankenkasse"]],
     heroSourceId: "health-overview",
     heroSourceUrl: "https://gesund.bund.de/krankenversicherung",
@@ -595,7 +595,7 @@ export default function AnmeldungJourney({ journeyId = "anmeldung" }: { journeyI
   return (
     <main className="route-page" id="top" tabIndex={-1}>
       <header className="site-header route-page-header">
-        <Link className="brand" href="/" aria-label={tr("NOSTRES — на главную")}>
+        <Link className="brand" href="/" aria-label={tr("NOSTRES: на главную")}>
           <span className="brand-mark" aria-hidden="true">N</span>
           <span className="brand-copy"><b>NOSTRES</b><small>{germanRuns(tr("Понятный путь"))}</small></span>
         </Link>
@@ -686,9 +686,9 @@ export default function AnmeldungJourney({ journeyId = "anmeldung" }: { journeyI
           {selectedMethod && providerMode && !selectedProvider && (
             <section className="route-section provider-choice" id="provider-choice" tabIndex={-1}>
               <div className="route-section-heading"><div><p className="overline">{germanRuns(tr("Шаг 3"))}</p><h2>{selectedMethod.id === "health-clarify" ? tr("Куда отправить запрос на проверку") : providerMode === "current" ? tr("Выберите вашу кассу") : providerMode === "current-or-new" ? tr("Укажите текущую или новую кассу") : tr("Выберите больничную кассу")}</h2></div></div>
-              <p className="provider-intro">{germanRuns(tr("Это не рейтинг. Ниже — три примера государственных касс, доступных в Берлине, и полный официальный список. Сравните взнос, письменный сервис и отделения."))}</p>
+              <p className="provider-intro">{germanRuns(tr("Это не рейтинг. Ниже: три примера государственных касс, доступных в Берлине, и полный официальный список. Сравните взнос, письменный сервис и отделения."))}</p>
               {selectedMethod.id === "health-clarify" && <div className="provider-rule">{germanRuns(tr("Это выбор адресата для письменной проверки, а не рекомендация вступить в государственную кассу. Если подтвердится право на частное страхование, следующий этап покажет официальный список частных компаний."))}</div>}
-              {providerMode === "current" && <div className="provider-rule">{germanRuns(tr("Используйте действующую кассу: для семейного страхования — кассу члена семьи, для медицинской карты — кассу, где уже подтверждено членство."))}</div>}
+              {providerMode === "current" && <div className="provider-rule">{germanRuns(tr("Используйте действующую кассу: для семейного страхования – кассу члена семьи, для медицинской карты – кассу, где уже подтверждено членство."))}</div>}
               <div className="provider-grid">
                 {healthProviders.map((provider) => <article className="provider-card" key={provider.id}><div><span>{provider.id === "other" ? tr("Полный список") : tr("Официальная касса")}</span><h3>{providerDisplayName(provider)}</h3><p>{germanRuns(explainTerms(provider.description))}</p></div><button type="button" onClick={() => chooseProvider(provider.id)}>{provider.id === "other" ? tr("Выбрать другую кассу") : trf("Выбрать {name}", { name: provider.name })}</button></article>)}
               </div>
@@ -792,7 +792,7 @@ export default function AnmeldungJourney({ journeyId = "anmeldung" }: { journeyI
 
                 <label className="evaluation-select"><span>{germanRuns(tr("Что сильнее всего мешало?"))}</span><select value={feedbackBlocker} onChange={(event) => { setFeedbackBlocker(event.target.value); setRouteFeedbackStatus("idle"); }}>{blockerOptions.map((option) => <option value={option.value} key={option.value}>{option.label}</option>)}</select></label>
                 <button className="primary-action" type="button" disabled={!feedbackClarity || !feedbackNextAction || !feedbackOfficialAction || routeFeedbackStatus === "sending" || routeFeedbackStatus === "sent"} onClick={() => void submitRouteFeedback()}>{routeFeedbackStatus === "sending" ? tr("Сохраняем…") : routeFeedbackStatus === "sent" ? tr("Спасибо, оценка сохранена") : tr("Отправить анонимную оценку")}</button>
-                {routeFeedbackStatus === "error" && <p className="feedback-error">{germanRuns(tr("Оценка сейчас не сохранилась. Попробуйте отправить ещё раз — ответы останутся на экране."))}</p>}
+                {routeFeedbackStatus === "error" && <p className="feedback-error">{germanRuns(tr("Оценка сейчас не сохранилась. Попробуйте отправить ещё раз: ответы останутся на экране."))}</p>}
                 {routeFeedbackStatus === "sent" && <p className="feedback-success">{germanRuns(tr("Готово. В оценку не вошли персональные данные и ответы на вопросы маршрута."))}</p>}
               </details>
             </div>
@@ -813,7 +813,7 @@ export default function AnmeldungJourney({ journeyId = "anmeldung" }: { journeyI
               <label><span>{germanRuns(tr("Источник"))}</span><select value={reportSourceId} onChange={(event) => { setReportSourceId(event.target.value); setReportStatus("idle"); }}><option value="">{tr("Выберите источник")}</option>{journey.sources.map((source) => <option value={source.id ?? source.url} key={source.url}>{source.label}</option>)}</select></label>
               <label><span>{germanRuns(tr("Что не так"))}</span><select value={reportIssueType} onChange={(event) => { setReportIssueType(event.target.value); setReportStatus("idle"); }}>{issueTypes.map((item) => <option value={item.value} key={item.value}>{item.label}</option>)}</select></label>
               <button className="primary-action" type="button" disabled={!reportSourceId || reportStatus === "sending" || reportStatus === "sent"} onClick={() => void submitIssueReport()}>{reportStatus === "sending" ? tr("Отправляем…") : reportStatus === "sent" ? tr("Сообщение отправлено") : tr("Отправить без персональных данных")}</button>
-              {reportStatus === "error" && <p className="feedback-error">{germanRuns(tr("Сейчас сообщение не сохранилось. Попробуйте ещё раз позже — введённые данные не потеряны."))}</p>}
+              {reportStatus === "error" && <p className="feedback-error">{germanRuns(tr("Сейчас сообщение не сохранилось. Попробуйте ещё раз позже: введённые данные не потеряны."))}</p>}
               {reportStatus === "sent" && <p className="feedback-success">{germanRuns(tr("Источник добавлен в очередь ручной проверки."))}</p>}
             </div>
           </details>}

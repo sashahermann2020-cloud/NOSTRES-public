@@ -1123,7 +1123,7 @@ body { font-size: 16px; }
 .start-back { font-size: 13px; font-weight: 750; text-decoration: underline; text-underline-offset: 4px; }
 .start-shell { width: min(820px, calc(100% - 36px)); margin: 0 auto; padding: 60px 0 110px; }
 .start-shell h1 { max-width: 770px; font-size: clamp(48px, 7vw, 78px); line-height: 1; }
-/* Справочные темы: в заголовке длинное немецкое слово (Pflichtversicherungen) — размер, при котором оно помещается целиком. */
+/* Справочные темы: в заголовке длинное немецкое слово (Pflichtversicherungen) – размер, при котором оно помещается целиком. */
 .topic-shell h1 { font-size: clamp(40px, 5vw, 64px); }
 .start-lede { margin: 20px 0 28px; max-width: 730px; color: var(--ink-2); font-size: 17px; }
 .start-stage { display: flex; align-items: center; gap: 20px; margin-bottom: 20px; color: var(--ink-2); font-weight: 750; font-size: 13px; }
@@ -1397,7 +1397,7 @@ h1, h2, h3 { overflow-wrap: break-word; hyphens: manual; }
   .site-header:has(> .main-nav) { grid-template-columns: auto minmax(0, 1fr) auto; column-gap: 24px; }
   .site-header:has(> .main-nav) .main-nav { justify-self: center; gap: clamp(16px, 1.9vw, 30px); }
 }
-/* Узкие телефоны: в шапке остаётся знак N, слово рядом скрывается, чтобы кнопки не наезжали на него (в шапке стартового плана — до 400px). */
+/* Узкие телефоны: в шапке остаётся знак N, слово рядом скрывается, чтобы кнопки не наезжали на него (в шапке стартового плана – до 400px). */
 @media (max-width: 359px) {
   .site-header .brand-copy, .route-page-header .brand-copy { display: none; }
 }
@@ -1405,12 +1405,12 @@ h1, h2, h3 { overflow-wrap: break-word; hyphens: manual; }
   .site-header.route-page-header .brand-copy,
   .route-page-header:not(.site-header) .brand-copy { display: none; }
 }
-/* Телефон: кнопки в первой строке рядом со знаком, метка или кнопка теста — во всю ширину второй строки. */
+/* Телефон: кнопки в первой строке рядом со знаком, метка или кнопка теста – во всю ширину второй строки. */
 @media (max-width: 720px) {
   .site-header:has(.pilot-badge) .header-tools { grid-row: 1; }
   .site-header .pilot-badge { grid-column: 1 / -1; }
 }
-/* Установка на устройство: та же кнопка и меню, что у «Поделиться», внутри — шаги подсказки. */
+/* Установка на устройство: та же кнопка и меню, что у «Поделиться», внутри – шаги подсказки. */
 .install-menu { width: 290px; }
 .install-menu .install-menu-title { margin: 4px 8px 0; color: var(--ink); font-size: 14px; font-weight: 800; }
 .install-menu ol { margin: 4px 8px; padding-inline-start: 20px; list-style: decimal; color: var(--ink-2); font-size: 13px; line-height: 1.45; }

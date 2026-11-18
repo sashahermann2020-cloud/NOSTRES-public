@@ -30,7 +30,6 @@ b04e1384	Enrolled in a course
 9cf25db1	Application submitted or child enrolled
 1055a684	Application submitted or decision received
 38a7b80a	Application submitted or Familienkasse decision received
-d48af82d	Only questions here. After you answer, press "Get my route" — the result and links to official actions will open.
 deb19a77	out of 5
 9ddc7fad	The information helps you find the official procedure. In a life-threatening medical situation, call 112. The data was checked against the official pages listed; the conditions are as stated on those pages.
 fba7ad03	How to register as unemployed and apply for Arbeitslosengeld (unemployment benefit) or for Grundsicherung at the Jobcenter. The data comes from the official pages of the Bundesagentur für Arbeit.
@@ -395,7 +394,6 @@ f4f52431	Not yet
 d05a02c5	You do not have a German account now
 e06690d7	You have a permanent address
 eb3dbe8c	Your first account in Germany: Girokonto or Basiskonto
-6cc411bd	The terms of an ordinary Girokonto are set by the bank. A Basiskonto is the right of a consumer who does not yet have a payment account in Germany to a basic account: a bank may refuse only in the few cases set out in the law. Choose a method below.
 c69d07c4	Without a visit: online, app or phone
 828f0943	A direct bank verifies your identity by Videoident or Postident. It suits you if you do not want to or cannot go to a branch.
 b8258565	Available for your document
@@ -430,7 +428,6 @@ f3b19697	Ordinary account · app
 b7fa6aef	A fully mobile account: opened in the app, with identity verified by video. It is an ordinary account, not a Basiskonto: the Basiskonto is not mentioned on the N26 page: the terms of the account are set by the bank itself.
 b59f2e88	a video call or a photo of the document (Reisepass or Personalausweis); according to the N26 blog, opening online takes "from a few minutes to a few hours". A separate verification period is not stated on the N26 pages
 1442a576	N26 Standard plan
-a40d65ac	€0 a month; physical card — a one-off €10
 38e5a689	You are 18 or over and live in a country where N26 operates
 b571bb50	You need a smartphone and a valid document: passports, national ID cards and residence permits are accepted, and the app shows your personal list of documents at the start of verification
 a490c572	If your document is not supported, N26 cannot open an account
@@ -746,7 +743,6 @@ a08d15f2	the booking service must offer an appointment with a specialist within 
 06119a3e	Cost of booking
 ac013f7b	the official pages of the Ministry of Health and the KBV do not state a cost of booking for the patient; the appointment is paid by the insurance fund under the usual rules, and any co-payment differs by fund
 459110cc	Choose a free appointment online
-22f310bc	The 116117 service is intended for people with statutory insurance. Enter Berlin, choose the specialty you need and a free time. For an ordinary specialist a 12-digit code on the referral is required; for a family doctor, paediatrician, gynaecologist, ophthalmologist and a first psychotherapy appointment no code is needed. Save the confirmation; the service does not promise a specific practice.
 ea21e899	Open the official eTerminservice
 b6e245ac	Federal portal: who needs a code and how to book
 8c839b87	Choose a specific practice
@@ -836,7 +832,6 @@ ad14a287	Berlin: Hundegesetz, questions and answers
 2e7d9f2a	Enter the dog in the Hunderegister straight away
 0726d4ab	Register the dog online in the owner's account on the register portal. You need the 15-digit chip number from the pet passport and the breed details. Cost online: €17.50 per dog. The fee notice (Kostenbescheid) serves as proof. Registration in the register also serves as the tax registration. Incomplete registration is an administrative offence with a fine of up to €10,000.
 57a523f3	Dog tax
-65f582cc	Registration in the Hunderegister is enough: since 1 January 2024 it counts as the tax registration, and no separate visit to the Finanzamt is needed. The tax deadline is one month after buying the dog or moving. The tax notice arrives by itself after about 4 weeks. You can set up a SEPA direct debit or pay by transfer. Tags are no longer needed. The rate is not stated on the service page: the notice will state it. An exemption is applied for through a separate service.
 189c0b72	Berlin: dog tax
 56800ce0	Hunderegister: registration
 55323aea	Liability insurance
@@ -853,7 +848,6 @@ f8f9b54a	€26.50 per dog
 b1ec61ff	Insurance in Germany
 98683275	The information is based on official Berlin pages. Deadlines and conditions are stated on them.
 5cde52c4	Leash exemption (optional)
-ebe9f0bf	You need a Sachkundebescheinigung ("dog licence"): an exam with a recognised expert (theory: 30 questions, pass mark 70%, 45 minutes; practice: the dog must be at least a year old). The application is filed in person at the district Ordnungsamt; you need the form, the dog's details, insurance, proof of Sachkunde and a photo. The fee depends on processing time: €20.50 per 15 minutes begun, a minimum of €41–61.50 depending on the grounds.
 4efdb2fe	Berlin: leash exemption
 e7750ae0	Recognised experts in Berlin
 e0503ed8	The breed is a Listenhund: mandatory deadlines and conditions apply
@@ -885,7 +879,6 @@ ac15ee62	Outdoors outside a fenced area: a muzzle that prevents biting (from 7 m
 56063604	Any other breed or cross can also be declared dangerous by decision of the Ordnungsamt after an incident, for example a bite. This is general information, not legal advice: deadlines and conditions are stated on the authorities' pages linked in the steps.
 38b1a136	You do not know whether the dog's breed is a Listenhund
 b0991366	First determine whether the dog is a Listenhund
-d0939262	Listenhunde in Berlin are Pit Bull Terriers, American Staffordshire Terriers, Bull Terriers and their crosses. The Ordnungsamt can declare any other dog dangerous after an incident.
 0c18b633	Check the breed from the documents
 315c493e	Look at the pedigree, the pet passport and the acquisition documents. For a dog under one year the seller must issue a written acquisition certificate (Erwerbsbescheinigung); for older dogs it is also needed, stating the breed or cross.
 09a8c5a2	Order a breed assessment from the Ordnungsamt
@@ -906,7 +899,6 @@ f3e347a5	Do not forget to update your insurance policy too: give the insurer you
 c47db8eb	Notify the Hunderegister
 1827e21b	The dog must be deregistered after death, loss or transfer. The notification can be made in the owner's account, in writing or by phone.
 d0e7a65f	Dog tax: registration rules
-6aff9547	Failing to register in the register and failing to report changes is an administrative offence, and the fine can reach €10,000.
 b02014f7	How long have you lived legally in Germany?
 fe4bfee8	5 years or more without breaks
 44fb613d	Three years, and I have been married to or in a partnership with a German citizen for at least 2 years
@@ -1414,7 +1406,6 @@ f03673f4	I do not know whether it suits me
 473ce6c5	SCHUFA: you have it
 405bb2ff	WBS: you want to check the WBS
 bf8291f8	Flat search in Berlin
-0c52dff2	Below are search methods, documents and the procedure for your answers. NOSTRES helps you prepare and go to the official sources; the availability of housing and the landlord's decision do not depend on it.
 5af76b7a	This is general information, not legal advice. For the terms of a listing and of official services see their pages; there is a separate route for the WBS.
 245315f3	Decide whether to apply for social housing
 6bc5a127	The WBS (permit to rent social housing) depends on income and residence status; the decision is made by the district housing office. Online, prepare PDF/JPG documents (up to 30 MB in total, each up to 5 MB). By post, send the signed forms to the office of your district; if you do not yet live in Berlin you can choose any district. Filing is free. The processing time is not stated on the service page; a WBS does not guarantee you a flat.
@@ -2150,7 +2141,6 @@ bd8bfe11	Extending a residence permit on the listed humanitarian grounds
 ea118b58	Documents for your paragraph: the full list is on the service page
 7fe0636d	no earlier than eight weeks before expiry
 93c2f42e	usually 4–6 weeks after the appointment, if an electronic residence permit is issued
-23288f25	Temporary protection (§ 24) is a separate service
 46932f12	The general rules for humanitarian extension do not apply to § 24. Check the current conditions and procedure on the separate official page.
 b9c1be55	This is general information, not legal advice. The conditions come from the official pages named in the steps; the authority makes the final decision.
 31a2d9cf	Open the suitable official service
@@ -2165,14 +2155,12 @@ d13a24ae	Choose the service by the purpose of your visit
 f50087e0	A first issue and an extension on the same basis may lead to different requirements. Choose your service by name and check the "Online processing" section.
 7ddcdbeb	Open the LEA service catalogue
 233e233d	Purpose: changing the basis or the employer
-53414c77	Changing the basis or the employer is a different service
 b87d0e6f	When you change employer a separate procedure may apply; when you change the basis, choose the corresponding service in the catalogue. Do not file an extension of the old basis automatically.
 d8862978	If the basis of your residence itself changes, use the LEA service catalogue.
 d514d11e	Check a change of employer
 d854e399	Purpose: not yet known
 b99c554b	Document: a national D visa
 f1bd5ba4	With a valid national D visa, choose the service by the purpose of your stay
-ae676c69	If you plan to stay beyond the visa's term, the LEA advises filing while it is valid, usually six to eight weeks before the end of a 12-month visa. A first residence permit under a D visa is not an extension of an already issued residence permit; choose the service by the purpose of your stay.
 e5dee4dc	Find the service for your basis
 3fc64687	Document: expired
 78f077c8	The document has already expired: a separate review by the LEA is needed
@@ -2180,7 +2168,6 @@ fb68487f	Confirmation of an ordinary online application does not automatically r
 7fa8f71f	We do not promise a Fiktionsbescheinigung (certificate of temporary continuation of status) if you apply after the expiry.
 f024ccb9	Find the LEA contact unit
 3cc71c17	Document: a Schengen C visa
-5954360c	A Schengen C visa is a separate procedure
 4a1d2e91	An ordinary residence permit application does not extend the stay under a Schengen visa. Extending the visa itself is allowed only in exceptional cases.
 a6a380cc	Do not expect an online residence permit application to create a right to stay after the C visa ends.
 1c9cac7f	Open the official service for the C visa
@@ -2774,7 +2761,6 @@ d0c55fa2	Mobile service with unlimited internet (SIM card or eSIM)
 6f5c1df7	Internet at home
 612d94c6	You need a new mobile or internet contract
 c9e85768	A new contract: what to check before signing
-ce9780d7	The provider must give a written summary of the contract before it is concluded. The maximum initial term is 24 months. Choose where you will conclude the contract.
 12b891ad	Online or by phone
 e55aaccd	The contract is concluded without a visit to a shop. A right of withdrawal applies. If your phone supports eSIM (a SIM card built into the phone), no SIM by post is needed: the operator sends a profile that is installed on the phone. Which operators issue an eSIM is stated in their cards.
 6db86c8e	Available when concluding a contract with most providers
@@ -2882,7 +2868,6 @@ d2026ed3	The 14-day right of withdrawal applies to contracts concluded by phone,
 40a7d57d	Route: bank account
 b7062838	You need unlimited mobile internet for a smartphone
 b855bd67	Unlimited mobile internet: options by convenience
-0d12b6d5	The simplest way is an app with an eSIM, with no visit and no SIM card by post. If you need a contract with a network operator, arrange it online.
 d99faa3a	Order in the app (eSIM)
 60317c10	The tariff is arranged in the app with no visit and no SIM card by post. You need a phone that supports eSIM.
 d21a895c	You need a phone with an eSIM
@@ -2940,7 +2925,6 @@ aecc0b69	up to 30.6 GB a month at no extra charge, above that €1.31 per GB
 62da66df	This is general information, not legal advice. Tariffs are not compared or rated here.
 604a832a	You need internet at home
 51890783	Internet at home: options by convenience
-a2a0a42e	The simplest and fastest is a router on the mobile network: plug it in and the internet works. Wired internet is often faster but depends on the address and may need an engineer.
 08f0e174	Internet over the mobile network, no engineer
 ca34243c	The router plugs into a socket and nothing needs to be installed. It suits you if there is no wired internet or you need it quickly.
 39ec9315	Available if there is 5G/LTE coverage at the home
@@ -2967,7 +2951,6 @@ e944967b	Enter your address on the operator's page: it will show which speeds ar
 d8625462	You need a connection type available at your address; sometimes an engineer comes. It is usually better for speed, but the connection takes longer.
 f4b636d7	Depends on the address
 0a22a795	The connection type and speed are determined by an address check on the operator's page
-1053baa3	Vodafone's minimum term is 24 months
 5ddcd2f8	The housing owner's consent to the connection, if needed
 b06064cc	Vodafone speeds
 0e728817	from 50 to 1,000 Mbit/s, router for €0
@@ -2989,7 +2972,6 @@ ea432601	Wired internet operators
 0a1926b7	That way you will not lose your number and line. The new provider usually helps cancel the old contract. Check the contract term and notice deadlines in the invoice or customer account: late cancellation usually extends the contract.
 6ba14e4d	Verbraucherzentrale: changing provider
 859db02b	Watch for a break in service
-79206527	The old provider must keep the service until the switch and may charge no more than 50% of the connection fee. The break must not last longer than one working day. For each extra working day 20% of the monthly fee (at least €10) is due, and for a failed number transfer €10 a day from the second working day.
 d4a43e22	Verbraucherzentrale: rights when switching
 c95fe58f	If you are moving
 8deee649	If your provider does not serve the new address, you can cancel the contract with one month's notice.
@@ -3108,7 +3090,6 @@ c875528d	I cannot assess
 72052876	If life is at risk, call 112
 f8f30dab	Do not look for an online booking and do not wait for a reply from NOSTRES. Tell the operator the address and what happened.
 15bbdd8a	Call 112 now
-33a70db7	112 is the rescue service. With severe shortness of breath, loss of consciousness, heavy bleeding and other signs of a threat to life, urgent assessment by specialists is needed. The call is made by phone, not through a form on a website.
 534d2a33	Call
 0fd438ee	Call 112
 def1da9d	Berlin Welcome Center: help numbers
@@ -3116,7 +3097,6 @@ def1da9d	Berlin Welcome Center: help numbers
 324d2a0f	No, help is needed sooner
 a6c8a287	Yes, I can wait
 35d6cf4c	You need help before the next working appointment
-e9f4e7b5	116117 is for an urgent problem that is not life-threatening. The address and hours of an on-call practice depend on the day and the district; check them before travelling.
 b555033e	Find an open on-call practice
 abd0e8cc	In the official search enter Berlin or a postcode. Check today's address, hours, specialty and conditions of attendance. Do not use out-of-date lists of addresses.
 5d86afee	Find an open Bereitschaftspraxis (on-call practice)
@@ -3142,7 +3122,6 @@ a30b8bdf	Enter your complaints on the 116117 website and give Berlin or a postco
 e967cea4	Start the assessment on the Patienten-Navi
 a7b338f5	116117: the purpose of the online navigator
 6cf52dbe	If the online answer is unclear
-30bdf69b	Call 116117. The service works around the clock and will direct you to suitable help. For a threat to life, call 112.
 7f60f06b	Official 116117 answers
 80656c22	What is your residence status?
 6a27ce35	A citizen of Germany or an EU country
@@ -3159,7 +3138,6 @@ f6d07f1d	You are a German or EU citizen
 50a034ef	You plan to live in Berlin for at least 11 months
 f6beae33	You are applying for yourself
 7c9d9bf4	You can apply for a WBS
-5feaf4fd	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply.
 c907ad75	Online application
 0f48a2c9	Fill in the form on the Berlin portal and upload the documents as files. The decision arrives by post.
 1b91f30e	Files in PDF or JPG: up to 5 MB each and up to 30 MB in total
@@ -3167,7 +3145,6 @@ c907ad75	Online application
 462b4e9e	Application form
 2cb355f4	A statement of your income and an employer's statement of income
 7f9969fa	Copies of the identity documents of everyone you list in the application
-b8d07771	If you are not alone: a marriage certificate or a partnership declaration; for children, birth certificates and a custody declaration
 5898320b	Additionally depending on your situation: a disability document, a study certificate, a document on the right of residence
 2da1d17d	Cost
 8e3b73b9	free
@@ -3199,15 +3176,12 @@ ce18c2d2	The address of the housing authority or Bürgeramt of your district is 
 850ae95e	Some social flats are let only to WBS holders with a special need (for example a family with children in a cramped flat or a disability of 50 or more); for these you need at least a year of registration in Berlin and documents proving the ground. State the ground in the application.
 a10964c9	You are applying for a family or a couple
 68567e5b	You are applying for a shared flat
-ff83d2a1	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply. For a WG a joint application by flatmates and combining separate WBS are not possible: each person applies for their own.
 fa02a3c4	You plan to live in Berlin for less than 11 months
 5e8cdc29	A WBS will not suit: it is meant for residence of 11 months or more
 06a665e9	According to the official service page, a WBS can be received by those who live in Berlin not only temporarily (at least 11 months) and can make the city the centre of their life. For a short stay, look for temporary housing or a room.
 ad50cc78	Choose a search format without a WBS
 8278c319	Rooms, sublets and temporary housing do not need a WBS. Open the overview of search methods.
 be0c59b8	You do not yet know how long you will live in Berlin
-20159394	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply. Condition: you must live in Berlin not only temporarily, for at least 11 months.
-35878eef	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply. Condition: you must live in Berlin not only temporarily, for at least 11 months. For a WG a joint application by flatmates and combining separate WBS are not possible: each person applies for their own.
 03f1b984	Your residence permit is valid for at least a year
 72bf1a82	The residence permit is valid for less than a year
 31b68dfa	A WBS is not yet available: the residence permit must be valid for at least a year
@@ -3638,7 +3612,6 @@ db72cd8c	Make a personal action plan →
 5a9b334f	The authority requested an additional document
 7b970d33	A refusal received or documents not accepted
 fea41db3	The route is not yet complete
-ef2854d1	NOSTRES: a personal route summary
 d3f6e83d	Goal: register an address in Berlin (Anmeldung)
 57ee6194	Stages:
 72e4df9d	done
@@ -3661,7 +3634,6 @@ af0fa552	The Meldebestätigung is received. Keep it; the next dependent route wi
 c016bd86	Go to Steuer-ID
 1bc7c30e	Germany · actions in Berlin
 6838aae3	Taxes · Germany
-8b91731d	Determine whether you have been assigned a personal IdNr. and follow the suitable official path, without a paid intermediary and without handing the number to NOSTRES.
 1bb3d154	Number
 3ba0a630	11 digits · for life
 7e0ced98	Online request
@@ -3672,7 +3644,6 @@ b886bdcd	NOSTRES distinguishes retrieving an already assigned IdNr. from a first
 7171ae86	Go to health insurance
 41af0e6f	Health insurance
 5b4ad1f0	Health · Germany
-ca6fb1d2	Determine the official path to insurance, choose a Krankenkasse and get confirmation of membership and the eGK, without a paid intermediary.
 139d9551	Obligation
 c91801c2	Cover without a gap
 88a8ecd3	Channels
@@ -3755,9 +3726,7 @@ f4818135	According to your answers, no separate application is currently require
 7c86ae92	Choose your fund
 df5a3769	State your current or new fund
 2e6e0583	Choose a health insurance fund
-acd0c536	This is not a ranking. Below are three examples of statutory funds available in Berlin and the full official list. Compare the contribution, the written service and the branches.
 47d95209	This is a choice of addressee for a written check, not a recommendation to join a statutory fund. If the right to private insurance is confirmed, the next stage will show the official list of private companies.
-495e3d6d	Use your current fund: for family insurance, the family member's fund; for a health card, the fund where membership is already confirmed.
 28fb23f5	Full list
 57103d24	Official fund
 aeccedf2	Choose another fund
@@ -3830,7 +3799,6 @@ a090628a	What got in the way most?
 73bfb5e4	Saving…
 6ad96772	Thank you, the rating is saved
 9622bd3d	Send an anonymous rating
-654ff54d	The rating was not saved just now. Try sending it again: your answers will stay on the screen.
 6120152a	Done. The rating did not include personal data or answers to the route's questions.
 cc60f452	All official sources and check dates
 b4bf201f	Each practical conclusion above is tied to one of these pages. The date shows the last manual check of the source, not the date a law changed.
@@ -3842,14 +3810,12 @@ e77efef5	Choose a source
 4cbdc4d6	Sending…
 a9e4f012	The message was sent
 709b67db	Send without personal data
-880a5ef4	The message was not saved just now. Try again later: the data you entered is not lost.
 9eea9168	The source has been added to the manual review queue.
 75804bbf	NOSTRES explains the confirmed official path but does not make decisions for the authority. Before sending, check the current conditions once more on the open official page.
 4093b2bd	Anmeldung (address registration) in Berlin: online or in person | NOSTRES
 b2cdc86a	Personal route for address registration in Berlin: whether online filing is available, Bürgeramt appointment, documents, deadlines and official sources.
 9027c96b	Anmeldung (address registration): a NOSTRES route
 8e845741	Answer the questions, choose an available method and complete the official address registration up to the Meldebestätigung.
-04be513f	NOSTRES: self-service action plans and official sources
 39fc46c9	Arbeitslosengeld (unemployment benefit) in Berlin | NOSTRES
 960bf6e0	Who receives Arbeitslosengeld, how much and for how long, what a Sperrzeit is and how to apply. From official sources.
 66efe46b	Aufenthaltstitel for employment (a residence permit for work) in Berlin | NOSTRES
@@ -4043,7 +4009,6 @@ ef198ddf	Einkommensteuererklärung (tax return) in Germany | NOSTRES
 45128dfd	Whether you must file a return, deadlines and methods: ELSTER, paper or an adviser. From official sources.
 2d27e8ce	Mobilfunk and Internet (mobile service and internet) | NOSTRES
 72979dc3	What to check before signing, how to switch provider or cancel and what to do about speed or connection problems, under Bundesnetzagentur rules.
-30a5b783	NOSTRES: to the home page
 f9b56032	A clear path
 08408bda	All routes
 75fc0700	Breadcrumb navigation
@@ -4052,7 +4017,6 @@ e906d66a	Answer the questions and get your own task list →
 7014b23a	A step-by-step route for a dog: register, tax, dangerous breeds →
 335ab593	What to check
 7b28345a	Official source:
-5efb1bba	NOSTRES is an independent service. The procedure and applicability depend on your situation; the final decision is made by the responsible authority or insurance fund.
 1c5d2709	Umzug (moving and changing address) in Berlin | NOSTRES
 43627efc	How to change your address in Berlin: registration within 14 days, online or at the Bürgeramt, the Rundfunkbeitrag and payments. From official sources.
 d2cf2e3c	Arztsuche (finding a doctor and booking) in Berlin | NOSTRES
@@ -4100,7 +4064,6 @@ d0d41387	Joining a statutory Krankenkasse
 2b0ede1c	AOK Nordost: online application
 7a619b76	Techniker Krankenkasse: joining
 74824f00	AOK Nordost and TK accept an online application; a visit to a branch is not required on their pages. AOK notifies the previous fund itself, and TK takes care of cancelling the old contract. The eGK card is issued by the fund: TK promises it by the start of membership, AOK does not state the time or the method of delivery. There is no single procedure for all funds: see the conditions at the fund you choose.
-ecf74f1f	There are branches for in-person advice (for AOK, the "AOK vor Ort" search), but a visit is not stated as a mandatory step of joining.
 47a61735	AOK Nordost has a round-the-clock service line 0800 2 650800 for advice. Filing the application by phone is not described on the checked pages.
 f7e4f226	On the checked AOK and TK pages filing by post is not stated. Use the fund's online form or the in-person method from the list.
 3e8dbfbd	Filing the application by e-mail is not stated on the checked pages.
@@ -4149,17 +4112,14 @@ c7308507	The procedure through a representative is not described on the page; th
 2de8c312	NOSTRES contacts
 4c2086ea	Contact the author of the independent information project NOSTRES.
 dba0fcb2	Contacts
-5a4f1702	NOSTRES is an independent information project from Italy.
 e48e81c2	Project author:
 8bfd0b3a	Alexandra Hermann
 40012cd0	E-mail:
 a1609d96	To send a question or comment, write to this address. NOSTRES does not ask for a name or e-mail in the site interface.
-4b6ac162	Application or request sent, awaiting a reply
 627b15a2	Insurance confirmed / eGK or Versicherungsnachweis received
 813f90da	The Krankenkasse, university, employer or Jobcenter asked for a document
 dba3839c	A refusal was received or the chosen mode is not confirmed
 5418265e	The route is stopped by another problem
-ead1189b	NOSTRES: your route summary
 3b43c03b	Goal: arrange or confirm health insurance in Germany
 490effc1	Status of the stages
 d6b7c664	[done]
@@ -4169,7 +4129,6 @@ f5da6aa3	[waiting]
 09435228	Official sources
 9bed3777	The summary does not contain answers to the questions, medical information, documents, insurance number, name or e-mail.
 5537fc8e	Russian
-19d6e201	NOSTRES: home
 887087a5	Site sections
 71c59938	Privacy
 21f8563b	About the project
@@ -4179,7 +4138,6 @@ f5da6aa3	[waiting]
 9d6c1c0e	NOSTRES: what to do after moving
 965a613c	A free service for people who have moved to another country: routes for documents, housing, insurance, doctors and work in Berlin. Banking and mobile service are development plans.
 3f79124b	NOSTRES is made for the important tasks after moving to another country. The detailed routes now cover Berlin; banking services, mobile service and other cities are directions of further development.
-d6b956f6	NOSTRES: a clear path after moving; the first pilot is Berlin
 c9fceea4	The ready NOSTRES routes now cover Berlin. Banking services, mobile service and other countries belong to the project's broader goal.
 c5da0fbb	NOSTRES is a free information service for people moving to another country. The first working pilot includes checked routes for Berlin; other cities, banking services and mobile service belong to further development.
 624f8ab7	Skip to main content
@@ -4503,7 +4461,6 @@ a6c026fe	You need forms and addresses
 51172426	Thirty-five self-service routes are available now. Your answers are saved on your device; documents, Steuer-ID and medical information are not requested. There are no paid specialists in the first version.
 cad7ad72	Suitable if
 6cf3ba81	Describe your situation
-ddc22e37	Answer all the questions and NOSTRES will choose the applicable next step.
 25916374	Available method
 f328d058	Combined
 83778a6d	Another method is not shown because it is not confirmed by the official conditions for your answers.
@@ -4533,7 +4490,6 @@ cf940283	What technical data NOSTRES receives
 92d79870	To check that the routes work, the site sends a limited set of events: the route code, the type of action, a technical attempt identifier, a separate step or problem code and the time of the event. The built-in route rating sends the chosen ratings and the codes of obstacles. These fields do not ask for a name, e-mail, documents or free text.
 a850a507	Events and ratings are stored in a Cloudflare D1 database in the European region and are used to find errors and improve the routes. Cloudflare is given access to the infrastructure for hosting and running the database. Records are kept as long as they are needed for these purposes, are reviewed regularly and are deleted when no longer needed.
 f4c0e524	What the data is used for
-9c4c5067	Technical events and ratings are used to maintain and improve the free service. The basis for processing is the project author's legitimate interest in checking that the routes work and fixing problems. If you send a message, its data is used to consider your enquiry and reply.
 269c01bd	To deliver pages and protect the site, Cloudflare may process technical connection data, for example the IP address, the time of the request and headers. NOSTRES does not use them to build a user profile. The details of processing at the provider are described in the
 8d44b62c	Cloudflare privacy policy
 38e9e162	If you write to the PEC
@@ -4578,8 +4534,6 @@ c60a4f24	A child whose parents live apart
 b1cbc9e5	Can you confirm your identity now through the Online-Ausweisfunktion (eID)?
 01923674	You need a German Personalausweis or a German eID card for EU citizens with an active chip, a six-digit PIN, and an NFC smartphone with the AusweisApp. An ordinary passport or an eAT is not enough for the online Anmeldung.
 fbe4610b	What eID is and how to prepare it
-372397d6	The Online-Ausweisfunktion (eID) is a chip function that confirms your identity in a government online service. It is not a separate account: eID confirms identity, while BundID is used as the account.
-5f6b57ee	If you already have a suitable card and a six-digit PIN: install the AusweisApp and run "Gerät und Ausweis prüfen"; the app checks the NFC smartphone and whether eID is active.
 59fdd9ae	If you have the card and received a five-digit Transport-PIN: replace it in the AusweisApp with your own six-digit PIN. You do not need to visit an authority for this.
 f2f213ba	If the chip is not activated or you forgot the PIN: for a Personalausweis or eID card go to any Bürgeramt. Activation or a new PIN is free and done on the spot; activation is possible without an appointment.
 3ef0865b	If you have no suitable card: an EU/EEA citizen can order a German eID card in person at a Bürgeramt. It costs €37 and is usually made in 3–4 weeks. For a current Anmeldung within the 14-day deadline it is faster to choose in-person registration; having an eID card does not by itself remove the other conditions of the online service.
@@ -4590,13 +4544,10 @@ d2a5dc01	Order an eID card for EU/EEA citizens
 8ebb9517	Yes: the card, eID, PIN and NFC smartphone are ready
 f9b05820	I have the card, but eID or the PIN must be checked and set up
 2c49e53c	I have no suitable card / only a passport or eAT
-9191ac8e	Get the Wohnungsgeberbestätigung from the owner or landlord; a rental contract does not replace it.
 5126bb7f	Choose online filing if the NOSTRES result confirms it is available, or book an appointment at any Berlin Bürgeramt.
 990d26ea	Submit the details within 14 days of moving in and keep the Meldebestätigung.
 00002083	Check the name, date of birth and address in the issued confirmation.
 bc9a34b1	A passport or a recognised identity document
-3e48a6e7	The Anmeldung form, at the visit
-6b358ed7	Documents on marital status, at the first registration if applicable
 a2a01ad0	If there are no free slots, check the official service again: Berlin says additional appointments are added daily. You can also book through 115. The confirmation of the booking counts as proof that you kept the Anmeldung deadline. Appointments are free; those bought from intermediaries are not recognised.
 884ed60c	The 14-day deadline, conditions for online and in-person filing, documents, cost and result.
 21816f59	File the Anmeldung online
@@ -4628,7 +4579,6 @@ b023e4cc	Do it fully online
 de067d64	Officially: up to 3 working days for the authority to check the data.
 829ab5e0	Free.
 e17f589a	Age 18 or older.
-51fea826	German or EU citizenship, as the condition is worded in the ServicePortal Berlin.
 76cd228d	A move within Germany to a sole or main flat.
 b1aae2ee	A BundID with sign-in through online identification.
 e81869f1	A German Personalausweis or a German eID card for EU citizens with an active Online-Ausweisfunktion and a six-digit PIN. The electronic residence permit eAT is not suitable for this service.
@@ -4650,7 +4600,6 @@ d59f2ae0	The digital Meldebestätigung is available for download.
 dfe321c3	If you have no BundID, create an account through the official link and return to filing.
 216bceb5	If you have the card, check it in the AusweisApp first. You can replace the Transport-PIN with a six-digit PIN yourself; a forgotten PIN is recovered at a Bürgeramt.
 127b8448	If you have no suitable card, do not delay the Anmeldung to get one: an eID card takes about 3–4 weeks to make, while the Anmeldung is required within 14 days. Choose the in-person path.
-e795a7fb	If the online service does not accept your situation, choose the in-person visit; do not use unofficial workarounds.
 8b4a3174	Start the online Anmeldung
 e0a519b4	Create or open a BundID
 8ab0d2e5	All official conditions
@@ -4668,9 +4617,6 @@ cd51564b	A completed and signed Anmeldung form.
 757ecc84	The originals of the identity documents of everyone moving: a passport, a recognised substitute document and the eAT, if applicable.
 56c9e9d6	The Wohnungsgeberbestätigung. A rental contract does not replace it.
 4791314b	Civil status documents at the first registration in Berlin, if applicable.
-c599c241	For several flats: the Beiblatt zur Anmeldung / Hauptwohnungserklärung.
-8b4947e2	For a child in a special custody situation: the consent and documents of the second legal representative.
-80ae5b3b	For a representative: a written power of attorney and the form signed by the applicant.
 84f53cf9	Get the Wohnungsgeberbestätigung and check the move-in date, the address and the names of everyone being registered.
 44ba520c	Download and fill in the Anmeldung form; add the special annexes for several flats or a child if they apply to your situation.
 aacfc211	Open the official booking, choose the Anmeldung service and turn on the search across all Berlin Bürgeramt.
@@ -4690,7 +4636,6 @@ e57e785d	Find a Bürgeramt and its address
 733e018b	Booking rules and what to do without an appointment
 f3a6ed37	Residence
 6511cb55	Aufenthaltstitel (applying for or extending a residence permit)
-b1a7de87	Find the right LEA channel by your status and purpose of stay, without buying an appointment from an intermediary.
 59641a51	You live in Berlin and want to obtain, extend or change your right of residence.
 b4a7e94d	Your status now
 99f348d9	An EU / EEA citizen
@@ -4710,7 +4655,6 @@ b951fcf8	After the check, wait for a request for additional documents or an invi
 3d300324	The current visa / Aufenthaltstitel
 430d71ca	The Anmeldung or proof of address
 ba96e099	Documents for the purpose of stay
-f3c44271	Health insurance and proof of funds, if the procedure requires them
 16339b2c	For a confirmed urgent case, use the contact form of the competent LEA unit and attach evidence. An expired document or a complicated dispute needs an individual check.
 733b6980	All online applications and contact forms
 428572a6	Rules for appointments and confirmed urgency
@@ -4728,10 +4672,8 @@ f97fa6c0	I do not know whether a number was assigned
 ebd07923	Do you have a registration of residence in Germany?
 c8b15d6c	After the first registration the Meldebehörde passes the data to the BZSt. If an IdNr. was issued earlier, a new one is not assigned.
 43636b60	Yes, I am registered now
-b6b47391	I was registered before, but not now
 fce0bf34	I was never registered
 cd5bf593	How long has passed since your first Anmeldung in Germany?
-54175f71	The official guide for automatic sending is 4–8 weeks. If there is no letter even after 3 months, the BZSt recommends requesting the number again.
 dd546646	Less than 3 months
 1d900384	3 months or more
 70a991c5	This is not my first Anmeldung / I lived in Germany before
@@ -4750,15 +4692,12 @@ bce62389	I need it urgently for work or an authority
 0a6ca82c	Do not post the IdNr. in an open chat or publish it in a community.
 d7b4a105	Name, date and place of birth
 3d6407cb	Current Hauptwohnsitz
-93d4a06a	An identity document, for a visit in person
-761a9414	Form 010250 and a copy of the document, only for persons without a Meldepflicht
 2bbbf028	If the usual path does not suit you, NOSTRES separates the situation with a mandatory Anmeldung from the special issue through the Finanzamt for persons without a Meldepflicht.
 acf62f95	Steuer-ID: assignment and re-sending
 16d2017d	A lifelong number, automatic transfer after the Anmeldung, a repeat online request and an urgent visit in person.
 cc43468c	Have the Steuer-ID sent again
 016de653	The direct official BZSt online form; the number is not given by phone or e-mail.
 073a3e26	Procedure, deadlines and cost
-aaf6c9f2	No documents and no fee; the average processing of an online request is 4 weeks, the automatic sending after the first Anmeldung 4–8 weeks.
 a26dbc3d	The official section on the Steuer-ID
 cf0d17f5	A federal description of the IdNr., of re-issue and of citizens' questions.
 f36c6ad0	IdNr. for persons with no Anmeldung obligation
@@ -4782,10 +4721,8 @@ c8adc4dc	Immediately, if the number is in one of the documents.
 f57bcd84	The BZSt letter assigning the IdNr.
 02b4d9d5	The latest Einkommensteuerbescheid
 f84e483a	The Lohnsteuerbescheinigung or the employer's payslip
-5effc138	Check the BZSt letter assigning the steuerliche Identifikationsnummer; it has 11 digits.
 f314d2c0	Check the latest Einkommensteuerbescheid and your employer's Lohnsteuerbescheinigung.
 e632a79e	Make sure you found your personal IdNr. and not a Steuernummer, USt-IdNr. or W-IdNr.
-c8671498	If the number is not found, go to the official online re-issue; if it is urgent, go to the Finanzamt with an identity document.
 e131f5ea	Your earlier 11-digit IdNr. was found.
 5f4ee9f4	No new number was created: the one already assigned is used.
 71855d30	If the documents are not available, request it to be sent again through the BZSt.
@@ -4828,7 +4765,6 @@ a3fdb305	You have access to paper post at the stated address.
 f4b3e9e3	No documents need to be uploaded
 89f6b7af	Open the direct BZSt form and choose having the IdNr. communicated to the taxpayer themselves.
 d5a96849	Enter your personal data exactly as given in the Melderegister and your identity document.
-7c3608bc	Give your Hauptwohnsitz, not a holiday flat or a short-term address.
 7c167aac	Submit the form. The BZSt does not give the IdNr. by e-mail or phone.
 a1777f02	Wait for the paper letter and check the 11-digit number.
 c858f481	A paper letter with the already assigned IdNr. has arrived.
@@ -4849,7 +4785,6 @@ b5e83c34	An IdNr. has already been assigned or you are registered in Germany.
 1f3db15e	There is a confirmed urgent need.
 63d8ca75	You can confirm your identity in person.
 e0fc2977	A valid passport or another suitable identity document
-3c80c202	The Meldebestätigung; useful to take to check the address
 45284e3f	Open the official Finanzamt-Finder and find the Finanzamt for your Berlin address.
 34b6d57c	Open the page of the Finanzamt you found and check the address and the current hours of the Infozentrale.
 d05fa278	Take the original of a suitable identity document and, if possible, the Meldebestätigung.
@@ -4863,7 +4798,6 @@ e25f9fa9	Find your Finanzamt
 b53d6f32	Anmeldung first (address registration)
 d350e71b	A preliminary step
 5c00a9b5	If you live in Germany and must register an address, the separate form 010250 does not replace the Anmeldung.
-2d7f3e3d	The Anmeldung is due within 14 days of moving in; the IdNr. is then assigned automatically.
 05f5374d	Depends on the chosen method of Anmeldung.
 a01f0927	Online if the conditions are met, or in person by appointment at a Bürgeramt.
 f456b78a	After the first Anmeldung the letter with the IdNr. usually arrives in 4–8 weeks.
@@ -4916,13 +4850,11 @@ e9ae0bc9	You have a tax obligation or income in Germany.
 eb546406	Download and fill in the official form 010250.
 107f0969	Determine the Finanzamt competent for your Einkommensteuer and pass the application to it.
 0bab89d3	Wait for the written notice of the IdNr. at the stated address.
-7607c737	If you file an Einkommensteuererklärung, a separate form for the IdNr. may not be needed; check this with the competent Finanzamt.
 760de848	If you actually live in Germany and must register, do the Anmeldung first.
 0a44d144	Check the competence of the Finanzamt
 b8320951	Find the right path, choose an official Krankenkasse and receive confirmation of insurance and the eGK.
 b2e717cf	You live, work, study or receive Grundsicherung in Germany and want to arrange or check health insurance.
 db19a5ab	What result do you need?
-54a9eb07	Finding a doctor and urgent help are separate routes. Here the goal is to confirm the insurance itself.
 054f97c3	Arrange insurance for the first time or after moving
 e03c4d72	Change Krankenkasse
 b1bd0434	Get the eGK or temporary confirmation
@@ -4944,7 +4876,6 @@ abbbc68a	Ordinary work: above a Minijob and no more than €77,400 a year
 9da91e36	Only a Minijob
 4de77255	I do not know / a special employment status
 776f43f5	Which option describes you?
-6a8b9c42	Students can be insured through the family, be in the studentische Pflichtversicherung or, after 30, under conditions continue the GKV voluntarily.
 f19eb3d2	Under 25, insurance through the family may be possible
 576a64a3	Aged 25–29 or family insurance does not apply
 450f40e6	30 or older
@@ -4953,16 +4884,13 @@ b9c49b5d	Are the basic conditions of the Familienversicherung met?
 34385584	You need a family or partnership relationship with a GKV member, residence in Germany and no other mandatory insurance; the Krankenkasse checks income. The general income limit in 2026 is €603 a month.
 32bfc485	Yes, the conditions look like mine
 25199264	Income above €603 a month
-7bd5dbde	I do not know; an official check is needed
 3b2ac802	Determine the basis for insurance: work, study, family, Grundsicherung or an individual check.
 d378e64c	If the GKV is confirmed, choose a Krankenkasse from the official list that admits members in Berlin.
 391ac750	Apply to the chosen fund online or contact its office, and get written confirmation of the start of membership.
 0ba23ff0	Give the details of the chosen fund to the employer, university or Jobcenter, if this applies to your situation.
 3c315674	Get the eGK; if the card has not arrived yet, ask the fund for a temporary Versicherungsnachweis.
 a6b2add0	Address and contact details
-0a2c30a7	Details of the employer, university, family member or Jobcenter, depending on the chosen basis
 446843db	Details of current or previous insurance
-5771e902	A photo for the eGK, after the Krankenkasse requests it
 acaafcc3	If the fund does not confirm the right to the chosen mode, ask for a written decision and do not cancel your current insurance. Complex transitions between GKV and PKV are checked by the Krankenkasse first.
 bfdb1019	How health insurance works
 b0bcdadb	The obligation to be insured, GKV/PKV, Minijob, free choice of fund and family insurance.
@@ -5020,7 +4948,6 @@ a3cda7e0	Ordinary employment above the Minijob limit.
 89c10575	Income does not exceed the Jahresarbeitsentgeltgrenze of €77,400 in 2026, or the GKV obligation has been confirmed by the fund.
 f43e6528	Cover must be continuous; do not cancel the old policy until the new one is confirmed.
 7de3b753	The start date and the employer's details
-bbc59d90	A photo for the eGK, when the Krankenkasse asks for it
 48866d4f	Check that your work is not only a Minijob and that the chosen GKV path matches your income.
 09491137	Open the official list, choose the Bundesland Berlin and compare admission, Zusatzbeitrag, service and additional benefits.
 5be08bc1	From the list go to the official website of the chosen Krankenkasse and open Mitglied werden / Mitgliedsantrag.
@@ -5051,7 +4978,6 @@ c96008a3	You are ready to receive written confirmation, not only an oral answer.
 8db46ea7	Address
 05f094d1	The employer's details and the start date
 57206232	Details of previous insurance
-d7da05e3	A photo for the eGK, if the fund is ready to accept it straight away
 183f8b28	In the official list filter the funds for Berlin and open the website of the chosen Krankenkasse.
 b3dea723	On the fund's website open Kontakt / Geschäftsstellen and check the address, hours and whether an appointment is needed.
 e14c86b1	Write to the fund or visit the office, ask them to check the GKV basis and arrange the Mitgliedschaft.
@@ -5129,7 +5055,6 @@ ee52ddd3	You are not changing GKV/PKV without checking the consequences.
 a29fbdc5	Details of the Krankenkasse or policy
 3c3e96d9	The documents for the Grundsicherung application
 a6193db3	A Mitgliedsbescheinigung or other insurance Nachweis on request
-d87e8694	Details of contributions, if a subsidy is needed
 aa1c1dca	Check the official procedure for covering contributions under Grundsicherung.
 7dd8967a	If you can choose the GKV, use the official list and arrange membership at the chosen fund.
 07424cec	State the Krankenkasse in the Jobcenter application or pass on the change through the official online service.
@@ -5155,7 +5080,6 @@ d1cf2f0e	For a person aged 15 or over a photo has been prepared, apart from the 
 c066c04f	The insured person's number or the confirmation of membership
 5a783fc9	A photo for the eGK from age 15
 5cce2837	A current address
-9c9b6cc5	An identity document, if the fund asks for identification
 864dd8e3	Contact your Krankenkasse through its official account, phone or office.
 c3224122	Check whether the membership is confirmed and which address is used for delivery.
 014c8eb5	Send the photo in the way the fund states; no photo is required for insured persons under 15.
@@ -5204,10 +5128,7 @@ c233d03f	The check with the GKV is not charged separately; PKV conditions depend
 a96800dc	Your case does not confirm the simple mandatory GKV path.
 d868c912	Your current insurance stays in place until a written decision.
 a5ae289c	You are ready to disclose personal data only to an official fund or insurer.
-40f528a6	An employment contract and income, if you work
-13bef209	Immatrikulation or Zulassung, if you study
 f6c51046	Details of previous GKV/PKV or foreign insurance
-1b3afa4c	The basis of family insurance, if applicable
 f5591a87	Open the official overview and determine which detail needs checking: income above the limit, a Minijob, self-employment, a student's age, PKV or foreign insurance.
 de1a849a	Choose a suitable GKV from the official list and ask for a written Prüfung der Versicherungspflicht / Mitgliedschaft.
 08f3b686	If the written answer allows the PKV, open the list of private insurers. Ask for several personal offers and compare cover and conditions, not only the price.
@@ -5234,11 +5155,9 @@ e5050405	First check the right to self-employed activity in your residence docum
 1252dbd8	Determine whether the activity is a Freier Beruf or a Gewerbe; the final tax classification is made by the Finanzamt.
 8cfb0d57	For a Freier Beruf file the Fragebogen zur steuerlichen Erfassung through ELSTER; for a Gewerbe first use the Berlin Gewerbeanmeldung.
 f000e379	Do not issue invoices with an invented Steuernummer, and check VAT and mandatory insurance in advance.
-20fef6f2	A passport and Aufenthaltstitel, if applicable
 e5005201	A description of the activity
 3f3b3c7a	The business's Berlin address
 ad382a44	A forecast of income and expenses
-4c9f2188	Permits or professional documents, for a regulated activity
 fcc71db7	If the line between a Freier Beruf and a Gewerbe is unclear or there is foreign income, prepare the facts and get individual tax advice before registering.
 5c159556	How to register as a Freiberufler
 17efec7a	Registering a Gewerbe in Berlin
@@ -5259,10 +5178,8 @@ a466b401	Do you have a diploma and a supplement with the subjects?
 fcb92498	Submit the application to the competent authority named and keep the Bescheid.
 2e85e684	The diploma / certificate of qualification
 45f3f297	The supplement with subjects and hours
-74fe6b40	Proof of experience, if you have it
 53316c9b	Translations only as required by the competent authority
 27f07054	If documents are missing, use the official advice first. For an academic degree in an unregulated profession a Zeugnisbewertung ZAB may be needed rather than professional recognition.
-941d50ff	Anerkennung in Deutschland, the official portal
 ee996991	The step-by-step recognition process
 a58e6219	Assessment of foreign higher education
 fc615b3a	10–15 minutes per route
@@ -5284,8 +5201,6 @@ cd96db69	After the allocation, register the child in person at the assigned scho
 ab903d3c	The child's and the parent's documents
 8d209abf	The Anmeldung / address in Berlin
 ad11f427	The birth certificate
-6eebcf4d	Previous school documents, if any
-8b2eb66c	Proof of the parents' employment / study, for the Kita hours, if required
 e7261f32	If a school-age child has not yet been allocated, contact the coordination office of the Schulamt in your district; do not wait for an answer from a randomly chosen school.
 2e726d31	Apply for a Kita-Gutschein
 f9958943	The Kita- and Willkommensgutschein
@@ -5306,7 +5221,6 @@ c08cc1a9	If the official online service does not accept a situation that applies
 b7e1a24c	Check the conditions for online filing
 b5d5d375	Go to booking at the Bürgeramt
 9e61b441	First find the exact requirement on the service page
-0cbbf60a	For the Anmeldung a rental contract does not replace the Wohnungsgeberbestätigung. At the first registration in Berlin, existing civil status documents may also be needed; for special cases, separate forms.
 66f154c8	Open the documents and forms
 f66995bb	It is unclear where to go
 5ec68a9c	For an ordinary Anmeldung you can choose any Bürgeramt in Berlin
@@ -5338,11 +5252,9 @@ b7bc4801	Use the confirmed urgent path through the Finanzamt
 0fd3cc2a	Check the grounds
 1fc10de0	It is unclear which Finanzamt
 631d364a	The competence depends on the purpose and the address
-8498cf75	For an ordinary visit in person use Berlin's search by address. For an employee without a Meldepflicht the employer's Finanzamt is competent; for another tax obligation, the Finanzamt that handles the Einkommensteuer.
 7b87e0f1	Find the Finanzamt by address
 3a424a19	Check the special competence
 70156173	Check the set for the chosen method
-c0f27390	For a repeat online request no documents are uploaded. For an urgent visit in person an identity document is needed; for an issue to a person without a Meldepflicht, form 010250 and a copy of the passport or Personalausweis.
 6cfcc158	Check the official set
 f3fd6ae4	Go back to the main ServicePortal and report the error
 090e035e	Do not replace the official form with an advertising intermediary. Use the main service page and send NOSTRES a message so that the source is put in the review queue.
@@ -5400,7 +5312,6 @@ fa40b286	You can request it now
 d8cbcf82	First confirm the type of insurance
 90d2d359	You can start the comparison now
 bfeeb01e	A written check of the switch is needed first
-47c072d7	You are already a member: check the confirmation
 43e1e430	You can file online
 c3a3b0ab	You can arrange it through the fund
 e0ab852e	A Minijob does not create insurance through work
@@ -5445,11 +5356,9 @@ e1a7bb26	You do not need a new Steuer-ID
 0fa5e7a6	Check where to find the number
 d299ba28	You can wait for the letter or go to the Finanzamt urgently
 5f562ea1	The automatic path after the Anmeldung is still in progress
-90ae85d0	The official guide for automatic sending is 4–8 weeks. If there is no letter after 3 months, use the repeat online request; if it is urgent, the ServicePortal allows a visit in person to the Finanzamt.
 b11bb755	Check the official deadline
 4020040c	Choose the online request or an urgent Finanzamt visit
 0fabf10e	Request the IdNr. to be sent again online
-41c78c90	The BZSt sends you the same lifelong IdNr. again. The average processing of the online form is 4 weeks; the number arrives as a paper letter, not by e-mail or phone.
 341009bb	Open the BZSt form
 1a0460d5	The number already exists: request it to be sent again
 966e0029	A previous Anmeldung means an IdNr. may have been assigned earlier. A new number is not created; use the BZSt form and state your current Hauptwohnsitz.
@@ -5513,7 +5422,6 @@ ca3c7e47	Registering a business does not replace a work permit. Check the wordin
 66428af8	Freiberufler usually do not file a Gewerbeanmeldung. Submit the Fragebogen zur steuerlichen Erfassung and wait for the Steuernummer.
 f4dbc327	Open the Fragebogen in ELSTER
 fe3a69fa	Determine the type of activity from the official list
-23f9f198	A Freier Beruf and a Gewerbe are registered with different authorities and taxed differently. The federal guide lists the free professions: if your activity is in it, the path goes through the Finanzamt; if not, through the Gewerbeanmeldung. Prepare an exact description of the activity in advance.
 ffe3f0dc	Open the guide for Freiberufler
 4aca835a	Check the Zeugnisbewertung ZAB
 9d33a459	For foreign higher education in an unregulated profession a diploma assessment is often used rather than professional recognition. First confirm the path in the Anerkennungs-Finder.
@@ -5550,7 +5458,6 @@ cd6283b9	What to check for a child in Berlin: address registration, health cover
 af1efad6	If a family member enters later, first check the entry procedure by their citizenship, document and basis of residence. The general Berlin address registration does not replace a check of the entry rules.
 9a20f86d	German Federal Foreign Office: visas and family entry
 f6afc7bb	Kindergarten
-b1a0849c	A place in a funded kindergarten needs a Kita-Gutschein (voucher). The application can be filled in online, then the signed document is sent to the district Jugendamt (youth office) by post or handed in in person. Finding a place and issuing the voucher are different actions.
 0aca501b	Berlin: the Kita-Gutschein service
 ea0a3a5a	School
 df9020a3	The school search and enrolment depend on the child's age, address and previous schooling. The responsible district is determined by the address, and the procedure and form of registration are stated on the city's official page.
@@ -5569,12 +5476,10 @@ df1d97b5	The owner's liability
 d96b27bf	The official Berlin page calls liability insurance mandatory for Listenhunde (within 8 weeks of registration, with an excess of no more than €500 a year) and for tourists with a dog (at least €1 million per case). For other owners this page states no general requirement: Haftpflicht insurance for a dog covers damage the dog caused, and its terms are written in the policy.
 eb4896c6	Berlin: requirements of the dog law
 6cb32c20	Pflichtversicherungen (which insurance is mandatory in Germany and Berlin)
-474822be	Health and care insurance, the liability of a dog owner and of a car, social insurance at work and requirements for the self-employed, by situation and with official sources.
 2646c342	The obligations depend on the household, work, car, dog and type of self-employed activity. The plan will contain only the checks that relate to your answers.
 0e0f5fbb	Health and care
 62e7e00a	Health insurance is mandatory. Care insurance is tied to the type of health insurance; the cover of the family must be confirmed for each person.
 2973fb51	The federal health portal: care insurance
-111d58a6	If work is subject to social contributions, the employer registers you in the social insurance systems. Special types of employment have different rules; check your contract and payslip.
 cdd11b37	The official portal Make it in Germany: social insurance
 f6bef6cd	Liability insurance for a dog owner is directly required for Listenhunde and for tourists with a dog; the official page states no general requirement for other owners. Compare the Hundegesetz and the terms of your own policy.
 7a439e51	Berlin: requirements for a dog owner
@@ -5620,7 +5525,6 @@ a5021ba1	Booking a visit online does not mean the registration itself is done on
 5676a0d0	After moving, check the registration of the new address in Berlin.
 bec390d3	After actually moving into Berlin
 4d4ec596	Online filing if the conditions are met, or an online booking for a visit
-68b78bb8	If you are already registered, mark this in your answers and the item will disappear.
 4f9874c4	Check entry and arrangements for a family member
 e1db8a74	You said a family member will join later. The rules depend on each person's citizenship and document.
 2e4f706b	Official check online; an application through the stated mission or the LEA, depending on the case
@@ -5646,7 +5550,6 @@ ea5c8d54	The child needs a school place in Berlin.
 f9993500	You are not sure whether the school arrangements are complete.
 c4176a7e	First determine the future district and address
 205f6e14	Search for the responsible school online → arrangements at the school or through the district Schulamt (school authority) by age and situation
-b08694b4	For first-graders of the 2027/28 intake born 01.10.2020–30.09.2021, personal registration at school is set for 5–16 October 2026. For children already at school after a move, the district's procedure is different; check the official source.
 63af6eb9	Find the responsible school and the district Schulamt by address.
 9a8d1b90	Check the age, type of school, grade and the need for language support on the official page.
 89c6db99	Contact the responsible school or the Schulamt and prepare the parent's and child's documents, the birth certificate and previous school documents if any.
@@ -5753,7 +5656,6 @@ e615d363	The obligation depends on the exact activity and conditions. It does no
 85de7b4e	The pension obligation is checked and fulfilled, if it applies to you
 1908e18f	The written method is confirmed: fill in the form and send it to the Hunderegister by e-mail or by post. No phone is needed for this step.
 91508b7c	The confirmed written path: fill in, print and sign the application, then send it by post to the responsible authority. Electronic filing of the application is not confirmed.
-3102aaa9	First check whether electronic registration suits your documents and situation. If not, the official service provides for an in-person appointment; a representative with a written power of attorney can attend it. For the case where neither the applicant nor a representative can come and the online conditions are not met, a written alternative is not confirmed; check the authority's contacts on the official page.
 841dcfc7	Without a suitable eID the online availability of registration is not confirmed. The official service provides for an in-person appointment; a representative with a written power of attorney can attend it. If neither the applicant nor a representative can come, there is no confirmed written alternative: check the authority's official contacts.
 26d71e6b	Start with the official LEA online form. It does not guarantee fully remote handling: the authority may set an in-person appointment. Check the written channels on the official page of your service; the phone is not offered as the main method.
 a5bf8120	Check on the official page of this very service whether an electronic form, e-mail or filing by post is available. The starter plan does not confirm another written channel for this situation and does not recommend the phone in its place.
@@ -5779,7 +5681,6 @@ f42e7014	Check the online booking or the practice's contact. The medical appoint
 613506cf	Prepare an application and find offers online. Viewing the home and signing the contract depend on the specific offer.
 add5ede6	First check the right to carry out the activity and the type of registration. The route will show the method of filing and the official authority for the chosen case.
 cd8e1bcc	Insurance after a gap or a move
-90ca37d5	gesund.bund.de — federal health portal
 8a16bcd1	23 October 2026
 3ea01314	Insurance is mandatory for all residents; return to the previous GKV or PKV system after a gap; contributions for the uninsured period.
 7aff1bec	Federal Ministry of the Interior: Mehrstaatigkeit (multiple citizenship)
@@ -5808,13 +5709,11 @@ b71390ec	Is the next step clear?
 e3df849f	Does the route lead to action?
 83a420db	Does the route take you to the right official page, form or appointment, instead of stopping at general advice?
 52a0d5d7	Where the route gets in the way
-ff1d193c	Unclear words, unnecessary questions, your case missing, a link going to the wrong place — anything that made you stop or hesitate.
-4a3c9414	Your ratings will tell us which routes to fix first and whether the service is ready for a wider launch. That is why the main result of the test is the short rating at the end of the route.
 199606dd	Five steps
 902eeafb	Choose one route below
 4b9dfcb8	Ideally a task you have faced yourself or know well: that way you will notice straight away if something is missing or wrong.
 7ad7396e	Answer the questions as you would in real life
-47bb778a	NOSTRES builds your personal plan from your answers. Your name, address, document numbers and health information are not needed — the service does not ask for them.
+47bb778a	NOSTRES builds your personal plan from your answers. Your name, address, document numbers and health information are not needed – the service does not ask for them.
 a4a25f49	Open the plan and read it
 4fe103f5	Press the button below the questions. Check whether it is clear what to do first, which documents are needed, whether it can be done online or in person, and whether there is a deadline. For the housing search, check the path to a listing or to the social housing application.
 6cb2b60c	Follow the official link for the next step
@@ -5825,21 +5724,17 @@ b8b92da3	What the rating asks
 53fff2ef	How clear the route was, whether it is clear what to do next, whether you reached the official action, and what got in the way most.
 ba8d55e3	Found a broken link?
 93a80e80	If an official page does not open or is out of date, report it via “Found a mistake or an outdated link?” at the end of the route.
-02aaac5c	If none of the situations is familiar, pick a plausible one and answer as that person would. If your case is not among the answers, choose “My case is not covered” in the rating. You can test several routes — one rating for each.
 a0f2f7ca	Taking the test? Go to the route rating ↓
 1780c414	This step is for when you are already acting on the official website. If you are taking the test, skip it and go to the route rating below.
 676d6126	Leave your rating at the end of the route
 65da9a7c	The rating block is already open below the route steps: four short questions. In the test, skip the “Confirm the result” step: it is for people acting on the official website. Without a rating we will not know how the test went.
 a8d946e2	Six steps
-dfb05c8a	Name, address, document numbers and medical details are not needed; the service does not ask for them. Then press the button below the questions to get your personal plan.
 f974b7f5	If there are several ways (online, by post, in person), choose the one that would suit you. Preparation and steps will open.
 8b02262f	Read the steps, but do not do anything on official websites
 5c99ed5a	Check whether it is clear what to do first, which documents are needed and whether there is a deadline. Nothing needs to be submitted or filled in. You also do not need to mark steps as done or use the “Confirm the result” block: they are for people acting for real.
 d990dd95	Open the official link of the first step
 740971cb	Make sure it leads where promised and that you could carry on on your own. Your part of the route ends here.
-1f802156	Rate the route: this is the main result of the test
 61823273	The rating block is already open below the steps (the “Go to the route rating” button takes you straight to it). Four short questions. Without a rating we will not know how the test went.
-78a35ec9	Right below the steps, press “Yes, it helped” or “No, it did not help”: one tap. If you wish, a detailed rating of four short questions opens below. Without an answer we will not know how the test went.
 944ecad7	Did the route help you?
 1fe85382	Yes, it helped
 90f4d152	No, it did not help
@@ -6237,9 +6132,7 @@ d1f95e9d	Ask to see the permit under § 11 TierSchG
 018f90c5	Animal Welfare Act, § 11
 d21500a3	Neukölln: working with animals professionally
 4b1d7bbe	If you have doubts about the permit, write to the district veterinary authority
-a8feb2de	The permit is issued by the Veterinär- und Lebensmittelaufsicht of the district where the school is located. The departments’ contacts are in the list of Ordnungsämter.
 cd493fe1	Service Berlin: Ordnungsämter and veterinary authority
-b7393715	If your goal is to walk without a lead, take the exam after the lessons
 6fe9c973	The Sachkundebescheinigung (Hundeführerschein) exempts you from the lead rule. The exam is taken with an expert recognised by the Senate.
 d5997d50	Berlin Senate: rules and exam
 6daba798	Berlin Senate: recognised experts
@@ -6270,24 +6163,19 @@ d8930e8b	Apply to your district’s Ordnungsamt
 c2f9f0f3	With the exam result, the Ordnungsamt issues the Sachkundebescheinigung. It applies to you and this dog. Such documents from other German states are also recognised.
 d8887f37	Only one option: an exam with a recognised expert.
 161f38c5	The dog is under one year old
-78023fc2	The exam comes after the dog turns one
 47f28d4b	Once the dog turns one
 0df885ae	Wait until the dog turns one
 b472688c	Only dogs at least one year old are admitted to the practical part of the exam. Until then you can train with a trainer.
 9bed19e7	The dog lived with you in Berlin before 22 July 2016
 df7bb3f4	No exam needed: prove that the dog lived with you before 22 July 2016
-a4090880	For dogs that lived with their owner before 22 July 2016 (Bestandshunde), no Sachkundebescheinigung is required. Proof can be, for example, an insurance policy, a tax notice or an entry in the pet passport.
 2f8be877	Prepare your proof
 cbf79f1d	A liability insurance policy, a dog tax notice or a pet passport entry dated before 22 July 2016 will do.
 5063a905	Keep to the places where a lead is always required
 ec695a44	Even without the general rule, a lead is required in parks, forests without an off-lead sign, near playgrounds, in shared areas of buildings, in pedestrian zones, in crowded places and on public transport.
 29488f5e	Dog on the dangerous breeds list
-38588457	Wesenstest and breed assessment are done by an expert recognised by the Senate
-0c0f0208	The behaviour test (Wesenstest) and breed assessment (Rassegutachten) may only be done by experts recognised by the Berlin Senate. Deadlines and the full procedure for a listed dog are in the dog route.
 e8262103	Choose an expert from the official list
 6a83a575	In the Senate list you can filter experts by type of check: Wesenstest or Rassegutachten. It shows address, phone and email.
 9da19f92	Complete the full procedure for a listed dog
-c4de8a9b	Notifying the Ordnungsamt, Sachkunde, insurance and Wesenstest, with deadlines, are in the dog route.
 d11df2b5	Which animal is moving with you?
 38e1cd8b	Cat or ferret
 095bc7d2	Bird
@@ -6318,7 +6206,6 @@ bc38159d	BMLEH: travelling with dogs, cats and ferrets
 5674bbf8	The vaccination is given to an animal at least 12 weeks old; it becomes valid no earlier than 21 days later.
 9b5e6e61	Your Europe: travelling with animals
 858d0614	After entry, register the dog in Berlin
-57b6e475	The dog is entered in the central register (Hunderegister) as soon as you start keeping it in Berlin; it must have a microchip. Registration and tax steps are in the dog route.
 13351862	Route: dog in Berlin (register, tax, walks)
 99c9ff28	Service Berlin: dog registration
 394a4969	Choose a vet in Berlin
@@ -6367,11 +6254,9 @@ b0660ab1	The owner’s declaration on the EU model (Anhang V Teil 2 Durchführun
 6c54e6b8	Entry from a non-EU country is only through a travellers’ point of entry of the first EU country on your way. In Berlin this is BER airport. Declare the animal at customs: documents are checked and the chip is read. If the chip is not to the EU standard, bring your own reader.
 c3c35b5d	BMLEH: list of points of entry in Germany
 e149f8da	Get an EU-Heimtierausweis (pet passport)
-6e151d30	The EU passport is issued for animals whose owners live in the EU. It is needed for travel between EU countries. The procedure is in the passport route.
 c23220dd	Route: EU-Heimtierausweis (pet passport)
 cdde5320	Only one option: entry through a travellers’ point of entry.
 37985417	Microchip and vaccination are already done
-c8063da8	the certificate — within 10 days before entry
 2772d3ad	Microchip, vaccination and rabies antibody test are already done
 17c4220b	Country not on the EU list: an antibody test is needed
 8e7bd867	Entry from a country not on the EU list: antibody test and 90 days of waiting
@@ -6463,7 +6348,6 @@ e4e19093	The vet reads the chip with a scanner. If there is no chip, it is impla
 ce466995	European Commission: questions and answers
 3596039f	Not a dog, cat or ferret
 b5895e29	The EU passport is issued only for dogs, cats and ferrets
-89b023c1	There is no EU passport for other animals. The rules for travelling with them are in the route on moving with a pet.
 c93b20af	Open the rules for your animal
 21e7027e	Different import rules apply to birds, rabbits, rodents and reptiles.
 c6d64129	Route: moving with a pet
@@ -6496,7 +6380,6 @@ f4c77df0	German, English, Polish, Arabic, Spanish
 a86e3520	Bizetstr. 48, 13088 Berlin; +49 30 927 34 41; Mon 9–16, Tue 12–18, Wed 10–12, Thu 12–18, Fri 9–16
 499a7ce1	Dr. Anja Peters: practice website
 40832a15	Charlottenburg
-b9b160bb	Appointments Mon–Fri 9–19 in German and English. Appointments in Arabic on Mondays 10–12, in French by arrangement.
 f8b89cad	German and English; Arabic on Mondays 10–12; French by arrangement
 48a42924	Tante Käthe & Onkel Bolle: practice website
 b414cedb	Lichterfelde
@@ -6529,9 +6412,7 @@ f7514990	You need help at night, at the weekend or on a public holiday
 a56dd098	Choose a practice with on-duty hours or a house call
 9872aa7f	The Tierärztekammer Berlin publishes a list of practices open at weekends and on public holidays and a 24-hour house-call service. Clinics are only needed when life is at risk.
 54026f8f	Find the nearest on-duty practice
-44ddf145	For example: Tiermedizinzentrum Evidensia, Kufsteiner Str. 22, 030 85 42 050, daily 9–24; Tierklinik Freie Universität, Oertzenweg 19 b, 030 838 62422, weekends and public holidays 10–18, no need to call ahead; Tierarztpraxis Lenk, Schönfließer Str. 1, 030 44 69 769, Sun and public holidays 10–18. The full list with hours is on the chamber’s website.
 49219163	Or call a vet to your home
-b25d1669	Tierärzte im Notdienst — Berlin & Brandenburg: 0157 859 49 631, 24 hours.
 6d93d724	Tierärztekammer Berlin: emergency service
 fdbadc0b	Note the emergency-service rate
 ceefb79c	At least double the rate plus an emergency fee of 50 €, once per visit.
@@ -6555,7 +6436,6 @@ f1fac387	The Tierärztekammer Berlin (veterinary chamber) asks people to go to c
 2bc9c036	24 hours: Klinik für Klein- und Heimtiere, Alt-Biesdorf 22, 030 51 43 760; Valera, Potsdamer Str. 23/24, 030 201 80 57 50; Tierarztpraxis Bärenwiese, Uhlandstr. 151, 030 23 36 26 27; Tierarztpraxis Rödiger, Scharnweberstr. 136, 030 412 73 57; VetZentrum Berlin, Märkische Allee 258, 030 93 22 093.
 bb84f8c4	Tierärztekammer Berlin: on-duty clinics
 5a7dea49	If you cannot take the animal there, call a vet to your home
-655ff577	Tierärzte im Notdienst — Berlin & Brandenburg: 0157 859 49 631, 24 hours, house calls.
 c53aa22e	Pet passport or vaccination records and the chip number, if you have them to hand.
 051fd027	Clinic with a 24-hour service
 05e9d1fd	Seen without an appointment, by urgency.
@@ -6631,7 +6511,6 @@ e5648cfb	A family living in Berlin with a child under 18
 27b23c64	A person on a low income who can provide proof of income
 07b02a04	A student or trainee
 747486fa	A person with a disability; the Schwerbehindertenausweis may show Merkzeichen B
-38b3cc1f	A refugee or migrant who does not receive a benefit on the list (AsylbLG is covered under benefits)
 6e83d416	Several people with different eligibility grounds
 bbeffb97	Another visitor or a person without a specific eligibility ground
 5e636bcf	What would you like to visit?
@@ -6657,7 +6536,6 @@ b47e1796	Berlin museums with free entry
 4a1b577b	For museums and exhibitions, open the list of free entry for children and the general catalogue of museums with free permanent exhibitions.
 ca606d40	Availability depends on the rules of each event
 1e1d4412	Admission and booking depend on the venue, date and specific event.
-f4a12aac	Date and event name; for an age-based discount, a document confirming age.
 c584916c	Open the official calendar
 55b636b0	Find free events in Berlin
 39d1a3b6	Free events in Berlin
@@ -6724,14 +6602,12 @@ ba514370	Find free and reduced-price offers
 faf3cbca	Discounts for visitors with disabilities and companions vary by museum or venue and are listed in their rules.
 057532e7	Discounts for people with disabilities and companions
 07517397	Discounts and admission conditions depend on the venue
-8210cbe6	Schwerbehindertenausweis; if applicable, the companion designation.
 9f750dc9	Refugee or migrant status alone does not provide one general discount; people receiving AsylbLG can use the route for benefit recipients.
 cbd014e2	Free events and venue ticket rates
 1fdee0a8	There is no single discount for all visitors. Free entry and reduced prices depend on the specific event and venue.
 f8be2709	Free events are subject to each venue’s conditions
 71f0e776	Check the rules for the event you have chosen.
 39a2f2b1	Refugee or migrant status alone does not provide a general discount; people receiving AsylbLG can use the route for social benefits.
-ae1b9052	Some offers require proof of benefits, income or age.
 ca49902c	Find a free event
 8f8f5c3b	Berlin’s calendar lists current events with free entry.
 cec4ff66	Open free events
@@ -6823,7 +6699,6 @@ e8c102eb	The VBB page lists the ways to buy and receive a VBB-fahrCard.
 a65b548f	Visit a carrier’s service centre that accepts in-person applications. Do not look for this pass at a ticket machine.
 b43352e6	Deutschlandsemesterticket and student fares
 6d04b492	Deutschlandsemesterticket for students
-adc02899	A contract with your university is required.
 b73ebfe6	The ticket is valid on local and regional transport across Germany; long-distance ICE, IC and EC trains are excluded.
 df29ae43	Proof of current student status and your university account details.
 e350f71f	Photo ID for ticket inspection.
@@ -6847,7 +6722,6 @@ c668d99a	Arrange the ticket with a carrier or through your employer
 6c7e135b	Berlin-Ticket S is available to people whose main address is in Berlin and who receive a benefit from the official list. It is a monthly ticket for Berlin AB only; there is no general Deutschlandticket discount.
 0aa4de65	Berlin-Ticket S for reduced-fare travel
 483029c4	The reduced fare applies only if you meet the VBB conditions
-698c79e2	Your main address must be in Berlin and your benefit must be on the official list of eligible benefits for the Berlin-Ticket S.
 1317f9ed	You need current proof of the benefit and photo ID; show the ticket and proof during inspection.
 bd8ef0ea	Current Leistungsbescheid or Leistungsnachweis.
 bf730d98	Photo ID; the name on the ticket must match the proof.
@@ -6863,11 +6737,9 @@ b10847b6	Buy a monthly pass
 e968eef7	A valid Wertmarke provides free travel on the VBB network; Merkzeichen B entitles the holder to a free companion.
 2e1d0d8f	Free travel with a Wertmarke
 3435b13b	A valid Wertmarke in a Schwerbehindertenausweis entitles the holder to free travel on VBB public transport. With Merkzeichen B, one companion may travel free.
-4380d5b1	Free with a valid Wertmarke; companion travel with Merkzeichen B
 3b07f52a	Check that the Wertmarke is valid on the day of travel.
 d212953c	This rule applies to VBB transport; outside the VBB network, the relevant carrier’s rules apply.
 b9b54d70	Schwerbehindertenausweis and a valid Wertmarke.
-8d28a029	For a free companion: the Merkzeichen B marking.
 2e722fe2	Take your documents with you
 2282e6b7	Show your Schwerbehindertenausweis with a valid Wertmarke during inspection.
 25a7c0d5	Open VBB accessibility rules
@@ -6921,7 +6793,6 @@ a3d98d0b	Recipients of Bürgergeld, Wohngeld, Grundsicherung, or AsylbLG enter f
 10201a6e	Even after registration, free tickets depend on availability and are not guaranteed.
 683c73df	Current proof of income or a listed benefit; students may submit bank statements for the last three months.
 16dfc5d2	Check income and proof
-55d3affe	The monthly net limit is €1,200 for a person living alone and €1,700 for two people, plus €350 for each child.
 81b0bbe4	Open KulturLeben registration requirements
 a20f1a90	Submit the paper form
 2b604903	Download, complete, and sign the form. Attach a copy of current income proof and send it to the address on the registration-points page or through a social partner.
@@ -6946,7 +6817,6 @@ af043926	Go to the list of museums and conditions
 9083a3a1	For Fairgnügen, prepare a Berlin-listed proof; family or household members may need the benefit calculation attachment. No proof is required for €3 tickets at participating venues.
 85b186ac	Prepare proof of income or a listed benefit; students may submit bank statements for the last three months.
 ed4c79a3	There is no discount that applies to every museum or event. At the Staatliche Museen zu Berlin, pupils, apprentices, students, and volunteer-service participants receive 50% off with proof; other venues have their own rules.
-b8a45ce1	The discount depends on the museum; free tickets depend on availability and eligibility.
 c2f04001	The Staatliche Museen zu Berlin also offer 50% off to recipients of ALG I and people with GdB 50 or higher; show proof at the entrance.
 5ea636e9	Before paying, check the price and required proof on the page for the specific museum or event.
 8b2b7ae5	Pupils, apprentices, students, and volunteer-service participants receive a 50% discount; show proof at the entrance.
@@ -6975,11 +6845,8 @@ e8c140cc	Open Schülerticket ordering options
 f05341e8	Online order for the free VBB school ticket
 b43d77c1	This personal subscription costs €63 per month and covers local and regional transport across Germany. It is not valid on long-distance trains ICE, IC, or EC.
 713fa1a9	The order is a subscription with a transport operator; in the VBB region, it is issued on a phone or VBB-fahrCard.
-86a2d769	There is no general discount based on social status. With an employer contribution of at least 25% (€15.75), the Deutschlandticket Job costs €59.85 and the employee pays no more than €44.10; students and trainees have separate options.
 994e322b	Some operators accept orders at staffed service centres and issue a VBB-fahrCard. This subscription is not sold at ticket machines, by drivers, or by ticket inspectors.
 442ea60e	Only students at universities with a VBB contract receive a Deutschlandsemesterticket; students without a contract should check the separate Ausbildung fare.
-e322b1a5	The ticket is available only at universities with a VBB contract. In 2026, it costs 60% of the standard Deutschlandticket (€37.80 per month); the university explains how it is issued.
-de9ca3f1	In 2026: €37.80 per month at participating universities
 b28c5adc	Ausbildung fare for students without a semester ticket
 3cf60a96	Students without a Deutschlandsemesterticket contract can check eligibility for a Monatskarte Ausbildung: their university must be in Berlin or Brandenburg and their study load at least 15 Credit Points per semester.
 a106efe8	Monatskarte Ausbildung for students without a semester-ticket contract
@@ -7000,11 +6867,7 @@ bfd35523	Confirm eligibility for the Ausbildung fare
 6709373c	Monatskarte Ausbildung purchase and documents at BVG
 a5ad07a9	Open BVG subscription conditions
 b260d924	From 1 July 2026, eligible trainees can get the Deutschlandticket Zuschuss Ausbildung for €37.80 per month. Dual Ausbildung has a separate employer-based condition.
-de3cfa7d	Eligibility is limited to specific groups: full-time vocational-school training and recognized healthcare schools; FSJ/FÖJ/BFD volunteers; and certain Berlin civil-service trainees without travel reimbursement. Training or service must last at least 12 months and involve 20 hours per week; the institution must be on the VBB list.
-59fe659d	For dual Ausbildung, the employer must have a Deutschlandticket Job contract and pay an increased subsidy. In 2026 the employer must contribute at least €22.05; after the operator discount the ticket costs €59.85, and the eligible trainee pays no more than €37.80 per month.
 bb11f4af	This special subsidy is not automatically available to every trainee.
-bd3017cb	For full-time vocational training or voluntary service: a Berechtigungsnachweis from the institution, issued no more than 30 days before submission to the operator.
-43076b51	For dual Ausbildung: proof of the Deutschlandticket Job contract and the employer’s increased contribution (at least €22.05 in 2026).
 8b8ac803	Full-time training and voluntary service are ordered as a monthly subscription from an operator; cancel by the 10th for it to end at month-end. For dual Ausbildung, check the Jobticket contract and employer contribution: in 2026 your share cannot exceed €37.80 per month.
 8ca76549	This personal, non-transferable monthly ticket is valid only in Berlin AB and is not a subscription. According to the VBB page, its price on 30 October 2026 is €27.50.
 e52d8ada	VBB lists sales at ticket machines, in BVG apps, DB Navigator, private shops, and service centres. Write your first and last name on the monthly ticket; zone C requires another or additional fare.
@@ -7014,7 +6877,6 @@ c7d3b254	Ticket purchased or eligibility for a discount confirmed
 fd41c207	Available routes now cover documents, housing, health, family, work, benefits, taxes, banking and telecoms, education, transport, cultural discounts, and pets.
 d4006707	Do not stay
 8958d4ff	stuck
-b2242510	Bundesregierung: Deutschlandsemesterticket price — 60% of the Deutschlandticket
 02612049	Transport and leisure
 c81ecaa8	The Museumsportal Berlin list shows museums where entry is free for certain groups of refugees and which documents to show there. This is a condition of individual museums, not a general discount based on status.
 9735a2ef	Not all museums take part: the list shows which ones and with which documents.
@@ -7022,7 +6884,6 @@ c81ecaa8	The Museumsportal Berlin list shows museums where entry is free for cer
 dd7012de	In Berlin and the surrounding area: fare zones AB or ABC
 d13f845c	At a ticket machine or sales point, choose a ticket for the right zone and period and get it before the journey starts.
 3301b4d8	Get confirmation from your university of a study load of at least 15 Credit Points and apply for a VBB-Kundenkarte at a service centre with your documents and a photo.
-54fc47bb	The Berlin-Ticket S is only for Berlin residents with a qualifying benefit. The route shows the regular VBB fares and the Deutschlandticket.
 ddadb3c8	Official pages checked: {date}. Links to them are in the steps.
 bcc68682	Wertmarke (token on the disability card for free travel)
 4754a5c2	Merkzeichen B (mark on the card entitling you to a companion)
@@ -7050,23 +6911,18 @@ a46968c4	FÖJ (voluntary ecological year)
 37c33255	Berlin public transport tickets and the Deutschlandticket
 27097b18	free museums, events and discounts for culture and leisure
 f9aa72c8	You need a German Personalausweis or a German eID card for EU citizens with an active chip, a six-digit PIN, and the AusweisApp on an NFC smartphone or a card reader for your computer. An ordinary passport or an eAT is not enough for the online Anmeldung.
-1b49523e	You need a family or partnership relationship with a GKV member, residence in Germany and no other mandatory insurance; the Krankenkasse checks income. The general income limit in 2026 is €565 a month, with a Minijob €603.
-4e20902c	Income above €565 a month (with a Minijob, above €603)
 70aa4852	Groups with compulsory insurance, students, family insurance; Geringfügigkeitsgrenze of €603 a month in 2026.
 1b9b9fec	Income limit for Familienversicherung in 2026
-28aff317	In 2026 the general income limit is €565 a month, with a Minijob €603.
-0f4a63a7	Income above the general limit of €565 a month (with a Minijob, €603) in 2026 prevents free family insurance. Ask the fund to determine your own mode in writing.
 7b5bf464	NOSTRES: free step-by-step guides to registration, housing, insurance, healthcare, work, banking and mobile services in Berlin.
 33016c4f	NOSTRES is a free service that helps you navigate registration, housing, insurance, work, banking and mobile services after moving. Berlin is the first supported city.
 037bb7af	NOSTRES helps you navigate registration, housing, insurance, work, banking and mobile services after moving. Berlin is the first supported city.
 cd136a8e	Free NOSTRES guides to registration, housing, insurance, work, banking and mobile services are available for Berlin. Other cities and countries are planned.
 60ce5197	NOSTRES is a free information service with step-by-step guides to registration, housing, insurance, work, banking and mobile services after moving. Berlin is the first supported city; more cities are planned.
-e00e6461	NOSTRES: free step-by-step guides for Berlin — documents, housing, health, work, family, benefits, transport and pets.
+e00e6461	NOSTRES: free step-by-step guides for Berlin – documents, housing, health, work, family, benefits, transport and pets.
 235f2f19	NOSTRES is a free step-by-step guide after moving: documents, housing, health, work, family, benefits and transport. Berlin comes first.
 d230f13c	Free step-by-step guides after moving to Berlin: documents, housing, health, work, family, benefits, transport and pets.
 5e36ca69	NOSTRES guides you step by step after moving to Berlin: documents, housing, health, work, family, benefits, transport and pets.
 e1052822	Free NOSTRES guides for Berlin: documents, housing, health, work, family, benefits, transport and pets.
-48d00289	NOSTRES is a free information service with step-by-step guides after moving: documents, housing, health, work, family, benefits, banking and phone, transport and pets. Berlin is the first city; more cities are planned.
 9cbf7241	, the author receives the sender's address, the text of the message and any attachments you added. This data is used to read the enquiry and reply to it; the message is handled by the Proton Mail service. Do not send documents and sensitive information unless they are needed for your question.
 48c10802	You can write to the stated address with a request for access to, correction or deletion of data that relates to you, and with an objection to processing. You can also file a complaint with the Italian data protection supervisory authority
 869dd222	To send a question or comment, write to this address. NOSTRES does not ask for a name or e-mail in the site interface.
@@ -7104,7 +6960,6 @@ bc81ed21	CV
 995ec3d7	all visa sections have been connected to the Auslandsportal since 1 January 2025; 28 purposes of stay are accepted online, Schengen visas not yet
 25be1d81	Living costs
 e8896de3	Sperrkonto of at least €1,091 net per month (2026) or a Verpflichtungserklärung
-e56c5a7d	up to 1 year; if you find qualified work and no other residence permit fits, it can be extended for up to 2 years
 d466b27b	Work while searching
 431e1d7f	side jobs up to 20 hours a week and trial work of up to 2 weeks with each employer
 640fe0a3	Sperrkonto · online
@@ -7140,7 +6995,6 @@ cfb536cb	On paper by appointment
 6cab1141	A fallback if your mission does not yet accept this purpose online.
 6220ef83	If the purpose is not open online at your mission
 4fb62f4b	An appointment at the mission or visa centre for your place of habitual residence
-8687c8a6	several months, depending on the purpose
 fc90c2a1	Book an appointment at the mission or visa centre
 272a8f86	If your purpose is not yet accepted online at your mission, you apply on paper by appointment. The mission is chosen by your place of habitual residence.
 b3ae07ce	Hand in the application and originals
@@ -7192,7 +7046,6 @@ eb890249	2 years' experience in 5: 2 points
 04937cd4	Total points: 6 of the 6 needed
 05868fd7	Total points: 5 of the 6 needed
 71fef7f0	1 point short of the Chancenkarte
-86c70834	The minimum in the points system is 6. Points are added fastest by language (German A2 — 1, B1 — 2, B2 — 3 points) and by partial recognition of your qualification in Germany (4 points).
 e53708c5	Improve your German
 9ca35d64	Each level above A1 gives a point: A2, B1, B2 and higher.
 95ba6ebf	Apply for recognition of your qualification in Germany
@@ -7215,7 +7068,6 @@ f50da44d	The points system requires at least German A1 or English B2. Without a 
 febf7fb4	Come back to the route with your certificate
 5c45cb5c	With the certificate, the route will calculate your points.
 10b0ebf1	Qualification recognised in the country where it was obtained: 0 points
-8f28802b	For a degree, a positive anabin result or a ZAB statement; for a vocational qualification, a positive “Digitale Auskunft zur Berufsqualifikation” from the ZAB
 6cba1cd0	Total points: 3 of the 6 needed
 7ba580ff	3 points short of the Chancenkarte
 d4537097	Total points: 2 of the 6 needed
@@ -7235,13 +7087,11 @@ d98ba7db	Australia, Israel, Japan, Canada, South Korea, New Zealand, United King
 d9774a95	Argentina, Brazil, Chile, Uruguay, Hong Kong or Taiwan
 b80c5843	Albania, Bosnia and Herzegovina, Kosovo, North Macedonia, Montenegro or Serbia
 b64ae3b7	You need neither a visa nor a work permit
-8e1ee371	Citizens of the EU, the EEA and Switzerland do not need a visa for Germany. You can work, study and look for work without a residence permit. The first mandatory step after moving in is registering your address.
 eee2cc72	Register at the Bürgeramt within two weeks of moving in: the route shows the appointment and documents.
 7133bec0	Route: address registration
 aa742bca	Get health insurance
 50a21206	Insurance is chosen before you start work or studies: the route shows the funds and options.
 9d97c909	Look for work or a place to study
-944ec0c7	Vacancies and employee rights are in the route on employment; admission is in the route on studying.
 d8908fe6	Route: finding a job
 b3cd2cca	Route: admission to university and Ausbildung
 304dfee8	What do you want to do in Germany?
@@ -7258,10 +7108,8 @@ e9cae8be	No such qualification
 ff1c7f2a	Citizen of a country whose nationals can get a residence permit without a visa
 f1969844	Goal: work with an offer
 7124b0f9	Recognised qualification
-2734733a	Your path: a work visa
 f573577c	With an employer's offer and a recognised qualification, the Blue Card, a skilled worker visa or an Anerkennungspartnerschaft fit. The route picks the visa type by qualification and salary.
 6383e269	You can enter without a visa and apply in Berlin
-950bba5f	Citizens of Australia, Israel, Japan, Canada, South Korea, New Zealand, the United Kingdom and the USA can get a residence permit after entering without a visa. Apply within 90 days of entry.
 b153762e	§ 41 AufenthV: entry without a visa
 f4d417ae	Berlin: residence permit for work without a visa
 9e9daaf1	Open the work visa route
@@ -7272,33 +7120,25 @@ b3edbd0f	The route shows the visa type, the consent of the Bundesagentur für Ar
 e91735c7	Without a recognised qualification, the path starts with a profession
 30d222c8	A work visa and the Chancenkarte require a degree or a profession of at least two years. Without them, Ausbildung, volunteer service or, for citizens of partner countries, Working Holiday are options.
 ba194a30	Learn a profession through Ausbildung
-0eed4846	Under 35 you can come to look for an Ausbildung place; with a contract, you come straight to train.
 2cb23a84	Route: visa for studies and Ausbildung
 33b5792f	Consider volunteer service
 d930449d	The service needs no profession; you are insured during the service.
 260da7c9	Route: visa for volunteers
 3f4783bf	Goal: job search
-05032442	Your path: the Chancenkarte
 21b3bf67	With a recognised qualification you can come and look for work for up to one year with the Chancenkarte. The route calculates the points and shows how to apply.
 ed4510c0	Open the Chancenkarte route
 66c5c7ed	The route checks your points against the official table, your funds and your documents.
 218c7a29	Route: Chancenkarte
 8a85dcd7	Goal: studies
-57e505b9	Your path: a student visa
-d91eda25	Studying needs a student visa; while your university application is pending, a study applicant visa. Funds are proven with a Sperrkonto, a Verpflichtungserklärung or a scholarship.
 5aff87b1	Open the student visa route
 9f6acda2	The route calculates the required amount and shows the documents and how to apply in the Auslandsportal.
 3add936f	Choose a programme or place
 b05fe0f5	Admission, uni-assist and finding Ausbildung places are in a separate route.
-aaaabadf	Your path: a visa for Ausbildung
 b8dfb97a	Ausbildung requires a contract with the training place and usually German B1. If you have no place yet, under 35 you can come to look for one for up to nine months.
 bd309a19	Goal: volunteer service
-f033a005	Your path: a visa for volunteers
-73c94cdf	Volunteer service in Germany means Bundesfreiwilligendienst, FSJ, FÖJ or the European Solidarity Corps. First you need a place and an agreement, then the visa.
 067bed52	Open the volunteer route
 aaf16bb7	The route shows which service fits your age, where to find a place and which documents the visa needs.
 f728b4c2	Goal: joining family
-2b6a7124	Your path: family reunification
 560bd1ac	Moving to join a spouse or parents is handled as family reunification. Conditions depend on who already lives in Germany and on the children's ages.
 d3c0e691	Open the family reunification route
 4a53fc35	The route shows whether you need a visa, what German is required and which documents to gather.
@@ -7333,9 +7173,8 @@ d8ce8f4b	€56 for a sticker or €100 for an eAT, photo on site €6; no fee fo
 5cf5f47b	After a positive check, the LEA sends an invitation; the sticker is issued on site, the eAT is ready in 4–6 weeks.
 25aa8362	Working Holiday visa at a German mission
 19708f89	You apply before travelling, in the country where you live.
-30e451d6	Australia, Israel, Japan, New Zealand — any mission; South Korea — only the embassy in Seoul
+30e451d6	Australia, Israel, Japan, New Zealand – any mission; South Korea – only the embassy in Seoul
 26b6a184	Age on the application date within the programme limits
-5539e7f0	The purpose of the trip is a holiday with side jobs, not permanent work
 60c20f7e	National visa application
 2a6e2e02	Documents listed on your mission's Working Holiday page
 d3cb1765	€75 for adults and €37.50 for minors; in some cases the fee is reduced or waived
@@ -7352,13 +7191,11 @@ b893e1a1	At 31–35 the programme is only open to citizens of South Korea (up to
 ebd66ff0	Working Holiday is available up to 35
 5d65d1f5	The upper age limit is 30, only 34 for South Korea and 35 for Canada. Above that age, other paths fit.
 85746559	Choose another path
-49dc2860	The Chancenkarte fits with a recognised qualification; the BFD volunteer service has no age limit.
 90dc547f	Citizen of a country with a Working Holiday programme
-dd73eee0	Argentina, Chile, Uruguay — any mission; Brazil only in Brazil; Hong Kong — the Consulate General in Hong Kong; Taiwan — the German Institute Taipei
+dd73eee0	Argentina, Chile, Uruguay – any mission; Brazil only in Brazil; Hong Kong – the Consulate General in Hong Kong; Taiwan – the German Institute Taipei
 66a2c6b1	For your country the application is only made at a German mission, so there is one option.
 310b7a19	For your country Working Holiday is up to age 30
 790c7594	Citizen of a Western Balkan country
-f28e1a8b	Your path: the Westbalkanregelung
 ca27779b	Citizens of Albania, Bosnia and Herzegovina, Kosovo, North Macedonia, Montenegro and Serbia can do any job in Germany without a recognised profession if an employer offers a contract. The number of permits is limited by a quota.
 9bef5a6c	The route shows the advance approval of the Bundesagentur für Arbeit and the visa application.
 e63d4765	There is no Working Holiday programme for your country
@@ -7387,7 +7224,6 @@ b9640dc8	€992 per month, €11,904 per year
 40097368	up to 140 full or 280 half working days a year; student jobs at the university do not count
 ad0074a9	If you lose your admission through no fault of your own
 de82d4c8	you get up to nine months to enrol at another university
-50fd4df2	Deposit the required amount; the bank issues a confirmation for the application. Before entry, the mission is named as the beneficiary of the block; after entry, the foreigners authority. Provider options are below.
 d2ea12fe	Make it in Germany: requirements for studying
 97ff8b28	§ 16b AufenthG: studies
 85081b82	Berlin: residence permit for studies after arrival
@@ -7402,7 +7238,6 @@ ba86335c	A language course or Studienkolleg on which your Zulassung depends is p
 0b205bd8	Conditional Zulassung or Studienkolleg acceptance
 45590a5c	Goal: applying to university
 c5d3b861	Study applicant visa
-8cecd372	The study applicant visa lets you come without a Zulassung and apply to universities on site, take an entrance exam or prepare. It lasts up to nine months.
 c1140173	School certificate giving access to university
 9cfb4f25	Correspondence with the university or uni-assist: application, conditional admission or confirmation of submission
 b2ac7304	Certificate in the language of instruction
@@ -7458,7 +7293,6 @@ ed16fbc9	Visa to look for an Ausbildung place
 1994ad7d	Make it in Germany: visa to look for an Ausbildung place
 925d70e9	The visa to look for an Ausbildung place requires a German B1 certificate.
 210e69b8	Age 35 or older
-2d87003a	The visa to look for an Ausbildung place is up to age 35
 1931a4d1	You can only come to look for an Ausbildung place before turning 35. After that, a visa is issued if you already have an Ausbildung contract: you can look for a place from your own country.
 abc4376e	Look for an Ausbildung place from your country
 92fa415b	The admission route shows the Arbeitsagentur search for Ausbildung places.
@@ -7491,7 +7325,6 @@ c5af97fe	Pocket money
 f0b58590	up to €676 a month (January 2026); the amount is agreed with the place of service
 60319103	during the service you are covered by statutory health, pension and other insurance; the place of service pays the contributions
 2d5b6cd0	Seminars
-df154226	under 27 — 25 seminar days in 12 months and a 5-day civic education seminar; free and during working time
 05323a00	Sign the service agreement
 2bfbd42b	The agreement is made with the place of service or the Bundesamt für Familie und zivilgesellschaftliche Aufgaben; it states the duration, pocket money, accommodation and meals. The visa needs the original signed by all parties.
 05a6e27d	Bundesfreiwilligendienst: A to Z
@@ -7504,7 +7337,6 @@ d0ff941a	pocket money together with accommodation and meals from the place of se
 6d8cd1f3	pocket money together with accommodation and meals from the place of service must cover the basic benefit rate under SGB II or XII; the gap is proven with a Sperrkonto or Verpflichtungserklärung
 e9a06dee	Only BFD: FSJ and FÖJ are up to age 27
 43f1a023	Age 27–30
-7815ef6d	from 27 — at least one seminar day a month, free and during working time
 173f5beb	Age 31 or older
 b1af1468	European Solidarity Corps
 96392e26	Visa for the European Solidarity Corps
@@ -7523,7 +7355,6 @@ b44b6a86	Find a BFD place
 464b947d	Bundesfreiwilligendienst: find a place
 9a3272cf	No place of service yet
 abd23d42	First find a place of service
-f184eeca	The volunteer visa is only issued with an agreement with a place of service. BFD is open to any age, FSJ and FÖJ up to 27, the European Solidarity Corps from 18 to 30.
 a07d8a5f	Search the Bundesfreiwilligendienst database for a place or an offer and write directly to the Einsatzstelle. There is no central admission and no application deadlines.
 14ef6458	Bundesfreiwilligendienst: questions and answers
 42fc97b3	Or register with the European Solidarity Corps
@@ -7594,11 +7425,9 @@ bcf03935	Profession recognised in Germany
 bf779360	German A2 certificate
 b761cef7	Agreement with the employer on completing the recognition
 1e6e3741	Duration and work
-081a6e6c	first up to 12 months, extended by a year at a time up to 3 years; besides the contracted work, side jobs up to 20 hours a week
 a6b7f7ef	Qualification recognised in your country
 1ecc0995	German below A2
 afa2aa4e	An Anerkennungspartnerschaft requires German A2
-a3e598c9	Without recognition in Germany you can work in your profession through an Anerkennungspartnerschaft: recognition happens after entry, while you work. This needs German of at least A2. The alternative is to get recognition before moving.
 bac6bc7f	Bring your German up to A2
 9e5e06b8	The route shows courses with a certificate.
 a53c9b23	Or apply for recognition from abroad
@@ -7630,7 +7459,6 @@ fdee5cff	visa for volunteers: BFD, FSJ, FÖJ, European Solidarity Corps
 e1e8ff84	Chancenkarte: points, funds and visa | NOSTRES
 d763eca8	Calculate your Chancenkarte points with the official table, prepare a Sperrkonto and documents, and apply for the visa via the Auslandsportal.
 6024d91b	Moving to Germany: which path suits you
-30ddf1ce	Answer questions about your citizenship and goal. The route shows whether you need a visa and which path fits — work, Chancenkarte, studies, Ausbildung, volunteer service, family or Working Holiday — and opens the next route. Data from the official pages of the Federal Foreign Office, Make it in Germany and Berlin.
 b6c9994d	Path chosen
 9d67e08a	Chancenkarte (opportunity card for job searching)
 438f1ef3	Calculate your points with the official table, prepare funds and documents, and apply for the visa while still in your own country. Data from the official pages of Make it in Germany and the Federal Foreign Office.
@@ -7770,7 +7598,7 @@ fe98de75	I have neither of these forms of proof
 63442aeb	Age 31–35
 ddef1df5	Age 36 or older
 eee4557e	Check whether the placement is an FSJ or FÖJ. You must complete compulsory full-time schooling, and the service must end before you turn 27. Do not use the BFD document list as a general list.
-35a9d53a	ordinary volunteering — up to 30; humanitarian aid volunteering — up to 35 on the activity start date; registration from 17, activities from 18
+35a9d53a	ordinary volunteering – up to 30; humanitarian aid volunteering – up to 35 on the activity start date; registration from 17, activities from 18
 08f65ce5	Which type of European Solidarity Corps volunteering is listed for the project?
 f47c4fd2	Ordinary volunteering
 fd2b942d	Humanitarian aid
@@ -7808,7 +7636,6 @@ afcfba86	Service in Germany: age limit 30
 8a8b768c	For service in Germany, the ESC is open up to age 30
 ffdf20a4	ESC volunteering in EU countries is open up to age 30 on the start date. ESC humanitarian aid volunteering up to age 35 takes place only in countries outside the EU, so it does not fit service in Germany. The BFD has no upper age limit.
 b22ff077	ESC age requirements
-dfb3c46a	Up to 30 on the start date; up to 35 only for humanitarian aid volunteering in countries outside the EU.
 8c4f8ebd	European Solidarity Corps: humanitarian aid volunteering
 af0fde7d	The authority has promised the licence in writing (Zusage)
 34dcd216	by the time the residence permit is issued, the licence must be granted or promised in writing by the authority (Zusage)
@@ -7843,48 +7670,29 @@ b2097e73	Check Working Holiday requirements
 2104d32f	The Federal Foreign Office publishes the official list of countries and application rules.
 9a3846b5	Working Holiday is available from age 18
 3be60c14	You can apply for Working Holiday from age 18.
-7b1fabb8	For South Korea: German Embassy in Seoul
-63cdecc5	For Brazil: a German diplomatic mission in Brazil
 9a612887	For Hong Kong: German Consulate General in Hong Kong
-dd156179	For Taiwan: German Institute Taipei
 5c0c60c5	Where you apply depends on your citizenship; consult the official list of missions
 5f20835b	Working Holiday is available up to age 35 for this country
 1915e135	Working Holiday is available up to age 34 for this country
 bcb1db28	Working Holiday is available up to age 30 for this country
-6757ba75	The age limit for this country is 35. Consider other ways to move.
-2424b5b1	The age limit for this country is 34. Consider other ways to move.
-4bc13489	The age limit for this country is 30. Consider other ways to move.
-9531a5ac	The age limit for this country is 35. Check the official requirements and application location.
-d6c9063b	The age limit for this country is 34. Check the official requirements and application location.
-1308c2ce	18–30; Australia and Canada 18–35; South Korea 18–34
 20c54c08	Australia: Working Holiday is available at ages 31–35, but the Berlin LEA page still lists a limit of 30; apply through a German mission.
-463999ec	Any German mission; residents of Australia apply at the Consulate General in Sydney
 d95bf50f	Any German mission abroad
 a388b9cd	Request via the LEA contact form (Unit F 1)
 072e7a64	Write to the LEA via the contact form
 e6470434	Online applications are not yet available for Japanese citizens. LEA Unit F 1 accepts requests through the contact form on the service page.
-e66ad093	Residents of Canada: German Consulate General in Toronto
-8519cbc7	For Hong Kong: German Consulate General in Hong Kong; the applicant lives in Hong Kong
-5c4f4db7	Register the dog online in the owner's account on the register portal. You need the 15-digit chip number from the pet passport and the breed details. Cost online: €17.50 per dog. The fee notice (Kostenbescheid) serves as proof. Registration in the register also serves as the tax registration. Failing to register or to report changes is an administrative offence with a fine of up to €10,000.
-f102f8c1	Send the details in writing by post or e-mail or by phone (GovConnect GmbH). You need the 15-digit chip number from the pet passport and the breed details. Cost: €26.50 per dog. The fee notice (Kostenbescheid) serves as proof. Registration in the register also serves as the tax registration. Failing to register or to report changes is an administrative offence with a fine of up to €10,000.
-a9fcb3e5	The deadline is 8 weeks after you notify the Ordnungsamt (Anzeige). This is the "licence" of the owner of such a dog. You take a theory test (30 multiple-choice questions, 45 minutes supervised, 70% correct needed) and a practical obedience test with the dog itself: it must be at least 1 year old. The exam is conducted by experts approved by the Berlin Senate. The list of experts is available at the Ordnungsamt and via the link below. The Sachkundebescheinigung is issued by the Ordnungsamt on application using a special form.
 901fb969	After registration the owner gets a numbered green tag: according to the Bezirksamt Mitte, it is received as proof of registration. The tag is attached to the collar or harness when the dog is outside a fenced area and outside the flat in an apartment building. Until you have the tag, carry the Ordnungsamt’s certificate confirming your notification (Bescheinigung nach § 18 Abs. 1 Satz 4 HundeG) and show it on request. The Spandau district page does not say exactly who issues it: the tag is issued by the authority processing your registration.
 ed515741	The mission pre-checks the application and tells you in the portal what is missing or filled in incorrectly: correct it and submit again. Since November 2025 a family can apply together from one account.
-f59fbd10	Entry from a non-EU country is only through a travellers’ point of entry designated by the EU country you enter. In Berlin this is BER airport. Declare the animal at customs: documents are checked and the chip is read. If the chip is not to the EU standard, bring your own reader.
 9a7dac94	Search the Bundesfreiwilligendienst database for a place or an offer and write directly to the Einsatzstelle. There is no central application office and no uniform deadline; some placements set their own deadlines.
 331b5c2a	With the exam result, the Ordnungsamt issues the Sachkundebescheinigung. It applies to you and this dog. With a certificate from another German state, the Ordnungsamt issues a Berlin one without a new exam.
 02fbb70b	Any kind of work except regulated professions (for example doctor), without a recognised qualification, if the employer offers a contract on the same terms as for workers from Germany. Permits are issued within a quota.
 ee260385	Data from the practices’ own websites, checked on 5 November 2026. This is not a rating or a recommendation. Neither the Tierärztekammer Berlin nor the city has an official list of vets by language, so NOSTRES shows only practices that name the language on their own website.
 64440b8c	Information was checked on the practices’ own websites on 5 November 2026. This is not a ranking or recommendation. Neither Tierärztekammer Berlin nor the city publishes an official list of veterinarians by language, so NOSTRES shows only practices that list a language on their own websites. NOSTRES has not yet found practices listing the selected language.
-345aac5e	up to 50,000 approvals a year, split by month and country; no AsylbLG benefits in the last 24 months; from age 45 on first approval, a salary from €55,770 a year or a pension provision; the first approval only if you apply at the German mission in one of the six countries
 19309a64	The list decides whether a rabies antibody test is needed 3 months before the trip. The list includes, for example, the USA, the UK, Canada, Serbia and Japan. Russia, Ukraine, Belarus, Kazakhstan, Turkey, Georgia, Armenia and Israel are not on it.
-1a5b7418	Liability insurance for dog owners (Tierhalterhaftpflichtversicherung) is required by law in Berlin, also for dogs that are only walked in Berlin. For Listenhunde the deductible is at most €500 per year.
 60c4eb9e	Service Berlin: leash exemption and insurance
 0f4741a4	Dog exercise areas in Berlin’s forests
 3146a8e6	Even without the general rule, a leash is required in parks, in forests without a leash-free sign, in shared areas of buildings, in pedestrian zones, in crowds and on public transport. Dogs are not allowed on playgrounds, at bathing facilities or bathing spots.
 5da7fc8c	From a non-EU country on the EU list: USA, UK, Canada, Serbia, Japan and others
 41916240	no more than 5 in one vehicle if the trip is not for sale; the owner travels with the animal or within 5 days before or after it
-5316f767	issued by an official or authorised vet of the country of departure and then endorsed by the authority; valid 10 days from issue to the entry check, and for onward travel in the EU 6 months or until the vaccination expires
 b4dc7d73	Switzerland and neighbouring countries
 6552b88e	from Switzerland, Iceland, Liechtenstein, Andorra, Monaco, San Marino, the Vatican, Gibraltar, Greenland and the Faroe Islands no point of entry is needed; with a pet passport issued in one of these countries no certificate is needed
 99c939d3	Bird from a non-EU country: marking, certificate, declaration and border check
@@ -7894,7 +7702,6 @@ fb46ff60	Keep the birds separate for 30 days after entry
 61b62699	For at least 30 days after arrival the birds are kept apart from other birds.
 5bd7f009	Oberhofer Weg 68, 12209 Berlin; (030) 711 63 57; Mon–Sat 9–12, Mon, Tue, Thu, Fri 16–18; appointments and home visits on request
 21297595	not needed with a salary of at least 50% of the annual contribution ceiling of the pension insurance (2026: €50,700 gross)
-e83d0d10	Proof of qualification: for a degree, a positive anabin result or a ZAB statement of comparability; for vocational training, a positive “Auskunft zur Berufsqualifikation” from ZAB
 67de60eb	5 November 2026
 8609ec69	€4.90 a month (as of 01.11.2026)
 62cec337	Route: GmbH or UG
@@ -7946,7 +7753,6 @@ edbc7dd6	Annual reporting
 889cb57f	Law: payments before registration (§ 7 GmbHG)
 854bbe1f	IHK Berlin: GmbH and UG (haftungsbeschränkt)
 3e8f78c1	Prepare the Musterprotokoll or your own contract
-e1df6d98	With up to three founders and one director (Geschäftsführer) you can use the Musterprotokoll, a ready-made contract template from the law. IHK Berlin states that it can only be used for a founding with cash contributions. If you need special rules between the founders, draw up your own Gesellschaftsvertrag (articles of association). The contract must state the name, registered office, purpose of the business, amount of capital and each founder's share.
 5125364e	Law: form of the contract and Musterprotokoll (§ 2 GmbHG)
 5907fa0b	Berlin: registering a GmbH in the Handelsregister
 8d19f5e9	Have the contract notarised
@@ -7956,9 +7762,7 @@ ed40e7c8	Law: notarisation by video call (§ 2 Abs. 3 GmbHG)
 538e4ecf	Pay the capital into the company account
 fc1859cd	Open a business account in the name of "GmbH i.G." (in formation) and pay in at least a quarter of each share and at least €12,500 in total. Give the bank confirmation to the notary.
 1a03a227	Wait for the entry in the Handelsregister
-c4e6a958	In Berlin the register is kept only by the Amtsgericht Charlottenburg (Charlottenburg local court). The notary sends it the application, the contract, the decision appointing the director and the list of shareholders. The court fee is €150, €240 with a contribution in kind, plus a Bereitstellungsgebühr (data provision fee) of one third of this amount. The processing time is not stated on the service page.
 3f909c1b	Register the company's Gewerbe
-617b4afa	The director files the notification when business starts. A company in formation attaches the notarised contract and the founders' consent. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
 d087df1e	Berlin: Gewerbeanmeldung for a company
 92871607	Berlin: Gewerbe documents and fees
 7d9acadb	You must inform the tax office that the company has been founded: send the Fragebogen zur steuerlichen Erfassung (tax registration questionnaire) online for founding a Kapitalgesellschaft (company with share capital). You need a free Mein ELSTER account for this. The questionnaire is free of charge; the Finanzamt (tax office) processes it in about two weeks after receiving all documents and sends the Steuernummer.
@@ -7982,7 +7786,6 @@ b101fa10	The law allows the contract to be notarised by video call. IHK Berlin d
 36cf2b8b	Order: contract at the notary, capital payment, entry in the Handelsregister at Amtsgericht Charlottenburg, then tax questionnaire, Transparenzregister and annual reporting. Choose how to notarise the contract.
 0afd2f04	Check against the exceptions whether a Gewerbe is needed
 38d032fe	Check whether a Gewerbeanmeldung is needed
-c732fbf5	A Gewerbeanmeldung (trade notification) is needed if the company trades, provides services or produces goods: the exceptions are listed on the service page. The director files the notification when business starts. A company in formation attaches the notarised contract and the founders' consent. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
 47e0d2e7	Citizenship outside the EU: the right to work is checked with the LEA
 53bf1b89	Order: contract at the notary, capital payment, entry in the Handelsregister at Amtsgericht Charlottenburg, then Gewerbe, tax questionnaire, Transparenzregister and annual reporting. Your own right to work in the company is checked separately. Choose how to notarise the contract.
 0538ddbf	Check whether your residence permit allows work in the company
@@ -8013,7 +7816,6 @@ d3e15a06	Law: UG reserve (§ 5a GmbHG)
 cb677b57	The form is not chosen yet: compare GmbH and UG first
 8fe9d054	Founding a company: first choose GmbH or UG
 471d9508	Choose GmbH or UG
-46e39577	GmbH (limited liability company): the Stammkapital (share capital) is at least €25,000. Before filing with the register, at least a quarter of each share and at least €12,500 in total are paid in. UG (haftungsbeschränkt) is the same form with capital from €1: the capital is paid in full and only in cash, not in kind, and a quarter of the annual profit goes into a reserve until the capital reaches €25,000. A UG's name must contain "Unternehmergesellschaft (haftungsbeschränkt)" or "UG (haftungsbeschränkt)".
 955fbef1	The contract is notarised, there is no register entry yet
 0f95cfb7	Contract notarised: company registration and first obligations
 a13bbbb2	Pay in the capital, wait for the entry in the Handelsregister and complete the Gewerbe, tax questionnaire and Transparenzregister.
@@ -8022,9 +7824,7 @@ a13bbbb2	Pay in the capital, wait for the entry in the Handelsregister and compl
 3d32face	The company is already in the Handelsregister
 e8e0a214	Company in the register: registrations and annual obligations
 61814909	After the register entry, register the Gewerbe, send the tax questionnaire, report the owners to the Transparenzregister and disclose your accounts every year.
-239b73f8	The director files the notification when business starts. Attach an extract from the Handelsregister. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
 e6377034	After the register entry, send the tax questionnaire, report the owners to the Transparenzregister and disclose your accounts every year.
-efdfe716	A Gewerbeanmeldung (trade notification) is needed if the company trades, provides services or produces goods: the exceptions are listed on the service page. The director files the notification when business starts. Attach an extract from the Handelsregister. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
 114c892e	Forty-nine routes are available in the MVP: for Berlin and for moving to Germany from your country:
 e21b3180	GmbH or UG: limited liability company
 cd4fe17c	GmbH or UG in Berlin: founding and tax number | NOSTRES
@@ -8067,7 +7867,6 @@ ef5f17cd	Order it free of charge through the Deutsche Rentenversicherung online 
 e958f632	Don't pay intermediaries
 ccd3c354	The Versicherungsnummernachweis is issued free of charge. Some websites charge money for it: this is not prohibited, but such websites must state clearly that they are not a government authority. Order the document only from Deutsche Rentenversicherung or your health insurance fund.
 f9f0a79e	DRV: the document is free, beware of paid websites
-5dda803b	The number is assigned through your employer: one way; the fallback is ordering from DRV or your health insurance fund.
 b9da6f6d	This is general information. The conditions are taken from the official pages of Deutsche Rentenversicherung, gesund.bund.de and the Federal Ministry of Health.
 874d486c	You already have a number but don't know it
 981a6a92	You have a number but don't know it: find it in your letters or request it in writing
@@ -8121,7 +7920,6 @@ e3f90125	The eGK card with the health insurance number is issued by a statutory 
 9cb6ac31	The health insurance route shows which insurance you are entitled to, how to join a fund and what to bring. After you join, the fund will send you an eGK card with the number.
 638c842d	gesund.bund.de: eGK card
 88ae367c	You need a tax number, not a social insurance number
-68b3ef86	Steuer-ID is a separate tax number
 8f0b09df	Your employer asks for two different numbers: the Steuer-ID tax number and the social insurance number. The Steuer-ID is assigned by the tax authority; a separate route shows how to obtain or recover it.
 05d192c6	Open the Steuer-ID route
 b1b6a6c5	The route shows whether you have been assigned a Steuer-ID and how to get its letter again. The social insurance number is issued by Deutsche Rentenversicherung: if you need it too, come back here and select it.
@@ -8156,9 +7954,7 @@ b5b3ffd3	Residence permit for skilled workers
 eebd18ec	Required period of residence completed
 6188ebd6	German B1 or higher confirmed
 b0fc5a01	You can apply for the Niederlassungserlaubnis
-99a29d01	The Niederlassungserlaubnis is a permanent residence permit. Check the remaining requirements, gather your documents, apply online and attend an appointment at the LEA.
 d78144ab	Online application and appointment at the LEA
-0c655556	Application and files online, then an appointment at the LEA with the originals.
 25a7466a	Quick-Check on the service page
 07c70cbc	Payment by card or via PayPal
 a5b96d08	Passport and current residence permit
@@ -8168,13 +7964,11 @@ d74f1561	Proof of housing: rental contract showing the rent including heating (W
 d2600dc5	Proof of knowledge of Germany's legal and social system
 cf2f7a91	Period of residence
 bb0dabfa	3 years with a residence permit for skilled workers (§ 18a, § 18b, § 18d or § 18g); 2 years if you completed studies or an Ausbildung in Germany. You must continue working as a skilled worker
-0997c860	€56.50 for processing and €56.50 for issuance; with a university degree as a highly qualified specialist, €73.50 and €73.50; for Turkish citizens €13.80 under 24 and €23.00 from age 24 for each part
 8a2d15a9	When the document is issued
 e9210b62	no earlier than 4 weeks after the appointment at the LEA
 08abfa0f	3 years with a residence permit for skilled workers (§ 18a, § 18b, § 18d or § 18g); 2 years if you completed studies or an Ausbildung in Germany. You must continue working as a skilled worker. At least 36 months of contributions to the statutory pension insurance, 24 months after studies or an Ausbildung in Germany. German B1. Basic knowledge of Germany's legal and social system is required: it is proven by an integration or orientation course, the "Leben in Deutschland" test or the citizenship test, a German school or vocational qualification, or at least one year of studies or Ausbildung in Germany. Your living costs are covered by your own income without Bürgergeld or Sozialhilfe; German statutory or comparable private health insurance (foreign insurance does not qualify); sufficient living space for your family; main residence in Berlin. Even a fine imposed by a court judgement can prevent issuance, and an open investigation halts the procedure.
 17495cfb	LEA Berlin: Niederlassungserlaubnis for skilled workers
 66297e3e	Law: § 18c AufenthG
-b094052a	Files are uploaded to the online form: see the list below; the full list is on the service page. You will need the originals at the appointment.
 4102eaa7	Complete the Quick-Check and apply online
 e7e9e9ac	Applications are online only: first the short Quick-Check on the service page, then the form with your files. The processing fee is paid by card or via PayPal before submitting. After submitting, you receive a PDF confirmation.
 11a0276d	Attend the appointment at the LEA
@@ -8221,11 +8015,9 @@ f323802c	You have completed the period of residence, but for the Niederlassungse
 d12b27d6	Family member of a German citizen
 9995cd8c	Marriage or birth certificate and the identity document of the family member with German citizenship
 3ca24dde	3 years with a residence permit as a family member of a German citizen; the family has lived together the whole time and remains together
-dc15bd29	3 years with a residence permit as a family member of a German citizen; the family has lived together the whole time and remains together. German B1; A1 if you held the residence permit before 6 September 2013. Your living costs are covered by your own income without Bürgergeld or Sozialhilfe (exception: a permanent illness with a medical certificate); health and long-term care insurance for you and your family; main residence in Berlin. Even a fine imposed by a court judgement can prevent issuance, and an open investigation halts the procedure.
 648087c7	LEA Berlin: Niederlassungserlaubnis for family members of German citizens
 7841c516	Did you hold a residence permit as a family member of a German citizen before 6 September 2013?
 b83bd6aa	For your basis you need: 3 years with a residence permit as a family member of a German citizen; the family has lived together the whole time and remains together. Until the period is completed, extend your current residence permit on time.
-09837510	The application requires a German certificate: B1, or A1 if you held the residence permit before 6 September 2013. You can choose a course and exam in the integration course route.
 9cf79a05	How many years have you lived lawfully in Germany with a residence permit?
 1fb89f52	5 years or more
 cefcf552	Less than 5 years
@@ -8292,7 +8084,6 @@ d3532d92	Wait for the paper letter and check the 11-digit number.
 1aa3c725	Check the set for the chosen method
 4a4fdb08	Check the membership, address and photo with your Krankenkasse
 f077b165	This personal subscription costs €63 per month and covers local and regional transport across Germany; from 1 January 2027 the price rises to €66.80. It is not valid on long-distance trains ICE, IC, or EC.
-8c774d53	If the university does not participate in the Deutschlandsemesterticket, a student may qualify for the Monatskarte Ausbildung when studying in Berlin or Brandenburg for at least 15 Credit Points per semester. In 2026, Berlin AB costs €74.10 for a regular monthly ticket or €55.40 per month with a 12-month subscription; Berlin ABC costs €95.70 or €77.50 respectively. These fares apply through the end of 2026; from 1 January 2027, Berlin AB costs €76.90 for a regular monthly ticket and €57.50 per month with a subscription.
 5341845c	This personal, non-transferable monthly ticket is valid only in Berlin AB and is not a subscription. According to the VBB page, its price on 12 November 2026 is €27.50, and it does not change in 2027.
 81480e1c	Write down exactly which document is requested and by when. Reply through the same channel the request came through. If it is unclear what is required, write to the authority at the contact given in the letter, state the case number (Aktenzeichen) and keep the reply.
 f5e72b88	Determine the type of action: first registration of a new car or a change to the registration of an existing one. Conditions and documents differ.
@@ -8304,7 +8095,6 @@ f8203a45	Find a practice and book an appointment through its contacts before the
 974422bb	Take from the employer's data that the form requires the name of its Betriebsstätten-Finanzamt (the tax office for the place of business): it is the one competent for the IdNr. for ELStAM purposes.
 bb79c769	Your situation
 9f9a5f32	Events and ratings are stored in a Cloudflare D1 database in the European region and are used to find errors and improve the routes. Cloudflare is given access to the infrastructure for hosting and running the database. Records are kept for no longer than 12 months after the event; older ones are deleted automatically once a day.
-dbfb3ffd	The articles of association are valid only in notarised form. You can go to a notary office of your choice or have the notarisation done by video call: the law allows this. The Notar also certifies the signatures on the application to the Handelsregister (commercial register) and submits it to the court directly. The Notar's fee is set by law and is the same at every Notar: the calculation for a GmbH and UG is in the route about the Notar.
 04f7927f	Route: Notar and its cost
 906dbb5e	Motorcycle
 e85544e9	a motorcycle (Kraftrad) is also a Kraftfahrzeug by law, and the same procedure applies when you move; for a light motorcycle up to 125 cm³ that does not have to be registered, the Betriebserlaubnis (operating permit) is accepted instead of the Zulassungsbescheinigung Teil II
@@ -8338,7 +8128,6 @@ c956b96b	plus 19% VAT and expenses, for example €4.50 for the electronic docum
 1f039566	separately: €150, €240 with a contribution in kind, plus one third of that amount
 3639ca25	not stated on the court's page
 9186fb72	Know that the price is the same at every Notar
-8952392e	The cost of a Notar's services is set by the Gerichts- und Notarkostengesetz (GNotKG) and is the same throughout Germany. The Notar must charge exactly what the law prescribes — no more and no less. Advice and drafting of the document are included in the notarisation fee. The fee depends on the value of the matter (Geschäftswert).
 bd75dceb	Notarkammer Berlin: costs by law
 d29af808	Calculate the Notar's fee
 3f61bdfc	According to the Bundesnotarkammer example, founding a UG with one founder using the Musterprotokoll costs €105 excluding VAT and expenses: €60 for the notarisation, €30 for the application to the Handelsregister and €15 for the electronic data transmission. The minimum value of the matter of €30,000 does not apply to the Musterprotokoll, so the fee is lower.
@@ -8349,7 +8138,6 @@ e62b3e2d	Find a Notar
 5472fd11	Bundesnotarkammer: search for notaries in Berlin
 3d984cf5	Notarkammer Berlin: frequently asked questions
 debe912d	Pay only official invoices
-cf0e385d	For the entry in the Handelsregister you receive an official invoice, usually from the Amtsgericht (court). Private directories send similar-looking invoices: you do not have to pay them. The court fee in Berlin is €150, €240 with a contribution in kind, plus one third of that amount; the processing time for the entry is not stated on the court's page.
 ed96e651	Bundesnotarkammer: about invoices after founding
 a2df4c2a	Berlin: Handelsregister fee
 17a04e2f	You chose the notarisation method in your answers.
@@ -8410,7 +8198,6 @@ bc455cc8	The title "Architekt" is protected in Berlin: you need an entry in the 
 7609e7ea	IHK FOSA: list of professions
 bfe6d89a	Fee and processing time: ZAB (Zentralstelle für ausländisches Bildungswesen)
 019ee01f	€208, about 3 months after all documents and payment have been received
-92bcdfed	For non-regulated university professions, for example economist (Wirtschaftswissenschaftler/in), the ZAB issues a Zeugnisbewertung — a statement of the comparability of the degree. The application is submitted online; you need a BundID. The statement does not entitle you to work in a regulated profession.
 369edcfa	Fifty-two routes are available in the MVP: for Berlin and for moving to Germany from your home country:
 bdbf0f1b	Notar in Berlin: search and cost
 1f38fb40	Notar (notary) in Berlin: how to find one and what it costs
@@ -8488,7 +8275,6 @@ a1e29fe0	Psychotherapy: talking treatment
 78d884b8	I cannot attend a Jobcenter appointment because of my condition
 603bec5d	You feel unwell right now
 fa323598	Help right now: first the options that need no phone call
-743b3dba	If life is in danger, go to a hospital emergency department or call 112. If life is not in danger, you can come to the Berliner Krisendienst without an appointment or write in the chat. The phone is a fallback.
 b08c9ffc	If life is in danger: 112 or the emergency department
 b485bba3	If you might harm yourself or others, you need emergency help. You can go without an appointment to the emergency department (Notaufnahme) of a hospital with a psychiatric ward. You can call 112. You can write to the 112 dispatcher without speaking in the official nora app if you registered in it in advance.
 d7c36efc	gesund.bund.de: what to do in a mental health crisis
@@ -8502,7 +8288,6 @@ a5b0c3ac	Krisendienst: news and branch closures
 def3328c	TelefonSeelsorge: chat
 ca3b9cd3	TelefonSeelsorge: e-mail
 8c357b0d	If you can make a call
-e7c10885	The Berliner Krisendienst answers around the clock on the number for your district: 030 39063-10 … -90; the numbers are on the branches page. TelefonSeelsorge answers around the clock and free of charge: 0800 111 0 111 and 0800 111 0 222. The line 030 440 308 454 answers in Russian.
 ae817e0c	Krisendienst: branch numbers
 e62e6d12	Berlin: crisis help numbers
 3b292ff1	Willkommenszentrum: numbers and languages
@@ -8565,14 +8350,11 @@ acf08056	Start with an initial consultation: no referral or code is needed. If y
 26cfb4d2	116117: psychotherapy
 5c8ab2fd	116117 psychotherapist search
 8353767d	Attend the initial consultation
-57f6a61f	The initial consultation (psychotherapeutische Sprechstunde) is up to 6 sessions of 25 minutes, up to 150 minutes in total. No referral is needed. A therapist approved by the health insurance funds must offer these consultations. If no suitable place is available, the 116117 service must find an initial consultation within 4 weeks.
 6befc58f	BMG: initial consultation and time limits
 b924d0e9	If you need help quickly: acute treatment
-accdc079	If after the consultation the therapist notes on form PTV 11 that treatment is needed soon, acute treatment (Akutbehandlung) of up to 600 minutes is possible. No approval from the health insurance fund is needed; the therapist only notifies it with form PTV 12. The 116117 service must find acute treatment within 2 weeks.
 4777ba15	116117: acute treatment
 b41fe36a	KBV: questions about psychotherapy
 243dbeb2	For long-term therapy, apply together with your therapist
-5342d170	First come a few trial sessions and an examination by a family doctor or another doctor to rule out physical causes. Then you and your therapist submit an application to the health insurance fund. Short-term therapy is 12–24 hours; long-term therapy is about 30–60 hours depending on the method.
 12812c11	You chose how to book in your answers; after that the order is the same.
 2e7a6b61	Choose a practice nearby and arrange an appointment
 6184582c	In the 116117 search, find a practice nearby and how to contact it. In the «Fremdsprachen» (foreign languages) filter you can choose a language. The initial consultation takes place in person.
@@ -8607,9 +8389,7 @@ d3bdd583	Call the Berliner Krisendienst
 40f9fb9a	The crisis service also helps relatives, friends and colleagues of a person in crisis. It answers around the clock on the number for your district: 030 39063-10 … -90. In urgent cases staff come to the place, and a doctor is on duty.
 e52f7c60	It is hard for you to attend a Jobcenter appointment because of your condition
 7f468bd9	I cannot go to the Jobcenter: how to keep my payments
-da297aa3	Illness is a valid reason if a document confirms it. From 1 July 2026, a second missed appointment without a valid reason reduces the payment, and three missed appointments in a row stop it until you appear in person.
 f7d0281e	Confirm the reason with a document
-e9472613	The Jobcenter usually accepts a sick note (Arbeitsunfähigkeitsbescheinigung) as a valid reason. Send it to the Jobcenter and keep proof of sending. The Jobcenter may separately ask for a doctor’s certificate stating that you could not attend that particular appointment, and pay for it — up to 5.36 €.
 f12ff16b	Bundesagentur für Arbeit: rules on missed appointments
 dd2e102f	Jobcenter: rights, obligations and reductions
 363ac625	Respond to the request for an explanation (Anhörung)
@@ -8637,11 +8417,9 @@ b44c4373	Fifty-three independent routes are available now. Your answers are stor
 ae4b1245	This is a saved copy of the page. The conditions may have changed: when the internet is back, the page will load again.
 17989646	So that the site works without internet, your browser saves copies of the NOSTRES pages you have opened, along with the files needed to show them. Your answers to the questions are not part of these copies. When the internet is available, the page always loads again. The copies are deleted together with the site data in your browser settings.
 9196ab25	This is a copy of the page from {date}: it is saved on this device. The conditions may have changed: when the internet is back, the page will load again.
-421956a9	Interpreter at a Berlin authority: free of charge
 c9eecddf	With Berlin authorities, such as the Bürgeramt and the LEA, you can communicate in German Sign Language or through other means of communication, such as a speech-to-text interpreter. The authority bears the costs: this is set out in the Berlin equal rights law (LGBG, § 13). Tell the authority in advance that you need an interpreter and which kind: sign language or speech-to-text. The authority is required to inform you of this right.
 0ee1cc0a	Berlin law LGBG, § 13
 e47e5735	Berlin: rights under the LGBG
-8e6d92d6	Interpreter for benefits and at the doctor: free of charge
 d8e33519	When you receive social benefits or services, for example at the Jobcenter, the Agentur für Arbeit or your health insurance fund, you can communicate in German Sign Language or through other means of communication. This also applies to examinations and treatment at the doctor. The interpreter costs are borne by the authority or fund responsible for that benefit or treatment (§ 17 Abs. 2 SGB I). Say in advance that you need an interpreter and which kind: sign language or speech-to-text.
 fe753391	Law: § 17 SGB I
 a035e586	KHV ordinance on means of communication
@@ -8650,7 +8428,6 @@ a035e586	KHV ordinance on means of communication
 22827739	Bundesnetzagentur: service for people with hearing impairments
 1a0dd4cd	Bundesnetzagentur: free minutes by year
 308db80d	116117 without a phone call
-d1f6260b	116117 has a chat for people with hearing or speech impairments, for when you need medical help but your life is not in danger. In the chat, choose the region Berlin. The 116117 practice search has a “sign language” filter.
 6e9c1819	116117: chat for people with hearing impairments
 7f2c998c	116117 in sign language
 458386c4	Emergency help without a phone call
@@ -8662,3 +8439,226 @@ c79c774f	Questions about insurance and care in sign language
 21a0fe7b	BMG: video call in sign language
 a07abf8b	People with hearing impairments
 d18cb816	Sign language, an interpreter at the authority and communication without voice.
+31169962	The terms of an ordinary Girokonto are set by the bank. A Basiskonto is the right of a consumer who does not yet have a payment account in Germany to a basic account: a bank may refuse only in the few cases set out in the law. Choose a method below.
+296b556c	€0 a month; physical card – a one-off €10
+c80681e2	up to 1 year; if you find qualified work and no other residence permit fits, it can be extended for up to 2 years
+c4bc0c2b	several months, depending on the purpose
+ea7d6c6a	The minimum in the points system is 6. Points are added fastest by language (German A2 – 1, B1 – 2, B2 – 3 points) and by partial recognition of your qualification in Germany (4 points).
+f1f77953	For a degree, a positive anabin result or a ZAB statement; for a vocational qualification, a positive “Digitale Auskunft zur Berufsqualifikation” from the ZAB
+5e0139b7	With up to three founders and one director (Geschäftsführer) you can use the Musterprotokoll, a ready-made contract template from the law. IHK Berlin states that it can only be used for a founding with cash contributions. If you need special rules between the founders, draw up your own Gesellschaftsvertrag (articles of association). The contract must state the name, registered office, purpose of the business, amount of capital and each founder's share.
+6664b6ff	The articles of association are valid only in notarised form. You can go to a notary office of your choice or have the notarisation done by video call: the law allows this. The Notar also certifies the signatures on the application to the Handelsregister (commercial register) and submits it to the court directly. The Notar's fee is set by law and is the same at every Notar: the calculation for a GmbH and UG is in the route about the Notar.
+c95af3d0	In Berlin the register is kept only by the Amtsgericht Charlottenburg (Charlottenburg local court). The notary sends it the application, the contract, the decision appointing the director and the list of shareholders. The court fee is €150, €240 with a contribution in kind, plus a Bereitstellungsgebühr (data provision fee) of one third of this amount. The processing time is not stated on the service page.
+6ad1ef98	The director files the notification when business starts. A company in formation attaches the notarised contract and the founders' consent. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
+555fed6e	A Gewerbeanmeldung (trade notification) is needed if the company trades, provides services or produces goods: the exceptions are listed on the service page. The director files the notification when business starts. A company in formation attaches the notarised contract and the founders' consent. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
+b771d3e1	GmbH (limited liability company): the Stammkapital (share capital) is at least €25,000. Before filing with the register, at least a quarter of each share and at least €12,500 in total are paid in. UG (haftungsbeschränkt) is the same form with capital from €1: the capital is paid in full and only in cash, not in kind, and a quarter of the annual profit goes into a reserve until the capital reaches €25,000. A UG's name must contain "Unternehmergesellschaft (haftungsbeschränkt)" or "UG (haftungsbeschränkt)".
+413a59a1	The director files the notification when business starts. Attach an extract from the Handelsregister. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
+5197d659	A Gewerbeanmeldung (trade notification) is needed if the company trades, provides services or produces goods: the exceptions are listed on the service page. The director files the notification when business starts. Attach an extract from the Handelsregister. Online for GmbH and UG via BundID: €15; in person at the district Ordnungsamt: €31 for a company with one director and €13 for each additional one.
+533fcffb	A refugee or migrant who does not receive a benefit on the list (AsylbLG is covered under benefits)
+5419b9ec	Date and event name; for an age-based discount, a document confirming age.
+2ae71e19	The monthly net limit is €1,200 for a person living alone and €1,700 for two people, plus €350 for each child.
+a4989a6b	The discount depends on the museum; free tickets depend on availability and eligibility.
+3bb9c308	Schwerbehindertenausweis; if applicable, the companion designation.
+382c5744	Some offers require proof of benefits, income or age.
+5e10b10b	The 116117 service is intended for people with statutory insurance. Enter Berlin, choose the specialty you need and a free time. For an ordinary specialist a 12-digit code on the referral is required; for a family doctor, paediatrician, gynaecologist, ophthalmologist and a first psychotherapy appointment no code is needed. Save the confirmation; the service does not promise a specific practice.
+85c47e61	Register the dog online in the owner's account on the register portal. You need the 15-digit chip number from the pet passport and the breed details. Cost online: €17.50 per dog. The fee notice (Kostenbescheid) serves as proof. Registration in the register also serves as the tax registration. Failing to register or to report changes is an administrative offence with a fine of up to €10,000.
+021dfd96	Registration in the Hunderegister is enough: since 1 January 2024 it counts as the tax registration, and no separate visit to the Finanzamt is needed. The tax deadline is one month after buying the dog or moving. The tax notice arrives by itself after about 4 weeks. You can set up a SEPA direct debit or pay by transfer. Tags are no longer needed. The rate is not stated on the service page: the notice will state it. An exemption is applied for through a separate service.
+83fab683	Liability insurance for dog owners (Tierhalterhaftpflichtversicherung) is required by law in Berlin, also for dogs that are only walked in Berlin. For Listenhunde the deductible is at most €500 per year.
+dcdbb3ed	Send the details in writing by post or e-mail or by phone (GovConnect GmbH). You need the 15-digit chip number from the pet passport and the breed details. Cost: €26.50 per dog. The fee notice (Kostenbescheid) serves as proof. Registration in the register also serves as the tax registration. Failing to register or to report changes is an administrative offence with a fine of up to €10,000.
+2f1302b6	You need a Sachkundebescheinigung ("dog licence"): an exam with a recognised expert (theory: 30 questions, pass mark 70%, 45 minutes; practice: the dog must be at least a year old). The application is filed in person at the district Ordnungsamt; you need the form, the dog's details, insurance, proof of Sachkunde and a photo. The fee depends on processing time: €20.50 per 15 minutes begun, a minimum of €41–61.50 depending on the grounds.
+c5184cac	The deadline is 8 weeks after you notify the Ordnungsamt (Anzeige). This is the "licence" of the owner of such a dog. You take a theory test (30 multiple-choice questions, 45 minutes supervised, 70% correct needed) and a practical obedience test with the dog itself: it must be at least 1 year old. The exam is conducted by experts approved by the Berlin Senate. The list of experts is available at the Ordnungsamt and via the link below. The Sachkundebescheinigung is issued by the Ordnungsamt on application using a special form.
+88c04c57	Listenhunde in Berlin are Pit Bull Terriers, American Staffordshire Terriers, Bull Terriers and their crosses. The Ordnungsamt can declare any other dog dangerous after an incident.
+987f2f35	Failing to register in the register and failing to report changes is an administrative offence, and the fine can reach €10,000.
+d96415df	The permit is issued by the Veterinär- und Lebensmittelaufsicht of the district where the school is located. The departments’ contacts are in the list of Ordnungsämter.
+1394d790	If your goal is to walk without a lead, take the exam after the lessons
+a6e79749	The exam comes after the dog turns one
+ebb248a4	For dogs that lived with their owner before 22 July 2016 (Bestandshunde), no Sachkundebescheinigung is required. Proof can be, for example, an insurance policy, a tax notice or an entry in the pet passport.
+59a64beb	Wesenstest and breed assessment are done by an expert recognised by the Senate
+5da1fbc9	The behaviour test (Wesenstest) and breed assessment (Rassegutachten) may only be done by experts recognised by the Berlin Senate. Deadlines and the full procedure for a listed dog are in the dog route.
+d22261fa	Notifying the Ordnungsamt, Sachkunde, insurance and Wesenstest, with deadlines, are in the dog route.
+55120ab9	Below are search methods, documents and the procedure for your answers. NOSTRES helps you prepare and go to the official sources; the availability of housing and the landlord's decision do not depend on it.
+1dbc1630	Temporary protection (§ 24) is a separate service
+950b5d79	Changing the basis or the employer is a different service
+0e0017af	If you plan to stay beyond the visa's term, the LEA advises filing while it is valid, usually six to eight weeks before the end of a 12-month visa. A first residence permit under a D visa is not an extension of an already issued residence permit; choose the service by the purpose of your stay.
+9e9e00fc	A Schengen C visa is a separate procedure
+0b2df4a3	If life is in danger, go to a hospital emergency department or call 112. If life is not in danger, you can come to the Berliner Krisendienst without an appointment or write in the chat. The phone is a fallback.
+3901692d	The Berliner Krisendienst answers around the clock on the number for your district: 030 39063-10 … -90; the numbers are on the branches page. TelefonSeelsorge answers around the clock and free of charge: 0800 111 0 111 and 0800 111 0 222. The line 030 440 308 454 answers in Russian.
+9ae4272e	The initial consultation (psychotherapeutische Sprechstunde) is up to 6 sessions of 25 minutes, up to 150 minutes in total. No referral is needed. A therapist approved by the health insurance funds must offer these consultations. If no suitable place is available, the 116117 service must find an initial consultation within 4 weeks.
+bc0f429c	If after the consultation the therapist notes on form PTV 11 that treatment is needed soon, acute treatment (Akutbehandlung) of up to 600 minutes is possible. No approval from the health insurance fund is needed; the therapist only notifies it with form PTV 12. The 116117 service must find acute treatment within 2 weeks.
+9c0c501a	First come a few trial sessions and an examination by a family doctor or another doctor to rule out physical causes. Then you and your therapist submit an application to the health insurance fund. Short-term therapy is 12–24 hours; long-term therapy is about 30–60 hours depending on the method.
+00f2e370	Illness is a valid reason if a document confirms it. From 1 July 2026, a second missed appointment without a valid reason reduces the payment, and three missed appointments in a row stop it until you appear in person.
+50450231	The Jobcenter usually accepts a sick note (Arbeitsunfähigkeitsbescheinigung) as a valid reason. Send it to the Jobcenter and keep proof of sending. The Jobcenter may separately ask for a doctor’s certificate stating that you could not attend that particular appointment, and pay for it – up to 5.36 €.
+1bc90533	The cost of a Notar's services is set by the Gerichts- und Notarkostengesetz (GNotKG) and is the same throughout Germany. The Notar must charge exactly what the law prescribes – no more and no less. Advice and drafting of the document are included in the notarisation fee. The fee depends on the value of the matter (Geschäftswert).
+65c2f654	For the entry in the Handelsregister you receive an official invoice, usually from the Amtsgericht (court). Private directories send similar-looking invoices: you do not have to pay them. The court fee in Berlin is €150, €240 with a contribution in kind, plus one third of that amount; the processing time for the entry is not stated on the court's page.
+43afc4e5	The dog is entered in the central register (Hunderegister) as soon as you start keeping it in Berlin; it must have a microchip. Registration and tax steps are in the dog route.
+6a54c1c0	issued by an official or authorised vet of the country of departure and then endorsed by the authority; valid 10 days from issue to the entry check, and for onward travel in the EU 6 months or until the vaccination expires
+a57343dd	Entry from a non-EU country is only through a travellers’ point of entry designated by the EU country you enter. In Berlin this is BER airport. Declare the animal at customs: documents are checked and the chip is read. If the chip is not to the EU standard, bring your own reader.
+c4e8c356	The EU passport is issued for animals whose owners live in the EU. It is needed for travel between EU countries. The procedure is in the passport route.
+41c5bdfe	the certificate – within 10 days before entry
+75de80bf	There is no EU passport for other animals. The rules for travelling with them are in the route on moving with a pet.
+ba4a2479	For non-regulated university professions, for example economist (Wirtschaftswissenschaftler/in), the ZAB issues a Zeugnisbewertung – a statement of the comparability of the degree. The application is submitted online; you need a BundID. The statement does not entitle you to work in a regulated profession.
+e05bfe0e	Citizens of the EU, the EEA and Switzerland do not need a visa for Germany. You can work, study and look for work without a residence permit. The first mandatory step after moving in is registering your address.
+e3595de9	Vacancies and employee rights are in the route on employment; admission is in the route on studying.
+6289e034	Your path: a work visa
+1be40c6d	Citizens of Australia, Israel, Japan, Canada, South Korea, New Zealand, the United Kingdom and the USA can get a residence permit after entering without a visa. Apply within 90 days of entry.
+c1523996	Under 35 you can come to look for an Ausbildung place; with a contract, you come straight to train.
+89204fa8	Your path: the Chancenkarte
+dac5b801	Your path: a student visa
+7069c2ce	Studying needs a student visa; while your university application is pending, a study applicant visa. Funds are proven with a Sperrkonto, a Verpflichtungserklärung or a scholarship.
+02d1e567	Your path: a visa for Ausbildung
+be87437d	Your path: a visa for volunteers
+38292220	Volunteer service in Germany means Bundesfreiwilligendienst, FSJ, FÖJ or the European Solidarity Corps. First you need a place and an agreement, then the visa.
+bccd363f	Your path: family reunification
+974d0338	The Chancenkarte fits with a recognised qualification; the BFD volunteer service has no age limit.
+d471c320	18–30; Australia and Canada 18–35; South Korea 18–34
+d554b8ab	Any German mission; residents of Australia apply at the Consulate General in Sydney
+29d6ac37	The purpose of the trip is a holiday with side jobs, not permanent work
+111264b8	The age limit for this country is 35. Consider other ways to move.
+1ff5c65a	The age limit for this country is 30. Consider other ways to move.
+7579c44e	For South Korea: German Embassy in Seoul
+722c6bf7	The age limit for this country is 34. Check the official requirements and application location.
+a942e72d	The age limit for this country is 34. Consider other ways to move.
+4f5ef476	Residents of Canada: German Consulate General in Toronto
+11c7cdef	The age limit for this country is 35. Check the official requirements and application location.
+6868fa7a	For Brazil: a German diplomatic mission in Brazil
+36352ee4	For Hong Kong: German Consulate General in Hong Kong; the applicant lives in Hong Kong
+78b518c0	For Taiwan: German Institute Taipei
+c78a5f0d	Your path: the Westbalkanregelung
+8537efe2	The Niederlassungserlaubnis is a permanent residence permit. Check the remaining requirements, gather your documents, apply online and attend an appointment at the LEA.
+5febc050	Application and files online, then an appointment at the LEA with the originals.
+05cb1421	€56.50 for processing and €56.50 for issuance; with a university degree as a highly qualified specialist, €73.50 and €73.50; for Turkish citizens €13.80 under 24 and €23.00 from age 24 for each part
+04e6cf09	Files are uploaded to the online form: see the list below; the full list is on the service page. You will need the originals at the appointment.
+28c3d83e	3 years with a residence permit as a family member of a German citizen; the family has lived together the whole time and remains together. German B1; A1 if you held the residence permit before 6 September 2013. Your living costs are covered by your own income without Bürgergeld or Sozialhilfe (exception: a permanent illness with a medical certificate); health and long-term care insurance for you and your family; main residence in Berlin. Even a fine imposed by a court judgement can prevent issuance, and an open investigation halts the procedure.
+c28e98e5	The application requires a German certificate: B1, or A1 if you held the residence permit before 6 September 2013. You can choose a course and exam in the integration course route.
+079f185a	The number is assigned through your employer: one way; the fallback is ordering from DRV or your health insurance fund.
+8a6cae91	Steuer-ID is a separate tax number
+a6a9fb28	Deposit the required amount; the bank issues a confirmation for the application. Before entry, the mission is named as the beneficiary of the block; after entry, the foreigners authority. Provider options are below.
+3ac5168b	The study applicant visa lets you come without a Zulassung and apply to universities on site, take an entrance exam or prepare. It lasts up to nine months.
+57256e18	The visa to look for an Ausbildung place is up to age 35
+0970b351	The provider must give a written summary of the contract before it is concluded. The maximum initial term is 24 months. Choose where you will conclude the contract.
+4210323f	The simplest way is an app with an eSIM, with no visit and no SIM card by post. If you need a contract with a network operator, arrange it online.
+e1804f32	The simplest and fastest is a router on the mobile network: plug it in and the internet works. Wired internet is often faster but depends on the address and may need an engineer.
+a9117607	Vodafone's minimum term is 24 months
+8581ca78	The old provider must keep the service until the switch and may charge no more than 50% of the connection fee. The break must not last longer than one working day. For each extra working day 20% of the monthly fee (at least €10) is due, and for a failed number transfer €10 a day from the second working day.
+dfe6aa29	There is no general discount based on social status. With an employer contribution of at least 25% (€15.75), the Deutschlandticket Job costs €59.85 and the employee pays no more than €44.10; students and trainees have separate options.
+4501b535	The ticket is available only at universities with a VBB contract. In 2026, it costs 60% of the standard Deutschlandticket (€37.80 per month); the university explains how it is issued.
+5d7cf03e	In 2026: €37.80 per month at participating universities
+7debe894	A contract with your university is required.
+c52c28f8	Bundesregierung: Deutschlandsemesterticket price – 60% of the Deutschlandticket
+de8fc739	If the university does not participate in the Deutschlandsemesterticket, a student may qualify for the Monatskarte Ausbildung when studying in Berlin or Brandenburg for at least 15 Credit Points per semester. In 2026, Berlin AB costs €74.10 for a regular monthly ticket or €55.40 per month with a 12-month subscription; Berlin ABC costs €95.70 or €77.50 respectively. These fares apply through the end of 2026; from 1 January 2027, Berlin AB costs €76.90 for a regular monthly ticket and €57.50 per month with a subscription.
+3cf67f29	Eligibility is limited to specific groups: full-time vocational-school training and recognized healthcare schools; FSJ/FÖJ/BFD volunteers; and certain Berlin civil-service trainees without travel reimbursement. Training or service must last at least 12 months and involve 20 hours per week; the institution must be on the VBB list.
+5d282d38	For dual Ausbildung, the employer must have a Deutschlandticket Job contract and pay an increased subsidy. In 2026 the employer must contribute at least €22.05; after the operator discount the ticket costs €59.85, and the eligible trainee pays no more than €37.80 per month.
+f746b0e0	For full-time vocational training or voluntary service: a Berechtigungsnachweis from the institution, issued no more than 30 days before submission to the operator.
+dcafa498	For dual Ausbildung: proof of the Deutschlandticket Job contract and the employer’s increased contribution (at least €22.05 in 2026).
+f4da9347	Your main address must be in Berlin and your benefit must be on the official list of eligible benefits for the Berlin-Ticket S.
+b4b4471e	The Berlin-Ticket S is only for Berlin residents with a qualifying benefit. The route shows the regular VBB fares and the Deutschlandticket.
+ae8ccfb6	Free with a valid Wertmarke; companion travel with Merkzeichen B
+20b57fab	For a free companion: the Merkzeichen B marking.
+f92507b5	112 is the rescue service. With severe shortness of breath, loss of consciousness, heavy bleeding and other signs of a threat to life, urgent assessment by specialists is needed. The call is made by phone, not through a form on a website.
+2ad48233	116117 is for an urgent problem that is not life-threatening. The address and hours of an on-call practice depend on the day and the district; check them before travelling.
+5d2531e6	Call 116117. The service works around the clock and will direct you to suitable help. For a threat to life, call 112.
+1d2a83d5	Appointments Mon–Fri 9–19 in German and English. Appointments in Arabic on Mondays 10–12, in French by arrangement.
+796ef56d	For example: Tiermedizinzentrum Evidensia, Kufsteiner Str. 22, 030 85 42 050, daily 9–24; Tierklinik Freie Universität, Oertzenweg 19 b, 030 838 62422, weekends and public holidays 10–18, no need to call ahead; Tierarztpraxis Lenk, Schönfließer Str. 1, 030 44 69 769, Sun and public holidays 10–18. The full list with hours is on the chamber’s website.
+9b304a13	Tierärzte im Notdienst – Berlin & Brandenburg: 0157 859 49 631, 24 hours.
+2cdc7ebb	Tierärzte im Notdienst – Berlin & Brandenburg: 0157 859 49 631, 24 hours, house calls.
+4e253d78	under 27 – 25 seminar days in 12 months and a 5-day civic education seminar; free and during working time
+3a5b071a	from 27 – at least one seminar day a month, free and during working time
+37f0dc03	Up to 30 on the start date; up to 35 only for humanitarian aid volunteering in countries outside the EU.
+1a3952fd	The volunteer visa is only issued with an agreement with a place of service. BFD is open to any age, FSJ and FÖJ up to 27, the European Solidarity Corps from 18 to 30.
+80c0e585	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply.
+a75a9667	If you are not alone: a marriage certificate or a partnership declaration; for children, birth certificates and a custody declaration
+17887617	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply. For a WG a joint application by flatmates and combining separate WBS are not possible: each person applies for their own.
+c75e4349	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply. Condition: you must live in Berlin not only temporarily, for at least 11 months.
+80399a95	The WBS (Wohnberechtigungsschein, a permit to rent social housing) is issued by the housing authority of your district. Choose how to apply. Condition: you must live in Berlin not only temporarily, for at least 11 months. For a WG a joint application by flatmates and combining separate WBS are not possible: each person applies for their own.
+cee29f04	Proof of qualification: for a degree, a positive anabin result or a ZAB statement of comparability; for vocational training, a positive “Auskunft zur Berufsqualifikation” from ZAB
+08f516cb	first up to 12 months, extended by a year at a time up to 3 years; besides the contracted work, side jobs up to 20 hours a week
+9972ada2	Without recognition in Germany you can work in your profession through an Anerkennungspartnerschaft: recognition happens after entry, while you work. This needs German of at least A2. The alternative is to get recognition before moving.
+7b324dcf	up to 50,000 approvals a year, split by month and country; no AsylbLG benefits in the last 24 months; from age 45 on first approval, a salary from €55,770 a year or a pension provision; the first approval only if you apply at the German mission in one of the six countries
+e842bd1a	NOSTRES: a personal route summary
+20c3f7b7	Determine whether you have been assigned a personal IdNr. and follow the suitable official path, without a paid intermediary and without handing the number to NOSTRES.
+6bb8b9bf	Determine the official path to insurance, choose a Krankenkasse and get confirmation of membership and the eGK, without a paid intermediary.
+f7f52821	This is not a ranking. Below are three examples of statutory funds available in Berlin and the full official list. Compare the contribution, the written service and the branches.
+ce7a42ce	Use your current fund: for family insurance, the family member's fund; for a health card, the fund where membership is already confirmed.
+9fbfda72	The rating was not saved just now. Try sending it again: your answers will stay on the screen.
+422720cb	The message was not saved just now. Try again later: the data you entered is not lost.
+81a8499b	NOSTRES: self-service action plans and official sources
+e40667a5	Answer questions about your citizenship and goal. The route shows whether you need a visa and which path fits – work, Chancenkarte, studies, Ausbildung, volunteer service, family or Working Holiday – and opens the next route. Data from the official pages of the Federal Foreign Office, Make it in Germany and Berlin.
+8a4779f8	Only questions here. After you answer, press "Get my route" – the result and links to official actions will open.
+93eaee0f	If you are already registered, mark this in your answers and the item will disappear.
+9ecc1a25	For first-graders of the 2027/28 intake born 01.10.2020–30.09.2021, personal registration at school is set for 5–16 October 2026. For children already at school after a move, the district's procedure is different; check the official source.
+90933879	First check whether electronic registration suits your documents and situation. If not, the official service provides for an in-person appointment; a representative with a written power of attorney can attend it. For the case where neither the applicant nor a representative can come and the online conditions are not met, a written alternative is not confirmed; check the authority's contacts on the official page.
+ad725635	NOSTRES: to the home page
+7951eade	NOSTRES is an independent service. The procedure and applicability depend on your situation; the final decision is made by the responsible authority or insurance fund.
+4b0043fa	A place in a funded kindergarten needs a Kita-Gutschein (voucher). The application can be filled in online, then the signed document is sent to the district Jugendamt (youth office) by post or handed in in person. Finding a place and issuing the voucher are different actions.
+13dbf581	Health and care insurance, the liability of a dog owner and of a car, social insurance at work and requirements for the self-employed, by situation and with official sources.
+29ed78c3	If work is subject to social contributions, the employer registers you in the social insurance systems. Special types of employment have different rules; check your contract and payslip.
+ed269f36	There are branches for in-person advice (for AOK, the "AOK vor Ort" search), but a visit is not stated as a mandatory step of joining.
+0ae75ea5	NOSTRES is an independent information project from Italy.
+eae5af02	Application or request sent, awaiting a reply
+442fcad1	NOSTRES: your route summary
+fef8a8ab	Interpreter at a Berlin authority: free of charge
+5b05a082	Interpreter for benefits and at the doctor: free of charge
+ae1e2003	116117 has a chat for people with hearing or speech impairments, for when you need medical help but your life is not in danger. In the chat, choose the region Berlin. The 116117 practice search has a “sign language” filter.
+8deeba2d	NOSTRES: home
+30498144	NOSTRES: a clear path after moving; the first pilot is Berlin
+3fce97df	NOSTRES is a free information service with step-by-step guides after moving: documents, housing, health, work, family, benefits, banking and phone, transport and pets. Berlin is the first city; more cities are planned.
+333b681b	Unclear words, unnecessary questions, your case missing, a link going to the wrong place – anything that made you stop or hesitate.
+990321c4	Your ratings will tell us which routes to fix first and whether the service is ready for a wider launch. That is why the main result of the test is the short rating at the end of the route.
+e13adcdf	Name, address, document numbers and medical details are not needed; the service does not ask for them. Then press the button below the questions to get your personal plan.
+a2ffbb18	Rate the route: this is the main result of the test
+72df6bac	Right below the steps, press “Yes, it helped” or “No, it did not help”: one tap. If you wish, a detailed rating of four short questions opens below. Without an answer we will not know how the test went.
+628e3f7e	If none of the situations is familiar, pick a plausible one and answer as that person would. If your case is not among the answers, choose “My case is not covered” in the rating. You can test several routes – one rating for each.
+e5d696d5	The Online-Ausweisfunktion (eID) is a chip function that confirms your identity in a government online service. It is not a separate account: eID confirms identity, while BundID is used as the account.
+ac1d9833	If you already have a suitable card and a six-digit PIN: install the AusweisApp and run "Gerät und Ausweis prüfen"; the app checks the NFC smartphone and whether eID is active.
+93bb93e1	Get the Wohnungsgeberbestätigung from the owner or landlord; a rental contract does not replace it.
+3b2ed1cc	The Anmeldung form, at the visit
+63409077	Documents on marital status, at the first registration if applicable
+d5d65b58	German or EU citizenship, as the condition is worded in the ServicePortal Berlin.
+f998d02c	If the online service does not accept your situation, choose the in-person visit; do not use unofficial workarounds.
+ed6c131e	For several flats: the Beiblatt zur Anmeldung / Hauptwohnungserklärung.
+e8ddde01	For a child in a special custody situation: the consent and documents of the second legal representative.
+880accf4	For a representative: a written power of attorney and the form signed by the applicant.
+b478cd8d	Find the right LEA channel by your status and purpose of stay, without buying an appointment from an intermediary.
+0a2fb61f	Health insurance and proof of funds, if the procedure requires them
+d5b64837	I was registered before, but not now
+749037d2	The official guide for automatic sending is 4–8 weeks. If there is no letter even after 3 months, the BZSt recommends requesting the number again.
+632ea342	An identity document, for a visit in person
+f19beea7	Form 010250 and a copy of the document, only for persons without a Meldepflicht
+d9eca154	No documents and no fee; the average processing of an online request is 4 weeks, the automatic sending after the first Anmeldung 4–8 weeks.
+a28cda29	Check the BZSt letter assigning the steuerliche Identifikationsnummer; it has 11 digits.
+5c64cbf4	If the number is not found, go to the official online re-issue; if it is urgent, go to the Finanzamt with an identity document.
+f0c8915c	Give your Hauptwohnsitz, not a holiday flat or a short-term address.
+b7ff194e	The Meldebestätigung; useful to take to check the address
+200fafe1	The Anmeldung is due within 14 days of moving in; the IdNr. is then assigned automatically.
+60f1ce82	If you file an Einkommensteuererklärung, a separate form for the IdNr. may not be needed; check this with the competent Finanzamt.
+3f604371	Finding a doctor and urgent help are separate routes. Here the goal is to confirm the insurance itself.
+f0d2d983	Students can be insured through the family, be in the studentische Pflichtversicherung or, after 30, under conditions continue the GKV voluntarily.
+e57a4525	You need a family or partnership relationship with a GKV member, residence in Germany and no other mandatory insurance; the Krankenkasse checks income. The general income limit in 2026 is €565 a month, with a Minijob €603.
+803d5fa2	Income above €565 a month (with a Minijob, above €603)
+c28069cd	I do not know; an official check is needed
+1e4586c6	Details of the employer, university, family member or Jobcenter, depending on the chosen basis
+22f75029	A photo for the eGK, after the Krankenkasse requests it
+8cc69c3c	gesund.bund.de – federal health portal
+c2323567	In 2026 the general income limit is €565 a month, with a Minijob €603.
+fd053ef0	A photo for the eGK, when the Krankenkasse asks for it
+1c589ccd	A photo for the eGK, if the fund is ready to accept it straight away
+a7ba7b67	Details of contributions, if a subsidy is needed
+0c94a372	An identity document, if the fund asks for identification
+31e168f0	An employment contract and income, if you work
+b9333fb5	Immatrikulation or Zulassung, if you study
+60d11d80	The basis of family insurance, if applicable
+345766c0	A passport and Aufenthaltstitel, if applicable
+51b694db	Permits or professional documents, for a regulated activity
+daaf6fa6	Proof of experience, if you have it
+f2778f0d	Anerkennung in Deutschland, the official portal
+37e4b49f	Previous school documents, if any
+e89e5e81	Proof of the parents' employment / study, for the Kita hours, if required
+1dd6ca84	For the Anmeldung a rental contract does not replace the Wohnungsgeberbestätigung. At the first registration in Berlin, existing civil status documents may also be needed; for special cases, separate forms.
+9998c01c	For an ordinary visit in person use Berlin's search by address. For an employee without a Meldepflicht the employer's Finanzamt is competent; for another tax obligation, the Finanzamt that handles the Einkommensteuer.
+4963b963	For a repeat online request no documents are uploaded. For an urgent visit in person an identity document is needed; for an issue to a person without a Meldepflicht, form 010250 and a copy of the passport or Personalausweis.
+fa74193b	You are already a member: check the confirmation
+16020079	The official guide for automatic sending is 4–8 weeks. If there is no letter after 3 months, use the repeat online request; if it is urgent, the ServicePortal allows a visit in person to the Finanzamt.
+8761b667	The BZSt sends you the same lifelong IdNr. again. The average processing of the online form is 4 weeks; the number arrives as a paper letter, not by e-mail or phone.
+d8999e42	Income above the general limit of €565 a month (with a Minijob, €603) in 2026 prevents free family insurance. Ask the fund to determine your own mode in writing.
+a0465b58	A Freier Beruf and a Gewerbe are registered with different authorities and taxed differently. The federal guide lists the free professions: if your activity is in it, the path goes through the Finanzamt; if not, through the Gewerbeanmeldung. Prepare an exact description of the activity in advance.
+816ab9bd	Answer all the questions and NOSTRES will choose the applicable next step.
+2347ad36	Technical events and ratings are used to maintain and improve the free service. The basis for processing is the project author's legitimate interest in checking that the routes work and fixing problems. If you send a message, its data is used to consider your enquiry and reply.

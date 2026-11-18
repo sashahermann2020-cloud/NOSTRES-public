@@ -27,7 +27,7 @@ function seed(rows) {
 
 const count = (sqlite, table) => sqlite.prepare(`SELECT COUNT(*) AS n FROM ${table}`).get().n;
 
-test("срок хранения — 12 месяцев", () => assert.equal(RETENTION_MONTHS, 12));
+test("срок хранения – 12 месяцев", () => assert.equal(RETENTION_MONTHS, 12));
 
 test("граница хранения считается в UTC и в формате SQLite", () => {
   assert.equal(retentionCutoff(new Date("2026-11-12T18:02:30Z")), "2025-11-12 18:02:30");
@@ -55,7 +55,7 @@ test("удаляются только записи старше срока, во
   }
 });
 
-test("за один запуск удаляется не больше заданного потолка, остальное — в следующие сутки", async () => {
+test("за один запуск удаляется не больше заданного потолка, остальное – в следующие сутки", async () => {
   const sqlite = seed(Array.from({ length: 25 }, (_, i) => `2024-01-01 00:00:${String(i).padStart(2, "0")}`));
   const now = new Date("2026-11-12T03:00:00Z");
   const first = await purgeExpired(d1(sqlite), now, { batch: 5, maxBatches: 2 });

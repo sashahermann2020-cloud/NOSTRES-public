@@ -11,7 +11,7 @@ type SummaryInput = {
 };
 
 const outcomeLabels: Record<string, string> = {
-  waiting: "Заявление или запрос отправлен — ожидается ответ",
+  waiting: "Заявление или запрос отправлен: ожидается ответ",
   received: "Страхование подтверждено / eGK или Versicherungsnachweis получены",
   additional: "Krankenkasse, вуз, работодатель или Jobcenter запросили документ",
   refused: "Получен отказ или выбранный режим не подтверждён",
@@ -27,7 +27,7 @@ export function buildHealthInsuranceSummary({ method, doneSteps, blockedSteps, o
   const officialSources = sources.filter((source) => source.id && referencedSourceIds.has(source.id));
 
   return [
-    tr("NOSTRES — личная сводка маршрута"),
+    tr("NOSTRES: личная сводка маршрута"),
     tr("Цель: оформить или подтвердить медицинское страхование в Германии"),
     `${tr("Способ:")} ${method.title}`,
     `${tr("Создано:")} ${generatedAt.toLocaleString(currentLocale() === "ru" ? "ru-RU" : currentLocale())}`,

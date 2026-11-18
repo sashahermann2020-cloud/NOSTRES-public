@@ -127,9 +127,9 @@ export const journeys: Journey[] = [
         hint: "Нужен немецкий Personalausweis или немецкая eID-карта для граждан ЕС с активным чипом, шестизначным PIN, а также AusweisApp на смартфоне с NFC или кардридер для компьютера. Обычного паспорта или eAT для онлайн-Anmeldung недостаточно.",
         guide: {
           title: "Что такое eID и как подготовить её",
-          intro: "Online-Ausweisfunktion (eID) — это функция чипа, которая подтверждает вашу личность в государственном онлайн-сервисе. Это не отдельный аккаунт: eID подтверждает личность, а BundID используется как учётная запись.",
+          intro: "Online-Ausweisfunktion (eID): это функция чипа, которая подтверждает вашу личность в государственном онлайн-сервисе. Это не отдельный аккаунт: eID подтверждает личность, а BundID используется как учётная запись.",
           items: [
-            "Если подходящая карта и шестизначный PIN уже есть: установите AusweisApp и запустите «Gerät und Ausweis prüfen» — приложение проверит NFC-смартфон и активность eID.",
+            "Если подходящая карта и шестизначный PIN уже есть: установите AusweisApp и запустите «Gerät und Ausweis prüfen» – приложение проверит NFC-смартфон и активность eID.",
             "Если карта есть и вы получили пятизначный Transport-PIN: замените его в AusweisApp на собственный шестизначный PIN. Посещать ведомство для этого не нужно.",
             "Если чип не активирован или PIN забыт: для Personalausweis или eID-карты обратитесь в любое Bürgeramt. Активация или новый PIN бесплатны, выполняются сразу; активация возможна без предварительной записи.",
             "Если подходящей карты нет: гражданин ЕС/ЕЭЗ может заказать немецкую eID-карту лично в Bürgeramt. Она стоит 37 € и обычно изготавливается 3–4 недели. Для текущей Anmeldung в 14-дневный срок быстрее выбрать личную регистрацию; наличие eID-карты само по себе не отменяет остальные условия онлайн-сервиса.",
@@ -145,12 +145,12 @@ export const journeys: Journey[] = [
       },
     ],
     steps: [
-      "Получите Wohnungsgeberbestätigung от владельца или арендодателя — договор аренды её не заменяет.",
+      "Получите Wohnungsgeberbestätigung от владельца или арендодателя: договор аренды её не заменяет.",
       "Выберите онлайн-подачу, если результат NOSTRES подтверждает доступность, или запишитесь в любой Berliner Bürgeramt.",
       "Подайте сведения в течение 14 дней после въезда и сохраните Meldebestätigung.",
       "Проверьте имя, дату рождения и адрес в выданном подтверждении.",
     ],
-    documents: ["Паспорт или признанный документ личности", "Wohnungsgeberbestätigung", "Форма Anmeldung — при визите", "Документы о семейном положении — при первой регистрации, если применимо"],
+    documents: ["Паспорт или признанный документ личности", "Wohnungsgeberbestätigung", "Форма Anmeldung: при визите", "Документы о семейном положении: при первой регистрации, если применимо"],
     fallback: "Если нет свободного времени, проверяйте официальный сервис повторно: Берлин сообщает, что дополнительные термины добавляются ежедневно. Можно записаться через 115. Подтверждение записи считается доказательством соблюдения срока Anmeldung. Термины бесплатны; купленные у посредников не признаются.",
     sources: [
       { id: "anmeldung-main", label: "Anmeldung: условия, документы и порядок", organization: "ServicePortal Berlin", url: "https://service.berlin.de/dienstleistung/120686/", checkedAt: "30 октября 2026", scope: "Берлин", evidence: "14-дневный срок, условия онлайн- и личной подачи, документы, стоимость и результат." },
@@ -183,7 +183,7 @@ export const journeys: Journey[] = [
         fee: "Бесплатно.",
         prerequisites: [
           "Возраст 18 лет или старше.",
-          "Гражданство Германии или страны ЕС — так условие сформулировано в ServicePortal Berlin.",
+          "Гражданство Германии или страны ЕС: так условие сформулировано в ServicePortal Berlin.",
           "Переезд внутри Германии в единственную или основную квартиру.",
           "BundID с входом через онлайн-идентификацию.",
           "Немецкий Personalausweis или немецкая eID-карта для граждан ЕС с активной Online-Ausweisfunktion и шестизначным PIN. Электронный Aufenthaltstitel eAT для этой услуги не подходит.",
@@ -213,7 +213,7 @@ export const journeys: Journey[] = [
           "Если нет BundID, создайте аккаунт по официальной ссылке и вернитесь к подаче.",
           "Если карта есть, сначала проверьте её в AusweisApp. Transport-PIN можно заменить на шестизначный PIN самостоятельно; забытый PIN восстанавливают в Bürgeramt.",
           "Если подходящей карты нет, не откладывайте Anmeldung ради её оформления: eID-карта изготавливается около 3–4 недель, а Anmeldung требуется в течение 14 дней. Выберите личный путь.",
-          "Если онлайн-сервис не принимает вашу ситуацию, выберите личное посещение — не используйте неофициальные обходные способы.",
+          "Если онлайн-сервис не принимает вашу ситуацию, выберите личное посещение – не используйте неофициальные обходные способы.",
         ],
         links: [
           { label: "Начать онлайн-Anmeldung", url: "https://serviceportal.gemeinsamonline.de/Onlinedienste/Service/Entry/EWA", kind: "primary" },
@@ -263,9 +263,9 @@ export const journeys: Journey[] = [
           "Оригиналы документов личности всех переезжающих: паспорт, признанный заменяющий документ и eAT, если применимо.",
           "Wohnungsgeberbestätigung. Договор аренды её не заменяет.",
           "Документы гражданского состояния при первой регистрации в Берлине, если применимо.",
-          "Для нескольких квартир — Beiblatt zur Anmeldung / Hauptwohnungserklärung.",
-          "Для ребёнка при особой ситуации с опекой — согласие и документы второго законного представителя.",
-          "Для представителя — письменная доверенность и подписанная заявителем форма.",
+          "Для нескольких квартир: Beiblatt zur Anmeldung / Hauptwohnungserklärung.",
+          "Для ребёнка при особой ситуации с опекой: согласие и документы второго законного представителя.",
+          "Для представителя: письменная доверенность и подписанная заявителем форма.",
         ],
         steps: [
           "Получите Wohnungsgeberbestätigung и проверьте дату въезда, адрес и имена всех регистрируемых лиц.",
@@ -317,7 +317,7 @@ export const journeys: Journey[] = [
     category: "Пребывание",
     scope: "Берлин",
     title: "Aufenthaltstitel (подача или продление вида на жительство)",
-    summary: "Определить правильный канал LEA по статусу и цели пребывания — без покупки термина у посредника.",
+    summary: "Определить правильный канал LEA по статусу и цели пребывания – без покупки термина у посредника.",
     applies: "Вы живёте в Берлине и хотите оформить, продлить или изменить право на пребывание.",
     questions: [
       { id: "status", prompt: "Ваш статус сейчас", options: [{ value: "eu", label: "Гражданин ЕС / ЕЭЗ" }, { value: "nonEU", label: "Виза или ВНЖ, страна вне ЕС" }, { value: "ukraine", label: "Временная защита §24" }, { value: "protection", label: "Убежище / Duldung / иная защита" }] },
@@ -330,7 +330,7 @@ export const journeys: Journey[] = [
       "Сохраните PDF-подтверждение отправки и все загруженные документы.",
       "После проверки дождитесь запроса дополнительных документов или приглашения на личный приём.",
     ],
-    documents: ["Паспорт", "Текущая виза / Aufenthaltstitel", "Anmeldung или доказательство адреса", "Документы по цели пребывания", "Медицинская страховка и подтверждение средств — если требует процедура"],
+    documents: ["Паспорт", "Текущая виза / Aufenthaltstitel", "Anmeldung или доказательство адреса", "Документы по цели пребывания", "Медицинская страховка и подтверждение средств: если требует процедура"],
     fallback: "Для подтверждённой срочности используйте контактную форму компетентного отдела LEA и приложите доказательство. Просроченный документ или сложный спор требуют индивидуальной проверки.",
     sources: [
       { label: "Все онлайн-заявки и контактные формы", organization: "Landesamt für Einwanderung Berlin", url: "https://www.berlin.de/einwanderung/termine/unsere-dienstleistungen/artikel.873508.php" },
@@ -369,14 +369,14 @@ export const journeys: Journey[] = [
         hint: "После первой регистрации Meldebehörde передаёт данные в BZSt. Если IdNr. уже выдавалась раньше, новую не присваивают.",
         options: [
           { value: "current", label: "Да, сейчас зарегистрирован(а)" },
-          { value: "previous", label: "Раньше был(а) зарегистрирован(а), сейчас — нет" },
+          { value: "previous", label: "Раньше был(а) зарегистрирован(а), сейчас: нет" },
           { value: "never", label: "Никогда не был(а) зарегистрирован(а)" },
         ],
       },
       {
         id: "firstRegistrationAge",
         prompt: "Сколько времени прошло после первой Anmeldung в Германии?",
-        hint: "Официальный ориентир автоматической отправки — 4–8 недель. Если письма нет и через 3 месяца, BZSt рекомендует запросить номер повторно.",
+        hint: "Официальный ориентир автоматической отправки: 4–8 недель. Если письма нет и через 3 месяца, BZSt рекомендует запросить номер повторно.",
         options: [
           { value: "under3", label: "Меньше 3 месяцев" },
           { value: "over3", label: "3 месяца или больше" },
@@ -409,12 +409,12 @@ export const journeys: Journey[] = [
       "Если номер потерян, запросите повторное сообщение через официальный онлайн-формуляр.",
       "Не отправляйте IdNr в открытый чат и не публикуйте её в сообществе.",
     ],
-    documents: ["Имя, дата и место рождения", "Текущий Hauptwohnsitz", "Удостоверение личности — для личного обращения", "Форма 010250 и копия документа — только для лиц без Meldepflicht"],
+    documents: ["Имя, дата и место рождения", "Текущий Hauptwohnsitz", "Удостоверение личности: для личного обращения", "Форма 010250 и копия документа: только для лиц без Meldepflicht"],
     fallback: "Если обычный путь не подходит, NOSTRES отделит ситуацию с обязательной Anmeldung от специальной выдачи через Finanzamt для лиц без Meldepflicht.",
     sources: [
       { id: "taxid-berlin-main", label: "Steuer-ID: присвоение и повторное получение", organization: "ServicePortal Berlin", url: "https://service.berlin.de/dienstleistung/329123/", checkedAt: "30 октября 2026", scope: "Берлин · Германия", evidence: "Пожизненный номер, автоматическая передача после Anmeldung, повторный онлайн-запрос и срочное личное обращение." },
       { id: "taxid-online-form", label: "Повторно сообщить Steuer-ID", organization: "BZSt / ELSTER BOP", url: "https://www.elster.de/bportal/formulare-leistungen/alleformulare/idnr", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Прямая официальная онлайн-форма BZSt; номер не сообщают по телефону или email." },
-      { id: "taxid-bund-portal", label: "Порядок, сроки и стоимость", organization: "Bundesportal", url: "https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99102044101000/herausgeber/LeiKa-102730390/region/00", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Без документов и платы; средняя обработка онлайн-запроса 4 недели, автоматическая отправка после первой Anmeldung — 4–8 недель." },
+      { id: "taxid-bund-portal", label: "Порядок, сроки и стоимость", organization: "Bundesportal", url: "https://verwaltung.bund.de/leistungsverzeichnis/DE/leistung/99102044101000/herausgeber/LeiKa-102730390/region/00", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Без документов и платы; средняя обработка онлайн-запроса 4 недели, автоматическая отправка после первой Anmeldung – 4–8 недель." },
       { id: "taxid-bzst", label: "Официальный раздел о Steuer-ID", organization: "Bundeszentralamt für Steuern", url: "https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/StID/stid.html", checkedAt: "24 сентября 2026", scope: "Германия", evidence: "Федеральное описание IdNr., повторной выдачи и вопросов граждан." },
       { id: "taxid-no-registration", label: "IdNr. для лиц без обязанности Anmeldung", organization: "ServicePortal Berlin", url: "https://service.berlin.de/dienstleistung/329216/", checkedAt: "30 октября 2026", scope: "Берлин · Германия", evidence: "Кому доступна отдельная выдача через Finanzamt, документы, компетенция и отсутствие платы." },
       { id: "taxid-form-010250", label: "Форма 010250 для лиц без Meldepflicht", organization: "Senatsverwaltung für Finanzen Berlin", url: "https://www.berlin.de/sen/finanzen/steuern/downloads/einkommen-und-lohnsteuerformulare/010250-antrag-vergabe-idnr.pdf", checkedAt: "24 сентября 2026", scope: "Германия", evidence: "Официальное заявление на выдачу IdNr. через Finanzamt для лиц без обязанности регистрации." },
@@ -442,10 +442,10 @@ export const journeys: Journey[] = [
         prerequisites: ["Steuer-ID уже была присвоена хотя бы один раз.", "У вас есть доступ к своим налоговым или зарплатным документам."],
         documents: ["Письмо BZSt о присвоении IdNr.", "Последний Einkommensteuerbescheid", "Lohnsteuerbescheinigung или расчётный лист работодателя"],
         steps: [
-          "Проверьте письмо BZSt о присвоении steuerliche Identifikationsnummer — это 11 цифр.",
+          "Проверьте письмо BZSt о присвоении steuerliche Identifikationsnummer: это 11 цифр.",
           "Проверьте последний Einkommensteuerbescheid и Lohnsteuerbescheinigung работодателя.",
           "Убедитесь, что нашли именно личную IdNr., а не Steuernummer, USt-IdNr. или W-IdNr.",
-          "Если номер не найден, перейдите к официальной повторной онлайн-выдаче; при срочной необходимости — в Finanzamt с удостоверением личности.",
+          "Если номер не найден, перейдите к официальной повторной онлайн-выдаче; при срочной необходимости: в Finanzamt с удостоверением личности.",
         ],
         expectedResult: ["Найдена ваша прежняя 11-значная IdNr.", "Новый номер не создавался: используется уже присвоенный."],
         fallback: ["Если документы недоступны, запросите повторное сообщение через BZSt.", "Если номер нужен срочно, ServicePortal Berlin разрешает лично запросить его в Finanzamt после проверки личности."],
@@ -502,7 +502,7 @@ export const journeys: Journey[] = [
         steps: [
           "Откройте прямую форму BZSt и выберите сообщение IdNr. самой налогоплательщице или самому налогоплательщику.",
           "Введите личные данные точно так, как они указаны в Melderegister и документе личности.",
-          "Укажите Hauptwohnsitz — не Ferienwohnung и не краткосрочный адрес.",
+          "Укажите Hauptwohnsitz: не Ferienwohnung и не краткосрочный адрес.",
           "Отправьте форму. BZSt не сообщает IdNr. по email или телефону.",
           "Дождитесь бумажного письма и проверьте 11-значный номер.",
         ],
@@ -528,7 +528,7 @@ export const journeys: Journey[] = [
         processingTime: "Официальная страница не публикует срок; выдача зависит от проверки личности и данных.",
         fee: "Бесплатно.",
         prerequisites: ["IdNr. уже присвоена или вы зарегистрированы в Германии.", "Есть подтверждённая срочная необходимость.", "Можно лично подтвердить свою личность."],
-        documents: ["Действующий паспорт или другое подходящее удостоверение личности", "Meldebestätigung — полезно взять для проверки адреса"],
+        documents: ["Действующий паспорт или другое подходящее удостоверение личности", "Meldebestätigung: полезно взять для проверки адреса"],
         steps: [
           "Откройте официальный Finanzamt-Finder и найдите Finanzamt по своему берлинскому адресу.",
           "Откройте страницу найденного Finanzamt и проверьте адрес и актуальные часы Infozentrale.",
@@ -551,7 +551,7 @@ export const journeys: Journey[] = [
         title: "Сначала Anmeldung (регистрация адреса)",
         badge: "Предварительный шаг",
         summary: "Если вы живёте в Германии и обязаны зарегистрировать адрес, отдельная форма 010250 не заменяет Anmeldung.",
-        deadline: "Anmeldung — в течение 14 дней после въезда; IdNr. после неё присваивается автоматически.",
+        deadline: "Anmeldung: в течение 14 дней после въезда; IdNr. после неё присваивается автоматически.",
         preparationTime: "Зависит от выбранного способа Anmeldung.",
         appointmentTime: "Онлайн при соблюдении условий или лично по записи в Bürgeramt.",
         processingTime: "После первой Anmeldung письмо с IdNr. обычно приходит за 4–8 недель.",
@@ -625,7 +625,7 @@ export const journeys: Journey[] = [
           "Дождитесь письменного сообщения IdNr. на указанный адрес.",
         ],
         expectedResult: ["Finanzamt запросил присвоение IdNr.", "IdNr. направлена письменно на указанный адрес."],
-        fallback: ["Если вы подаёте Einkommensteuererklärung, отдельная форма на IdNr. может не требоваться — проверьте это у компетентного Finanzamt.", "Если вы фактически живёте в Германии и обязаны регистрироваться, сначала выполните Anmeldung."],
+        fallback: ["Если вы подаёте Einkommensteuererklärung, отдельная форма на IdNr. может не требоваться: проверьте это у компетентного Finanzamt.", "Если вы фактически живёте в Германии и обязаны регистрироваться, сначала выполните Anmeldung."],
         links: [
           { label: "Скачать форму 010250", url: "https://www.berlin.de/sen/finanzen/steuern/downloads/einkommen-und-lohnsteuerformulare/010250-antrag-vergabe-idnr.pdf", kind: "primary" },
           { label: "Проверить компетенцию Finanzamt", url: "https://service.berlin.de/dienstleistung/329216/", kind: "secondary" },
@@ -644,12 +644,12 @@ export const journeys: Journey[] = [
     summary: "Определить подходящий путь, выбрать официальную Krankenkasse и получить подтверждение страхования и eGK.",
     applies: "Вы живёте, работаете, учитесь или получаете Grundsicherung в Германии и хотите оформить или проверить медицинское страхование.",
     questions: [
-      { id: "goal", prompt: "Какой результат вам нужен?", hint: "Поиск врача и срочная помощь будут отдельными маршрутами. Здесь цель — подтвердить само страхование.", options: [{ value: "join", label: "Оформить страхование впервые или после переезда" }, { value: "switch", label: "Сменить Krankenkasse" }, { value: "card", label: "Получить eGK или временное подтверждение" }] },
+      { id: "goal", prompt: "Какой результат вам нужен?", hint: "Поиск врача и срочная помощь будут отдельными маршрутами. Здесь цель: подтвердить само страхование.", options: [{ value: "join", label: "Оформить страхование впервые или после переезда" }, { value: "switch", label: "Сменить Krankenkasse" }, { value: "card", label: "Получить eGK или временное подтверждение" }] },
       { id: "insured", prompt: "Какая страховка действует сейчас?", hint: "Не отменяйте действующий полис, пока новая Krankenkasse письменно не подтвердила начало покрытия.", options: [{ value: "gkv", label: "Немецкая государственная GKV" }, { value: "private", label: "Немецкая частная PKV" }, { value: "foreign", label: "Только иностранная страховка / EHIC" }, { value: "none", label: "Нет или не знаю" }] },
       { id: "situation", prompt: "На каком основании вы хотите быть застрахованы?", options: [{ value: "employee", label: "Работаю или начинаю работу по найму" }, { value: "student", label: "Поступаю или учусь" }, { value: "family", label: "Через супруга, партнёра или родителя в GKV" }, { value: "benefit", label: "Получаю или подаю на Grundsicherung" }, { value: "self", label: "Самозанятость / другой случай" }] },
       { id: "employeeBand", prompt: "Какой у вас вид занятости и доход в 2026 году?", hint: "Обычный работник выше Minijob-границы и не выше Jahresarbeitsentgeltgrenze обычно подлежит GKV. В 2026 году верхняя граница составляет 77 400 € в год; Minijob сам по себе не создаёт медицинское страхование через работу.", options: [{ value: "compulsory", label: "Обычная работа: выше Minijob и не более 77 400 € в год" }, { value: "above", label: "Более 77 400 € в год" }, { value: "mini", label: "Только Minijob" }, { value: "unknown", label: "Не знаю / особый трудовой статус" }] },
-      { id: "studentAge", prompt: "Какой вариант описывает вас?", hint: "Студенты могут быть семейно застрахованы, состоять в studentische Pflichtversicherung или после 30 лет — при условиях — продолжить GKV добровольно.", options: [{ value: "familyPossible", label: "До 25 лет, возможно страхование через семью" }, { value: "studentGkv", label: "25–29 лет или семейное страхование не подходит" }, { value: "thirtyPlus", label: "30 лет или старше" }, { value: "unknown", label: "Не уверен(а) / особая программа" }] },
-      { id: "familyCheck", prompt: "Выполняются базовые условия Familienversicherung?", hint: "Нужны родство или партнёрство с членом GKV, проживание в Германии и отсутствие другой обязательной страховки; доход проверяет Krankenkasse. Общая граница дохода в 2026 году — 565 € в месяц, при Minijob — 603 €.", options: [{ value: "likely", label: "Да, условия похожи на мои" }, { value: "incomeHigh", label: "Доход выше 565 € в месяц (при Minijob — выше 603 €)" }, { value: "unknown", label: "Не знаю — нужна официальная проверка" }] },
+      { id: "studentAge", prompt: "Какой вариант описывает вас?", hint: "Студенты могут быть семейно застрахованы, состоять в studentische Pflichtversicherung или после 30 лет – при условиях – продолжить GKV добровольно.", options: [{ value: "familyPossible", label: "До 25 лет, возможно страхование через семью" }, { value: "studentGkv", label: "25–29 лет или семейное страхование не подходит" }, { value: "thirtyPlus", label: "30 лет или старше" }, { value: "unknown", label: "Не уверен(а) / особая программа" }] },
+      { id: "familyCheck", prompt: "Выполняются базовые условия Familienversicherung?", hint: "Нужны родство или партнёрство с членом GKV, проживание в Германии и отсутствие другой обязательной страховки; доход проверяет Krankenkasse. Общая граница дохода в 2026 году – 565 € в месяц, при Minijob – 603 €.", options: [{ value: "likely", label: "Да, условия похожи на мои" }, { value: "incomeHigh", label: "Доход выше 565 € в месяц (при Minijob: выше 603 €)" }, { value: "unknown", label: "Не знаю: нужна официальная проверка" }] },
     ],
     steps: [
       "Определите основание страхования: работа, учёба, семья, Grundsicherung или индивидуальная проверка.",
@@ -658,11 +658,11 @@ export const journeys: Journey[] = [
       "Передайте сведения о выбранной кассе работодателю, вузу или Jobcenter, если это относится к вашей ситуации.",
       "Получите eGK; если карта ещё не пришла, запросите у кассы временный Versicherungsnachweis.",
     ],
-    documents: ["Документ личности", "Адрес и контактные данные", "Данные работодателя, вуза, члена семьи или Jobcenter — по выбранному основанию", "Сведения о текущем или предыдущем страховании", "Фото для eGK — после запроса Krankenkasse"],
+    documents: ["Документ личности", "Адрес и контактные данные", "Данные работодателя, вуза, члена семьи или Jobcenter: по выбранному основанию", "Сведения о текущем или предыдущем страховании", "Фото для eGK: после запроса Krankenkasse"],
     fallback: "Если касса не подтверждает право на выбранный режим, запросите письменное решение и не отменяйте действующую страховку. Сложные переходы GKV ↔ PKV сначала проверяются самой Krankenkasse.",
     sources: [
       { id: "health-overview", label: "Как устроено медицинское страхование", organization: "gesund.bund.de", url: "https://gesund.bund.de/krankenversicherung", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Обязанность страхования, GKV/PKV, Minijob, свободный выбор кассы и семейное страхование." },
-      { id: "health-newcomers", label: "Страхование после перерыва или переезда", organization: "gesund.bund.de — федеральный портал здоровья", url: "https://gesund.bund.de/en/krankenversicherung", checkedAt: "23 октября 2026", scope: "Германия", evidence: "Страхование обязательно для всех жителей; возврат в прежний режим GKV или PKV после перерыва; взносы за период без страховки." },
+      { id: "health-newcomers", label: "Страхование после перерыва или переезда", organization: "gesund.bund.de: федеральный портал здоровья", url: "https://gesund.bund.de/en/krankenversicherung", checkedAt: "23 октября 2026", scope: "Германия", evidence: "Страхование обязательно для всех жителей; возврат в прежний режим GKV или PKV после перерыва; взносы за период без страховки." },
       { id: "health-gkv-list", label: "Официальный список Krankenkassen", organization: "GKV-Spitzenverband", url: "https://www.gkv-spitzenverband.de/service/krankenkassenliste/krankenkassen.jsp", checkedAt: "2 октября 2026", scope: "Германия · фильтр Берлин", evidence: "Кассы, регионы допуска, актуальные Zusatzbeiträge и переход на официальный сайт выбранной кассы." },
       { id: "health-aok-join", label: "AOK Nordost: онлайн-заявление", organization: "AOK Nordost", url: "https://www.aok.de/mw/nordost/mitgliedsantrag/", checkedAt: "2 октября 2026", scope: "Берлин, Бранденбург, Мекленбург-Передняя Померания", evidence: "Официальное заявление на членство, условия применимости и контакты AOK Nordost." },
       { id: "health-aok-berlin", label: "AOK Nordost в Берлине: контакты и офисы", organization: "AOK Nordost", url: "https://www.aok.de/pk/nordost/region/berlin/", checkedAt: "2 октября 2026", scope: "Берлин", evidence: "Онлайн-сервисы, письменный контакт и поиск сервисных центров в Берлине." },
@@ -671,7 +671,7 @@ export const journeys: Journey[] = [
       { id: "health-barmer-join", label: "BARMER: онлайн-заявление", organization: "BARMER", url: "https://www.barmer.de/mitglied-werden", checkedAt: "2 октября 2026", scope: "Германия", evidence: "Официальный онлайн-путь вступления в BARMER." },
       { id: "health-barmer-contact", label: "BARMER: письменный контакт и консультация", organization: "BARMER", url: "https://www.barmer.de/persoenliche-beratung", checkedAt: "2 октября 2026", scope: "Германия · отделения в Берлине", evidence: "Контактная форма, чат, другие каналы и поиск отделений." },
       { id: "health-insured-groups", label: "Кто подлежит GKV и Familienversicherung", organization: "Bundesministerium für Gesundheit", url: "https://www.bundesgesundheitsministerium.de/gesetzlich-versicherte", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Группы обязательного страхования, студенты, семейное страхование; Geringfügigkeitsgrenze 603 € в месяц в 2026 году." },
-      { id: "health-family-limit", label: "Граница дохода для Familienversicherung в 2026 году", organization: "Techniker Krankenkasse", url: "https://www.tk.de/techniker/versicherung/tk-leistungen/schwangerschaft-und-familie/versichert-als-familie-in-der-familienversicherung/einkommensgrenze-familienversicherung-2005696", checkedAt: "30 октября 2026", scope: "Германия", evidence: "В 2026 году общая граница дохода — 565 € в месяц, при Minijob — 603 €." },
+      { id: "health-family-limit", label: "Граница дохода для Familienversicherung в 2026 году", organization: "Techniker Krankenkasse", url: "https://www.tk.de/techniker/versicherung/tk-leistungen/schwangerschaft-und-familie/versichert-als-familie-in-der-familienversicherung/einkommensgrenze-familienversicherung-2005696", checkedAt: "30 октября 2026", scope: "Германия", evidence: "В 2026 году общая граница дохода – 565 € в месяц, при Minijob – 603 €." },
       { id: "health-contributions", label: "Взносы и границы GKV в 2026 году", organization: "Bundesministerium für Gesundheit", url: "https://www.bundesgesundheitsministerium.de/beitraege", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Jahresarbeitsentgeltgrenze 77 400 € в 2026 году и распределение взносов." },
       { id: "health-choice", label: "Выбор и смена Krankenkasse", organization: "Bundesministerium für Gesundheit", url: "https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/online-ratgeber-krankenversicherung/krankenversicherung/wahl-und-wechsel-der-krankenkasse", checkedAt: "30 октября 2026", scope: "Германия", evidence: "Допустимые кассы, обязанность быстро сообщить работодателю и правила смены." },
       { id: "health-student", label: "Медицинское страхование студентов", organization: "gesund.bund.de", url: "https://gesund.bund.de/krankenversicherung-studierende", checkedAt: "2 октября 2026", scope: "Германия", evidence: "Семейная, студенческая обязательная и добровольная GKV, а также последствия освобождения в пользу PKV." },
@@ -701,7 +701,7 @@ export const journeys: Journey[] = [
         processingTime: "Единый официальный срок вступления и выпуска eGK не установлен; его сообщает выбранная касса.",
         fee: "Отдельной платы за заявление нет; взносы удерживаются из дохода, работодатель участвует в их уплате.",
         prerequisites: ["Обычная занятость выше Minijob-границы.", "Доход не превышает Jahresarbeitsentgeltgrenze 77 400 € в 2026 году либо обязанность GKV подтверждена кассой.", "Покрытие должно быть непрерывным; прежний полис не отменён до подтверждения нового."],
-        documents: ["Документ личности", "Адрес и контактные данные", "Дата начала и данные работодателя", "Сведения о текущем или предыдущем страховании", "Фото для eGK — когда его запросит Krankenkasse"],
+        documents: ["Документ личности", "Адрес и контактные данные", "Дата начала и данные работодателя", "Сведения о текущем или предыдущем страховании", "Фото для eGK: когда его запросит Krankenkasse"],
         steps: [
           "Проверьте, что ваша работа не является только Minijob и что выбранный путь GKV соответствует доходу.",
           "Откройте официальный список, выберите Bundesland Berlin и сравните допуск, Zusatzbeitrag, сервис и дополнительные услуги.",
@@ -734,7 +734,7 @@ export const journeys: Journey[] = [
         processingTime: "Единого официального срока нет; попросите кассу назвать дату начала членства и выпуска eGK письменно.",
         fee: "Консультация и заявление в выбранной GKV не оплачиваются отдельно; членские взносы зависят от дохода.",
         prerequisites: ["Вы выбрали кассу, открытую для жителей или работников Берлина.", "Вы проверили применимость GKV к своему статусу.", "Вы готовы получить письменное подтверждение, а не только устный ответ."],
-        documents: ["Документ личности", "Адрес", "Данные работодателя и дата начала", "Сведения о прежней страховке", "Фото для eGK — если касса готова принять его сразу"],
+        documents: ["Документ личности", "Адрес", "Данные работодателя и дата начала", "Сведения о прежней страховке", "Фото для eGK: если касса готова принять его сразу"],
         steps: [
           "В официальном списке отфильтруйте кассы для Берлина и откройте сайт выбранной Krankenkasse.",
           "На сайте кассы откройте Kontakt / Geschäftsstellen и проверьте адрес, часы и нужна ли запись.",
@@ -828,7 +828,7 @@ export const journeys: Journey[] = [
         processingTime: "Срок зависит от решения Jobcenter и Krankenkasse; единого официального срока нет.",
         fee: "Jobcenter оплачивает взносы GKV либо при условиях выдаёт субсидию к действующему страхованию.",
         prerequisites: ["Подано или готовится заявление на Grundsicherung.", "Вы сообщили Jobcenter фактический текущий страховой статус.", "Вы не меняете GKV/PKV без проверки последствий."],
-        documents: ["Данные Krankenkasse или полиса", "Документы заявления на Grundsicherung", "Mitgliedsbescheinigung или иной страховой Nachweis по запросу", "Сведения о взносах — если требуется субсидия"],
+        documents: ["Данные Krankenkasse или полиса", "Документы заявления на Grundsicherung", "Mitgliedsbescheinigung или иной страховой Nachweis по запросу", "Сведения о взносах: если требуется субсидия"],
         steps: [
           "Проверьте официальный порядок покрытия взносов при Grundsicherung.",
           "Если вы можете выбрать GKV, используйте официальный список и оформите членство в выбранной кассе.",
@@ -860,7 +860,7 @@ export const journeys: Journey[] = [
         processingTime: "Единого официального срока изготовления eGK нет: срок зависит от кассы.",
         fee: "eGK выдаётся Krankenkasse в рамках членства без отдельной платы.",
         prerequisites: ["Немецкая GKV уже подтвердила членство.", "Имя и адрес в данных кассы актуальны.", "Для человека с 15 лет подготовлено фото, кроме официальных исключений."],
-        documents: ["Номер застрахованного или подтверждение членства", "Фото для eGK с 15 лет", "Актуальный адрес", "Документ личности — если касса запрашивает идентификацию"],
+        documents: ["Номер застрахованного или подтверждение членства", "Фото для eGK с 15 лет", "Актуальный адрес", "Документ личности: если касса запрашивает идентификацию"],
         steps: [
           "Свяжитесь со своей Krankenkasse через её официальный кабинет, телефон или офис.",
           "Проверьте, подтверждено ли членство и какой адрес используется для доставки.",
@@ -921,7 +921,7 @@ export const journeys: Journey[] = [
         processingTime: "Единого срока проверки нет; попросите письменный ответ и дату возможного начала.",
         fee: "Проверка у GKV не оплачивается отдельно; условия PKV зависят от договора и личных факторов.",
         prerequisites: ["Ваш случай не подтверждает простой обязательный путь GKV.", "Действующая страховка сохраняется до письменного решения.", "Вы готовы раскрывать персональные данные только официальной кассе или страховщику."],
-        documents: ["Трудовой договор и доход — если работаете", "Immatrikulation или Zulassung — если учитесь", "Сведения о прежней GKV/PKV или иностранной страховке", "Основание семейного страхования — если применимо"],
+        documents: ["Трудовой договор и доход: если работаете", "Immatrikulation или Zulassung: если учитесь", "Сведения о прежней GKV/PKV или иностранной страховке", "Основание семейного страхования: если применимо"],
         steps: [
           "Откройте официальный обзор и определите, какая именно деталь требует проверки: доход выше границы, Minijob, самозанятость, возраст студента, PKV или иностранная страховка.",
           "Выберите подходящую GKV из официального списка и запросите письменную Prüfung der Versicherungspflicht / Mitgliedschaft.",
@@ -961,7 +961,7 @@ export const journeys: Journey[] = [
       "Для Freier Beruf подайте Fragebogen zur steuerlichen Erfassung через ELSTER; для Gewerbe сначала используйте Berliner Gewerbeanmeldung.",
       "Не выставляйте счета с выдуманной Steuernummer и заранее проверьте НДС и обязательные страхования.",
     ],
-    documents: ["Паспорт и Aufenthaltstitel — если применимо", "Описание деятельности", "Берлинский адрес бизнеса", "Прогноз доходов и расходов", "Разрешения или профессиональные документы — для регулируемой деятельности"],
+    documents: ["Паспорт и Aufenthaltstitel: если применимо", "Описание деятельности", "Берлинский адрес бизнеса", "Прогноз доходов и расходов", "Разрешения или профессиональные документы: для регулируемой деятельности"],
     fallback: "Если граница между Freier Beruf и Gewerbe неясна или есть иностранные доходы, подготовьте факты и получите индивидуальную налоговую консультацию до регистрации.",
     sources: [
       { label: "Как зарегистрироваться как Freiberufler", organization: "Existenzgründungsportal des Bundes", url: "https://www.existenzgruendungsportal.de/Redaktion/DE/So-gehts/Unternehmensanmeldung/als-freiberuflerin-und-freiberufler-anmelden" },
@@ -993,10 +993,10 @@ export const journeys: Journey[] = [
       "Проверьте индивидуальный перечень документов до заказа переводов и заверений.",
       "Подайте заявление в указанный компетентный орган и сохраните Bescheid.",
     ],
-    documents: ["Документ личности", "Диплом / свидетельство квалификации", "Приложение с предметами и часами", "Подтверждения опыта — если есть", "Переводы только по требованиям компетентного органа"],
+    documents: ["Документ личности", "Диплом / свидетельство квалификации", "Приложение с предметами и часами", "Подтверждения опыта: если есть", "Переводы только по требованиям компетентного органа"],
     fallback: "Если документов не хватает, сначала используйте официальную консультацию. Для академического диплома в нерегулируемой профессии может быть нужна Zeugnisbewertung ZAB, а не профессиональное признание.",
     sources: [
-      { label: "Anerkennungs-Finder", organization: "Anerkennung in Deutschland — официальный портал", url: "https://www.anerkennung-in-deutschland.de/html/de/anerkennungs-finder.php" },
+      { label: "Anerkennungs-Finder", organization: "Anerkennung in Deutschland: официальный портал", url: "https://www.anerkennung-in-deutschland.de/html/de/anerkennungs-finder.php" },
       { label: "Пошаговый процесс признания", organization: "Anerkennung in Deutschland", url: "https://www.anerkennung-in-deutschland.de/html/de/anerkennung-bekommen.php" },
       { label: "Оценка иностранного высшего образования", organization: "Zentralstelle für ausländisches Bildungswesen", url: "https://www.kmk.org/zentralstelle-fuer-auslaendisches-bildungswesen/zentralstelle-fuer-auslaendisches-bildungswesen/ueber-die-zab.html" },
     ],
@@ -1024,7 +1024,7 @@ export const journeys: Journey[] = [
       "После распределения лично зарегистрируйте ребёнка в назначенной школе.",
       "Для подростков 16–18 лет проверьте отдельный путь Willkommensklasse в Oberstufenzentrum.",
     ],
-    documents: ["Документ ребёнка и родителя", "Anmeldung / адрес в Берлине", "Свидетельство о рождении", "Предыдущие школьные документы — если есть", "Подтверждение занятости / учёбы родителей — для объёма Kita, если требуется"],
+    documents: ["Документ ребёнка и родителя", "Anmeldung / адрес в Берлине", "Свидетельство о рождении", "Предыдущие школьные документы: если есть", "Подтверждение занятости / учёбы родителей: для объёма Kita, если требуется"],
     fallback: "Если ребёнок школьного возраста ещё не распределён, обращайтесь в координационный пункт Schulamt своего района; не ждите самостоятельного ответа от случайно выбранной школы.",
     sources: [
       { label: "Подать на Kita-Gutschein", organization: "ServicePortal Berlin", url: "https://service.berlin.de/dienstleistung/324873/" },
@@ -1087,7 +1087,7 @@ export const anmeldungProblems: RouteProblem[] = [
     id: "missing_document",
     label: "Не хватает документа",
     title: "Сначала найдите точное требование на странице услуги",
-    description: "Для Anmeldung договор аренды не заменяет Wohnungsgeberbestätigung. При первой регистрации в Берлине могут дополнительно понадобиться имеющиеся документы гражданского состояния; для специальных случаев — отдельные формы.",
+    description: "Для Anmeldung договор аренды не заменяет Wohnungsgeberbestätigung. При первой регистрации в Берлине могут дополнительно понадобиться имеющиеся документы гражданского состояния; для специальных случаев: отдельные формы.",
     methodTypes: ["online", "in-person"],
     sourceIds: ["anmeldung-main"],
     actions: [
@@ -1175,7 +1175,7 @@ export const taxIdProblems: RouteProblem[] = [
     id: "taxid_office_unclear",
     label: "Непонятно, какой Finanzamt",
     title: "Компетенция зависит от цели и адреса",
-    description: "Для обычного личного обращения используйте берлинский поиск по адресу. Для работника без Meldepflicht компетентен Finanzamt работодателя; для другой налоговой обязанности — Finanzamt, ведущий Einkommensteuer.",
+    description: "Для обычного личного обращения используйте берлинский поиск по адресу. Для работника без Meldepflicht компетентен Finanzamt работодателя; для другой налоговой обязанности: Finanzamt, ведущий Einkommensteuer.",
     methodTypes: ["in-person", "hybrid"],
     sourceIds: ["taxid-finanzamt-finder", "taxid-no-registration"],
     actions: [
@@ -1187,7 +1187,7 @@ export const taxIdProblems: RouteProblem[] = [
     id: "taxid_missing_document",
     label: "Не хватает документа",
     title: "Проверьте комплект для выбранного способа",
-    description: "Для повторного онлайн-запроса документы не загружаются. Для срочного личного обращения нужен документ личности; для выдачи лицу без Meldepflicht — форма 010250 и копия паспорта или Personalausweis.",
+    description: "Для повторного онлайн-запроса документы не загружаются. Для срочного личного обращения нужен документ личности; для выдачи лицу без Meldepflicht: форма 010250 и копия паспорта или Personalausweis.",
     methodTypes: ["online", "in-person", "hybrid"],
     sourceIds: ["taxid-bund-portal", "taxid-no-registration", "taxid-form-010250"],
     actions: [
@@ -1426,7 +1426,7 @@ export function getAvailableActionMethods(journey: Journey, answers: Record<stri
 
     if (answers.situation === "employee") {
       if (answers.insured === "gkv" && answers.goal === "join") {
-        const method = healthMethod("health-egk", "Членство уже есть — проверьте подтверждение");
+        const method = healthMethod("health-egk", "Членство уже есть: проверьте подтверждение");
         return method ? [method] : [];
       }
       if (answers.employeeBand === "compulsory") {
@@ -1521,9 +1521,9 @@ export function getPersonalizedResult(journeyId: string, answers: Record<string,
     if (answers.registrationHistory === "current") {
       const shouldWait = ["notReceived", "unsure"].includes(answers.idStatus) && answers.firstRegistrationAge === "under3";
       if (shouldWait) {
-        return { title: answers.urgency === "urgent" ? "Можно ждать письмо или обратиться в Finanzamt срочно" : "Пока действует автоматический путь после Anmeldung", text: "Официальный ориентир автоматической отправки — 4–8 недель. Если письма нет через 3 месяца, используйте повторный онлайн-запрос; при срочной необходимости ServicePortal допускает личное обращение в Finanzamt.", actionLabel: "Проверить официальный срок", actionUrl: journey.sources.find((source) => source.id === "taxid-bund-portal")!.url };
+        return { title: answers.urgency === "urgent" ? "Можно ждать письмо или обратиться в Finanzamt срочно" : "Пока действует автоматический путь после Anmeldung", text: "Официальный ориентир автоматической отправки: 4–8 недель. Если письма нет через 3 месяца, используйте повторный онлайн-запрос; при срочной необходимости ServicePortal допускает личное обращение в Finanzamt.", actionLabel: "Проверить официальный срок", actionUrl: journey.sources.find((source) => source.id === "taxid-bund-portal")!.url };
       }
-      return { title: answers.urgency === "urgent" ? "Выберите онлайн-запрос или срочный Finanzamt" : "Запросите повторное сообщение IdNr. онлайн", text: "BZSt повторно сообщает ту же пожизненную IdNr. Средняя обработка онлайн-формы — 4 недели; номер приходит бумажным письмом, а не по email или телефону.", actionLabel: "Открыть форму BZSt", actionUrl: journey.sources.find((source) => source.id === "taxid-online-form")!.url };
+      return { title: answers.urgency === "urgent" ? "Выберите онлайн-запрос или срочный Finanzamt" : "Запросите повторное сообщение IdNr. онлайн", text: "BZSt повторно сообщает ту же пожизненную IdNr. Средняя обработка онлайн-формы: 4 недели; номер приходит бумажным письмом, а не по email или телефону.", actionLabel: "Открыть форму BZSt", actionUrl: journey.sources.find((source) => source.id === "taxid-online-form")!.url };
     }
 
     if (answers.registrationHistory === "previous") {
@@ -1577,7 +1577,7 @@ export function getPersonalizedResult(journeyId: string, answers: Record<string,
     }
 
     if (answers.situation === "family") {
-      if (answers.familyCheck === "incomeHigh") return { title: "Familienversicherung, вероятно, не подходит: нужна собственная страховка", text: "Доход выше общей границы 565 € в месяц (при Minijob — 603 €) в 2026 году препятствует бесплатному семейному страхованию. Попросите кассу письменно определить собственный режим.", actionLabel: "Проверить официальные условия семьи", actionUrl: source("health-insured-groups") };
+      if (answers.familyCheck === "incomeHigh") return { title: "Familienversicherung, вероятно, не подходит: нужна собственная страховка", text: "Доход выше общей границы 565 € в месяц (при Minijob – 603 €) в 2026 году препятствует бесплатному семейному страхованию. Попросите кассу письменно определить собственный режим.", actionLabel: "Проверить официальные условия семьи", actionUrl: source("health-insured-groups") };
       return { title: "Подайте заявление в Krankenkasse члена семьи", text: "Семейное страхование не возникает автоматически: касса проверяет родство, проживание, доход и отсутствие другого обязательного режима для каждого человека.", actionLabel: "Проверить Familienversicherung", actionUrl: source("health-insured-groups") };
     }
 
@@ -1592,7 +1592,7 @@ export function getPersonalizedResult(journeyId: string, answers: Record<string,
     if (answers.permission === "unclear") return { title: "Сначала проверьте право на самозанятость", text: "Регистрация бизнеса не заменяет разрешение на работу. Проверьте формулировку в Aufenthaltstitel и условия LEA до начала деятельности.", actionLabel: "Открыть правила LEA", actionUrl: journey.sources[3].url, warning: "Не начинайте деятельность, пока право на неё не подтверждено." };
     if (answers.type === "trade") return { title: "Ваш первый маршрут: Gewerbeanmeldung", text: "Для Gewerbe в Берлине доступна онлайн-подача. После неё всё равно потребуется налоговая регистрация через ELSTER.", actionLabel: "Открыть Gewerbeanmeldung", actionUrl: journey.sources[2].url };
     if (answers.type === "freelance") return { title: "Начните с Finanzamt через ELSTER", text: "Freiberufler обычно не подают Gewerbeanmeldung. Передайте Fragebogen zur steuerlichen Erfassung и дождитесь Steuernummer.", actionLabel: "Открыть Fragebogen в ELSTER", actionUrl: journey.sources[1].url };
-    return { title: "Определите вид деятельности по официальному перечню", text: "Freier Beruf и Gewerbe регистрируются в разных органах и облагаются по-разному. Федеральный гайд перечисляет свободные профессии: если ваша деятельность в нём, путь идёт через Finanzamt, если нет — через Gewerbeanmeldung. Заранее подготовьте точное описание деятельности.", actionLabel: "Открыть гайд для Freiberufler", actionUrl: journey.sources[0].url };
+    return { title: "Определите вид деятельности по официальному перечню", text: "Freier Beruf и Gewerbe регистрируются в разных органах и облагаются по-разному. Федеральный гайд перечисляет свободные профессии: если ваша деятельность в нём, путь идёт через Finanzamt, если нет – через Gewerbeanmeldung. Заранее подготовьте точное описание деятельности.", actionLabel: "Открыть гайд для Freiberufler", actionUrl: journey.sources[0].url };
   }
 
   if (journeyId === "recognition") {

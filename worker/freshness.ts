@@ -1,6 +1,6 @@
 // Актуальность информации в маршрутах: какой маршрут нужно заново сверить с официальными страницами и почему.
 // Чистые функции без сети и базы: используются отчётом /_monitor/links и скриптом scripts/freshness-report.mjs.
-// Правила — PROJECT_SPEC.md, «Актуальность информации».
+// Правила – PROJECT_SPEC.md, «Актуальность информации».
 
 export interface RouteSources {
   id: string;
@@ -25,7 +25,7 @@ export interface RouteFreshness {
   checkedAt: string;
   daysSinceCheck: number;
   reviewDays: number;
-  /** Пусто — маршрут актуален. Порядок: сначала самые срочные причины. */
+  /** Пусто – маршрут актуален. Порядок: сначала самые срочные причины. */
   reasons: Reason[];
   /** Страницы маршрута, которые сейчас не открываются. */
   broken: string[];

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Собирает public/manifest/<язык>.webmanifest — описание NOSTRES для установки на телефон или компьютер.
+// Собирает public/manifest/<язык>.webmanifest – описание NOSTRES для установки на телефон или компьютер.
 // Один id для всех языков: браузер считает это одним приложением; start_url ведёт на главную выбранного языка.
 // Описание берётся из уже переведённой строки (public/i18n/<язык>.json). Запуск: node scripts/manifest-build.mjs
 import fs from "node:fs";

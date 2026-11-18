@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Список маршрутов, которые нужно заново сверить с официальными страницами (правила — worker/freshness.ts).
-// Вход — выгрузка из D1 `nostres` в одном JSON-файле: { "links": [...], "events": [...] }, где
+// Список маршрутов, которые нужно заново сверить с официальными страницами (правила – worker/freshness.ts).
+// Вход – выгрузка из D1 `nostres` в одном JSON-файле: { "links": [...], "events": [...] }, где
 //   links  = SELECT url, state, last_status, last_checked, last_ok FROM link_monitor_links
 //   events = SELECT url, kind, detail, created_at FROM link_monitor_events
 //            WHERE kind IN ('content_changed','moved','broken','hijacked')

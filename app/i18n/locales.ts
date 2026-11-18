@@ -1,4 +1,4 @@
-/** Языки интерфейса. Русский — язык-источник: все тексты в коде написаны по-русски. */
+/** Языки интерфейса. Русский – язык-источник: все тексты в коде написаны по-русски. */
 export type LocaleCode = "ru" | "en" | "de" | "es" | "it" | "tr" | "ar" | "pt" | "fr";
 export const LOCALES: ReadonlyArray<{ code: LocaleCode; name: string; dir: "ltr" | "rtl"; /** Показывать язык в переключателе, когда перевод готов. */ ready: boolean }> = [
   { code: "ru", name: "Русский", dir: "ltr", ready: true },
@@ -18,7 +18,7 @@ export const isLocale = (value: string | null | undefined): value is LocaleCode 
 export const READY_LOCALES = LOCALES.filter((item) => item.ready);
 export const localeDir = (code: LocaleCode): "ltr" | "rtl" => LOCALES.find((item) => item.code === code)?.dir ?? "ltr";
 
-/** Раскладывает адрес на язык и путь без языкового префикса: /en/berlin/start → en, /berlin/start. Русский — без префикса. */
+/** Раскладывает адрес на язык и путь без языкового префикса: /en/berlin/start → en, /berlin/start. Русский – без префикса. */
 export function splitLocalePath(pathname: string): { locale: LocaleCode; path: string } {
   const match = pathname.match(/^\/([a-z]{2})(\/.*)?$/);
   const code = match?.[1];

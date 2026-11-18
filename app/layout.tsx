@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     locale: "ru_RU",
     siteName: "NOSTRES",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NOSTRES — понятный путь после переезда; первый пилот — Берлин" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NOSTRES: понятный путь после переезда; первый пилот: Берлин" }],
   },
   twitter: {
     card: "summary_large_image",
@@ -48,7 +48,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           name: "NOSTRES",
           url: SITE_ORIGIN,
           inLanguage: serverLocale(),
-          description: serverTr("NOSTRES — бесплатный информационный сервис с пошаговыми маршрутами после переезда: документы, жильё, здоровье, работа, семья, пособия, банк и связь, транспорт и животные. Первый город — Берлин; другие города планируются."),
+          description: serverTr("NOSTRES: бесплатный информационный сервис с пошаговыми маршрутами после переезда: документы, жильё, здоровье, работа, семья, пособия, банк и связь, транспорт и животные. Первый город: Берлин; другие города планируются."),
         }) }} />
         <script dangerouslySetInnerHTML={{ __html: "try{var t=localStorage.getItem('nostres-text-size');if(t==='large'||t==='xlarge')document.documentElement.dataset.text=t}catch(e){}" }} />
         <link rel="manifest" href={`/manifest/${serverLocale()}.webmanifest`} />

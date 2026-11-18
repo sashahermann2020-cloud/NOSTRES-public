@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Krankenversicherung (медицинская страховка): маршрут NOSTRES",
     description: "Работа, учёба, семья, Jobcenter и eGK: персональный путь только по официальным источникам.",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NOSTRES — самостоятельные планы действий и официальные источники" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NOSTRES: самостоятельные планы действий и официальные источники" }],
   },
 };
 

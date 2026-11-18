@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { journeys, getVisibleQuestions, getPersonalizedResult } from "../app/nostres-data.ts";
 
-// Правило спецификации §3.1: результат — это конкретный вывод со ссылкой, а не «уточните»/«сверьте»/«недостаточно данных».
+// Правило спецификации §3.1: результат – это конкретный вывод со ссылкой, а не «уточните»/«сверьте»/«недостаточно данных».
 const forbidden = /(уточните|сверьте|спросите|узнайте у|недостаточно данных|пока не подтвержд)/i;
 
 test("every personalized result of every journey is concrete and has an official link", () => {

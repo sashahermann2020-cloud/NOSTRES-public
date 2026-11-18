@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     locale: "ru_RU",
     siteName: "NOSTRES",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NOSTRES — самостоятельные планы действий и официальные источники" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "NOSTRES: самостоятельные планы действий и официальные источники" }],
   },
   twitter: {
     card: "summary",

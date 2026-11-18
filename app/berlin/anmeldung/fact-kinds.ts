@@ -4,8 +4,8 @@ export type FactField = "deadline" | "preparationTime" | "appointmentTime" | "pr
 export const factFieldOrder: FactField[] = ["deadline", "preparationTime", "appointmentTime", "processingTime", "fee"];
 
 /** Тип достоверности каждого срока и суммы у способов Anmeldung, Steuer-ID и медицинской страховки (спецификация §11).
- * official — закон или официальное правило; authority — ориентир ведомства; editorial — оценка NOSTRES;
- * load — зависит от загруженности; none — официальных данных нет. */
+ * official – закон или официальное правило; authority – ориентир ведомства; editorial – оценка NOSTRES;
+ * load – зависит от загруженности; none – официальных данных нет. */
 const k = (deadline: FactKind, preparationTime: FactKind, appointmentTime: FactKind, processingTime: FactKind, fee: FactKind): Record<FactField, FactKind> => ({ deadline, preparationTime, appointmentTime, processingTime, fee });
 
 export const factKinds: Record<string, Record<FactField, FactKind>> = {

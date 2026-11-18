@@ -197,7 +197,6 @@ f4f52431	Henüz yok
 d05a02c5	Şu anda Alman hesabınız yok
 e06690d7	Kalıcı adres var
 eb3dbe8c	Almanya'da ilk hesap: Girokonto veya Basiskonto
-6cc411bd	Normal Girokonto hesabın koşullarını banka belirler. Basiskonto, Almanya'da henüz ödeme hesabı olmayan tüketicinin temel hesap hakkıdır: banka yalnızca yasada sayılan birkaç durumda reddedebilir. Aşağıdan bir yol seçin.
 c69d07c4	Ziyaretsiz: çevrimiçi, uygulama veya telefon
 828f0943	Direct banka kimliği Videoident veya Postident ile doğrular. Şubeye gitmek istemiyorsanız veya gidemiyorsanız uygundur.
 b8258565	Belgeniz için mevcut
@@ -232,7 +231,6 @@ f3b19697	Normal hesap · uygulama
 b7fa6aef	Tamamen mobil hesap: uygulamada açılır, kimlik video ile doğrulanır. Bu normal bir hesaptır, Basiskonto değildir: N26 sayfasında Basiskonto'dan söz edilmez: hesap koşullarını bankanın kendisi belirler.
 b59f2e88	görüntülü görüşme veya belge fotoğrafı (Reisepass veya Personalausweis); N26 bloguna göre çevrimiçi açılış «birkaç dakikadan birkaç saate kadar» sürer. N26 sayfalarında ayrı bir doğrulama süresi belirtilmemiştir
 1442a576	N26 Standard tarifesi
-a40d65ac	Ayda 0 €; fiziksel kart tek seferlik 10 €
 38e5a689	18 yaş ve üzerisiniz ve N26'nın çalıştığı bir ülkede yaşıyorsunuz
 b571bb50	Akıllı telefon ve geçerli bir belge gerekir: pasaportlar, ulusal kimlik kartları ve oturma izinleri kabul edilir, kişisel belge listesini doğrulamanın başında uygulama gösterir
 a490c572	Belgeniz desteklenmiyorsa N26 hesap açamaz
@@ -548,7 +546,6 @@ a08d15f2	randevu servisi makul bir mesafede bir hafta içinde uzman randevusu ö
 06119a3e	Randevunun maliyeti
 ac013f7b	Sağlık Bakanlığı ve KBV'nin resmi sayfaları randevunun hasta için maliyetini belirtmez; muayeneyi sigorta kasası olağan kurallarla öder, katkı payı her kasada farklıdır
 459110cc	Çevrimiçi boş randevu seçin
-22f310bc	116117 hizmeti devlet sigortalısı olanlara yöneliktir. Berlin'i girin, gerekli uzmanlığı ve boş zamanı seçin. Sıradan bir uzman için sevkte 12 haneli kod gerekir; aile hekimi, çocuk doktoru, jinekolog, göz doktoru ve psikoterapistle ilk görüşme için kod gerekmez. Onayı saklayın; hizmet belirli bir muayenehane vaat etmez.
 ea21e899	Resmi eTerminservice'i açın
 b6e245ac	Federal portal: kimin koda ihtiyacı var ve nasıl randevu alınır
 8c839b87	Belirli bir muayenehane seçin
@@ -638,7 +635,6 @@ ad14a287	Berlin: Hundegesetz, sorular ve yanıtlar
 2e7d9f2a	Köpeği hemen Hunderegister'a kaydedin
 0726d4ab	Köpeği sicil portalındaki sahip hesabında çevrimiçi kaydedin. Hayvan pasaportundaki 15 haneli çip numarası ve ırk bilgileri gerekir. Çevrimiçi maliyet: köpek başına 17,50 €. Ücret makbuzu (Kostenbescheid) onay yerine geçer. Sicile kayıt aynı zamanda vergi kaydıdır. Eksik kayıt, 10.000 €'ya kadar para cezası gerektiren bir idari ihlaldir.
 57a523f3	Köpek vergisi
-65f582cc	Hunderegister'a kayıt yeterlidir: 1 Ocak 2024'ten beri vergi kaydı sayılır, Finanzamt'a ayrı ziyaret gerekmez. Vergi süresi, köpeğin edinilmesinden veya taşınmadan sonra bir aydır. Vergi bildirimi kendiliğinden, yaklaşık 4 hafta sonra gelir. SEPA ile otomatik ödeme bağlanabilir veya havaleyle ödenebilir. Künye artık gerekmez. Oran miktarı hizmet sayfasında belirtilmemiştir: bildirimde yazar. Muafiyet ayrı bir hizmetle başvurulur.
 189c0b72	Berlin: köpek vergisi
 56800ce0	Hunderegister: kayıt
 55323aea	Sorumluluk sigortası
@@ -655,7 +651,6 @@ f8f9b54a	Köpek başına 26,50 €
 b1ec61ff	Almanya'da sigortalar
 98683275	Bilgiler Berlin'in resmi sayfalarına dayanır. Süreler ve koşullar orada belirtilmiştir.
 5cde52c4	Tasma muafiyeti (isteğe bağlı)
-ebe9f0bf	Sachkundebescheinigung («Hundeführerschein») gerekir: tanınmış bir uzmanın yaptığı sınav (teori 30 soru, geçme eşiği %70, 45 dakika; pratik: köpek en az bir yaşında olmalı). Başvuru, semt Ordnungsamt'ına şahsen yapılır; form, köpeğin bilgileri, sigorta, Sachkunde belgesi ve fotoğraf gerekir. İşlem süresine göre ücret: başlanan her 15 dakika için 20,50 €, gerekçeye bağlı olarak en az 41–61,50 €.
 4efdb2fe	Berlin: tasma muafiyeti
 e7750ae0	Berlin'in tanınmış uzmanları
 e0503ed8	Irk Listenhunde kapsamında: zorunlu süreler ve koşullar geçerli
@@ -687,7 +682,6 @@ ac15ee62	Çitle çevrili alanın dışında sokakta: ısırmaya karşı koruyan 
 56063604	Başka herhangi bir ırk veya melez de, bir olaydan, örneğin ısırmadan sonra, Ordnungsamt kararıyla tehlikeli sayılabilir. Bu genel bilgidir, hukuki danışmanlık değildir: süreler ve koşullar, adımlardaki bağlantılarda dairelerin sayfalarında belirtilmiştir.
 38b1a136	Köpeğin ırkının Listenhunde kapsamında olup olmadığını bilmiyorsunuz
 b0991366	Önce köpeğin Listenhunde kapsamında olup olmadığını belirleyin
-d0939262	Berlin'de Listenhunde: Pit Bull Terrier, American Staffordshire Terrier, Bull Terrier ve melezleri. Başka herhangi bir köpeği Ordnungsamt bir olaydan sonra tehlikeli sayabilir.
 0c18b633	Irkı belgelerden kontrol edin
 315c493e	Soy kütüğüne, hayvan pasaportuna ve edinme belgelerine bakın. Bir yaşından küçük köpek için satıcı yazılı edinme belgesi (Erwerbsbescheinigung) vermek zorundadır; daha büyük köpekler için de, ırk veya melez belirtilerek gereklidir.
 09a8c5a2	Irk değerlendirmesini Ordnungsamt'tan sipariş edin
@@ -708,7 +702,6 @@ f3e347a5	Sigorta poliçesini de güncellemeyi unutmayın: sigortacıya yeni adre
 c47db8eb	Hunderegister'a bildirin
 1827e21b	Köpek, ölümden, kaybolmadan veya devirden sonra kayıttan silinmelidir. Bildirim sahip hesabında, yazılı veya telefonla yapılabilir.
 d0e7a65f	Köpek vergisi: kayıt kuralları
-6aff9547	Sicile kaydetmemek ve değişiklikleri bildirmemek bir idari ihlaldir, para cezası 10.000 €'ya ulaşabilir.
 b02014f7	Almanya'da ne kadardır yasal olarak yaşıyorsunuz?
 fe4bfee8	5 yıl ve daha fazla, kesintisiz
 44fb613d	Üç yıl, ve bir Alman vatandaşıyla en az 2 yıldır evliyim veya ortaklık içindeyim
@@ -1185,7 +1178,6 @@ f03673f4	Bana uygun olup olmadığını bilmiyorum
 473ce6c5	SCHUFA: var
 405bb2ff	WBS: WBS'yi kontrol etmek istiyorsunuz
 bf8291f8	Berlin'de daire arama
-0c52dff2	Aşağıda yanıtlarınız için arama yolları, belgeler ve eylem sırası var. NOSTRES hazırlanmanıza ve resmi kaynaklara geçmenize yardım eder; boş konutun varlığı ve ev sahibinin kararı ona bağlı değildir.
 5af76b7a	Bu genel bilgidir, hukuki danışmanlık değildir. İlan ve resmi hizmet koşullarına kendi sayfalarında bakın; WBS için ayrı bir rota vardır.
 245315f3	Sosyal konut için başvurup başvurmayacağınıza karar verin
 6bc5a127	WBS (sosyal konut kiralama izni) gelire ve ikamet statüsüne bağlıdır; kararı semt konut dairesi verir. Çevrimiçi PDF/JPG belgeleri hazırlayın (toplam en çok 30 MB, her biri en çok 5 MB). Postayla imzalı formları semtinizin dairesine gönderin; henüz Berlin'de yaşamıyorsanız herhangi bir semt seçilebilir. Başvuru ücretsizdir. İnceleme süresi hizmet sayfasında belirtilmemiştir; WBS daire sahibi olmayı garanti etmez.
@@ -1921,7 +1913,6 @@ bd8bfe11	Sayılan insani gerekçelerle oturma izninin uzatılması
 ea118b58	Paragrafınıza göre belgeler: tam liste hizmet sayfasında
 7fe0636d	sürenin bitiminden en erken sekiz hafta önce
 93c2f42e	elektronik oturma izni veriliyorsa genellikle randevudan sonra 4–6 hafta
-23288f25	Geçici koruma (§ 24) ayrı bir hizmettir
 46932f12	İnsani gerekçeyle uzatmanın genel kuralları § 24 için geçerli değildir. Güncel koşulları ve usulü ayrı resmi sayfada kontrol edin.
 b9c1be55	Bu genel bilgidir, hukuki danışmanlık değildir. Koşullar adımlarda belirtilen resmi sayfalardan alınmıştır; nihai kararı daire verir.
 31a2d9cf	Uygun resmi hizmeti açın
@@ -1936,14 +1927,12 @@ d13a24ae	Hizmeti başvuru amacına göre seçin
 f50087e0	İlk alım ve önceki gerekçeyle uzatma farklı gereksinimlere yol açabilir. Hizmetinizi adına göre seçin ve «Çevrimiçi işlem» bölümünü kontrol edin.
 7ddcdbeb	LEA hizmet kataloğunu açın
 233e233d	Amaç: gerekçeyi veya işvereni değiştirmek
-53414c77	Gerekçe veya işveren değişikliği ayrı bir hizmettir
 b87d0e6f	İşveren değişikliğinde ayrı bir prosedür uygun olabilir; gerekçe değişikliğinde kataloğdan ilgili hizmeti seçin. Eski gerekçenin uzatmasını otomatik olarak vermeyin.
 d8862978	İkametin gerekçesinin kendisi değişiyorsa LEA hizmet kataloğunu kullanın.
 d514d11e	İşveren değişikliğini kontrol edin
 d854e399	Amaç: henüz bilinmiyor
 b99c554b	Belge: ulusal D vizesi
 f1bd5ba4	Geçerli ulusal D vizesiyle hizmeti kalış amacına göre seçin
-ae676c69	Vizenin süresinden uzun kalmayı planlıyorsanız LEA, vize geçerliyken başvurmanızı önerir, genellikle 12 aylık vizenin bitiminden altı–sekiz hafta önce. D vizesiyle ilk oturma izni, verilmiş bir oturma izninin uzatması değildir; hizmeti kalış amacına göre seçin.
 e5dee4dc	Gerekçeniz için hizmeti bulun
 3fc64687	Belge: süresi doldu
 78f077c8	Belgenin süresi zaten doldu: LEA'nın ayrı bir incelemesi gerekir
@@ -1951,7 +1940,6 @@ fb68487f	Olağan çevrimiçi başvurunun onayı, süresi dolmuş belgeyi otomati
 7fa8f71f	Süre dolduktan sonra yapılan başvuruda Fiktionsbescheinigung (statünün geçici korunması belgesi) vaat etmiyoruz.
 f024ccb9	LEA'nın iletişim birimini bulun
 3cc71c17	Belge: Schengen C vizesi
-5954360c	Schengen C vizesi ayrı bir prosedürdür
 4a1d2e91	Olağan oturma izni başvurusu, Schengen vizesi kapsamındaki kalış süresini uzatmaz. Vizenin kendisinin uzatılması yalnızca istisnai durumlarda mümkündür.
 a6a380cc	Çevrimiçi oturma izni başvurusunun C vizesi bittikten sonra kalma hakkı yaratacağını beklemeyin.
 1c9cac7f	C vizesi için resmi hizmeti açın
@@ -2545,7 +2533,6 @@ d0c55fa2	Sınırsız internetli mobil hat (SIM kart veya eSIM)
 6f5c1df7	Evde internet
 612d94c6	Yeni bir mobil hat veya internet sözleşmesine ihtiyacınız var
 c9e85768	Yeni sözleşme: imzadan önce nelere bakmalı
-ce9780d7	Operatör, sözleşmeden önce metin hâlinde kısa bir sözleşme özeti vermek zorundadır. En uzun ilk süre 24 aydır. Sözleşmeyi nerede yapacağınızı seçin.
 12b891ad	Çevrimiçi veya telefonla
 e55aaccd	Sözleşme mağazaya gitmeden yapılır. Cayma hakkı geçerlidir. Telefon eSIM'i (telefonun içindeki SIM kart) destekliyorsa postayla SIM gerekmez: operatör, telefona kurulan bir profil gönderir. Hangi operatörlerin eSIM verdiği kartlarında belirtilmiştir.
 6db86c8e	Çoğu operatörde sözleşme yapılırken mevcuttur
@@ -2653,7 +2640,6 @@ d2026ed3	14 günlük cayma hakkı telefonla, çevrimiçi ve işyeri dışında y
 40a7d57d	Rota: banka hesabı
 b7062838	Akıllı telefon için sınırsız mobil internete ihtiyacınız var
 b855bd67	Sınırsız mobil internet: kolaylığa göre seçenekler
-0d12b6d5	En kolay yol, ziyaretsiz ve postayla SIM olmadan eSIM'li bir uygulamadır. Şebeke operatöründe sözleşme istiyorsanız çevrimiçi yapın.
 d99faa3a	Uygulamadan sipariş (eSIM)
 60317c10	Tarife, ziyaret ve postayla SIM olmadan uygulamada yapılır. eSIM destekleyen bir telefon gerekir.
 d21a895c	eSIM'li telefon gerekir
@@ -2711,7 +2697,6 @@ aecc0b69	ayda 30,6 GB'a kadar ek ücretsiz, bunun üzerinde GB başına 1,31 €
 62da66df	Bu genel bilgidir, hukuki danışmanlık değildir. Tarifeler burada karşılaştırılmaz ve değerlendirilmez.
 604a832a	Evde internete ihtiyacınız var
 51890783	Evde internet: kolaylığa göre seçenekler
-a2a0a42e	En kolay ve en hızlı yol mobil şebekede router'dır: prize takın, internet çalışır. Kablolu internet çoğunlukla daha hızlıdır ama adrese bağlıdır ve usta gerektirebilir.
 08f0e174	Mobil şebekeyle internet, ustasız
 ca34243c	Router prize takılır, hiçbir şey monte etmek gerekmez. Kablolu internet yoksa veya hızlı gerekiyorsa uygundur.
 39ec9315	Evde 5G/LTE kapsaması varsa mevcut
@@ -2738,7 +2723,6 @@ e944967b	Operatörün sayfasına adresi girin: hangi hızların mevcut olduğunu
 d8625462	Adresinizde mevcut bağlantı türü gerekir; bazen usta gelir. Hız bakımından genellikle daha avantajlıdır ama bağlantı daha uzun sürer.
 f4b636d7	Adrese bağlı
 0a22a795	Bağlantı türü ve hız, operatörün sayfasında adres kontrolüyle belirlenir
-1053baa3	Vodafone'da asgari süre 24 aydır
 5ddcd2f8	Gerekiyorsa konut sahibinin bağlantıya onayı
 b06064cc	Vodafone hızları
 0e728817	50 ile 1000 Mbit/sn arası, router 0 €
@@ -2760,7 +2744,6 @@ ea432601	Kablolu internet operatörleri
 0a1926b7	Böylece numaranızı ve hattınızı kaybetmezsiniz. Yeni operatör genellikle eski sözleşmeyi feshetmeye yardım eder. Faturada veya müşteri hesabında sözleşme süresini ve bildirim sürelerini kontrol edin: geç iptal genellikle sözleşmeyi uzatır.
 6ba14e4d	Verbraucherzentrale: operatör değişimi
 859db02b	Bağlantı kesintisini izleyin
-79206527	Eski operatör geçişe kadar hizmeti sürdürmeli ve bağlantı ücretinin en çok %50'sini almalıdır. Kesinti bir iş gününden uzun olmamalıdır. Her fazla iş günü için aylık ücretin %20'si (en az 10 €), numara taşıma başarısız olursa ikinci iş gününden itibaren günde 10 € tazminat hakkı vardır.
 d4a43e22	Verbraucherzentrale: değişimde haklar
 c95fe58f	Taşınıyorsanız
 8deee649	Operatörünüz yeni adrese hizmet vermiyorsa sözleşme bir ay önceden bildirimle feshedilebilir.
@@ -2879,7 +2862,6 @@ c875528d	Değerlendiremiyorum
 72052876	Hayati tehlikede 112'yi arayın
 f8f30dab	Çevrimiçi randevu aramayın ve NOSTRES'in yanıtını beklemeyin. Operatöre adresi ve ne olduğunu söyleyin.
 15bbdd8a	Şimdi 112'yi arayın
-33a70db7	112 kurtarma hizmetidir. Şiddetli nefes darlığı, bilinç kaybı, şiddetli kanama ve hayati tehlikenin diğer belirtilerinde uzmanların acil değerlendirmesi gerekir. Çağrı telefonla yapılır, sitedeki bir form üzerinden değil.
 534d2a33	Arama
 0fd438ee	112'yi arayın
 def1da9d	Berlin Welcome Center: yardım numaraları
@@ -2887,7 +2869,6 @@ def1da9d	Berlin Welcome Center: yardım numaraları
 324d2a0f	Hayır, daha erken yardım gerekiyor
 a6c8a287	Evet, bekleyebilirim
 35d6cf4c	Bir sonraki olağan randevudan önce yardım gerekiyor
-e9f4e7b5	116117, acil ama hayatı tehdit etmeyen sorunlar içindir. Nöbetçi muayenehanenin adresi ve saatleri güne ve semte bağlıdır; gitmeden önce kontrol edin.
 b555033e	Açık nöbetçi muayenehaneyi bulun
 abd0e8cc	Resmî aramada Berlin'i veya posta kodunu girin. Bugün için adresi, saatleri, uzmanlığı ve ziyaret koşullarını kontrol edin. Eski adres listelerini kullanmayın.
 5d86afee	Açık Bereitschaftspraxis'i (nöbetçi muayenehane) bulun
@@ -2913,7 +2894,6 @@ a30b8bdf	116117 sitesinde şikâyetlerinizi girin ve Berlin'i veya posta kodunu 
 e967cea4	Patienten-Navi'de değerlendirmeyi başlatın
 a7b338f5	116117: çevrimiçi navigatörün amacı
 6cf52dbe	Çevrimiçi yanıt belirsizse
-30bdf69b	116117'yi arayın. Hizmet 7/24 çalışır ve uygun yardıma yönlendirir. Hayati tehlikede 112.
 7f60f06b	116117 resmî yanıtları
 80656c22	Oturum statünüz nedir?
 6a27ce35	Alman veya AB ülkesi vatandaşı
@@ -2930,7 +2910,6 @@ f6d07f1d	Alman veya AB vatandaşısınız
 50a034ef	Berlin'de en az 11 ay yaşamayı planlıyorsunuz
 f6beae33	Kendiniz için başvuruyorsunuz
 7c9d9bf4	WBS için başvurabilirsiniz
-5feaf4fd	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin.
 c907ad75	Çevrimiçi başvuru
 0f48a2c9	Berlin portalındaki formu doldurun ve belgeleri dosya olarak yükleyin. Karar posta ile gelir.
 1b91f30e	PDF veya JPG dosyaları: her biri en çok 5 MB, toplam 30 MB
@@ -2938,7 +2917,6 @@ c907ad75	Çevrimiçi başvuru
 462b4e9e	Başvuru formu
 2cb355f4	Gelirinizi gösteren belge ve işverenden gelir belgesi
 7f9969fa	Başvuruda belirttiğiniz herkesin kimlik belgelerinin kopyaları
-b8d07771	Yalnız değilseniz: evlilik belgesi veya ortaklık bildirimi; çocuklar için doğum belgeleri ve velayet beyanı
 5898320b	Duruma göre ek olarak: engellilik belgesi, öğrenci belgesi, oturma hakkı belgesi
 2da1d17d	Ücret
 8e3b73b9	ücretsiz
@@ -2970,15 +2948,12 @@ ce18c2d2	Semtinizin konut dairesinin veya Bürgeramt'ın adresi hizmet sayfasın
 850ae95e	Bazı sosyal konutlar yalnızca özel ihtiyacı olan WBS sahiplerine kiralanır (örneğin dar dairede çocuklu aile veya 50 ve üzeri engellilik); bunun için Berlin'de en az bir yıllık kayıt ve gerekçeyi doğrulayan belgeler gerekir. Gerekçeyi başvuruda belirtin.
 a10964c9	Aile veya çift için başvuruyorsunuz
 68567e5b	Ortak daire için başvuruyorsunuz
-ff83d2a1	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin. WG için komşuların ortak başvurusu ve ayrı WBS'lerin birleştirilmesi mümkün değildir: herkes kendi başvurusunu yapar.
 fa02a3c4	Berlin'de 11 aydan kısa yaşamayı planlıyorsunuz
 5e8cdc29	WBS uygun değil: 11 ay ve üzeri ikamet için tasarlanmıştır
 06a665e9	Hizmetin resmî sayfasına göre WBS'yi Berlin'de yalnızca geçici olarak değil (en az 11 ay) yaşayan ve şehri yaşamının merkezi yapabilenler alabilir. Kısa süre için geçici konut veya oda arayın.
 ad50cc78	WBS'siz arama biçimini seçin
 8278c319	Odalar, alt kiralama ve geçici konut WBS gerektirmez. Arama yöntemlerine genel bakışı açın.
 be0c59b8	Berlin'de ne kadar yaşayacağınızı henüz bilmiyorsunuz
-20159394	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin. Koşul: Berlin'de yalnızca geçici olarak değil, en az 11 ay yaşamanız gerekir.
-35878eef	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin. Koşul: Berlin'de yalnızca geçici olarak değil, en az 11 ay yaşamanız gerekir. WG için komşuların ortak başvurusu ve ayrı WBS'lerin birleştirilmesi mümkün değildir: herkes kendi başvurusunu yapar.
 03f1b984	Oturma izniniz en az bir yıl geçerli
 72bf1a82	Oturma izni bir yıldan kısa geçerli
 31b68dfa	WBS henüz mümkün değil: oturma izni en az bir yıl geçerli olmalı
@@ -3342,7 +3317,7 @@ d34639d5	NOSTRES, başka bir ülkeye taşınan insanlar için oluşturuldu. Ayr�
 229efcd8	NOSTRES, taşındıktan sonraki önemli işlerde anlaşılır bir yoldur
 77f22e2e	Hazır NOSTRES rotaları şu anda Berlin'e ayrılmıştır; proje diğer şehirlere ve ülkelere genişletilmek üzere tasarlanmıştır.
 ba687d18	NOSTRES neden gerekli
-59869d79	— başka bir ülkeye taşınan ve sonra ne yapacağını anlamak isteyen insanlar için ücretsiz, bağımsız bir bilgi hizmetidir. Amacı, taşındıktan sonra gerekli işlerin düzenini kurmaya yardımcı olmaktır: kayıt ve belgelerden konuta, sağlık sigortasına, doktorlara erişime, işe, bankacılık hizmetlerine, mobil iletişime ve diğer günlük konulara kadar. İlk çalışan pilot Berlin, Almanya'dır; yayımlanan ayrıntılı rotalar şu anda Berlin'e aittir. Arayüz dokuz dilde kullanılabilir; resmî sayfalar Almanca kalır.
+59869d79	– başka bir ülkeye taşınan ve sonra ne yapacağını anlamak isteyen insanlar için ücretsiz, bağımsız bir bilgi hizmetidir. Amacı, taşındıktan sonra gerekli işlerin düzenini kurmaya yardımcı olmaktır: kayıt ve belgelerden konuta, sağlık sigortasına, doktorlara erişime, işe, bankacılık hizmetlerine, mobil iletişime ve diğer günlük konulara kadar. İlk çalışan pilot Berlin, Almanya'dır; yayımlanan ayrıntılı rotalar şu anda Berlin'e aittir. Arayüz dokuz dilde kullanılabilir; resmî sayfalar Almanca kalır.
 c5e0f4ea	Hizmet neden gerekli
 a2ba30c9	Taşındıktan sonra yalnızca belge işleri halledilmez. Kişinin konut, sigorta ve sağlığa erişim, iş, bankacılık hizmetleri, iletişim ve diğer günlük işleri de çözmesi gerekir. Bunların sırası ülkeye, şehre ve başlangıç durumuna bağlıdır. NOSTRES önce belirli bir kişiyi hangi işlerin ilgilendirdiğini görmeye, sonra bunları, zaten tamamlananları ve mevcut işlem yollarını dikkate alarak sırayla yürütmeye yardımcı olur.
 b25cd718	Önce
@@ -3409,7 +3384,6 @@ db72cd8c	Kişisel eylem planı oluştur →
 5a9b334f	Daire ek belge istedi
 7b970d33	Ret alındı veya belgeler kabul edilmedi
 fea41db3	Rota henüz tamamlanmadı
-ef2854d1	NOSTRES — kişisel rota özeti
 d3f6e83d	Amaç: Berlin'de adresi kaydettirmek (Anmeldung)
 c0f83f06	Yöntem:
 6e90f85f	Süre:
@@ -3438,7 +3412,6 @@ af0fa552	Meldebestätigung alındı. Saklayın; sonraki bağımlı rota Steuer-I
 c016bd86	Steuer-ID'ye git
 1bc7c30e	Almanya · Berlin'de işlemler
 6838aae3	Vergiler · Almanya
-8b91731d	Kişisel IdNr.'nin size verilip verilmediğini belirleyin ve uygun resmî yolu izleyin: ücretli aracı olmadan ve numarayı NOSTRES'e vermeden.
 1bb3d154	Numara
 3ba0a630	11 hane · ömür boyu
 7e0ced98	Çevrimiçi talep
@@ -3449,7 +3422,6 @@ b886bdcd	NOSTRES, zaten verilmiş bir IdNr.'nin yeniden alınmasını ilk verili
 7171ae86	Sağlık sigortasına git
 41af0e6f	Sağlık sigortası
 5b4ad1f0	Sağlık · Almanya
-ca6fb1d2	Sigortaya resmî yolu belirleyin, Krankenkasse seçin ve üyelik onayını ile eGK'yı alın: ücretli aracı olmadan.
 139d9551	Yükümlülük
 c91801c2	Kesintisiz kapsam
 88a8ecd3	Kanallar
@@ -3533,9 +3505,7 @@ f4818135	Yanıtlarınıza göre şu anda ayrı bir başvuru öngörülmüyor. Du
 7c86ae92	Kasanızı seçin
 df5a3769	Mevcut veya yeni kasayı belirtin
 2e6e0583	Sağlık kasasını seçin
-acd0c536	Bu bir sıralama değildir. Aşağıda Berlin'de bulunan üç devlet kasası örneği ve tam resmî liste yer alır. Primi, yazılı hizmeti ve şubeleri karşılaştırın.
 47d95209	Bu, yazılı kontrol için muhatap seçimidir, devlet kasasına katılma önerisi değildir. Özel sigorta hakkı doğrulanırsa sonraki aşama özel şirketlerin resmî listesini gösterir.
-495e3d6d	Geçerli kasayı kullanın: aile sigortası için aile üyesinin kasasını, sağlık kartı için üyeliğin zaten doğrulandığı kasayı.
 28fb23f5	Tam liste
 57103d24	Resmî kasa
 aeccedf2	Başka kasa seç
@@ -3610,7 +3580,6 @@ a090628a	En çok ne engelledi?
 73bfb5e4	Kaydediliyor…
 6ad96772	Teşekkürler, değerlendirme kaydedildi
 9622bd3d	Anonim değerlendirme gönder
-654ff54d	Değerlendirme şu anda kaydedilmedi. Yeniden göndermeyi deneyin: yanıtlar ekranda kalır.
 6120152a	Tamam. Değerlendirmeye kişisel veriler ve rota soru yanıtları dahil edilmedi.
 cc60f452	Tüm resmî kaynaklar ve kontrol tarihleri
 b4bf201f	Yukarıdaki her pratik sonuç bu sayfalardan biriyle ilişkilidir. Tarih, kaynağın son manuel kontrolünü gösterir, yasanın değişiklik tarihini değil.
@@ -3622,14 +3591,12 @@ e77efef5	Kaynağı seçin
 4cbdc4d6	Gönderiliyor…
 a9e4f012	Mesaj gönderildi
 709b67db	Kişisel veri olmadan gönder
-880a5ef4	Mesaj şu anda kaydedilmedi. Daha sonra yeniden deneyin: girdiğiniz veriler kaybolmadı.
 9eea9168	Kaynak, manuel kontrol kuyruğuna eklendi.
 75804bbf	NOSTRES doğrulanmış resmî yolu açıklar ancak daire adına karar vermez. Göndermeden önce açık resmî sayfadaki güncel koşulları bir kez daha kontrol edin.
 4093b2bd	Berlin'de Anmeldung (adres kaydı): çevrimiçi veya şahsen | NOSTRES
 b2cdc86a	Berlin'de kişisel adres kaydı rotası: çevrimiçi başvurunun uygunluğunun kontrolü, Bürgeramt randevusu, belgeler, süreler ve resmî kaynaklar.
 9027c96b	Anmeldung (adres kaydı): NOSTRES rotası
 8e845741	Soruları yanıtlayın, mevcut yöntemi seçin ve Meldebestätigung'a kadar resmî adres kaydını tamamlayın.
-04be513f	NOSTRES — bağımsız eylem planları ve resmî kaynaklar
 39fc46c9	Berlin'de Arbeitslosengeld (işsizlik ödeneği) | NOSTRES
 960bf6e0	Arbeitslosengeld'i kim alır, ne kadar ve ne kadar süre, Sperrzeit nedir ve nasıl başvurulur. Resmî kaynaklara göre.
 66efe46b	Berlin'de Aufenthaltstitel für Beschäftigung (çalışma oturma izni) | NOSTRES
@@ -3768,7 +3735,6 @@ f9943ed6	Tüm test rotaları
 0929e660	Doğrudan hayati tehlike varsa arayın
 9019a0d5	. Sitede yanıt beklemeyin.
 99452f0d	Adım 1 · durum
-d48af82d	Burada yalnızca sorular vardır. Yanıtladıktan sonra «Rotayı al»a basın: sonuç ve resmî işlemlere bağlantılar açılır.
 055a9a75	Rotayı al →
 f2d3490f	Yanıtlar yalnızca bu cihazda kalır. Kişisel belgeler ve sağlık bilgileri istenmez.
 714ead0d	Kişisel rotanız
@@ -3859,7 +3825,6 @@ a5021ba1	İnternetten ziyaret randevusu almak, kaydın kendisinin çevrimiçi ya
 5676a0d0	Taşındıktan sonra Berlin'deki yeni adresin kaydını kontrol edin.
 bec390d3	Berlin'e fiilen taşındıktan sonra
 4d4ec596	Koşullar sağlanırsa çevrimiçi başvuru veya ziyaret için çevrimiçi randevu
-68b78bb8	Kayıt zaten varsa yanıtlarda bunu işaretleyin: madde kaybolur.
 4f9874c4	Aile üyesinin girişini ve işlemlerini kontrol edin
 e1db8a74	Bir aile üyesinin daha sonra katılacağını belirttiniz. Kurallar her kişinin vatandaşlığına ve belgesine bağlıdır.
 2e4f706b	Resmî çevrimiçi kontrol; ilgili durumda belirtilen temsilcilik veya LEA aracılığıyla başvuru
@@ -3885,7 +3850,6 @@ ea5c8d54	Çocuğun Berlin'de okul yerine ihtiyacı var.
 f9993500	Okul kaydının tamamlanıp tamamlanmadığından emin değilsiniz.
 c4176a7e	Önce gelecekteki semti ve adresi belirleyin
 205f6e14	Sorumlu okulu çevrimiçi arama → yaşa ve duruma göre okulda veya semt Schulamt'ı (okul dairesi) aracılığıyla kayıt
-b08694b4	2027/28 dönemi birinci sınıf öğrencileri için, doğum tarihi 01.10.2020–30.09.2021 olanların okulda şahsen kaydı 5–16 Ekim 2026 olarak belirlenmiştir. Taşındıktan sonra zaten okula giden öğrenciler için semtin düzeni farklıdır: resmî kaynağı kontrol edin.
 63af6eb9	Adresinize göre sorumlu okulu ve semt Schulamt'ını bulun.
 9a8d1b90	Resmî sayfada yaşı, okul türünü, sınıfı ve dil desteği gerekip gerekmediğini kontrol edin.
 89c6db99	Sorumlu okulla veya Schulamt ile iletişime geçin ve ebeveynin ve çocuğun belgelerini, doğum belgesini ve varsa önceki okul belgelerini hazırlayın.
@@ -3992,7 +3956,6 @@ e615d363	Yükümlülük kesin faaliyete ve koşullara bağlıdır. Her serbest �
 85de7b4e	Emeklilik yükümlülüğü kontrol edildi ve sizi ilgilendiriyorsa yerine getirildi
 1908e18f	Yazılı yöntem doğrulandı: formu doldurun ve Hunderegister'a e-postayla veya posta ile gönderin. Bu adım için telefon gerekmez.
 91508b7c	Doğrulanmış yazılı yol: başvuruyu doldurun, yazdırın ve imzalayın, sonra yetkili daireye posta ile gönderin. Başvurunun elektronik gönderimi doğrulanmamıştır.
-3102aaa9	Önce elektronik kaydın belgelerinize ve durumunuza uygun olup olmadığını kontrol edin. Değilse resmî hizmet şahsen randevu öngörür; bunu yazılı vekâletnameli bir temsilci de yapabilir. Ne başvuru sahibinin ne de temsilcinin gelemediği ve çevrimiçi koşulların sağlanmadığı durum için yazılı alternatif doğrulanmamıştır: dairenin iletişim bilgilerini resmî sayfada kontrol edin.
 841dcfc7	Uygun bir eID olmadan kaydın çevrimiçi uygunluğu doğrulanmamıştır. Resmî hizmet şahsen randevu öngörür; bunu yazılı vekâletnameli bir temsilci de yapabilir. Ne başvuru sahibi ne temsilci gelemiyorsa doğrulanmış yazılı alternatif yoktur: dairenin resmî iletişim bilgilerini kontrol edin.
 26d71e6b	Resmî LEA çevrimiçi formundan başlayın. Tamamen uzaktan işlem garantisi vermez: daire şahsen randevu verebilir. Yazılı kanalları hizmetinizin resmî sayfasında kontrol edin; telefon ana yöntem olarak önerilmez.
 a5bf8120	Tam olarak bu hizmetin resmî sayfasında elektronik formun, e-postanın veya posta ile başvurunun mevcut olup olmadığını kontrol edin. Başlangıç planı bu durum için başka bir yazılı kanalı doğrulamaz ve onun yerine telefonu önermez.
@@ -4159,7 +4122,6 @@ ef198ddf	Almanya'da Einkommensteuererklärung (vergi beyannamesi) | NOSTRES
 45128dfd	Beyanname vermek gerekip gerekmediği, süreler ve yöntemler: ELSTER, kağıt veya danışman. Resmî kaynaklara göre.
 2d27e8ce	Mobilfunk ve Internet (mobil iletişim ve internet) | NOSTRES
 72979dc3	Sözleşmeden önce neye bakılır, operatör nasıl değiştirilir veya iptal edilir, hız ve bağlantı sorunlarında ne yapılır: Bundesnetzagentur kuralları.
-30a5b783	NOSTRES — ana sayfaya
 f9b56032	Anlaşılır yol
 08408bda	Tüm rotalar
 75fc0700	Gezinti zinciri
@@ -4168,7 +4130,6 @@ e906d66a	Soruları yanıtlayın ve kendi iş listenizi alın →
 7014b23a	Köpek için adım adım rota: kayıt, vergi, tehlikeli ırklar →
 335ab593	Nelerin kontrol edilmesi gerekir
 7b28345a	Resmî kaynak:
-5efb1bba	NOSTRES bağımsız bir hizmettir. İşlem düzeni ve uygulanabilirlik durumunuza bağlıdır; nihai kararı yetkili daire veya sigorta kasası verir.
 67a5340f	Familie und Kinder (Berlin'e taşındıktan sonra aile ve çocuklar)
 cd6283b9	Berlin'de çocuk için neler kontrol edilmeli: adres kaydı, sağlık güvencesi, anaokulu ve okul. Resmî bağlantılar ve durumunuza göre plan.
 9832c619	Düzen, ailenin zaten Berlin'de yaşayıp yaşamadığına, çocuğun yaşına ve nelerin düzenlendiğine bağlıdır. Hazır işlemleri tekrarlamamak için genel planla başlayın.
@@ -4176,7 +4137,6 @@ cd6283b9	Berlin'de çocuk için neler kontrol edilmeli: adres kaydı, sağlık g
 af1efad6	Bir aile üyesi daha sonra geliyorsa önce giriş düzenini onun vatandaşlığına, belgesine ve oturum dayanağına göre kontrol edin. Berlin'in genel adres kaydı, giriş kurallarının kontrolünün yerini tutmaz.
 9a20f86d	Almanya Dışişleri Bakanlığı: vizeler ve aile girişi
 f6afc7bb	Anaokulu
-b1a0849c	Finanse edilen bir anaokulunda yer için Kita-Gutschein (kupon) gerekir. Başvuru çevrimiçi doldurulabilir, sonra imzalı belge semt Jugendamt'ına (gençlik dairesi) posta ile gönderilir veya şahsen teslim edilir. Yer arama ve kuponun verilmesi farklı işlemlerdir.
 0aca501b	Berlin: Kita-Gutschein hizmeti
 ea0a3a5a	Okul
 df9020a3	Okul arama ve kayıt, çocuğun yaşına, adresine ve önceki eğitimine bağlıdır. Sorumlu semt adrese göre belirlenir; başvuru düzeni ve kayıt biçimi şehrin resmî sayfasında belirtilmiştir.
@@ -4195,12 +4155,10 @@ df1d97b5	Sahibin sorumluluğu
 d96b27bf	Berlin'in resmî sayfası, sorumluluk sigortasını Listenhunde (kayıttan sonra 8 hafta içinde, yıllık muafiyet 500 €'yu geçmemeli) ve köpekle gelen turistler (olay başına en az 1 milyon €) için zorunlu olarak belirtir. Diğer sahipler için genel şart bu sayfada belirtilmemiştir: köpek için Haftpflicht sigortası köpeğin verdiği zararı karşılar ve koşulları poliçede yazılıdır.
 eb4896c6	Berlin: köpek yasasının gereklilikleri
 6cb32c20	Pflichtversicherungen (Almanya'da ve Berlin'de hangi sigortalar zorunludur)
-474822be	Sağlık ve bakım sigortası, köpek sahibinin ve aracın sorumluluğu, işte sosyal sigorta ve serbest çalışanlar için gereklilikler: duruma göre ve resmî kaynaklarla.
 2646c342	Yükümlülükler aile bileşimine, işe, araca, köpeğe ve serbest faaliyet türüne bağlıdır. Planda yalnızca yanıtlarınıza uygun kontroller görünür.
 0e0f5fbb	Sağlık ve bakım
 62e7e00a	Sağlık sigortası zorunludur. Bakım ihtiyacı sigortası, sağlık sigortası türüne bağlıdır; aile güvencesi her kişi için doğrulanmalıdır.
 2973fb51	Federal sağlık portalı: bakım sigortası
-111d58a6	İş sosyal prime tabiyse sosyal sigorta sistemlerine kaydı işveren yapar. Özel çalışma biçimlerinin kuralları farklıdır: sözleşmenizi ve maaş bordronuzu kontrol edin.
 cdd11b37	Resmî Make it in Germany portalı: sosyal sigorta
 f6bef6cd	Köpek sahibi sorumluluk sigortası Listenhunde için ve köpekle gelen turistler için açıkça şart koşulur; diğer sahipler için genel şartı resmî sayfa belirtmez. Hundegesetz'i ve kendi poliçenizin koşullarını karşılaştırın.
 7a439e51	Berlin: köpek sahibinin gereklilikleri
@@ -4267,7 +4225,6 @@ d0d41387	Devlet Krankenkasse'sine üyelik
 2b0ede1c	AOK Nordost: çevrimiçi başvuru
 7a619b76	Techniker Krankenkasse: üyelik
 74824f00	AOK Nordost ve TK çevrimiçi başvuru kabul eder; sayfalarında şubeye gitmek gerekmez. AOK önceki kasayı kendisi bilgilendirir, TK eski sözleşmenin feshini üstlenir. eGK kartını kasa çıkarır: TK üyeliğin başlangıcına kadar vaat eder, AOK süreyi ve teslim yöntemini belirtmez. Tüm kasalar için tek düzen yoktur: koşulları seçtiğiniz kasada görün.
-ecf74f1f	Şahsen danışmanlık için şubeler vardır (AOK'ta «AOK vor Ort» araması), ancak üyeliğin zorunlu adımı olarak ziyaret belirtilmemiş.
 47a61735	AOK Nordost'un danışmanlık için 7/24 hizmet hattı 0800 2 650800'dür. Başvurunun telefonla yapılması kontrol edilen sayfalarda anlatılmamış.
 f7e4f226	AOK ve TK'nın kontrol edilen sayfalarında posta ile başvuru belirtilmemiş. Kasanın çevrimiçi formunu veya listeden şahsen yöntemi kullanın.
 3e8dbfbd	E-postayla başvuru, kontrol edilen sayfalarda belirtilmemiş.
@@ -4323,17 +4280,14 @@ e5a2cc5c	Evet, sil
 2de8c312	NOSTRES iletişim
 4c2086ea	Bağımsız bilgi projesi NOSTRES'in yazarıyla iletişime geçin.
 dba0fcb2	İletişim
-5a4f1702	NOSTRES, İtalya'dan bağımsız bir bilgi projesidir.
 e48e81c2	Proje yazarı:
 8bfd0b3a	Alexandra Hermann
 40012cd0	E-posta:
 a1609d96	Soru veya görüş göndermek için bu adrese yazın. NOSTRES site arayüzünde ad veya e-posta istemez.
-4b6ac162	Başvuru veya talep gönderildi: yanıt bekleniyor
 627b15a2	Sigorta doğrulandı / eGK veya Versicherungsnachweis alındı
 813f90da	Krankenkasse, üniversite, işveren veya Jobcenter belge istedi
 dba3839c	Ret alındı veya seçilen rejim doğrulanmadı
 5418265e	Rota başka bir sorun nedeniyle durdu
-ead1189b	NOSTRES — kişisel rota özeti
 3b43c03b	Amaç: Almanya'da sağlık sigortası yaptırmak veya doğrulamak
 ee2fb1bf	Oluşturuldu:
 490effc1	Aşamaların durumu
@@ -4346,7 +4300,6 @@ f5da6aa3	[bekliyor]
 d9396e7d	Arayüz dili
 5537fc8e	Русский
 624f8ab7	Ana içeriğe geç
-19d6e201	NOSTRES — ana sayfa
 887087a5	Site bölümleri
 71c59938	Gizlilik
 21f8563b	Proje hakkında
@@ -4356,7 +4309,6 @@ d9396e7d	Arayüz dili
 9d6c1c0e	NOSTRES: taşındıktan sonra ne yapmalı
 965a613c	Başka bir ülkeye taşınan insanlar için ücretsiz hizmet: Berlin'de belgeler, konut, sigorta, doktorlar ve iş için rotalar. Banka ve iletişim gelişim planlarındadır.
 3f79124b	NOSTRES, başka bir ülkeye taşındıktan sonraki önemli işler için oluşturuldu. Ayrıntılı rotalar şu anda Berlin'e ayrılmıştır; bankacılık hizmetleri, mobil iletişim ve diğer şehirler gelişimin sonraki yönleridir.
-d6b956f6	NOSTRES, taşındıktan sonra anlaşılır bir yoldur; ilk pilot Berlin
 c9fceea4	Hazır NOSTRES rotaları şu anda Berlin'e ayrılmıştır. Bankacılık hizmetleri, mobil iletişim ve diğer ülkeler projenin geniş hedefinin parçasıdır.
 c5da0fbb	NOSTRES, başka bir ülkeye taşınan insanlar için ücretsiz bir bilgi hizmetidir. İlk çalışan pilot Berlin için doğrulanmış rotaları içerir; diğer şehirler, bankacılık hizmetleri ve mobil iletişim sonraki gelişime aittir.
 64f28c99	Anmeldung (adres kaydı)
@@ -4455,8 +4407,6 @@ c60a4f24	Ebeveynler ayrı yaşıyorsa çocuk
 b1cbc9e5	Şu anda kimliğinizi Online-Ausweisfunktion (eID) ile doğrulayabilir misiniz?
 01923674	Etkin çipli, altı haneli PIN'li Alman Personalausweis'i veya AB vatandaşları için Alman eID kartı ve AusweisApp'li NFC'li akıllı telefon gerekir. Çevrimiçi Anmeldung için sıradan pasaport veya eAT yetmez.
 fbe4610b	eID nedir ve nasıl hazırlanır
-372397d6	Online-Ausweisfunktion (eID), kimliğinizi devletin çevrimiçi hizmetinde doğrulayan çip işlevidir. Ayrı bir hesap değildir: eID kimliği doğrular, BundID ise hesap olarak kullanılır.
-5f6b57ee	Uygun kart ve altı haneli PIN zaten varsa: AusweisApp'i kurun ve «Gerät und Ausweis prüfen»'i çalıştırın: uygulama NFC'li akıllı telefonu ve eID'nin etkinliğini kontrol eder.
 59fdd9ae	Kartınız varsa ve beş haneli Transport-PIN aldıysanız: AusweisApp'te onu kendi altı haneli PIN'inizle değiştirin. Bunun için daireye gitmek gerekmez.
 f2f213ba	Çip etkinleştirilmemişse veya PIN unutulduysa: Personalausweis veya eID kartı için herhangi bir Bürgeramt'a başvurun. Etkinleştirme veya yeni PIN ücretsizdir, hemen yapılır; etkinleştirme önceden randevu olmadan mümkündür.
 3ef0865b	Uygun kart yoksa: AB/AEA vatandaşı Alman eID kartını Bürgeramt'ta şahsen sipariş edebilir. Ücreti 37 €'dur ve genellikle 3–4 haftada hazırlanır. Güncel Anmeldung'u 14 günlük sürede yapmak için şahsen kayıt daha hızlıdır; eID kartının varlığı çevrimiçi hizmetin diğer koşullarını kendiliğinden ortadan kaldırmaz.
@@ -4467,13 +4417,10 @@ d2a5dc01	AB/AEA vatandaşları için eID kartı sipariş edin
 8ebb9517	Evet: kart, eID, PIN ve NFC'li akıllı telefon hazır
 f9b05820	Kart var ama eID veya PIN kontrol edilip ayarlanmalı
 2c49e53c	Uygun kart yok / yalnızca pasaport veya eAT var
-9191ac8e	Ev sahibinden veya kiraya verenden Wohnungsgeberbestätigung alın: kira sözleşmesi onun yerini tutmaz.
 5126bb7f	NOSTRES sonucu uygunluğu doğruluyorsa çevrimiçi başvuruyu seçin veya herhangi bir Berlin Bürgeramt'ından randevu alın.
 990d26ea	Taşındıktan sonra 14 gün içinde bilgileri verin ve Meldebestätigung'u saklayın.
 00002083	Verilen onaydaki adı, doğum tarihini ve adresi kontrol edin.
 bc9a34b1	Pasaport veya tanınan kimlik belgesi
-3e48a6e7	Anmeldung formu: ziyarette
-6b358ed7	Medeni durum belgeleri: ilk kayıtta, uygulanabiliyorsa
 a2a01ad0	Boş zaman yoksa resmî hizmeti tekrar kontrol edin: Berlin, ek randevuların her gün eklendiğini bildirir. 115 üzerinden de randevu alınabilir. Randevu onayı, Anmeldung süresine uyulduğunun kanıtı sayılır. Randevular ücretsizdir; aracılardan satın alınanlar tanınmaz.
 884ed60c	14 günlük süre, çevrimiçi ve şahsen başvuru koşulları, belgeler, maliyet ve sonuç.
 21816f59	Anmeldung'u çevrimiçi yapın
@@ -4505,7 +4452,6 @@ b023e4cc	Tamamen çevrimiçi yap
 de067d64	Resmî olarak: dairenin verileri kontrolü için 3 iş gününe kadar.
 829ab5e0	Ücretsiz.
 e17f589a	Yaş 18 veya üzeri.
-51fea826	Almanya veya AB ülkesi vatandaşlığı: koşul ServicePortal Berlin'de böyle ifade edilmiştir.
 76cd228d	Almanya içinde tek veya ana daireye taşınma.
 b1aae2ee	Çevrimiçi kimlik doğrulamayla girişli BundID.
 e81869f1	Etkin Online-Ausweisfunktion ve altı haneli PIN'li Alman Personalausweis'i veya AB vatandaşları için Alman eID kartı. Elektronik Aufenthaltstitel eAT bu hizmet için uygun değildir.
@@ -4527,7 +4473,6 @@ d59f2ae0	Dijital Meldebestätigung indirilmeye hazır.
 dfe321c3	BundID yoksa resmî bağlantıdan hesap oluşturun ve başvuruya dönün.
 216bceb5	Kart varsa önce AusweisApp'te kontrol edin. Transport-PIN'i altı haneli PIN ile kendiniz değiştirebilirsiniz; unutulan PIN Bürgeramt'ta geri yüklenir.
 127b8448	Uygun kart yoksa Anmeldung'u onu yaptırmak için ertelemeyin: eID kartı yaklaşık 3–4 haftada hazırlanır, Anmeldung ise 14 gün içinde gereklidir. Şahsen yolu seçin.
-e795a7fb	Çevrimiçi hizmet durumunuzu kabul etmiyorsa şahsen ziyareti seçin: gayriresmî dolambaçlı yöntemleri kullanmayın.
 8b4a3174	Çevrimiçi Anmeldung'a başla
 e0a519b4	BundID oluştur veya aç
 8ab0d2e5	Tüm resmî koşullar
@@ -4545,9 +4490,6 @@ cd51564b	Doldurulmuş ve imzalanmış Anmeldung formu.
 757ecc84	Taşınan herkesin kimlik belgelerinin asılları: pasaport, tanınan yerine geçen belge ve uygulanabiliyorsa eAT.
 56c9e9d6	Wohnungsgeberbestätigung. Kira sözleşmesi onun yerini tutmaz.
 4791314b	Berlin'deki ilk kayıtta, uygulanabiliyorsa medeni durum belgeleri.
-c599c241	Birden çok daire için: Beiblatt zur Anmeldung / Hauptwohnungserklärung.
-8b4947e2	Özel velayet durumundaki çocuk için: ikinci yasal temsilcinin onayı ve belgeleri.
-80ae5b3b	Temsilci için: yazılı vekâletname ve başvuru sahibinin imzaladığı form.
 84f53cf9	Wohnungsgeberbestätigung'u alın ve taşınma tarihini, adresi ve kaydı yapılacak tüm kişilerin adlarını kontrol edin.
 44ba520c	Anmeldung formunu indirin ve doldurun; durumunuza uyuyorsa birden çok daire veya çocuk için özel ekleri ekleyin.
 aacfc211	Resmî randevuyu açın, Anmeldung hizmetini seçin ve tüm Berlin Bürgeramt'larında aramayı açın.
@@ -4567,7 +4509,6 @@ e57e785d	Bürgeramt'ı ve adresi bul
 733e018b	Randevu kuralları ve randevusuz işlemler
 f3a6ed37	Oturum
 6511cb55	Aufenthaltstitel (oturma izni başvurusu veya uzatma)
-b1a7de87	Statüye ve oturum amacına göre doğru LEA kanalını belirleyin: aracıdan randevu satın almadan.
 59641a51	Berlin'de yaşıyorsunuz ve oturma hakkını almak, uzatmak veya değiştirmek istiyorsunuz.
 b4a7e94d	Şu anki statünüz
 99f348d9	AB / AEA vatandaşı
@@ -4588,7 +4529,6 @@ b951fcf8	Kontrolden sonra ek belge talebini veya şahsen randevu davetini bekley
 3d300324	Mevcut vize / Aufenthaltstitel
 430d71ca	Anmeldung veya adres kanıtı
 ba96e099	Oturum amacına göre belgeler
-f3c44271	İşlem gerektiriyorsa sağlık sigortası ve kaynak belgesi
 16339b2c	Doğrulanmış aciliyet için yetkili LEA biriminin iletişim formunu kullanın ve kanıt ekleyin. Süresi dolmuş belge veya karmaşık uyuşmazlık bireysel kontrol gerektirir.
 733b6980	Tüm çevrimiçi başvurular ve iletişim formları
 428572a6	Randevu kuralları ve doğrulanmış aciliyet
@@ -4607,10 +4547,8 @@ f97fa6c0	Numara verilip verilmediğini bilmiyorum
 ebd07923	Almanya'da ikamet kaydınız var mı?
 c8b15d6c	İlk kayıttan sonra Meldebehörde verileri BZSt'ye iletir. IdNr. daha önce verilmişse yenisi verilmez.
 43636b60	Evet, şu anda kayıtlıyım
-b6b47391	Daha önce kayıtlıydım, şimdi değilim
 fce0bf34	Hiç kayıtlı olmadım
 cd5bf593	Almanya'daki ilk Anmeldung'dan bu yana ne kadar zaman geçti?
-54175f71	Otomatik gönderim için resmî yaklaşım 4–8 haftadır. Üç ay sonra da mektup yoksa BZSt numarayı yeniden talep etmenizi önerir.
 dd546646	3 aydan az
 1d900384	3 ay veya daha fazla
 70a991c5	Bu ilk Anmeldung değil / daha önce Almanya'da yaşadım
@@ -4629,8 +4567,6 @@ bce62389	İş veya daire için acil gerekiyor
 0a6ca82c	IdNr'yi açık sohbette göndermeyin ve toplulukta paylaşmayın.
 d7b4a105	Ad, doğum tarihi ve yeri
 3d6407cb	Güncel Hauptwohnsitz
-93d4a06a	Kimlik belgesi: şahsen başvuru için
-761a9414	Form 010250 ve belge kopyası: yalnızca Meldepflicht'i olmayanlar için
 2bbbf028	Olağan yol uygun değilse NOSTRES, zorunlu Anmeldung durumunu, Meldepflicht'i olmayanlar için Finanzamt aracılığıyla özel verilmeden ayırır.
 acf62f95	Steuer-ID: verilme ve yeniden alma
 d00be5c0	Berlin · Almanya
@@ -4638,7 +4574,6 @@ d00be5c0	Berlin · Almanya
 cc43468c	Steuer-ID'yi yeniden bildirin
 016de653	Doğrudan resmî BZSt çevrimiçi formu; numara telefonla veya e-postayla bildirilmez.
 073a3e26	İşlem, süreler ve maliyet
-aaf6c9f2	Belge ve ücret olmadan; çevrimiçi talebin ortalama işlenmesi 4 hafta, ilk Anmeldung'dan sonra otomatik gönderim 4–8 hafta.
 a26dbc3d	Steuer-ID hakkında resmî bölüm
 cf0d17f5	IdNr., yeniden verilme ve vatandaş soruları hakkında federal açıklama.
 f36c6ad0	Anmeldung yükümlülüğü olmayanlar için IdNr.
@@ -4662,10 +4597,8 @@ c8adc4dc	Numara belgelerden birinde varsa hemen.
 f57bcd84	IdNr. verildiğine dair BZSt mektubu
 02b4d9d5	Son Einkommensteuerbescheid
 f84e483a	Lohnsteuerbescheinigung veya işverenin maaş bordrosu
-5effc138	steuerliche Identifikationsnummer verildiğine dair BZSt mektubunu kontrol edin: 11 hanedir.
 f314d2c0	Son Einkommensteuerbescheid'i ve işverenin Lohnsteuerbescheinigung'unu kontrol edin.
 e632a79e	Steuernummer, USt-IdNr. veya W-IdNr. değil, tam olarak kişisel IdNr.'yi bulduğunuzdan emin olun.
-c8671498	Numara bulunamazsa resmî çevrimiçi yeniden verilmeye geçin; acil gerekirse kimlik belgesiyle Finanzamt'a gidin.
 e131f5ea	Önceki 11 haneli IdNr'niz bulundu.
 5f4ee9f4	Yeni numara oluşturulmadı: zaten verilmiş olan kullanılır.
 71855d30	Belgelere erişilemiyorsa BZSt aracılığıyla yeniden bildirim isteyin.
@@ -4708,7 +4641,6 @@ a3fdb305	Belirtilen adreste kağıt postaya erişiminiz var.
 f4b3e9e3	Belge yüklemek gerekmez
 89f6b7af	Doğrudan BZSt formunu açın ve IdNr.'nin vergi mükellefinin kendisine bildirilmesini seçin.
 d5a96849	Kişisel bilgileri tam olarak Melderegister'da ve kimlik belgesinde belirtildiği gibi girin.
-7c3608bc	Hauptwohnsitz'i belirtin: tatil konutunu veya kısa süreli adresi değil.
 7c167aac	Formu gönderin. BZSt, IdNr.'yi e-postayla veya telefonla bildirmez.
 a1777f02	Kağıt mektubu bekleyin ve 11 haneli numarayı karşılaştırın.
 c858f481	Zaten verilmiş IdNr. içeren kağıt mektup alındı.
@@ -4729,7 +4661,6 @@ b5e83c34	IdNr. zaten verilmiş veya Almanya'da kayıtlısınız.
 1f3db15e	Doğrulanmış acil gereklilik var.
 63d8ca75	Kimliğinizi şahsen doğrulayabilirsiniz.
 e0fc2977	Geçerli pasaport veya başka uygun kimlik belgesi
-3c80c202	Meldebestätigung: adres kontrolü için almanız yararlıdır
 45284e3f	Resmî Finanzamt-Finder'ı açın ve Berlin adresinize göre Finanzamt'ı bulun.
 34b6d57c	Bulunan Finanzamt'ın sayfasını açın ve adresi ve Infozentrale'nin güncel çalışma saatlerini kontrol edin.
 d05fa278	Uygun kimlik belgesinin aslını ve mümkünse Meldebestätigung'u alın.
@@ -4743,7 +4674,6 @@ e25f9fa9	Finanzamt'ınızı bulun
 b53d6f32	Önce Anmeldung (adres kaydı)
 d350e71b	Ön adım
 5c00a9b5	Almanya'da yaşıyorsanız ve adres kaydı yaptırmak zorundaysanız ayrı form 010250 Anmeldung'un yerini tutmaz.
-2d7f3e3d	Anmeldung: taşındıktan sonra 14 gün içinde; IdNr. ardından otomatik verilir.
 05f5374d	Seçilen Anmeldung yöntemine bağlıdır.
 a01f0927	Koşullar sağlanıyorsa çevrimiçi veya Bürgeramt'ta randevuyla şahsen.
 f456b78a	İlk Anmeldung'dan sonra IdNr. içeren mektup genellikle 4–8 haftada gelir.
@@ -4796,14 +4726,12 @@ e9ae0bc9	Almanya'da vergi yükümlülüğü veya geliri var.
 eb546406	Resmî form 010250'yi indirin ve doldurun.
 107f0969	Einkommensteuer'iniz için yetkili Finanzamt'ı belirleyin ve başvuruyu iletin.
 0bab89d3	IdNr.'nin belirtilen adrese yazılı bildirilmesini bekleyin.
-7607c737	Einkommensteuererklärung veriyorsanız IdNr. için ayrı form gerekmeyebilir: bunu yetkili Finanzamt'ta kontrol edin.
 760de848	Fiilen Almanya'da yaşıyorsanız ve kayıt yaptırmak zorundaysanız önce Anmeldung'u yapın.
 0a44d144	Finanzamt'ın yetkisini kontrol edin
 08930838	Sağlık
 b8320951	Uygun yolu belirleyin, resmî Krankenkasse'yi seçin ve sigorta onayını ile eGK'yı alın.
 b2e717cf	Almanya'da yaşıyor, çalışıyor, okuyor veya Grundsicherung alıyorsunuz ve sağlık sigortası yaptırmak veya kontrol etmek istiyorsunuz.
 db19a5ab	Hangi sonuca ihtiyacınız var?
-54a9eb07	Doktor arama ve acil yardım ayrı rotalar olacaktır. Burada amaç sigortanın kendisini doğrulamaktır.
 054f97c3	Sigortayı ilk kez veya taşındıktan sonra yaptırmak
 e03c4d72	Krankenkasse'yi değiştirmek
 b1bd0434	eGK veya geçici onay alın
@@ -4825,7 +4753,6 @@ abbbc68a	Olağan iş: Minijob'un üzerinde ve yılda 77.400 €'dan fazla değil
 9da91e36	Yalnızca Minijob
 4de77255	Bilmiyorum / özel çalışma statüsü
 776f43f5	Hangi seçenek sizi anlatıyor?
-6a8b9c42	Öğrenciler aile sigortalısı olabilir, studentische Pflichtversicherung'a tabi olabilir veya 30 yaşından sonra, koşullarla, GKV'yi gönüllü sürdürebilir.
 f19eb3d2	25 yaşına kadar, aile üzerinden sigorta mümkün
 576a64a3	25–29 yaş veya aile sigortası uygun değil
 450f40e6	30 yaş veya üzeri
@@ -4834,16 +4761,13 @@ b9c49b5d	Familienversicherung'un temel koşulları sağlanıyor mu?
 34385584	GKV üyesiyle akrabalık veya ortaklık, Almanya'da ikamet ve başka zorunlu sigortanın olmaması gerekir; geliri Krankenkasse kontrol eder. 2026'da genel gelir sınırı aylık 603 €'dur.
 32bfc485	Evet, koşullar benimkine benziyor
 25199264	Gelir aylık 603 €'nun üzerinde
-7bd5dbde	Bilmiyorum: resmî kontrol gerekiyor
 3b2ac802	Sigorta dayanağını belirleyin: iş, eğitim, aile, Grundsicherung veya bireysel kontrol.
 d378e64c	GKV doğrulandıysa resmî listeden Berlin'de kabul eden bir Krankenkasse seçin.
 391ac750	Seçilen kasaya çevrimiçi başvurun veya ofisiyle iletişime geçin ve üyeliğin başladığına dair yazılı onay alın.
 0ba23ff0	Durumunuz için geçerliyse seçilen kasanın bilgilerini işverene, üniversiteye veya Jobcenter'a iletin.
 3c315674	eGK'yı alın; kart henüz gelmediyse kasadan geçici Versicherungsnachweis isteyin.
 a6b2add0	Adres ve iletişim bilgileri
-0a2c30a7	İşverenin, üniversitenin, aile üyesinin veya Jobcenter'ın bilgileri: seçilen dayanağa göre
 446843db	Mevcut veya önceki sigorta bilgileri
-5771e902	eGK için fotoğraf: Krankenkasse isteyince
 acaafcc3	Kasa seçilen rejim hakkını onaylamazsa yazılı karar isteyin ve mevcut sigortayı iptal etmeyin. Karmaşık GKV ↔ PKV geçişlerini önce Krankenkasse'nin kendisi kontrol eder.
 bfdb1019	Sağlık sigortası nasıl işler
 b0bcdadb	Sigorta yükümlülüğü, GKV/PKV, Minijob, kasanın serbest seçimi ve aile sigortası.
@@ -4901,7 +4825,6 @@ a3cda7e0	Minijob sınırının üzerinde olağan çalışma.
 89c10575	Gelir 2026'da Jahresarbeitsentgeltgrenze 77.400 €'yu aşmıyor veya GKV yükümlülüğü kasa tarafından doğrulandı.
 f43e6528	Güvence kesintisiz olmalıdır; yenisi doğrulanana kadar önceki poliçe iptal edilmez.
 7de3b753	Başlangıç tarihi ve işveren bilgileri
-bbc59d90	eGK için fotoğraf: Krankenkasse istediğinde
 48866d4f	İşinizin yalnızca Minijob olmadığını ve seçilen GKV yolunun gelire uyduğunu kontrol edin.
 09491137	Resmî listeyi açın, Bundesland Berlin'i seçin ve kabulü, Zusatzbeitrag'ı, hizmeti ve ek hizmetleri karşılaştırın.
 5be08bc1	Listeden seçilen Krankenkasse'nin resmî sitesine geçin ve Mitglied werden / Mitgliedsantrag'ı açın.
@@ -4932,7 +4855,6 @@ c96008a3	Yalnızca sözlü yanıt değil, yazılı onay almaya hazırsınız.
 8db46ea7	Adres
 05f094d1	İşveren bilgileri ve başlangıç tarihi
 57206232	Önceki sigorta bilgileri
-d7da05e3	eGK için fotoğraf: kasa hemen kabul etmeye hazırsa
 183f8b28	Resmî listede Berlin için kasaları filtreleyin ve seçilen Krankenkasse'nin sitesini açın.
 b3dea723	Kasanın sitesinde Kontakt / Geschäftsstellen'i açın ve adresi, saatleri ve randevu gerekip gerekmediğini kontrol edin.
 e14c86b1	Kasaya yazın veya ofisi ziyaret edin, GKV dayanağını kontrol etmelerini ve Mitgliedschaft'i yaptırmalarını isteyin.
@@ -5010,7 +4932,6 @@ ee52ddd3	Sonuçlarını kontrol etmeden GKV/PKV'yi değiştirmiyorsunuz.
 a29fbdc5	Krankenkasse veya poliçe bilgileri
 3c3e96d9	Grundsicherung başvurusunun belgeleri
 a6193db3	İstek üzerine Mitgliedsbescheinigung veya başka sigorta Nachweis'i
-d87e8694	Prim bilgileri: destek gerekiyorsa
 aa1c1dca	Grundsicherung kapsamında primlerin karşılanmasının resmî düzenini kontrol edin.
 7dd8967a	GKV seçebiliyorsanız resmî listeyi kullanın ve seçilen kasada üyeliği yaptırın.
 07424cec	Krankenkasse'yi Jobcenter başvurusunda belirtin veya değişikliği resmî çevrimiçi hizmet üzerinden iletin.
@@ -5036,7 +4957,6 @@ d1cf2f0e	15 yaşından itibaren kişi için, resmî istisnalar dışında fotoğ
 c066c04f	Sigortalı numarası veya üyelik onayı
 5a783fc9	15 yaşından itibaren eGK için fotoğraf
 5cce2837	Güncel adres
-9c9b6cc5	Kimlik belgesi: kasa kimlik doğrulaması isterse
 864dd8e3	Krankenkasse'nizle resmî hesabı, telefonu veya ofisi aracılığıyla iletişime geçin.
 c3224122	Üyeliğin onaylanıp onaylanmadığını ve teslimat için hangi adresin kullanıldığını kontrol edin.
 014c8eb5	Fotoğrafı kasanın belirttiği yolla iletin; 15 yaşından küçük sigortalılar için fotoğraf gerekmez.
@@ -5085,10 +5005,7 @@ c233d03f	GKV'de kontrol ayrıca ücretlendirilmez; PKV koşulları sözleşmeye 
 a96800dc	Durumunuz basit zorunlu GKV yolunu doğrulamıyor.
 d868c912	Mevcut sigorta, yazılı karara kadar korunur.
 a5ae289c	Kişisel verileri yalnızca resmî kasaya veya sigortacıya vermeye hazırsınız.
-40f528a6	İş sözleşmesi ve gelir: çalışıyorsanız
-13bef209	Immatrikulation veya Zulassung: okuyorsanız
 f6c51046	Önceki GKV/PKV veya yabancı sigorta bilgileri
-1b3afa4c	Aile sigortası dayanağı: uygulanabiliyorsa
 f5591a87	Resmî genel bakışı açın ve tam olarak hangi ayrıntının kontrol gerektirdiğini belirleyin: sınırın üzerinde gelir, Minijob, serbest çalışma, öğrencinin yaşı, PKV veya yabancı sigorta.
 de1a849a	Resmî listeden uygun bir GKV seçin ve yazılı Prüfung der Versicherungspflicht / Mitgliedschaft isteyin.
 08f3b686	Yazılı yanıt PKV'ye izin veriyorsa özel sigortacıların listesini açın. Birkaç kişisel teklif isteyin ve yalnızca fiyatı değil teminatı ve koşulları karşılaştırın.
@@ -5115,11 +5032,9 @@ e5050405	Önce oturum belgenizde serbest faaliyet hakkını kontrol edin.
 1252dbd8	Faaliyetin Freier Beruf'a mı yoksa Gewerbe'ye mi ait olduğunu belirleyin; nihai vergi nitelendirmesini Finanzamt yapar.
 8cfb0d57	Freier Beruf için Fragebogen zur steuerlichen Erfassung'u ELSTER üzerinden verin; Gewerbe için önce Berlin Gewerbeanmeldung'unu kullanın.
 f000e379	Uydurma Steuernummer ile fatura kesmeyin ve KDV'yi ve zorunlu sigortaları önceden kontrol edin.
-20fef6f2	Pasaport ve Aufenthaltstitel: uygulanabiliyorsa
 e5005201	Faaliyetin tanımı
 3f3b3c7a	İşin Berlin adresi
 ad382a44	Gelir ve gider tahmini
-4c9f2188	İzinler veya mesleki belgeler: düzenlenmiş faaliyet için
 fcc71db7	Freier Beruf ile Gewerbe arasındaki sınır belirsizse veya yurt dışı gelir varsa kayıttan önce gerçekleri hazırlayın ve bireysel vergi danışmanlığı alın.
 5c159556	Freiberufler olarak nasıl kaydolunur
 17efec7a	Berlin'de Gewerbe anmelden
@@ -5140,10 +5055,8 @@ a466b401	Diploma ve derslerin olduğu ek belge var mı?
 fcb92498	Belirtilen yetkili kuruma başvurun ve Bescheid'i saklayın.
 2e85e684	Diploma / nitelik belgesi
 45f3f297	Ders ve saat içeren ek belge
-74fe6b40	Varsa deneyim belgeleri
 53316c9b	Çeviriler yalnızca yetkili kurumun şartlarına göre
 27f07054	Belgeler eksikse önce resmî danışmanlığı kullanın. Düzenlenmemiş bir meslekte akademik diploma için mesleki tanıma değil, Zeugnisbewertung ZAB gerekebilir.
-941d50ff	Anerkennung in Deutschland: resmî portal
 ee996991	Tanımanın adım adım süreci
 a58e6219	Yabancı yüksek öğrenimin değerlendirilmesi
 fc615b3a	Rota başına 10–15 dakika
@@ -5165,8 +5078,6 @@ cd96db69	Dağıtımdan sonra çocuğu atanan okulda şahsen kaydettirin.
 ab903d3c	Çocuğun ve ebeveynin belgesi
 8d209abf	Anmeldung / Berlin'deki adres
 ad11f427	Doğum belgesi
-6eebcf4d	Varsa önceki okul belgeleri
-8b2eb66c	Ebeveynlerin çalışma / eğitim belgesi: gerekiyorsa Kita saati için
 e7261f32	Okul çağındaki çocuk henüz dağıtılmadıysa semtinizin Schulamt koordinasyon noktasına başvurun; rastgele seçilen bir okuldan kendiliğinden yanıt beklemeyin.
 2e726d31	Kita-Gutschein için başvurun
 f9958943	Kita ve Willkommensgutschein
@@ -5188,7 +5099,6 @@ c08cc1a9	Resmî çevrimiçi hizmet geçerli bir durumu kabul etmiyorsa hata mesa
 b7e1a24c	Çevrimiçi başvuru koşullarını kontrol edin
 b5d5d375	Bürgeramt randevusuna geç
 9e61b441	Önce hizmet sayfasında tam şartı bulun
-0cbbf60a	Anmeldung için kira sözleşmesi Wohnungsgeberbestätigung'un yerini tutmaz. Berlin'deki ilk kayıtta ek olarak mevcut medeni durum belgeleri gerekebilir; özel durumlar için ayrı formlar.
 66f154c8	Belgeleri ve formları aç
 f66995bb	Nereye gidileceği belirsiz
 5ec68a9c	Olağan Anmeldung için Berlin'in herhangi bir Bürgeramt'ı seçilebilir
@@ -5220,11 +5130,9 @@ b7bc4801	Finanzamt aracılığıyla doğrulanmış acil yolu kullanın
 0fd3cc2a	Dayanağı kontrol edin
 1fc10de0	Hangi Finanzamt olduğu belirsiz
 631d364a	Yetki, amaca ve adrese bağlıdır
-8498cf75	Olağan şahsen başvuru için Berlin'in adrese göre aramasını kullanın. Meldepflicht'i olmayan çalışan için işverenin Finanzamt'ı yetkilidir; başka bir vergi yükümlülüğü için Einkommensteuer'i yürüten Finanzamt.
 7b87e0f1	Finanzamt'ı adrese göre bulun
 3a424a19	Özel yetkiyi kontrol edin
 70156173	Seçilen yöntem için seti karşılaştırın
-c0f27390	Çevrimiçi yeniden talep için belge yüklenmez. Acil şahsen başvuru için kimlik belgesi gerekir; Meldepflicht'i olmayan kişiye verilme için form 010250 ve pasaportun veya Personalausweis'in kopyası.
 6cfcc158	Resmî seti kontrol edin
 f3fd6ae4	Ana ServicePortal'a dönün ve hatayı bildirin
 090e035e	Resmî formu reklam amaçlı bir aracıyla değiştirmeyin. Hizmetin ana sayfasını kullanın ve kaynağın kontrol kuyruğuna girmesi için NOSTRES'e mesaj gönderin.
@@ -5282,7 +5190,6 @@ fa40b286	Şimdi talep edilebilir
 d8cbcf82	Önce sigorta türünü doğrulayın
 90d2d359	Karşılaştırmaya şimdi başlanabilir
 bfeeb01e	Önce geçişin yazılı kontrolü gerekir
-47c072d7	Üyelik zaten var: onayı kontrol edin
 43e1e430	Çevrimiçi başvurulabilir
 c3a3b0ab	Kasa aracılığıyla yaptırılabilir
 e0ab852e	Minijob, iş yoluyla sigorta oluşturmaz
@@ -5327,11 +5234,9 @@ e1a7bb26	Yeni bir Steuer-ID'ye ihtiyacınız yok
 0fa5e7a6	Numaranın nerede bulunacağını kontrol edin
 d299ba28	Mektubu bekleyebilir veya acilen Finanzamt'a başvurabilirsiniz
 5f562ea1	Anmeldung'dan sonraki otomatik yol şimdilik geçerli
-90ae85d0	Otomatik gönderim için resmî yaklaşım 4–8 haftadır. 3 ay sonra mektup yoksa çevrimiçi yeniden talebi kullanın; acil gerekiyorsa ServicePortal Finanzamt'a şahsen başvuruya izin verir.
 b11bb755	Resmî süreyi kontrol edin
 4020040c	Çevrimiçi talebi veya acil Finanzamt'ı seçin
 0fabf10e	IdNr.'nin yeniden bildirimini çevrimiçi isteyin
-41c78c90	BZSt aynı ömür boyu IdNr.'yi yeniden bildirir. Çevrimiçi formun ortalama işlenmesi 4 haftadır; numara e-postayla veya telefonla değil, kağıt mektupla gelir.
 341009bb	BZSt formunu aç
 1a0460d5	Numara zaten var: yeniden bildirimini isteyin
 966e0029	Önceki Anmeldung, IdNr.'nin daha önce verilmiş olabileceği anlamına gelir. Yeni numara oluşturulmaz; BZSt formunu kullanın ve güncel Hauptwohnsitz'i belirtin.
@@ -5395,7 +5300,6 @@ ca3c7e47	İşletme kaydı çalışma izninin yerini tutmaz. Faaliyetten önce Au
 66428af8	Freiberufler genellikle Gewerbeanmeldung vermez. Fragebogen zur steuerlichen Erfassung'u iletin ve Steuernummer'i bekleyin.
 f4dbc327	ELSTER'da Fragebogen'i aç
 fe3a69fa	Faaliyet türünü resmî listeye göre belirleyin
-23f9f198	Freier Beruf ve Gewerbe farklı kurumlarda kaydedilir ve farklı vergilendirilir. Federal kılavuz serbest meslekleri sıralar: faaliyetiniz oradaysa yol Finanzamt'tan, değilse Gewerbeanmeldung'dan geçer. Faaliyetin kesin tanımını önceden hazırlayın.
 ffe3f0dc	Freiberufler kılavuzunu aç
 4aca835a	Zeugnisbewertung ZAB'ı kontrol edin
 9d33a459	Düzenlenmemiş bir meslekte yabancı yüksek öğrenim için çoğunlukla mesleki tanıma değil, diploma değerlendirmesi kullanılır. Önce yolu Anerkennungs-Finder'da doğrulayın.
@@ -5666,7 +5570,6 @@ a6c026fe	Formlara ve adreslere ihtiyaç var
 51172426	Otuz beş bağımsız rota şu anda mevcuttur. Soru yanıtları cihazınızda saklanır; belgeler, Steuer-ID ve tıbbi bilgiler istenmez. İlk sürümde ücretli uzman yoktur.
 cad7ad72	Şu durumda uygundur
 6cf3ba81	Durumunuzu netleştirin
-ddc22e37	Tüm soruları yanıtlayın: NOSTRES uygulanabilir sonraki adımı seçer.
 25916374	Mevcut yöntem
 f328d058	Karma
 83778a6d	Başka yöntem gösterilmiyor, çünkü yanıtlarınız için resmî koşullarla doğrulanmadı.
@@ -5696,7 +5599,6 @@ cf940283	NOSTRES hangi teknik verileri alır
 92d79870	Rotaların çalışmasını kontrol etmek için site sınırlı olaylar gönderir: rota kodu, işlem türü, girişimin teknik tanımlayıcısı, adımın veya sorunun ayrı kodu ve olayın zamanı. Yerleşik rota değerlendirmesi seçilen puanları ve engel kodlarını gönderir. Bu alanlar ad, e-posta, belge veya serbest metin istemez.
 a850a507	Olaylar ve değerlendirmeler Avrupa bölgesindeki Cloudflare D1 veritabanında saklanır ve hataları bulmak ve rotaları iyileştirmek için kullanılır. Altyapıya erişimi barındırma ve veritabanının çalışması için Cloudflare sağlar. Kayıtlar bu amaçlar için gerektiği sürece saklanır, düzenli olarak gözden geçirilir ve artık gerekmediğinde silinir.
 f4c0e524	Veriler ne için kullanılır
-9c4c5067	Teknik olaylar ve değerlendirmeler, ücretsiz hizmetin çalışmasını sürdürmek ve iyileştirmek için kullanılır. İşleme dayanağı, proje yazarının rotaların çalışmasını kontrol etme ve sorunları giderme konusundaki meşru menfaatidir. E-posta gönderirseniz verileri başvurunun incelenmesi ve yanıt için kullanılır.
 269c01bd	Sayfaların teslimi ve sitenin korunması için Cloudflare, bağlantıya ilişkin teknik bilgileri, örneğin IP adresini, istek zamanını ve başlıkları işleyebilir. NOSTRES bunları kullanıcı profili oluşturmak için kullanmaz. Sağlayıcıdaki işleme ayrıntıları şurada anlatılmıştır:
 8d44b62c	Cloudflare gizlilik politikası
 38e9e162	PEC'e yazarsanız
@@ -5776,7 +5678,6 @@ af823a5e	Başvuru için eksik olanlar: uygun bir oturum statüsü (Niederlassung
 bdff661b	Başvuru için eksik olanlar: uygun bir oturum statüsü (Niederlassungserlaubnis, Blue Card ve bazı diğer türler); Almanca B1 sertifikası; test sertifikası; Bürgergeld ve Sozialhilfe almadan kendi geçimini sağlama (istisna durumları hariç). Diğer koşulları karşılanmış olarak belirttiniz.
 20bd6706	Başvuru için eksik olanlar: uygun bir oturum statüsü (Niederlassungserlaubnis, Blue Card ve bazı diğer türler); Almanca B1 sertifikası; test sertifikası; Bürgergeld ve Sozialhilfe almadan kendi geçimini sağlama (istisna durumları hariç); belirlenen sınırları aşan mahkûmiyetlerin bulunmaması. Diğer koşulları karşılanmış olarak belirttiniz.
 cd8e1bcc	Ara veya taşınma sonrası sigorta
-90ca37d5	gesund.bund.de — federal sağlık portalı
 8a16bcd1	23 Ekim 2026
 3ea01314	Sigorta tüm sakinler için zorunludur; ara sonrası önceki GKV veya PKV sistemine dönüş; sigortasız dönem için primler.
 7aff1bec	Federal İçişleri Bakanlığı: Mehrstaatigkeit (çifte vatandaşlık)
@@ -5805,13 +5706,11 @@ b71390ec	Sonraki adım anlaşılır mı?
 e3df849f	Rota harekete geçirtiyor mu?
 83a420db	Rota sizi genel tavsiyelerde bırakmak yerine doğru resmî sayfaya, forma veya randevuya götürüyor mu?
 52a0d5d7	Rota nerede zorlaştırıyor
-ff1d193c	Anlaşılmayan kelimeler, gereksiz sorular, durumunuzun olmaması, yanlış yere giden bir bağlantı — sizi durduran veya tereddüt ettiren her şey.
-4a3c9414	Değerlendirmelerinize göre önce hangi rotaları düzelteceğimize ve hizmetin daha geniş bir lansmana hazır olup olmadığına karar vereceğiz. Bu yüzden testin asıl sonucu, rotanın sonundaki kısa değerlendirmedir.
 199606dd	Beş adım
 902eeafb	Aşağıdan bir rota seçin
 4b9dfcb8	Tercihen kendi yaşadığınız veya iyi bildiğiniz bir iş: böylece bir şey eksik ya da yanlışsa hemen fark edersiniz.
 7ad7396e	Soruları gerçek hayatta cevaplayacağınız gibi cevaplayın
-47bb778a	NOSTRES cevaplarınıza göre kişisel planınızı hazırlar. Ad, adres, belge numaraları ve sağlık bilgileri gerekmez — hizmet bunları sormaz.
+47bb778a	NOSTRES cevaplarınıza göre kişisel planınızı hazırlar. Ad, adres, belge numaraları ve sağlık bilgileri gerekmez – hizmet bunları sormaz.
 a4a25f49	Planı açın ve okuyun
 4fe103f5	Soruların altındaki düğmeye basın. İlk olarak ne yapılacağının, hangi belgelerin gerektiğinin, işin çevrimiçi mi yoksa yüz yüze mi yapılacağının ve bir süre sınırı olup olmadığının anlaşılır olup olmadığını kontrol edin. Ev aramada ilana veya sosyal konut başvurusuna giden yolu kontrol edin.
 6cb2b60c	Sonraki adımın resmî bağlantısını açın
@@ -5822,21 +5721,17 @@ b8b92da3	Değerlendirme ne soruyor
 53fff2ef	Rotanın ne kadar anlaşılır olduğu, sonra ne yapılacağının açık olup olmadığı, resmî işleme ulaşıp ulaşamadığınız ve en çok neyin engel olduğu.
 ba8d55e3	Hatalı bir bağlantı mı buldunuz?
 93a80e80	Resmî bir sayfa açılmıyorsa veya güncel değilse, rotanın sonundaki “Bir hata veya eski bir bağlantı mı buldunuz?” bölümünden bildirin.
-02aaac5c	Hiçbir durum size tanıdık gelmiyorsa makul bir tanesini seçin ve o kişi gibi cevaplayın. Durumunuz cevaplar arasında yoksa değerlendirmede “Benim durumum yok” seçeneğini işaretleyin. Birden fazla rotayı test edebilirsiniz — her biri için bir değerlendirme.
 a0f2f7ca	Testi mi yapıyorsunuz? Rota değerlendirmesine git ↓
 1780c414	Bu adım, resmî sitede zaten işlem yapıyorsanız içindir. Testi yapıyorsanız bu adımı atlayın ve aşağıdaki rota değerlendirmesine geçin.
 676d6126	Değerlendirmenizi rotanın sonunda bırakın
 65da9a7c	Değerlendirme bölümü rota adımlarının altında zaten açık: dört kısa soru. Testte “Sonucu onaylayın” adımını atlayın: o adım resmî sitede işlem yapanlar içindir. Değerlendirme olmadan testin nasıl geçtiğini bilemeyiz.
 a8d946e2	Altı adım
-dfb05c8a	Ad, adres, belge numaraları ve tıbbi bilgiler gerekmez; hizmet bunları sormaz. Ardından kişisel planınızı almak için soruların altındaki düğmeye basın.
 f974b7f5	Birkaç yol varsa (çevrimiçi, posta, şahsen), size uygun olanı seçin. Hazırlık ve adımlar açılır.
 8b02262f	Adımları okuyun, ancak resmî sitelerde hiçbir şey yapmayın
 5c99ed5a	Önce ne yapılacağının, hangi belgelerin gerektiğinin ve bir süre sınırı olup olmadığının anlaşılır olup olmadığına bakın. Hiçbir şey göndermeniz veya doldurmanız gerekmez. Adımları tamamlandı diye işaretlemeniz ve “Sonucu onaylayın” bölümünü kullanmanız da gerekmez: bunlar gerçekten işlem yapanlar içindir.
 d990dd95	İlk adımın resmî bağlantısını açın
 740971cb	Bağlantının vaat edilen yere gittiğinden ve sonrasında kendi başınıza devam edebileceğinizden emin olun. Rotadaki göreviniz burada biter.
-1f802156	Rotayı değerlendirin: testin asıl sonucu budur
 61823273	Değerlendirme bölümü adımların altında zaten açık (“Rota değerlendirmesine git” düğmesi sizi doğrudan oraya götürür). Dört kısa soru. Değerlendirme olmadan testin nasıl geçtiğini bilemeyiz.
-78a35ec9	Adımların hemen altında “Evet, yardımcı oldu” veya “Hayır, yardımcı olmadı” düğmesine basın: tek dokunuş. İsterseniz altta dört kısa sorudan oluşan ayrıntılı bir değerlendirme açılır. Yanıt olmadan testin nasıl geçtiğini bilemeyiz.
 944ecad7	Rota size yardımcı oldu mu?
 1fe85382	Evet, yardımcı oldu
 90f4d152	Hayır, yardımcı olmadı
@@ -6234,9 +6129,7 @@ d1f95e9d	§ 11 TierSchG’ye göre izni göstermesini isteyin
 018f90c5	Hayvan Koruma Kanunu, § 11
 d21500a3	Neukölln: hayvanlarla mesleki çalışma
 4b1d7bbe	İzinden şüpheniz varsa ilçenin veteriner denetimine yazın
-a8feb2de	İzni, okulun bulunduğu ilçenin Veterinär- und Lebensmittelaufsicht birimi verir. Birimlerin iletişim bilgileri Ordnungsämter listesindedir.
 cd493fe1	Service Berlin: Ordnungsämter ve veteriner denetimi
-b7393715	Amacınız tasmasız gezdirmekse derslerden sonra sınava girin
 6fe9c973	Sachkundebescheinigung (Hundeführerschein) tasma zorunluluğundan muaf tutar. Sınavı Senato’nun tanıdığı bir uzman yapar.
 d5997d50	Berlin Senatosu: kurallar ve sınav
 6daba798	Berlin Senatosu: tanınmış uzmanlar
@@ -6267,24 +6160,19 @@ d8930e8b	İlçenizin Ordnungsamt’ına başvurun
 c2f9f0f3	Sınav sonucuyla Ordnungsamt, Sachkundebescheinigung’u verir. Belge sizin ve bu köpek için geçerlidir. Diğer Alman eyaletlerinden bu tür belgeler de tanınır.
 d8887f37	Tek yol: tanınmış bir uzmanla sınav.
 161f38c5	Köpek bir yaşından küçük
-78023fc2	Sınav, köpek bir yaşını doldurduktan sonra
 47f28d4b	Köpek bir yaşını doldurduğunda
 0df885ae	Köpeğin bir yaşını doldurmasını bekleyin
 b472688c	Sınavın uygulama bölümüne yalnızca en az bir yaşındaki köpekler alınır. O zamana kadar bir eğitmenle çalışabilirsiniz.
 9bed19e7	Köpek 22 Temmuz 2016’dan önce Berlin’de sizinle yaşıyordu
 df7bb3f4	Sınav gerekmez: köpeğin 22 Temmuz 2016’dan önce sizinle yaşadığını kanıtlayın
-a4090880	22 Temmuz 2016’dan önce sahibiyle yaşayan köpekler (Bestandshunde) için Sachkundebescheinigung gerekmez. Kanıt olarak örneğin sigorta poliçesi, vergi bildirimi veya hayvan pasaportundaki kayıt kullanılabilir.
 2f8be877	Kanıtı hazırlayın
 cbf79f1d	22 Temmuz 2016’dan önceki tarihli bir sorumluluk sigortası poliçesi, köpek vergisi bildirimi veya hayvan pasaportu kaydı yeterlidir.
 5063a905	Tasmanın her zaman zorunlu olduğu yerlere uyun
 ec695a44	Genel kural olmasa bile parklarda, tasmasız alan tabelası olmayan ormanlarda, oyun alanlarının yakınında, binaların ortak alanlarında, yaya bölgelerinde, kalabalık yerlerde ve toplu taşımada tasma zorunludur.
 29488f5e	Tehlikeli ırklar listesindeki köpek
-38588457	Wesenstest ve ırk değerlendirmesi Senato’nun tanıdığı bir uzmanda yapılır
-0c0f0208	Davranış testini (Wesenstest) ve ırk değerlendirmesini (Rassegutachten) yalnızca Berlin Senatosu’nun tanıdığı uzmanlar yapabilir. Listedeki bir köpek için süreler ve tüm süreç köpek rotasındadır.
 e8262103	Resmî listeden bir uzman seçin
 6a83a575	Senato listesinde uzmanları kontrol türüne göre filtreleyebilirsiniz: Wesenstest veya Rassegutachten. Adres, telefon ve e-posta orada yer alır.
 9da19f92	Listedeki köpek için tüm süreci tamamlayın
-c4de8a9b	Ordnungsamt bildirimi, Sachkunde, sigorta ve Wesenstest süreleriyle birlikte köpek rotasındadır.
 d11df2b5	Sizinle hangi hayvan taşınıyor?
 38e1cd8b	Kedi veya gelincik
 095bc7d2	Kuş
@@ -6315,7 +6203,6 @@ bc38159d	BMLEH: köpek, kedi ve gelinciklerle seyahat
 5674bbf8	Aşı en az 12 haftalık hayvana yapılır; en erken 21 gün sonra geçerli olur.
 9b5e6e61	Your Europe: hayvanlarla seyahat
 858d0614	Girişten sonra köpeği Berlin’de kaydettirin
-57b6e475	Köpek, Berlin’de bakmaya başladığınız anda merkezi sicile (Hunderegister) kaydedilir; mikroçipi olmalıdır. Kayıt ve vergi adımları köpek rotasındadır.
 13351862	Rota: Berlin’de köpek (sicil, vergi, gezinti)
 99c9ff28	Service Berlin: köpek kaydı
 394a4969	Berlin’de bir veteriner seçin
@@ -6364,11 +6251,9 @@ b0660ab1	AB örneğine göre sahibin beyanı (Anhang V Teil 2 Durchführungsvero
 6c54e6b8	AB dışı bir ülkeden giriş yalnızca güzergâhınızdaki ilk AB ülkesinin yolcu giriş noktasından yapılır. Berlin’de bu BER Havalimanı’dır. Hayvanı gümrükte beyan edin: belgeler kontrol edilir ve çip okunur. Çip AB standardına uymuyorsa kendi okuyucunuzu getirin.
 c3c35b5d	BMLEH: Almanya’daki giriş noktaları listesi
 e149f8da	EU-Heimtierausweis (hayvan pasaportu) çıkartın
-6e151d30	AB pasaportu, sahibi AB’de yaşayan hayvanlara verilir. AB ülkeleri arasında seyahat için gereklidir. Süreç pasaport rotasındadır.
 c23220dd	Rota: EU-Heimtierausweis (hayvan pasaportu)
 cdde5320	Tek yol: yolcu giriş noktasından giriş.
 37985417	Mikroçip ve aşı zaten var
-c8063da8	sertifika — girişten en fazla 10 gün önce
 2772d3ad	Mikroçip, aşı ve kuduz antikor testi zaten var
 17c4220b	AB listesinde olmayan ülke: antikor testi gerekir
 8e7bd867	AB listesi dışındaki ülkeden giriş: antikor testi ve 90 gün bekleme
@@ -6460,7 +6345,6 @@ e4e19093	Veteriner çipi okuyucuyla okur. Çip yoksa aynı randevuda takılır v
 ce466995	Avrupa Komisyonu: sorular ve cevaplar
 3596039f	Köpek, kedi veya gelincik değil
 b5895e29	AB pasaportu yalnızca köpek, kedi ve gelinciklere verilir
-89b023c1	Diğer hayvanlar için AB pasaportu yoktur. Onlarla seyahat kuralları hayvanla taşınma rotasındadır.
 c93b20af	Hayvanınız için kuralları açın
 21e7027e	Kuşlar, tavşanlar, kemirgenler ve sürüngenler için farklı giriş kuralları geçerlidir.
 c6d64129	Rota: hayvanla taşınma
@@ -6493,7 +6377,6 @@ f4c77df0	Almanca, İngilizce, Lehçe, Arapça, İspanyolca
 a86e3520	Bizetstr. 48, 13088 Berlin; +49 30 927 34 41; Pzt 9–16, Sal 12–18, Çar 10–12, Per 12–18, Cum 9–16
 499a7ce1	Dr. Anja Peters: muayenehane sitesi
 40832a15	Charlottenburg
-b9b160bb	Pzt–Cum 9–19 Almanca ve İngilizce muayene. Arapça pazartesi 10–12, Fransızca randevuyla.
 f8b89cad	Almanca ve İngilizce; Arapça pazartesi 10–12; Fransızca randevuyla
 48a42924	Tante Käthe & Onkel Bolle: muayenehane sitesi
 b414cedb	Lichterfelde
@@ -6526,9 +6409,7 @@ f7514990	Gece, hafta sonu veya resmî tatilde yardıma ihtiyacınız var
 a56dd098	Nöbet saatleri olan bir muayenehane veya ev ziyareti seçin
 9872aa7f	Tierärztekammer Berlin, hafta sonu ve resmî tatillerde açık muayenehanelerin listesini ve 24 saat ev ziyareti hizmetini yayımlar. Klinikler yalnızca hayati tehlikede gerekir.
 54026f8f	En yakın nöbetçi muayenehaneyi bulun
-44ddf145	Örneğin: Tiermedizinzentrum Evidensia, Kufsteiner Str. 22, 030 85 42 050, her gün 9–24; Tierklinik Freie Universität, Oertzenweg 19 b, 030 838 62422, hafta sonu ve resmî tatiller 10–18, aramadan gidilebilir; Tierarztpraxis Lenk, Schönfließer Str. 1, 030 44 69 769, Pazar ve resmî tatiller 10–18. Saatleriyle tam liste odanın sitesindedir.
 49219163	Ya da veterineri eve çağırın
-b25d1669	Tierärzte im Notdienst — Berlin & Brandenburg: 0157 859 49 631, 24 saat.
 6d93d724	Tierärztekammer Berlin: acil hizmet
 fdbadc0b	Nöbet tarifesini göz önünde bulundurun
 ceefb79c	En az iki kat tarife ve başvuru başına bir kez 50 € nöbet ücreti.
@@ -6552,7 +6433,6 @@ f1fac387	Tierärztekammer Berlin (veteriner odası), kliniklere yalnızca hayati
 2bc9c036	24 saat: Klinik für Klein- und Heimtiere, Alt-Biesdorf 22, 030 51 43 760; Valera, Potsdamer Str. 23/24, 030 201 80 57 50; Tierarztpraxis Bärenwiese, Uhlandstr. 151, 030 23 36 26 27; Tierarztpraxis Rödiger, Scharnweberstr. 136, 030 412 73 57; VetZentrum Berlin, Märkische Allee 258, 030 93 22 093.
 bb84f8c4	Tierärztekammer Berlin: nöbetçi klinikler
 5a7dea49	Hayvanı götüremiyorsanız veterineri eve çağırın
-655ff577	Tierärzte im Notdienst — Berlin & Brandenburg: 0157 859 49 631, 24 saat, ev ziyareti.
 c53aa22e	Elinizdeyse hayvan pasaportu veya aşı kayıtları ve çip numarası.
 051fd027	24 saat hizmet veren klinik
 05e9d1fd	Randevusuz, aciliyete göre muayene.
@@ -6628,7 +6508,6 @@ e5648cfb	Berlin’de yaşayan ve 18 yaşından küçük çocuğu olan bir aile
 27b23c64	Düşük gelirini belgeleyebilen kişi
 07b02a04	Öğrenci veya mesleki eğitim alan kişi
 747486fa	Engelli kişi; Schwerbehindertenausweis belgesinde Merkzeichen B işareti bulunabilir
-38b3cc1f	Listelenen yardımlardan hiçbirini almayan mülteci veya göçmen (AsylbLG, yardımlar kategorisindedir)
 6e83d416	Farklı hak sahipliği koşulları olan birden fazla kişi
 bbeffb97	Başka bir ziyaretçi veya özel bir hak sahipliği koşulu bulunmayan kişi
 5e636bcf	Nereyi ziyaret etmek istiyorsunuz?
@@ -6654,7 +6533,6 @@ b47e1796	Berlin’de ücretsiz girişli müzeler
 4a1b577b	Müzeler ve sergiler için çocuklara ücretsiz giriş sunan listeyi ve sürekli sergileri ücretsiz olan müzelerin genel kataloğunu açın.
 ca606d40	Uygunluk her etkinliğin koşullarına bağlıdır
 1e1d4412	Giriş ve rezervasyon, mekâna, tarihe ve etkinliğe bağlıdır.
-f4a12aac	Tarih ve etkinliğin adı; yaş indirimi için yaşı doğrulayan belge.
 c584916c	Resmî takvimi açın
 55b636b0	Berlin’de ücretsiz etkinlikleri bulun
 39d1a3b6	Berlin’de ücretsiz etkinlikler
@@ -6721,14 +6599,12 @@ ba514370	Ücretsiz ve indirimli teklifleri bulun
 faf3cbca	Engelli ziyaretçiler ve refakatçiler için indirimler müzeye veya mekâna göre değişir ve ilgili koşullarda belirtilir.
 057532e7	Engelli kişiler ve refakatçileri için indirimler
 07517397	İndirimler ve giriş koşulları mekâna bağlıdır
-8210cbe6	Schwerbehindertenausweis; gerekiyorsa refakatçi işareti.
 9f750dc9	Mülteci veya göçmen statüsü tek başına genel bir indirim sağlamaz; AsylbLG alanlar yardım alanlara yönelik rehberi kullanabilir.
 cbd014e2	Ücretsiz etkinlikler ve mekân tarifeleri
 1fdee0a8	Tüm ziyaretçiler için tek bir indirim yoktur. Ücretsiz giriş ve indirimli fiyatlar etkinliğe ve mekâna bağlıdır.
 f8be2709	Ücretsiz etkinlikler mekânın koşullarına tabidir
 71f0e776	Seçtiğiniz etkinliğin kurallarını kontrol edin.
 39a2f2b1	Mülteci veya göçmen statüsü tek başına genel bir indirim sağlamaz; AsylbLG alanlar sosyal yardımlar rehberini kullanabilir.
-ae1b9052	Bazı teklifler için yardım, gelir veya yaş belgesi gerekir.
 ca49902c	Ücretsiz bir etkinlik bulun
 8f8f5c3b	Berlin takviminde ücretsiz girişli güncel etkinlikler listelenir.
 cec4ff66	Ücretsiz etkinlikleri açın
@@ -6820,7 +6696,6 @@ e8c102eb	VBB sayfasında VBB-fahrCard satın alma ve teslim alma kanalları list
 a65b548f	Yüz yüze başvuru kabul eden işletmenin hizmet merkezine gidin. Bu abonmanı bilet makinesinde aramayın.
 b43352e6	Deutschlandsemesterticket ve öğrenci tarifeleri
 6d04b492	Öğrenciler için Deutschlandsemesterticket
-adc02899	Üniversitenizin bir anlaşmasının olması gerekir.
 b73ebfe6	Bilet Almanya genelindeki yerel ve bölgesel ulaşımda geçerlidir; uzun mesafeli ICE, IC ve EC trenleri kapsam dışındadır.
 df29ae43	Güncel öğrenci durumunu kanıtlayan belge ve üniversite hesabı bilgileri.
 e350f71f	Bilet kontrolü için fotoğraflı kimlik.
@@ -6844,7 +6719,6 @@ c668d99a	Bileti ulaşım işletmesinden veya işvereniniz aracılığıyla alın
 6c7e135b	Berlin-Ticket S, ana ikamet adresi Berlin'de olan ve resmi listedeki yardımlardan birini alan kişilere açıktır. Yalnızca Berlin AB için aylık bilettir; Deutschlandticket için genel bir indirim yoktur.
 0aa4de65	İndirimli ulaşım için Berlin-Ticket S
 483029c4	İndirim yalnızca VBB koşullarını karşılıyorsanız geçerlidir
-698c79e2	Ana ikamet adresiniz Berlin'de olmalı ve aldığınız yardım Berlin-Ticket S hakkı sağlayan resmi listede yer almalıdır.
 1317f9ed	Güncel yardım belgesi ve fotoğraflı kimlik gerekir; denetimde bileti ve belgeyi gösterin.
 bd8ef0ea	Güncel Leistungsbescheid veya Leistungsnachweis.
 bf730d98	Fotoğraflı kimlik; biletteki ad belgeyle eşleşmelidir.
@@ -6860,11 +6734,9 @@ b10847b6	Aylık bilet satın alın
 e968eef7	Geçerli bir Wertmarke, VBB ağında ücretsiz ulaşım sağlar; Merkzeichen B, ücretsiz refakatçi hakkı verir.
 2e1d0d8f	Wertmarke ile ücretsiz ulaşım
 3435b13b	Schwerbehindertenausweis içindeki geçerli Wertmarke, VBB toplu taşımasında ücretsiz yolculuk hakkı verir. Merkzeichen B ile bir refakatçi de ücretsiz seyahat edebilir.
-4380d5b1	Geçerli Wertmarke ile ücretsiz; Merkzeichen B ile refakatçi hakkı
 3b07f52a	Wertmarke'nin yolculuk tarihinde geçerli olduğunu kontrol edin.
 d212953c	Bu kural VBB ulaşım ağı için geçerlidir; ağ dışında ilgili işletmenin kuralları uygulanır.
 b9b54d70	Schwerbehindertenausweis ve geçerli bir Wertmarke.
-8d28a029	Ücretsiz refakatçi için: Merkzeichen B işareti.
 2e722fe2	Belgelerinizi yolculukta yanınızda bulundurun
 2282e6b7	Denetim sırasında geçerli Wertmarke içeren Schwerbehindertenausweis belgenizi gösterin.
 25a7c0d5	VBB erişilebilirlik kurallarını açın
@@ -6918,7 +6790,6 @@ a3d98d0b	Bürgergeld, Wohngeld, Grundsicherung veya AsylbLG alanlar belge göste
 10201a6e	Kayıt sonrasında bile ücretsiz biletler müsaitliğe bağlıdır ve garanti edilmez.
 683c73df	Güncel gelir veya listelenen yardım belgesi; öğrenciler son üç aylık banka hesap özetlerini sunabilir.
 16dfc5d2	Geliri ve belgeyi kontrol edin
-55d3affe	Aylık net sınır tek yaşayan kişi için 1.200 €, iki kişi için 1.700 € ve her çocuk için 350 € ek tutardır.
 81b0bbe4	KulturLeben kayıt koşullarını açın
 a20f1a90	Basılı formu gönderin
 2b604903	Formu indirin, doldurup imzalayın. Güncel gelir belgesinin kopyasını ekleyip kayıt noktaları sayfasındaki adrese veya sosyal hizmet ortağı aracılığıyla gönderin.
@@ -6943,7 +6814,6 @@ af043926	Müze ve koşul listesine gidin
 9083a3a1	Fairgnügen için Berlin’in kabul ettiği belgeyi hazırlayın; aile veya hane üyelerinden hesaplama eki istenebilir. Katılan mekânlardaki 3 € biletler için belge gerekmez.
 85b186ac	Gelir veya listelenen yardım belgesini hazırlayın; öğrenciler son üç aylık hesap özetlerini sunabilir.
 ed4c79a3	Tüm müze ve etkinliklerde geçerli tek bir indirim yoktur. Staatliche Museen zu Berlin’de öğrenciler, çıraklar, üniversite öğrencileri ve gönüllü hizmet katılımcıları belge göstererek %50 indirim alır; diğer kurumların kuralları farklıdır.
-b8a45ce1	İndirim müzeye; ücretsiz biletler ise müsaitlik ve uygunluk koşullarına bağlıdır.
 c2f04001	Staatliche Museen zu Berlin, ALG I alanlara ve GdB’si 50 veya üzeri olanlara da %50 indirim sunar; belge girişte gösterilir.
 5ea636e9	Ödeme yapmadan önce ilgili müze veya etkinliğin sayfasından ücreti ve gerekli belgeyi kontrol edin.
 8b2b7ae5	Öğrenciler, çıraklar ve gönüllü hizmet katılımcıları %50 indirim alır; belgeyi girişte gösterin.
@@ -6972,11 +6842,8 @@ e8c140cc	Schülerticket başvuru seçeneklerini açın
 f05341e8	Ücretsiz VBB okul biletini çevrimiçi sipariş edin
 b43d77c1	Bu kişisel abonelik ayda 63 €’dur ve Almanya genelindeki yerel ve bölgesel ulaşımda geçerlidir. ICE, IC veya EC uzun mesafe trenlerinde geçmez.
 713fa1a9	Sipariş, bir ulaşım işletmesinden abonelik olarak verilir; VBB bölgesinde telefona veya VBB-fahrCard’a yüklenir.
-86a2d769	Sosyal duruma bağlı genel bir indirim yoktur. İşveren en az %25 (15,75 €) katkı yaparsa Deutschlandticket Job 59,85 € olur ve çalışanın payı 44,10 €’yu aşmaz; öğrenciler ve çıraklar için ayrı seçenekler vardır.
 994e322b	Bazı işletmeler başvuruları personelli hizmet merkezlerinde kabul eder ve VBB-fahrCard verir. Bu abonelik bilet makinelerinden, sürücülerden veya kontrolörlerden alınamaz.
 442ea60e	Deutschlandsemesterticket yalnızca VBB sözleşmesi olan üniversitelerin öğrencilerine verilir; sözleşmesi olmayanlar ayrı Ausbildung tarifesini kontrol etmelidir.
-e322b1a5	Bilet yalnızca VBB sözleşmesi olan üniversitelerde sunulur. 2026’da standart Deutschlandticket fiyatının %60’ı, ayda 37,80 €’dur; teslim şeklini üniversite bildirir.
-de9ca3f1	2026’da katılımcı üniversitelerde ayda 37,80 €
 b28c5adc	Dönem bileti olmayan öğrenciler için Ausbildung tarifesi
 3cf60a96	Deutschlandsemesterticket sözleşmesi olmayan öğrenciler Monatskarte Ausbildung hakkını kontrol edebilir: üniversite Berlin veya Brandenburg’da olmalı ve dönem başına en az 15 Credit Points alınmalıdır.
 a106efe8	Dönem bileti sözleşmesi olmayan öğrenciler için Monatskarte Ausbildung
@@ -6997,11 +6864,7 @@ bfd35523	Ausbildung tarifesine uygunluğu doğrulayın
 6709373c	BVG Monatskarte Ausbildung satın alma ve belgeler
 a5ad07a9	BVG abonelik koşullarını açın
 b260d924	1 Temmuz 2026’dan itibaren koşulları karşılayan çıraklar Deutschlandticket Zuschuss Ausbildung’ı ayda 37,80 €’ya alabilir. İkili mesleki eğitim için işverene bağlı ayrı bir koşul vardır.
-de3cfa7d	Hak yalnızca belirli gruplar içindir: tam zamanlı mesleki eğitim ve tanınmış sağlık okulları; FSJ/FÖJ/BFD katılımcıları; ve ulaşım masrafı karşılanmayan bazı Berlin kamu görevlisi adayları. Eğitim veya hizmet en az 12 ay ve haftada 20 saat olmalı; kurum VBB listesinde yer almalıdır.
-59fe659d	İkili Ausbildung için işverenin Deutschlandticket Job sözleşmesi ve artırılmış katkı payı gerekir. 2026’da işveren en az 22,05 € katkı yapmalı; işletme indirimi sonrası bilet 59,85 € olur ve uygun çırak ayda en fazla 37,80 € öder.
 bb11f4af	Bu özel destek tüm çıraklara otomatik olarak verilmez.
-bd3017cb	Tam zamanlı mesleki eğitim veya gönüllü hizmet için: kurumdan alınan ve işletmeye sunulurken 30 günden eski olmayan Berechtigungsnachweis.
-43076b51	İkili Ausbildung için: Deutschlandticket Job sözleşmesi ve işverenin artırılmış katkı payı (2026’da en az 22,05 €) belgesi.
 8b8ac803	Tam zamanlı eğitim ve gönüllü hizmet için işletmeden aylık abonelik alınır; ay sonunda iptal için ayın 10’una kadar bildirim gerekir. İkili Ausbildung’da Jobticket sözleşmesini ve işveren katkısını kontrol edin: 2026’da sizin payınız ayda 37,80 €’yu aşamaz.
 8ca76549	Bu kişisel ve devredilemez aylık bilet yalnızca Berlin AB’de geçerlidir ve abonelik değildir. VBB sayfasına göre 30 Ekim 2026’da fiyatı 27,50 €’dur.
 e52d8ada	VBB satış yerleri olarak makineleri, BVG uygulamalarını, DB Navigator’ı, özel mağazaları ve hizmet merkezlerini listeler. Aylık bilete adınızı ve soyadınızı yazın; C bölgesi için başka veya ek bilet gerekir.
@@ -7011,7 +6874,6 @@ c7d3b254	Bilet satın alındı veya indirim hakkı doğrulandı
 fd41c207	Mevcut rotalar artık belgeler, konut, sağlık, aile, iş, yardımlar, vergiler, bankacılık ve telekom, eğitim, ulaşım, kültürel indirimler ve evcil hayvanları kapsıyor.
 d4006707	Çıkmazda kalmayın
 8958d4ff	çıkmazda
-b2242510	Bundesregierung: Deutschlandsemesterticket fiyatı — Deutschlandticket fiyatının %60’ı
 02612049	Ulaşım ve boş zaman
 c81ecaa8	Museumsportal Berlin listesi, belirli mülteci grupları için girişin ücretsiz olduğu müzeleri ve orada gösterilecek belgeleri gösterir. Bu, statüye bağlı genel bir indirim değil, tek tek müzelerin koşuludur.
 9735a2ef	Tüm müzeler katılmıyor: liste hangilerinin ve hangi belgelerle katıldığını gösterir.
@@ -7019,7 +6881,6 @@ c81ecaa8	Museumsportal Berlin listesi, belirli mülteci grupları için girişin
 dd7012de	Berlin ve çevresinde: AB veya ABC tarife bölgeleri
 d13f845c	Otomatta veya satış noktasında doğru bölge ve süre için bilet seçin ve yolculuktan önce alın.
 3301b4d8	Üniversitenizden en az 15 Credit Points ders yükü belgesi alın ve belgeler ile fotoğrafla bir müşteri merkezinde VBB-Kundenkarte başvurusu yapın.
-54fc47bb	Berlin-Ticket S yalnızca hak veren bir yardım alan Berlin sakinleri içindir. Rota, normal VBB tarifelerini ve Deutschlandticket’ı gösterir.
 ddadb3c8	Resmî sayfalar kontrol edildi: {date}. Bağlantılar adımlardadır.
 bcc68682	Wertmarke (ücretsiz yolculuk için engelli kimliği ek kuponu)
 4754a5c2	Merkzeichen B (refakatçi hakkı veren işaret)
@@ -7047,23 +6908,18 @@ a46968c4	FÖJ (gönüllü ekoloji yılı)
 37c33255	Berlin toplu taşıma biletleri ve Deutschlandticket
 27097b18	ücretsiz müzeler, etkinlikler ve kültür ile boş zaman indirimleri
 f9aa72c8	Etkin çipli, altı haneli PIN'li Alman Personalausweis'i veya AB vatandaşları için Alman eID kartı ve NFC'li akıllı telefonda AusweisApp ya da bilgisayar için kart okuyucu gerekir. Çevrimiçi Anmeldung için sıradan pasaport veya eAT yetmez.
-1b49523e	GKV üyesiyle akrabalık veya ortaklık, Almanya'da ikamet ve başka zorunlu sigortanın olmaması gerekir; geliri Krankenkasse kontrol eder. 2026'da genel gelir sınırı aylık 565 €, Minijob'da 603 €'dur.
-4e20902c	Aylık 565 €'nun üzerinde gelir (Minijob'da 603 €'nun üzerinde)
 70aa4852	Zorunlu sigorta grupları, öğrenciler, aile sigortası; 2026'da aylık 603 € Geringfügigkeitsgrenze.
 1b9b9fec	2026'da Familienversicherung için gelir sınırı
-28aff317	2026'da genel gelir sınırı aylık 565 €, Minijob'da 603 €'dur.
-0f4a63a7	2026'da aylık 565 € (Minijob'da 603 €) genel sınırın üzerindeki gelir ücretsiz aile sigortasını engeller. Kasadan kendi rejiminizi yazılı olarak belirlemesini isteyin.
 7b5bf464	NOSTRES: Berlin'de adres kaydı, konut, sigorta, doktorlar, iş, bankacılık ve mobil iletişim için ücretsiz adım adım rehberler.
 33016c4f	NOSTRES, taşınma sonrasında adres kaydı, konut, sigorta, iş, bankacılık ve mobil iletişim konularında yol gösteren ücretsiz bir hizmettir. İlk desteklenen şehir Berlin'dir.
 037bb7af	NOSTRES, taşınma sonrasında adres kaydı, konut, sigorta, iş, bankacılık ve mobil iletişim konularında yol gösterir. İlk desteklenen şehir Berlin'dir.
 cd136a8e	NOSTRES'in adres kaydı, konut, sigorta, iş, bankacılık ve mobil iletişim rehberleri Berlin için ücretsiz olarak sunulmaktadır. Diğer şehirler ve ülkeler planlanmaktadır.
 60ce5197	NOSTRES, taşınma sonrasında adres kaydı, konut, sigorta, iş, bankacılık ve mobil iletişim için adım adım rehberler sunan ücretsiz bir bilgi hizmetidir. İlk desteklenen şehir Berlin'dir; diğer şehirler planlanmaktadır.
-e00e6461	NOSTRES: Berlin için ücretsiz adım adım rehberler — belgeler, konut, sağlık, iş, aile, yardımlar, ulaşım ve evcil hayvanlar.
+e00e6461	NOSTRES: Berlin için ücretsiz adım adım rehberler – belgeler, konut, sağlık, iş, aile, yardımlar, ulaşım ve evcil hayvanlar.
 235f2f19	NOSTRES taşınmadan sonra ücretsiz yol gösterir: belgeler, konut, sağlık, iş, aile, yardımlar ve ulaşım. İlk şehir Berlin.
 d230f13c	Berlin’e taşındıktan sonra ücretsiz rehberler: belgeler, konut, sağlık, iş, aile, yardımlar, ulaşım ve evcil hayvanlar.
 5e36ca69	NOSTRES, Berlin’e taşındıktan sonra adım adım yol gösterir: belgeler, konut, sağlık, iş, aile, yardımlar, ulaşım ve evcil hayvanlar.
 e1052822	Berlin için ücretsiz NOSTRES rehberleri: belgeler, konut, sağlık, iş, aile, yardımlar, ulaşım ve evcil hayvanlar.
-48d00289	NOSTRES, taşınma sonrası adım adım rehberler sunan ücretsiz bir bilgi hizmetidir: belgeler, konut, sağlık, iş, aile, yardımlar, banka ve iletişim, ulaşım ve evcil hayvanlar. İlk şehir Berlin; başka şehirler planlanıyor.
 9cbf7241	, yazar gönderenin adresini, mektubun metnini ve eklediyseniz ekleri alır. Bu veriler başvuruyu okumak ve yanıtlamak için kullanılır; mektup Proton Mail e-posta hizmetince işlenir. Soru için gerekmiyorsa belge ve hassas bilgi göndermeyin.
 48c10802	Belirtilen adrese, sizinle ilgili verilere erişim, düzeltme veya silme talebiyle ve işlemeye itirazla başvurabilirsiniz. Ayrıca İtalyan veri koruma denetim kurumuna şikâyette bulunabilirsiniz:
 869dd222	Soru veya görüş göndermek için bu adrese yazın. NOSTRES site arayüzünde ad veya e-posta istemez.
@@ -7101,7 +6957,6 @@ bc81ed21	Özgeçmiş
 995ec3d7	tüm vize birimleri 1 Ocak 2025'ten beri Auslandsportal'a bağlı; çevrim içi 28 kalış amacı kabul ediliyor, Schengen vizeleri henüz değil
 25be1d81	Geçim masrafları
 e8896de3	Ayda en az 1.091 € net Sperrkonto (2026) ya da Verpflichtungserklärung
-e56c5a7d	1 yıla kadar; nitelikli iş bulunur ve başka izin uymazsa 2 yıla kadar uzatma
 d466b27b	Arama sırasında çalışma
 431e1d7f	haftada 20 saate kadar ek iş ve her işverende 2 haftaya kadar deneme çalışması
 640fe0a3	Sperrkonto · çevrim içi
@@ -7137,7 +6992,6 @@ cfb536cb	Randevuyla kâğıt üzerinde
 6cab1141	Temsilciliğiniz bu amacı henüz çevrim içi kabul etmiyorsa yedek yol.
 6220ef83	Bu amaç temsilciliğinizde çevrim içi açık değilse
 4fb62f4b	Olağan ikamet yerinize göre temsilcilik ya da vize merkezinde randevu
-8687c8a6	amaca göre birkaç ay
 fc90c2a1	Temsilcilik ya da vize merkezinden randevu alın
 272a8f86	Amacınız temsilciliğinizde henüz çevrim içi kabul edilmiyorsa başvuru randevuyla kâğıt üzerinde yapılır. Temsilcilik, olağan ikamet yerinize göre seçilir.
 b3ae07ce	Başvuruyu ve asıl belgeleri teslim edin
@@ -7189,7 +7043,6 @@ eb890249	5 yılda 2 yıl deneyim: 2 puan
 04937cd4	Toplam puan: gereken 6 puandan 6
 05868fd7	Toplam puan: gereken 6 puandan 5
 71fef7f0	Chancenkarte için 1 puan eksik
-86c70834	Puan sistemindeki asgari puan 6'dır. En hızlı puanı dil (Almanca A2 — 1, B1 — 2, B2 — 3 puan) ve diplomanın Almanya'da kısmen tanınması (4 puan) getirir.
 e53708c5	Almancanızı geliştirin
 9ca35d64	A1'in üstündeki her seviye bir puan getirir: A2, B1, B2 ve üstü.
 95ba6ebf	Diplomanızın Almanya'da tanınması için başvurun
@@ -7212,7 +7065,6 @@ f50da44d	Puan sistemi en az Almanca A1 ya da İngilizce B2 ister. Dil sertifikas
 febf7fb4	Sertifikayla rotaya geri dönün
 5c45cb5c	Sertifikayla rota puanlarınızı hesaplar.
 10b0ebf1	Diploma alındığı ülkede tanınıyor: 0 puan
-8f28802b	Yükseköğrenim için olumlu anabin sonucu ya da ZAB değerlendirmesi; meslek için ZAB'den olumlu „Digitale Auskunft zur Berufsqualifikation“
 6cba1cd0	Toplam puan: gereken 6 puandan 3
 7ba580ff	Chancenkarte için 3 puan eksik
 d4537097	Toplam puan: gereken 6 puandan 2
@@ -7232,13 +7084,11 @@ d98ba7db	Avustralya, İsrail, Japonya, Kanada, Güney Kore, Yeni Zelanda, Birle�
 d9774a95	Arjantin, Brezilya, Şili, Uruguay, Hong Kong ya da Tayvan
 b80c5843	Arnavutluk, Bosna-Hersek, Kosova, Kuzey Makedonya, Karadağ ya da Sırbistan
 b64ae3b7	Vizeye de çalışma iznine de ihtiyacınız yok
-8e1ee371	AB, AEA ve İsviçre vatandaşlarının Almanya için vizeye ihtiyacı yoktur. Oturma izni olmadan çalışabilir, okuyabilir ve iş arayabilirsiniz. Taşındıktan sonraki ilk zorunlu adım adres kaydıdır.
 eee2cc72	Taşındıktan sonra iki hafta içinde Bürgeramt'ta kayıt: rota randevuyu ve belgeleri gösterir.
 7133bec0	Rota: adres kaydı
 aa742bca	Sağlık sigortası yaptırın
 50a21206	Sigorta iş ya da öğrenim başlamadan seçilir: rota kasaları ve yolları gösterir.
 9d97c909	İş ya da öğrenim yeri arayın
-944ec0c7	İş ilanları ve çalışan hakları istihdam rotasında, kabul ise öğrenim rotasında anlatılır.
 d8908fe6	Rota: iş arama
 b3cd2cca	Rota: üniversiteye ve Ausbildung'a kabul
 304dfee8	Almanya'da ne yapmak istiyorsunuz?
@@ -7255,10 +7105,8 @@ e9cae8be	Böyle bir eğitimim yok
 ff1c7f2a	Vatandaşları vizesiz oturma izni alabilen bir ülkenin vatandaşlığı
 f1969844	Amaç: teklifle çalışmak
 7124b0f9	Tanınmış eğitim var
-2734733a	Yolunuz: çalışma vizesi
 f573577c	İş teklifi ve tanınmış eğitimle Blue Card, nitelikli çalışan vizesi ya da Anerkennungspartnerschaft uygundur. Rota vize türünü eğitime ve maaşa göre seçer.
 6383e269	Vizesiz girip Berlin'de başvurabilirsiniz
-950bba5f	Avustralya, İsrail, Japonya, Kanada, Güney Kore, Yeni Zelanda, Birleşik Krallık ve ABD vatandaşları vizesiz girişten sonra oturma izni alabilir. Başvuru girişten sonraki 90 gün içinde yapılır.
 b153762e	§ 41 AufenthV: vizesiz giriş
 f4d417ae	Berlin: vizesiz çalışma oturma izni
 9e9daaf1	Çalışma vizesi rotasını açın
@@ -7269,33 +7117,25 @@ b3edbd0f	Rota vize türünü, Bundesagentur für Arbeit onayını ve Auslandspor
 e91735c7	Tanınmış eğitim olmadan yol bir meslekle başlar
 30d222c8	Çalışma vizesi ve Chancenkarte yükseköğrenim ya da en az iki yıllık meslek ister. Bunlar yoksa Ausbildung, gönüllü hizmet ya da ortak ülke vatandaşları için Working Holiday seçenekleri vardır.
 ba194a30	Ausbildung ile bir meslek edinin
-0eed4846	35 yaş altında Ausbildung yeri aramak için, sözleşmeyle doğrudan eğitime gelebilirsiniz.
 2cb23a84	Rota: öğrenim ve Ausbildung vizesi
 33b5792f	Gönüllü hizmeti değerlendirin
 d930449d	Hizmet için meslek gerekmez; hizmet süresince sigortalısınız.
 260da7c9	Rota: gönüllüler için vize
 3f4783bf	Amaç: iş arama
-05032442	Yolunuz: Chancenkarte
 21b3bf67	Tanınmış eğitimle Chancenkarte ile bir yıla kadar iş aramaya gelebilirsiniz. Rota puanları hesaplar ve başvuruyu gösterir.
 ed4510c0	Chancenkarte rotasını açın
 66c5c7ed	Rota puanları resmî tabloya göre, ayrıca maddi imkânları ve belgeleri kontrol eder.
 218c7a29	Rota: Chancenkarte
 8a85dcd7	Amaç: öğrenim
-57e505b9	Yolunuz: öğrenci vizesi
-d91eda25	Öğrenim için öğrenci vizesi gerekir; üniversite başvurunuz incelenirken öğrenci adayı vizesi. Maddi imkân Sperrkonto, Verpflichtungserklärung ya da bursla kanıtlanır.
 5aff87b1	Öğrenci vizesi rotasını açın
 9f6acda2	Rota gereken tutarı hesaplar, belgeleri ve Auslandsportal başvurusunu gösterir.
 3add936f	Program ya da yer seçin
 b05fe0f5	Kabul, uni-assist ve Ausbildung yeri arama ayrı bir rotada anlatılır.
-aaaabadf	Yolunuz: Ausbildung vizesi
 b8dfb97a	Ausbildung için eğitim yeriyle sözleşme ve genellikle Almanca B1 gerekir. Henüz yeriniz yoksa 35 yaş altında dokuz aya kadar aramaya gelebilirsiniz.
 bd309a19	Amaç: gönüllü hizmet
-f033a005	Yolunuz: gönüllüler için vize
-73c94cdf	Almanya'da gönüllü hizmet Bundesfreiwilligendienst, FSJ, FÖJ ya da Avrupa Dayanışma Birlikleri'dir. Önce yer ve sözleşme, sonra vize gerekir.
 067bed52	Gönüllüler rotasını açın
 aaf16bb7	Rota yaşınıza uygun hizmeti, yerin nerede aranacağını ve vize için gereken belgeleri gösterir.
 f728b4c2	Amaç: aileye katılmak
-2b6a7124	Yolunuz: aile birleşimi
 560bd1ac	Eşin ya da ebeveynlerin yanına taşınmak aile birleşimi olarak yürür. Koşullar Almanya'da kimin yaşadığına ve çocukların yaşına bağlıdır.
 d3c0e691	Aile birleşimi rotasını açın
 4a53fc35	Rota vizeye gerek olup olmadığını, hangi Almanca seviyesinin istendiğini ve hangi belgelerin toplanacağını gösterir.
@@ -7330,9 +7170,8 @@ d8ce8f4b	Etiket için 56 € ya da eAT için 100 €, yerinde fotoğraf 6 €
 5cf5f47b	Olumlu incelemeden sonra LEA davet gönderir; etiket yerinde verilir, eAT 4–6 haftada hazır olur.
 25aa8362	Alman temsilciliğinde Working Holiday vizesi
 19708f89	Başvuru yolculuktan önce yaşadığınız ülkede yapılır.
-30e451d6	Avustralya, İsrail, Japonya, Yeni Zelanda — her temsilcilik; Güney Kore — yalnızca Seul'deki büyükelçilik
+30e451d6	Avustralya, İsrail, Japonya, Yeni Zelanda – her temsilcilik; Güney Kore – yalnızca Seul'deki büyükelçilik
 26b6a184	Başvuru tarihindeki yaş program sınırları içinde
-5539e7f0	Yolculuğun amacı ek işlerle tatil, kalıcı çalışma değil
 60c20f7e	Ulusal vize başvurusu
 2a6e2e02	Temsilciliğinizin Working Holiday sayfasında sayılan belgeler
 d3cb1765	Yetişkinler için 75 €, reşit olmayanlar için 37,50 €; bazı durumlarda harç indirilir ya da alınmaz
@@ -7349,13 +7188,11 @@ b893e1a1	31–35 yaş arasında program yalnızca Güney Kore (34'e kadar) ve Ka
 ebd66ff0	Working Holiday 35 yaşa kadar mümkün
 5d65d1f5	Yaş sınırı 30'dur, yalnızca Güney Kore için 34, Kanada için 35. Bu yaşın üstünde başka yollar uygundur.
 85746559	Başka bir yol seçin
-49dc2860	Tanınmış eğitimle Chancenkarte uygundur; BFD gönüllü hizmetinde yaş sınırı yoktur.
 90dc547f	Working Holiday programı olan bir ülkenin vatandaşlığı
-dd73eee0	Arjantin, Şili, Uruguay — her temsilcilik; Brezilya yalnızca Brezilya'da; Hong Kong — Hong Kong Başkonsolosluğu; Tayvan — Taipei Alman Enstitüsü
+dd73eee0	Arjantin, Şili, Uruguay – her temsilcilik; Brezilya yalnızca Brezilya'da; Hong Kong – Hong Kong Başkonsolosluğu; Tayvan – Taipei Alman Enstitüsü
 66a2c6b1	Ülkeniz için başvuru yalnızca Alman temsilciliğinde yapılır, bu yüzden tek yol var.
 310b7a19	Ülkeniz için Working Holiday 30 yaşa kadar
 790c7594	Bir Batı Balkan ülkesinin vatandaşlığı
-f28e1a8b	Yolunuz: Westbalkanregelung
 ca27779b	Arnavutluk, Bosna-Hersek, Kosova, Kuzey Makedonya, Karadağ ve Sırbistan vatandaşları, bir işveren sözleşme verirse tanınmış meslek olmadan Almanya'da her işte çalışabilir. İzin sayısı kotayla sınırlıdır.
 9bef5a6c	Rota Bundesagentur für Arbeit ön onayını ve vize başvurusunu gösterir.
 e63d4765	Ülkeniz için Working Holiday programı yok
@@ -7384,7 +7221,6 @@ b9640dc8	ayda 992 €, yılda 11.904 €
 40097368	yılda 140 tam ya da 280 yarım iş gününe kadar; üniversitedeki öğrenci işleri sayılmaz
 ad0074a9	Kabulünüz sizin kusurunuz olmadan düşerse
 de82d4c8	başka bir üniversiteye kaydolmak için dokuz aya kadar süre verilir
-50fd4df2	Gereken tutarı yatırın; banka başvuru için onay verir. Girişten önce blokenin lehdarı temsilcilik, girişten sonra yabancılar dairesidir. Sağlayıcı seçenekleri aşağıda.
 d2ea12fe	Make it in Germany: öğrenim koşulları
 97ff8b28	§ 16b AufenthG: öğrenim
 85081b82	Berlin: girişten sonra öğrenim oturma izni
@@ -7399,7 +7235,6 @@ ba86335c	Zulassung'un bağlı olduğu dil kursu ya da Studienkolleg öğrenim am
 0b205bd8	Koşullu Zulassung ya da Studienkolleg kabul yazısı
 45590a5c	Amaç: üniversiteye başvuru
 c5d3b861	Öğrenim adayı vizesi
-8cecd372	Öğrenim adayı vizesiyle Zulassung olmadan gelip yerinde üniversitelere başvurabilir, giriş sınavına girebilir ya da hazırlanabilirsiniz. Süresi dokuz aya kadardır.
 c1140173	Üniversiteye giriş hakkı veren okul diploması
 9cfb4f25	Üniversite ya da uni-assist ile yazışma: başvuru, koşullu kabul ya da gönderim onayı
 b2ac7304	Öğretim dilinde sertifika
@@ -7455,7 +7290,6 @@ ed16fbc9	Ausbildung yeri arama vizesi
 1994ad7d	Make it in Germany: Ausbildung yeri arama vizesi
 925d70e9	Ausbildung yeri arama vizesi için Almanca B1 sertifikası gerekir.
 210e69b8	Yaş 35 ve üstü
-2d87003a	Ausbildung yeri arama vizesi 35 yaşa kadar
 1931a4d1	Ausbildung yeri aramak için yalnızca 35 yaşından önce gelinebilir. Sonrasında Ausbildung sözleşmeniz varsa vize verilir: yer arayışını kendi ülkenizden yapabilirsiniz.
 abc4376e	Ausbildung yerini kendi ülkenizden arayın
 92fa415b	Kabul rotası Arbeitsagentur'un Ausbildung yeri aramasını gösterir.
@@ -7488,7 +7322,6 @@ c5af97fe	Harçlık
 f0b58590	ayda en fazla 676 € (Ocak 2026); tutar hizmet yeriyle kararlaştırılır
 60319103	hizmet süresince yasal sağlık, emeklilik ve diğer sigortalara tabisiniz; primleri hizmet yeri öder
 2d5b6cd0	Seminerler
-df154226	27 yaş altı — 12 ayda 25 seminer günü ve 5 günlük siyasal eğitim semineri; ücretsiz ve hizmet saatinde
 05323a00	Hizmet sözleşmesini imzalayın
 2bfbd42b	Sözleşme hizmet yeriyle ya da Bundesamt für Familie und zivilgesellschaftliche Aufgaben ile yapılır; süre, harçlık, konaklama ve yemeği belirtir. Vize için tüm tarafların imzaladığı asıl gerekir.
 05a6e27d	Bundesfreiwilligendienst: A'dan Z'ye
@@ -7501,7 +7334,6 @@ d0ff941a	harçlık, hizmet yerinin konaklama ve yemeğiyle birlikte SGB II ya da
 6d8cd1f3	harçlık, hizmet yerinin konaklama ve yemeğiyle birlikte SGB II ya da XII'ye göre temel tutarı karşılamalıdır; eksik kısım Sperrkonto ya da Verpflichtungserklärung ile kanıtlanır
 e9a06dee	Yalnızca BFD: FSJ ve FÖJ 27 yaşa kadar
 43f1a023	Yaş 27–30
-7815ef6d	27 yaştan itibaren — ayda en az bir seminer günü, ücretsiz ve hizmet saatinde
 173f5beb	Yaş 31 ve üstü
 b1af1468	Avrupa Dayanışma Birlikleri
 96392e26	Avrupa Dayanışma Birlikleri için vize
@@ -7520,7 +7352,6 @@ b44b6a86	BFD yeri bulun
 464b947d	Bundesfreiwilligendienst: yer arama
 9a3272cf	Henüz hizmet yeri yok
 abd23d42	Önce bir hizmet yeri bulun
-f184eeca	Gönüllü vizesi yalnızca bir hizmet yeriyle yapılan sözleşmeyle verilir. BFD her yaşa, FSJ ve FÖJ 27 yaşa kadar, Avrupa Dayanışma Birlikleri 18–30 yaşa açıktır.
 a07d8a5f	Bundesfreiwilligendienst veri tabanında yer ya da teklif arayın ve doğrudan Einsatzstelle'ye yazın. Merkezi kabul ve başvuru süresi yoktur.
 14ef6458	Bundesfreiwilligendienst: sorular ve cevaplar
 42fc97b3	Ya da Avrupa Dayanışma Birlikleri'ne kaydolun
@@ -7591,11 +7422,9 @@ bcf03935	Meslek Almanya'da tanınmış
 bf779360	Almanca A2 sertifikası
 b761cef7	Tanınma sürecine ilişkin işverenle anlaşma
 1e6e3741	Süre ve çalışma
-081a6e6c	önce 12 aya kadar, her seferinde bir yıl uzatmayla 3 yıla kadar; anlaşılan işin yanında haftada 20 saate kadar ek iş
 a6b7f7ef	Eğitim kendi ülkenizde tanınıyor
 1ecc0995	Almanca A2'nin altında
 afa2aa4e	Anerkennungspartnerschaft için Almanca A2 gerekir
-a3e598c9	Almanya'da tanınma olmadan mesleğinizde Anerkennungspartnerschaft ile çalışabilirsiniz: tanınma girişten sonra, çalışırken yapılır. Bunun için en az Almanca A2 gerekir. Diğer seçenek, tanınmayı taşınmadan önce almaktır.
 bac6bc7f	Almancanızı A2'ye çıkarın
 9e5e06b8	Rota sertifikalı kursları gösterir.
 a53c9b23	Ya da yurt dışından tanınma için başvurun
@@ -7627,7 +7456,6 @@ fdee5cff	gönüllüler için vize: BFD, FSJ, FÖJ, Avrupa Dayanışma Birlikleri
 e1e8ff84	Chancenkarte: puanlar, maddi imkân ve vize | NOSTRES
 d763eca8	Chancenkarte puanlarınızı resmî tabloya göre hesaplayın, Sperrkonto ve belgeleri hazırlayın ve vizeyi Auslandsportal üzerinden isteyin.
 6024d91b	Almanya'ya taşınmak: size hangi yol uygun
-30ddf1ce	Vatandaşlık ve amaçla ilgili soruları yanıtlayın. Rota vizeye ihtiyacınız olup olmadığını ve hangi yolun uygun olduğunu — iş, Chancenkarte, öğrenim, Ausbildung, gönüllü hizmet, aile ya da Working Holiday — gösterir ve sonraki rotayı açar. Veriler Dışişleri Bakanlığı, Make it in Germany ve Berlin'in resmî sayfalarından.
 b6c9994d	Yol seçildi
 9d67e08a	Chancenkarte (iş aramak için fırsat kartı)
 438f1ef3	Puanları resmî tabloya göre hesaplayın, maddi imkânı ve belgeleri hazırlayın ve vizeye henüz kendi ülkenizdeyken başvurun. Veriler Make it in Germany ve Dışişleri Bakanlığı'nın resmî sayfalarından.
@@ -7805,7 +7633,6 @@ afcfba86	Almanya'da hizmet: yaş sınırı 30
 8a8b768c	Almanya'da hizmet için ESC 30 yaşa kadar açıktır
 ffdf20a4	AB ülkelerinde ESC gönüllülüğü başlangıç tarihinde 30 yaşa kadar açıktır. 35 yaşa kadar ESC insani yardım gönüllülüğü yalnızca AB dışındaki ülkelerde yapılır, bu nedenle Almanya'da hizmet için uygun değildir. BFD'nin üst yaş sınırı yoktur.
 b22ff077	ESC yaş koşulları
-dfb3c46a	Başlangıç tarihinde 30 yaşa kadar; 35 yaşa kadar yalnızca AB dışındaki ülkelerde insani yardım gönüllülüğü.
 8c4f8ebd	Avrupa Dayanışma Programı: insani yardım gönüllülüğü
 af0fde7d	Kurum ruhsatı vereceğini yazılı olarak taahhüt etti (Zusage)
 34dcd216	oturma izni verilirken ruhsat verilmiş ya da kurum tarafından yazılı olarak taahhüt edilmiş olmalıdır (Zusage)
@@ -7840,48 +7667,29 @@ b2097e73	Working Holiday koşullarını kontrol edin
 2104d32f	Almanya Dışişleri Bakanlığı resmi ülke listesini ve başvuru kurallarını yayımlar.
 9a3846b5	Working Holiday 18 yaşından itibaren mümkündür
 3be60c14	Working Holiday için 18 yaşından itibaren başvurabilirsiniz.
-7b1fabb8	Güney Kore için: Seul'deki Almanya Büyükelçiliği
-63cdecc5	Brezilya için: Brezilya'daki Alman dış temsilciliği
 9a612887	Hong Kong için: Hong Kong Almanya Başkonsolosluğu
-dd156179	Tayvan için: Taipei Alman Enstitüsü
 5c0c60c5	Başvuru yeri vatandaşlığınıza bağlıdır; resmi temsilcilik listesini kontrol edin
 5f20835b	Bu ülke için Working Holiday 35 yaşına kadar mümkündür
 1915e135	Bu ülke için Working Holiday 34 yaşına kadar mümkündür
 bcb1db28	Bu ülke için Working Holiday 30 yaşına kadar mümkündür
-6757ba75	Bu ülke için yaş sınırı 35'tir. Diğer taşınma seçeneklerini değerlendirin.
-2424b5b1	Bu ülke için yaş sınırı 34'tür. Diğer taşınma seçeneklerini değerlendirin.
-4bc13489	Bu ülke için yaş sınırı 30'dur. Diğer taşınma seçeneklerini değerlendirin.
-9531a5ac	Bu ülke için yaş sınırı 35'tir. Resmi koşulları ve başvuru yerini kontrol edin.
-d6c9063b	Bu ülke için yaş sınırı 34'tür. Resmi koşulları ve başvuru yerini kontrol edin.
-1308c2ce	18–30 yaş; Avustralya ve Kanada 18–35, Güney Kore 18–34
 20c54c08	Avustralya: Working Holiday 31–35 yaşlarında kullanılabilir, ancak Berlin LEA sayfasında üst sınır hâlâ 30 olarak belirtiliyor; başvuruyu Almanya’nın dış temsilciliğine yapın.
-463999ec	Herhangi bir Alman temsilciliği; Avustralya'da yaşayanlar için Sidney Başkonsolosluğu
 d95bf50f	Yurt dışındaki herhangi bir Alman temsilciliği
 a388b9cd	LEA iletişim formu üzerinden başvuru (F 1 birimi)
 072e7a64	LEA'ya iletişim formu üzerinden yazın
 e6470434	Japon vatandaşları için çevrim içi başvuru henüz mümkün değil. LEA'nın F 1 birimi başvuruları hizmet sayfasındaki iletişim formu üzerinden alır.
-e66ad093	Kanada'da yaşayanlar: Almanya'nın Toronto Başkonsolosluğu
-8519cbc7	Hong Kong için: Almanya'nın Hong Kong Başkonsolosluğu; başvuru sahibi Hong Kong'da yaşar
-5c4f4db7	Köpeği sicil portalındaki sahip hesabında çevrimiçi kaydedin. Hayvan pasaportundaki 15 haneli çip numarası ve ırk bilgileri gerekir. Çevrimiçi maliyet: köpek başına 17,50 €. Ücret makbuzu (Kostenbescheid) onay yerine geçer. Sicile kayıt aynı zamanda vergi kaydıdır. Kayıt yaptırmamak veya değişiklikleri bildirmemek 10.000 €'ya kadar para cezası gerektiren bir kabahattir.
-f102f8c1	Bilgileri posta veya e-postayla yazılı ya da telefonla (GovConnect GmbH) bildirin. Hayvan pasaportundaki 15 haneli çip numarası ve ırk bilgileri gerekir. Maliyet: köpek başına 26,50 €. Ücret makbuzu (Kostenbescheid) onay yerine geçer. Sicile kayıt aynı zamanda vergi kaydıdır. Kayıt yaptırmamak veya değişiklikleri bildirmemek 10.000 €'ya kadar para cezası gerektiren bir kabahattir.
-a9fcb3e5	Süre, Ordnungsamt'a bildirimden (Anzeige) itibaren 8 haftadır. Bu, böyle bir köpeğin sahibinin «ehliyeti»dir. Teorik test (çoktan seçmeli 30 soru, gözetim altında 45 dakika, %70 doğru gerekir) ve köpekle uygulamalı itaat testi yapılır: köpek en az 1 yaşında olmalıdır. Sınavı Berlin Senatosu tarafından onaylanmış uzmanlar alır. Uzmanların listesi Ordnungsamt'ta ve aşağıdaki bağlantıdadır. Sachkundebescheinigung'u Ordnungsamt, özel formdaki başvuru üzerine verir.
 901fb969	Kayıttan sonra sahibe numaralı bir yeşil künye verilir: Bezirksamt Mitte'ye göre kayıt onayı olarak alınır. Künye, köpek çitle çevrili alanın dışında ve apartmanda dairenin dışındayken tasmaya veya göğüs koşumuna takılır. Plaka gelene kadar Ordnungsamt'ın bildirimi teyit eden belgesini (Bescheinigung nach § 18 Abs. 1 Satz 4 HundeG) yanınızda taşıyın ve istendiğinde gösterin. Künyeyi kimin verdiği Spandau semtinin sayfasında belirtilmemiştir: kaydınızı yapan daire verir.
 ed515741	Temsilcilik başvuruyu ön incelemeden geçirir ve eksik ya da hatalı doldurulan yerleri portalda bildirir: düzeltip yeniden gönderin. Kasım 2025'ten beri bir aile tek hesaptan birlikte başvurabilir.
-f59fbd10	AB dışı bir ülkeden giriş yalnızca girdiğiniz AB ülkesinin belirlediği yolcu giriş noktasından yapılabilir. Berlin’de bu BER Havalimanı’dır. Hayvanı gümrükte beyan edin: belgeler kontrol edilir ve çip okunur. Çip AB standardına uymuyorsa kendi okuyucunuzu getirin.
 9a7dac94	Bundesfreiwilligendienst veri tabanında yer ya da teklif arayın ve doğrudan Einsatzstelle'ye yazın. Merkezi bir başvuru yeri ve ortak başvuru süresi yoktur; bazı hizmet yerlerinin kendi süreleri vardır.
 331b5c2a	Sınav sonucuyla Ordnungsamt, Sachkundebescheinigung’u verir. Belge sizin ve bu köpek için geçerlidir. Başka bir eyaletten alınmış belgeyle Ordnungsamt yeniden sınav yapmadan Berlin belgesini verir.
 02fbb70b	Düzenlemeye tabi meslekler (örneğin doktorluk) dışında her türlü iş, tanınmış bir meslek olmadan; işveren Almanya'daki çalışanlarla aynı koşullarda sözleşme verirse. İzinler bir kota dahilinde verilir.
 ee260385	Veriler muayenehanelerin kendi sitelerinden alınmış ve 5 Kasım 2026’da kontrol edilmiştir. Bu bir sıralama veya öneri değildir. Ne Tierärztekammer Berlin ne de şehir dillere göre resmî bir veteriner listesi yayımlar; bu yüzden NOSTRES yalnızca dili kendi sitesinde belirten muayenehaneleri gösterir.
 64440b8c	Bilgiler kliniklerin kendi internet sitelerinden alınmış ve 5 Kasım 2026'da kontrol edilmiştir. Bu bir sıralama veya tavsiye değildir. Ne Tierärztekammer Berlin ne de şehir, dile göre resmî veteriner listesi yayımlıyor. Bu nedenle NOSTRES yalnızca kendi sitesinde dil belirten klinikleri gösteriyor. NOSTRES, seçilen dili belirten bir klinik henüz bulamadı.
-345aac5e	yılda 50.000'e kadar onay, aylara ve ülkelere dağıtılır; son 24 ayda AsylbLG yardımı alınmamış olmalı; 45 yaşından itibaren ilk onayda yıllık 55.770 €'dan maaş ya da emeklilik güvencesi; ilk onay yalnızca altı ülkeden birindeki Alman temsilciliğine başvurulursa verilir
 19309a64	Yolculuktan 3 ay önce kuduz antikor testinin gerekip gerekmediği listeye bağlıdır. Listede örneğin ABD, Birleşik Krallık, Kanada, Sırbistan ve Japonya vardır. Rusya, Ukrayna, Belarus, Kazakistan, Türkiye, Gürcistan, Ermenistan ve İsrail listede yoktur.
-1a5b7418	Köpek sahipleri için sorumluluk sigortası (Tierhalterhaftpflichtversicherung) Berlin'de yasal olarak zorunludur; Berlin'de yalnızca gezdirilen köpekler için de geçerlidir. Listenhunde için muafiyet yılda en fazla 500 €'dur.
 60c4eb9e	Service Berlin: tasma muafiyeti ve sigorta
 0f4741a4	Berlin ormanlarında köpek gezdirme alanları
 3146a8e6	Genel kural olmasa bile parklarda, serbest alan işareti olmayan ormanlarda, binaların ortak alanlarında, yaya bölgelerinde, kalabalıkta ve toplu taşımada tasma zorunludur. Çocuk oyun alanlarına, havuzlara ve yüzme yerlerine köpek götürülemez.
 5da7fc8c	AB listesindeki AB dışı bir ülkeden: ABD, Birleşik Krallık, Kanada, Sırbistan, Japonya ve diğerleri
 41916240	satış amaçlı değilse tek bir araçta en fazla 5; sahibi hayvanla birlikte ya da 5 gün öncesi veya sonrası içinde seyahat eder
-5316f767	çıkış ülkesinin resmî veya yetkili veterineri düzenler, ardından kurum onaylar; düzenlenmesinden giriş kontrolüne kadar 10 gün, AB içindeki sonraki seyahatler için 6 ay ya da aşı süresi bitene kadar geçerlidir
 b4dc7d73	İsviçre ve komşu ülkeler
 6552b88e	İsviçre, İzlanda, Lihtenştayn, Andorra, Monako, San Marino, Vatikan, Cebelitarık, Grönland ve Faroe Adaları'ndan gelişte giriş noktası gerekmez; bu ülkelerden birinde verilmiş evcil hayvan pasaportuyla sertifika gerekmez
 99c939d3	AB dışı bir ülkeden kuş: işaretleme, sertifika, beyan ve sınır kontrolü
@@ -7891,7 +7699,6 @@ fb46ff60	Girişten sonra kuşları 30 gün ayrı tutun
 61b62699	Varıştan sonra en az 30 gün kuşlar diğer kuşlardan ayrı tutulur.
 5bd7f009	Oberhofer Weg 68, 12209 Berlin; (030) 711 63 57; Pzt–Cmt 9–12, Pzt, Sal, Per, Cum 16–18; randevu ve ev ziyareti anlaşmayla
 21297595	maaş emeklilik sigortası yıllık prim tavanının en az %50'si ise gerekmez (2026: brüt 50.700 €)
-e83d0d10	Eğitim belgesi: yükseköğretim için anabin'de olumlu sonuç veya ZAB değerlendirmesi; meslek eğitimi için ZAB'dan olumlu «Auskunft zur Berufsqualifikation»
 67de60eb	5 Kasım 2026
 8609ec69	Ayda 4,90 € (01.11.2026 itibarıyla)
 62cec337	Rota: GmbH veya UG
@@ -7943,7 +7750,6 @@ edbc7dd6	Yıllık bildirim
 889cb57f	Kanun: kayıttan önceki ödemeler (§ 7 GmbHG)
 854bbe1f	IHK Berlin: GmbH ve UG (haftungsbeschränkt)
 3e8f78c1	Musterprotokoll'u veya kendi sözleşmenizi hazırlayın
-e1df6d98	En fazla üç ortak ve bir müdür (Geschäftsführer) varsa Musterprotokoll'u, yani kanundaki hazır sözleşme örneğini kullanabilirsiniz. IHK Berlin'e göre bununla yalnızca nakit sermayeyle kuruluş mümkündür. Ortaklar arasında özel kurallar gerekiyorsa kendi Gesellschaftsvertrag'ınızı (şirket sözleşmesi) hazırlayın. Sözleşmede unvan, merkez, faaliyet konusu, sermaye tutarı ve her ortağın payı yer almalıdır.
 5125364e	Kanun: sözleşmenin şekli ve Musterprotokoll (§ 2 GmbHG)
 5907fa0b	Berlin: GmbH'nin Handelsregister'e kaydı
 8d19f5e9	Sözleşmeyi noterde onaylatın
@@ -7953,9 +7759,7 @@ ed40e7c8	Kanun: görüntülü görüşmeyle onay (§ 2 Abs. 3 GmbHG)
 538e4ecf	Sermayeyi şirket hesabına yatırın
 fc1859cd	«GmbH i.G.» (kuruluş aşamasında) adına bir ticari hesap açın ve her payın en az dörtte birini, toplamda en az 12.500 € yatırın. Banka onayını notere verin.
 1a03a227	Handelsregister kaydını bekleyin
-c4e6a958	Berlin'de sicili yalnızca Amtsgericht Charlottenburg (Charlottenburg sulh mahkemesi) tutar. Noter oraya başvuruyu, sözleşmeyi, müdürün atanma kararını ve ortaklar listesini gönderir. Mahkeme harcı 150 €, ayni sermayeyle 240 €, ayrıca bu tutarın üçte biri kadar Bereitstellungsgebühr (veri sağlama ücreti). İşlem süresi hizmet sayfasında belirtilmemiş.
 3f909c1b	Şirketin Gewerbe kaydını yapın
-617b4afa	Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Kuruluş aşamasındaki şirket, onaylı sözleşmeyi ve ortakların onayını ekler. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
 d087df1e	Berlin: şirket için Gewerbeanmeldung
 92871607	Berlin: Gewerbe belgeleri ve harçları
 7d9acadb	Şirketin kurulduğunu vergi dairesine bildirmeniz gerekir: Kapitalgesellschaft (sermaye şirketi) kuruluşu için Fragebogen zur steuerlichen Erfassung'u (vergi kaydı anketi) çevrimiçi gönderin. Bunun için ücretsiz bir Mein ELSTER hesabı gerekir. Anket ücretsizdir; Finanzamt (vergi dairesi) tüm belgeler alındıktan sonra yaklaşık iki haftada inceler ve Steuernummer'i gönderir.
@@ -7979,7 +7783,6 @@ b101fa10	Kanun, sözleşmenin görüntülü görüşmeyle noter onayına izin ve
 36cf2b8b	Sıra: noterde sözleşme, sermaye ödemesi, Amtsgericht Charlottenburg'da Handelsregister kaydı, ardından vergi anketi, Transparenzregister ve yıllık bildirim. Sözleşmenin nasıl onaylanacağını seçin.
 0afd2f04	Gewerbe gerekip gerekmediğini istisnalara göre kontrol edin
 38d032fe	Gewerbeanmeldung gerekip gerekmediğini kontrol edin
-c732fbf5	Şirket ticaret yapıyor, hizmet veriyor veya üretim yapıyorsa Gewerbeanmeldung (ticari faaliyet bildirimi) gerekir: istisnalar hizmet sayfasında listelenmiştir. Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Kuruluş aşamasındaki şirket, onaylı sözleşmeyi ve ortakların onayını ekler. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
 47e0d2e7	AB dışı vatandaşlık: çalışma hakkı LEA'da kontrol edilir
 53bf1b89	Sıra: noterde sözleşme, sermaye ödemesi, Amtsgericht Charlottenburg'da Handelsregister kaydı, ardından Gewerbe, vergi anketi, Transparenzregister ve yıllık bildirim. Şirkette kendinizin çalışma hakkı ayrıca kontrol edilir. Sözleşmenin nasıl onaylanacağını seçin.
 0538ddbf	Oturum izninizin şirkette çalışmaya izin verip vermediğini kontrol edin
@@ -8010,7 +7813,6 @@ d3e15a06	Kanun: UG yedeği (§ 5a GmbHG)
 cb677b57	Şirket türü henüz seçilmedi: önce GmbH ile UG'yi karşılaştırın
 8fe9d054	Şirket kuruluşu: önce GmbH veya UG seçin
 471d9508	GmbH veya UG seçin
-46e39577	GmbH (limited şirket): Stammkapital (esas sermaye) en az 25.000 €'dur. Sicile başvurmadan önce her payın en az dörtte biri ve toplamda en az 12.500 € ödenir. UG (haftungsbeschränkt), 1 €'dan başlayan sermayeli aynı şirket türüdür: sermaye tamamen ve yalnızca nakit ödenir, ayni olarak ödenemez, ve sermaye 25.000 €'ya ulaşana kadar yıllık kârın dörtte biri yedeğe ayrılır. UG'nin unvanında «Unternehmergesellschaft (haftungsbeschränkt)» veya «UG (haftungsbeschränkt)» bulunmalıdır.
 955fbef1	Sözleşme onaylandı, sicilde henüz kayıt yok
 0f95cfb7	Sözleşme onaylandı: şirketin kaydı ve ilk yükümlülükler
 a13bbbb2	Sermayeyi yatırın, Handelsregister kaydını bekleyin ve Gewerbe, vergi anketi ile Transparenzregister işlemlerini yapın.
@@ -8019,9 +7821,7 @@ a13bbbb2	Sermayeyi yatırın, Handelsregister kaydını bekleyin ve Gewerbe, ver
 3d32face	Şirket zaten Handelsregister'de
 e8e0a214	Şirket sicilde: kayıtlar ve yıllık yükümlülükler
 61814909	Sicil kaydından sonra Gewerbe kaydını yapın, vergi anketini gönderin, sahipleri Transparenzregister'e bildirin ve her yıl finansal tablolarınızı açıklayın.
-239b73f8	Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Handelsregister'den bir sicil özeti ekleyin. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
 e6377034	Sicil kaydından sonra vergi anketini gönderin, sahipleri Transparenzregister'e bildirin ve her yıl finansal tablolarınızı açıklayın.
-efdfe716	Şirket ticaret yapıyor, hizmet veriyor veya üretim yapıyorsa Gewerbeanmeldung (ticari faaliyet bildirimi) gerekir: istisnalar hizmet sayfasında listelenmiştir. Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Handelsregister'den bir sicil özeti ekleyin. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
 114c892e	MVP'de kırk dokuz rota var: Berlin için ve kendi ülkenizden Almanya'ya taşınmak için:
 e21b3180	GmbH veya UG: limited şirket
 cd4fe17c	Berlin'de GmbH veya UG: kuruluş ve vergi numarası | NOSTRES
@@ -8064,7 +7864,6 @@ ef5f17cd	Belgeyi Deutsche Rentenversicherung'un çevrimiçi hizmetleri üzerinde
 e958f632	Aracılara ödeme yapmayın
 ccd3c354	Versicherungsnummernachweis ücretsiz verilir. İnternetteki bazı siteler bunun için para alır: bu yasak değildir, ancak bu siteler resmî kurum olmadıklarını açıkça belirtmek zorundadır. Belgeyi yalnızca Deutsche Rentenversicherung'dan veya hastalık sigortası kasanızdan (Krankenkasse) sipariş edin.
 f9f0a79e	DRV: belge ücretsizdir, ücretli sitelere dikkat edin
-5dda803b	Numara işveren aracılığıyla verilir: tek yol vardır, yedek yol ise DRV'den veya kasadan sipariş etmektir.
 b9da6f6d	Bu genel bilgidir. Koşullar Deutsche Rentenversicherung, gesund.bund.de ve Federal Sağlık Bakanlığı'nın resmî sayfalarından alınmıştır.
 874d486c	Numaranız var, ama bilmiyorsunuz
 981a6a92	Numara var ama bilinmiyor: mektuplarda bulun veya yazılı olarak talep edin
@@ -8118,7 +7917,6 @@ e3f90125	Sağlık sigortası numaralı eGK kartını, kamu hastalık sigortası 
 9cb6ac31	Sağlık sigortası rotası, hangi sigortaya hakkınız olduğunu, kasaya nasıl üye olacağınızı ve yanınızda ne getirmeniz gerektiğini gösterir. Üye olduktan sonra kasa numaralı eGK kartını gönderir.
 638c842d	gesund.bund.de: eGK kartı
 88ae367c	Sosyal sigorta numarası değil, vergi numarası gerekiyor
-68b3ef86	Steuer-ID ayrı bir vergi numarasıdır
 8f0b09df	İşveren iki farklı numara ister: vergi numarası Steuer-ID ve sosyal sigorta numarası. Steuer-ID'yi vergi idaresi verir; nasıl alınacağını veya yeniden edinileceğini ayrı bir rota gösterir.
 05d192c6	Steuer-ID rotasını açın
 b1b6a6c5	Rota, size Steuer-ID verilip verilmediğini ve mektubunu nasıl yeniden alacağınızı gösterir. Sosyal sigorta numarasını Deutsche Rentenversicherung verir: o da gerekiyorsa buraya dönün ve onu seçin.
@@ -8153,9 +7951,7 @@ b5b3ffd3	Nitelikli eleman oturma izni
 eebd18ec	Gerekli oturma süresi doldu
 6188ebd6	B1 veya üzeri Almanca belgelendi
 b0fc5a01	Niederlassungserlaubnis için başvurabilirsiniz
-99a29d01	Niederlassungserlaubnis süresiz bir oturma iznidir. Diğer koşulların karşılandığından emin olun, belgeleri toplayın, başvuruyu çevrimiçi yapın ve LEA'daki randevuya gidin.
 d78144ab	Çevrimiçi başvuru ve LEA'da randevu
-0c655556	Başvuru ve dosyalar çevrimiçi gönderilir, ardından asıl belgelerle LEA'da randevuya gidilir.
 25a7466a	Hizmet sayfasındaki Quick-Check
 07c70cbc	Kartla veya PayPal ile ödeme
 a5b96d08	Pasaport ve mevcut oturma izni
@@ -8165,13 +7961,11 @@ d74f1561	Konut belgesi: sıcak kira (Warmmiete) tutarını gösteren kira sözle
 d2600dc5	Almanya'nın düzenine ilişkin bilgilerin belgesi
 cf2f7a91	Oturma süresi
 bb0dabfa	Nitelikli eleman oturma izniyle 3 yıl (§ 18a, § 18b, § 18d veya § 18g); Almanya'da üniversite eğitimini veya Ausbildung'u tamamladıysanız 2 yıl. Nitelikli eleman olarak çalışmaya devam etmeniz gerekir
-0997c860	İnceleme için 56,50 € ve düzenleme için 56,50 €; yükseköğrenimli yüksek nitelikli eleman olarak 73,50 € ve 73,50 €; Türk vatandaşları için her bölüm başına 24 yaşına kadar 13,80 €, 24 yaşından itibaren 23,00 €
 8a2d15a9	Belge ne zaman verilir
 e9210b62	LEA'daki randevudan en erken 4 hafta sonra
 08abfa0f	Nitelikli eleman oturma izniyle 3 yıl (§ 18a, § 18b, § 18d veya § 18g); Almanya'da üniversite eğitimini veya Ausbildung'u tamamladıysanız 2 yıl. Nitelikli eleman olarak çalışmaya devam etmeniz gerekir. Yasal emeklilik sigortasına en az 36 aylık prim, Almanya'da üniversite eğitimi veya Ausbildung durumunda 24 ay. Almanca B1. Almanya'nın hukuki ve toplumsal düzenine ilişkin temel bilgiler gerekir: bunlar entegrasyon veya oryantasyon kursu, «Leben in Deutschland» testi veya vatandaşlık testi, Alman okul veya meslek diploması ya da Almanya'da en az bir yıllık üniversite eğitimi veya Ausbildung ile belgelenir. Geçim, Bürgergeld ve Sozialhilfe olmadan kendi gelirinizle sağlanır; Alman yasal sağlık sigortası veya buna denk özel sigorta (yabancı sigorta geçerli değildir); aile için yeterli konut alanı; Berlin'de ana ikamet yeri. Mahkeme kararıyla verilen bir para cezası bile izni engelleyebilir; açık bir soruşturma ise incelemeyi durdurur.
 17495cfb	LEA Berlin: nitelikli elemanlar için Niederlassungserlaubnis
 66297e3e	Yasa: § 18c AufenthG
-b094052a	Dosyalar çevrimiçi forma yüklenir: liste aşağıdadır, tam liste hizmet sayfasındadır. Randevuda asıl belgeler gerekecektir.
 4102eaa7	Quick-Check'i yapın ve başvuruyu çevrimiçi gönderin
 e7e9e9ac	Başvuru yalnızca çevrimiçi yapılır: önce hizmet sayfasında kısa Quick-Check kontrolü, ardından dosyalarla birlikte form. İnceleme ücreti göndermeden önce kartla veya PayPal ile ödenir. Gönderdikten sonra PDF olarak bir onay gelir.
 11a0276d	LEA'daki randevuya gidin
@@ -8218,11 +8012,9 @@ f323802c	Oturma süresi doldu, ancak gerekçeniz için Niederlassungserlaubnis'e
 d12b27d6	Alman vatandaşının aile üyesi
 9995cd8c	Evlilik veya çocuğun doğum belgesi ve Alman vatandaşı olan aile üyesinin belgesi
 3ca24dde	Alman vatandaşının aile üyesi olarak oturma izniyle 3 yıl; aile bu süre boyunca birlikte yaşar ve birlikte kalır
-dc15bd29	Alman vatandaşının aile üyesi olarak oturma izniyle 3 yıl; aile bu süre boyunca birlikte yaşar ve birlikte kalır. Almanca B1, oturma izni 6 Eylül 2013'ten önce verildiyse A1. Geçim, Bürgergeld ve Sozialhilfe olmadan kendi gelirinizle sağlanır (istisna: tıbbi raporla belgelenen sürekli hastalık); sizin ve ailenizin sağlık ve bakım sigortası; Berlin'de ana ikamet yeri. Mahkeme kararıyla verilen bir para cezası bile izni engelleyebilir; açık bir soruşturma ise incelemeyi durdurur.
 648087c7	LEA Berlin: Alman vatandaşlarının aileleri için Niederlassungserlaubnis
 7841c516	6 Eylül 2013'ten önce Alman vatandaşının aile üyesi olarak oturma izniniz var mıydı?
 b83bd6aa	Gerekçeniz için gerekenler: Alman vatandaşının aile üyesi olarak oturma izniyle 3 yıl; aile bu süre boyunca birlikte yaşar ve birlikte kalır. Süre dolana kadar mevcut oturma izninizi zamanında uzatın.
-09837510	Başvuru için Almanca sertifikası gerekecek: B1, oturma izni 6 Eylül 2013'ten önce verildiyse A1. Kursu ve sınavı entegrasyon kursu rotasında seçebilirsiniz.
 9cf79a05	Kaç yıldır Almanya'da oturma izniyle yasal olarak yaşıyorsunuz?
 1fb89f52	5 yıl veya daha fazla
 cefcf552	5 yıldan az
@@ -8289,7 +8081,6 @@ d3532d92	Kağıt mektubu bekleyin ve 11 haneli numarayı karşılaştırın.
 1aa3c725	Seçilen yöntem için seti karşılaştırın
 4a4fdb08	Üyeliği, adresi ve fotoğrafı Krankenkasse'nizde karşılaştırın
 f077b165	Bu kişisel abonelik ayda 63 €’dur ve Almanya genelindeki yerel ve bölgesel ulaşımda geçerlidir; fiyat 1 Ocak 2027’den itibaren 66,80 €’ya çıkacaktır. ICE, IC veya EC uzun mesafe trenlerinde geçmez.
-8c774d53	Üniversite Deutschlandsemesterticket’e katılmıyorsa, Berlin veya Brandenburg’da dönem başına en az 15 Credit Points alan öğrenci Monatskarte Ausbildung hakkı kazanabilir. 2026’da Berlin AB normal aylık bilet olarak 74,10 €, 12 aylık abonelikte ayda 55,40 €; Berlin ABC ise sırasıyla 95,70 € veya 77,50 €’dur. Bu tarifeler 2026 sonuna kadar geçerlidir; 1 Ocak 2027’den itibaren Berlin AB normal aylık bilet olarak 76,90 €, abonelikte ayda 57,50 €’dur.
 5341845c	Bu kişisel ve devredilemez aylık bilet yalnızca Berlin AB’de geçerlidir ve abonelik değildir. VBB sayfasına göre 12 Kasım 2026’da fiyatı 27,50 €’dur ve 2027’de değişmez.
 81480e1c	Tam olarak hangi belgenin ve hangi süreye kadar istendiğini not edin. Talebin geldiği kanaldan yanıtlayın. Ne istendiği anlaşılmıyorsa yazıdaki iletişim bilgisinden daireye yazın, dosya numarasını (Aktenzeichen) belirtin ve yanıtı saklayın.
 f5e72b88	İşlem türünü belirleyin: yeni aracın ilk tescili veya mevcut aracın tescil değişikliği. Koşullar ve belgeler farklıdır.
@@ -8301,7 +8092,6 @@ f8203a45	Muayenehaneyi bulun ve ziyaretten önce iletişim bilgilerinden randevu
 974422bb	Form için gereken işveren bilgilerinden Betriebsstätten-Finanzamt’ının (işyeri vergi dairesi) adını alın: ELStAM amacıyla IdNr. için yetkili olan odur.
 bb79c769	Durumunuz
 9f9a5f32	Olaylar ve değerlendirmeler Avrupa bölgesindeki Cloudflare D1 veritabanında saklanır ve hataları bulmak ve rotaları iyileştirmek için kullanılır. Altyapıya erişimi barındırma ve veritabanının çalışması için Cloudflare sağlar. Kayıtlar olaydan sonra en fazla 12 ay saklanır; daha eski olanlar günde bir kez otomatik olarak silinir.
-dbfb3ffd	Sözleşme yalnızca noter onaylı biçimde geçerlidir. Kendi seçtiğiniz bir noterliğe gidebilir veya onayı görüntülü görüşmeyle yaptırabilirsiniz: yasa buna izin verir. Notar, Handelsregister (ticaret sicili) başvurusundaki imzaları da onaylar ve başvuruyu mahkemeye kendisi gönderir. Notar ücreti yasayla belirlenmiştir ve tüm noterlerde aynıdır: GmbH ve UG için hesaplama noter rotasındadır.
 04f7927f	Rota: noter ve ücreti
 906dbb5e	Motosiklet
 e85544e9	motosiklet (Kraftrad) yasaya göre de Kraftfahrzeug sayılır ve taşınmada aynı usul geçerlidir; tescili zorunlu olmayan 125 cm³'e kadar hafif motosiklet için Zulassungsbescheinigung Teil II yerine Betriebserlaubnis (işletme izni) yeterlidir
@@ -8335,7 +8125,6 @@ c956b96b	artı %19 KDV ve masraflar, örneğin elektronik belge arşivi için 4,
 1f039566	ayrıca: 150 €, ayni sermaye ile 240 €, artı bu tutarın üçte biri
 3639ca25	mahkeme sayfasında belirtilmemiş
 9186fb72	Fiyatın tüm noterlerde aynı olduğunu bilin
-8952392e	Noter hizmetlerinin ücreti Gerichts- und Notarkostengesetz (GNotKG) yasasıyla belirlenmiştir ve tüm Almanya'da aynıdır. Notar yasanın öngördüğü tutarı tam olarak almak zorundadır; ne fazla ne eksik. Danışmanlık ve belge taslağının hazırlanması onay ücretine dahildir. Ücret işlemin değerine (Geschäftswert) bağlıdır.
 bd75dceb	Notarkammer Berlin: yasaya göre ücret
 d29af808	Notar ücretini hesaplayın
 3f61bdfc	Bundesnotarkammer örneğine göre tek kurucunun Musterprotokoll ile UG kurması KDV ve masraflar hariç 105 € tutar: onay için 60 €, Handelsregister başvurusu için 30 € ve elektronik veri aktarımı için 15 €. Musterprotokoll için 30 000 €'luk asgari işlem değeri uygulanmaz, bu yüzden ücret daha düşüktür.
@@ -8346,7 +8135,6 @@ e62b3e2d	Bir noter bulun
 5472fd11	Bundesnotarkammer: Berlin'de noter arama
 3d984cf5	Notarkammer Berlin: sık sorulan sorular
 debe912d	Yalnızca resmî faturaları ödeyin
-cf0e385d	Handelsregister kaydı için resmî fatura gelir, genellikle Amtsgericht'ten (mahkemeden). Özel rehber firmaları benzer faturalar gönderir: bunları ödemeniz gerekmez. Berlin'de mahkeme harcı 150 €, ayni sermaye ile 240 €, artı bu tutarın üçte biridir; kayıt süresi mahkeme sayfasında belirtilmemiştir.
 ed96e651	Bundesnotarkammer: kuruluştan sonraki faturalar hakkında
 a2df4c2a	Berlin: Handelsregister harcı
 17a04e2f	Onay yöntemini yanıtlarınızda seçtiniz.
@@ -8407,7 +8195,6 @@ bc455cc8	Berlin'de «Architekt» unvanı korunmaktadır: Architektenliste'ye (od
 7609e7ea	IHK FOSA: meslek listesi
 bfe6d89a	Harç ve süre: ZAB (Zentralstelle für ausländisches Bildungswesen)
 019ee01f	208 €, tüm belgeler alındıktan ve ödeme yapıldıktan sonra yaklaşık 3 ay
-92bcdfed	İktisatçı (Wirtschaftswissenschaftler/in) gibi düzenlenmemiş üniversite meslekleri için ZAB, diplomanın karşılaştırılabilirliğine dair bir görüş olan Zeugnisbewertung düzenler. Başvuru çevrim içi yapılır, BundID gerekir. Bu görüş düzenlenmiş bir meslekte çalışma hakkı vermez.
 369edcfa	MVP'de elli iki rota mevcuttur: Berlin ile ilgili ve kendi ülkenizden Almanya'ya taşınma hakkında:
 bdbf0f1b	Berlin'de noter: arama ve ücret
 1f38fb40	Berlin'de Notar (noter): nasıl bulunur ve ücreti ne kadar
@@ -8485,7 +8272,6 @@ a1e29fe0	Psikoterapi: konuşarak tedavi
 78d884b8	Durumum nedeniyle Jobcenter randevusuna gidemiyorum
 603bec5d	Şu anda kendinizi kötü hissediyorsunuz
 fa323598	Hemen yardım: önce telefon gerektirmeyen yollar
-743b3dba	Hayati tehlike varsa hastanenin acil servisine gidin veya 112'yi arayın. Hayati tehlike yoksa Berliner Krisendienst'e randevusuz gidebilir veya sohbetten yazabilirsiniz. Telefon yedek seçenektir.
 b08c9ffc	Hayati tehlike varsa: 112 veya acil servis
 b485bba3	Kendinize veya başkalarına zarar verebilecekseniz acil yardım gerekir. Psikiyatri bölümü olan bir hastanenin acil servisine (Notaufnahme) randevusuz gidebilirsiniz. 112'yi arayabilirsiniz. Önceden kayıt olduysanız, resmî nora uygulamasında 112 operatörüne konuşmadan yazabilirsiniz.
 d7c36efc	gesund.bund.de: psikolojik krizde ne yapılır
@@ -8499,7 +8285,6 @@ a5b0c3ac	Krisendienst: haberler ve birim kapanışları
 def3328c	TelefonSeelsorge: sohbet
 ca3b9cd3	TelefonSeelsorge: mektup
 8c357b0d	Arayabiliyorsanız
-e7c10885	Berliner Krisendienst kendi ilçenizin numarasından 24 saat yanıt verir: 030 39063-10 … -90, numaralar birimler sayfasında yazılıdır. TelefonSeelsorge 24 saat ve ücretsiz: 0800 111 0 111 ve 0800 111 0 222. Rusça yanıt veren hat: 030 440 308 454.
 ae817e0c	Krisendienst: birim numaraları
 e62e6d12	Berlin: kriz yardımı numaraları
 3b292ff1	Willkommenszentrum: numaralar ve diller
@@ -8562,14 +8347,11 @@ acf08056	İlk görüşmeyle başlayın: sevk ve kod gerekmez. Yardım hızlı ge
 26cfb4d2	116117: psikoterapi
 5c8ab2fd	116117 psikoterapist araması
 8353767d	İlk görüşmeye gidin
-57f6a61f	İlk görüşme (psychotherapeutische Sprechstunde): 25 dakikalık en fazla 6 buluşma, toplam en fazla 150 dakika. Sevk gerekmez. Sağlık sigortası kurumu izni olan terapist bu görüşmeleri yapmak zorundadır. Uygun yer yoksa 116117 servisi 4 hafta içinde ilk görüşme bulmak zorundadır.
 6befc58f	BMG: ilk görüşme ve süreler
 b924d0e9	Yardım hızlı gerekiyorsa: acil tedavi
-accdc079	Görüşmeden sonra terapist PTV 11 formunda tedavinin yakında gerektiğini işaretlerse acil tedavi (Akutbehandlung) mümkündür: en fazla 600 dakika. Sigorta kurumunun onayı gerekmez, terapist kurumu yalnızca PTV 12 formuyla bilgilendirir. 116117 servisi 2 hafta içinde acil tedavi bulmak zorundadır.
 4777ba15	116117: acil tedavi
 b41fe36a	KBV: psikoterapi hakkında sorular
 243dbeb2	Uzun süreli terapi için terapistle birlikte başvuru yapın
-5342d170	Önce birkaç deneme seansı ve fiziksel nedenleri dışlamak için aile hekiminde veya başka bir doktorda muayene yapılır. Sonra terapistle birlikte sağlık sigortası kurumuna başvurursunuz. Kısa süreli terapi 12–24 saat, uzun süreli terapi yönteme göre yaklaşık 30–60 saattir.
 12812c11	Randevu yolunu yanıtlarınızda seçtiniz; sonrası aynı sırayla ilerler.
 2e7a6b61	Yakında bir muayenehane seçin ve randevu ayarlayın
 6184582c	116117 aramasında yakındaki bir muayenehaneyi ve iletişim yolunu bulun. «Fremdsprachen» (yabancı diller) filtresinde dil seçebilirsiniz. İlk görüşme yüz yüze yapılır.
@@ -8604,9 +8386,7 @@ d3bdd583	Berliner Krisendienst'i arayın
 40f9fb9a	Kriz servisi, krizdeki kişinin akrabalarına, arkadaşlarına ve iş arkadaşlarına da yardım eder. Kendi ilçenizin numarasından 24 saat yanıt verir: 030 39063-10 … -90. Acil durumlarda çalışanlar yerinize gelir, nöbetçi doktor vardır.
 e52f7c60	Durumunuz nedeniyle Jobcenter randevusuna gitmeniz zor
 7f468bd9	Jobcenter'a gidemiyorum: ödemeler nasıl korunur
-da297aa3	Hastalık, bir belgeyle kanıtlanırsa geçerli bir nedendir. 1 Temmuz 2026'dan itibaren geçerli neden olmadan ikinci kaçırma ödemeyi azaltır, üst üste üç kaçırma ise şahsen gelene kadar ödemeyi durdurur.
 f7d0281e	Nedeni bir belgeyle kanıtlayın
-e9472613	Jobcenter hastalık raporunu (Arbeitsunfähigkeitsbescheinigung) genellikle geçerli neden olarak kabul eder. Raporu Jobcenter'a gönderin ve gönderim kanıtını saklayın. Jobcenter ayrıca tam o randevuya gelemediğinizi gösteren bir doktor belgesi isteyebilir ve bunun ücretini 5,36 €'ya kadar ödeyebilir.
 f12ff16b	Bundesagentur für Arbeit: kaçırılan randevularla ilgili kurallar
 dd2e102f	Jobcenter: haklar, yükümlülükler ve kesintiler
 363ac625	Açıklama talebine (Anhörung) yanıt verin
@@ -8634,11 +8414,9 @@ b44c4373	Elli üç bağımsız rota şu anda kullanılabilir. Soruların yanıtl
 ae4b1245	Bu, sayfanın kaydedilmiş bir kopyasıdır. Koşullar değişmiş olabilir: internet geldiğinde sayfa yeniden yüklenecektir.
 17989646	Sitenin internetsiz çalışabilmesi için tarayıcınız, açtığınız NOSTRES sayfalarının kopyalarını ve bunları göstermek için gereken dosyaları cihazınıza kaydeder. Sorulara verdiğiniz yanıtlar bu kopyalara dahil değildir. İnternet varken sayfa her zaman yeniden yüklenir. Kopyalar, tarayıcı ayarlarında site verileriyle birlikte silinir.
 9196ab25	Bu, sayfanın {date} tarihli kopyasıdır: bu cihazda kayıtlıdır. Koşullar değişmiş olabilir: internet geldiğinde sayfa yeniden yüklenecektir.
-421956a9	Berlin resmi dairelerinde tercüman — ücretsiz
 c9eecddf	Berlin resmi daireleriyle, örneğin Bürgeramt ve LEA ile, Alman İşaret Dili ile veya başka iletişim araçlarıyla, örneğin yazı tercümanı aracılığıyla iletişim kurabilirsiniz. Masrafları daire karşılar: bu, Berlin eşitlik yasasında (LGBG, § 13) belirlenmiştir. Daireye tercümana ihtiyacınız olduğunu ve hangisini istediğinizi önceden bildirin: işaret dili tercümanı mı, yazı tercümanı mı. Daire sizi bu hak hakkında bilgilendirmekle yükümlüdür.
 0ee1cc0a	Berlin yasası LGBG, § 13
 e47e5735	Berlin: LGBG yasasına göre haklar
-8e6d92d6	Sosyal yardımlar ve doktor için tercüman — ücretsiz
 d8e33519	Sosyal yardım veya hizmet aldığınızda, örneğin Jobcenter, Agentur für Arbeit veya Krankenkasse'de, Alman İşaret Dili ile veya başka iletişim araçlarıyla iletişim kurabilirsiniz. Bu, doktordaki muayene ve tedaviler için de geçerlidir. Tercüman masraflarını bu yardımdan veya tedaviden sorumlu daire ya da Krankenkasse karşılar (§ 17 Abs. 2 SGB I). Tercümana ihtiyacınız olduğunu ve hangisini istediğinizi önceden bildirin: işaret dili tercümanı mı, yazı tercümanı mı.
 fe753391	Yasa: § 17 SGB I
 a035e586	İletişim araçlarına ilişkin KHV yönetmeliği
@@ -8647,7 +8425,6 @@ a035e586	İletişim araçlarına ilişkin KHV yönetmeliği
 22827739	Bundesnetzagentur: işitme engeli olan kişiler için hizmet
 1a0dd4cd	Bundesnetzagentur: yıllara göre ücretsiz dakikalar
 308db80d	Arama yapmadan 116117
-d1f6260b	116117'nin işitme veya konuşma engeli olan kişiler için bir sohbet hizmeti vardır — tıbbi yardım gerektiğinde, ancak hayati tehlike olmadığında. Sohbette Berlin bölgesini seçin. 116117 muayenehane aramasında «işaret dili» filtresi vardır.
 6e9c1819	116117: işitme engeli olan kişiler için sohbet
 7f2c998c	İşaret dilinde 116117
 458386c4	Arama yapmadan acil yardım
@@ -8659,3 +8436,226 @@ c79c774f	Sigorta ve bakım hakkında işaret dilinde sorular
 21a0fe7b	BMG: işaret dilinde görüntülü görüşme
 a07abf8b	İşitme engeli olan kişiler
 d18cb816	İşaret dili, resmi dairede tercüman ve ses kullanmadan iletişim.
+31169962	Normal Girokonto hesabın koşullarını banka belirler. Basiskonto, Almanya'da henüz ödeme hesabı olmayan tüketicinin temel hesap hakkıdır: banka yalnızca yasada sayılan birkaç durumda reddedebilir. Aşağıdan bir yol seçin.
+296b556c	Ayda 0 €; fiziksel kart tek seferlik 10 €
+c80681e2	1 yıla kadar; nitelikli iş bulunur ve başka izin uymazsa 2 yıla kadar uzatma
+c4bc0c2b	amaca göre birkaç ay
+ea7d6c6a	Puan sistemindeki asgari puan 6'dır. En hızlı puanı dil (Almanca A2 – 1, B1 – 2, B2 – 3 puan) ve diplomanın Almanya'da kısmen tanınması (4 puan) getirir.
+f1f77953	Yükseköğrenim için olumlu anabin sonucu ya da ZAB değerlendirmesi; meslek için ZAB'den olumlu „Digitale Auskunft zur Berufsqualifikation“
+5e0139b7	En fazla üç ortak ve bir müdür (Geschäftsführer) varsa Musterprotokoll'u, yani kanundaki hazır sözleşme örneğini kullanabilirsiniz. IHK Berlin'e göre bununla yalnızca nakit sermayeyle kuruluş mümkündür. Ortaklar arasında özel kurallar gerekiyorsa kendi Gesellschaftsvertrag'ınızı (şirket sözleşmesi) hazırlayın. Sözleşmede unvan, merkez, faaliyet konusu, sermaye tutarı ve her ortağın payı yer almalıdır.
+6664b6ff	Sözleşme yalnızca noter onaylı biçimde geçerlidir. Kendi seçtiğiniz bir noterliğe gidebilir veya onayı görüntülü görüşmeyle yaptırabilirsiniz: yasa buna izin verir. Notar, Handelsregister (ticaret sicili) başvurusundaki imzaları da onaylar ve başvuruyu mahkemeye kendisi gönderir. Notar ücreti yasayla belirlenmiştir ve tüm noterlerde aynıdır: GmbH ve UG için hesaplama noter rotasındadır.
+c95af3d0	Berlin'de sicili yalnızca Amtsgericht Charlottenburg (Charlottenburg sulh mahkemesi) tutar. Noter oraya başvuruyu, sözleşmeyi, müdürün atanma kararını ve ortaklar listesini gönderir. Mahkeme harcı 150 €, ayni sermayeyle 240 €, ayrıca bu tutarın üçte biri kadar Bereitstellungsgebühr (veri sağlama ücreti). İşlem süresi hizmet sayfasında belirtilmemiş.
+6ad1ef98	Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Kuruluş aşamasındaki şirket, onaylı sözleşmeyi ve ortakların onayını ekler. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
+555fed6e	Şirket ticaret yapıyor, hizmet veriyor veya üretim yapıyorsa Gewerbeanmeldung (ticari faaliyet bildirimi) gerekir: istisnalar hizmet sayfasında listelenmiştir. Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Kuruluş aşamasındaki şirket, onaylı sözleşmeyi ve ortakların onayını ekler. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
+b771d3e1	GmbH (limited şirket): Stammkapital (esas sermaye) en az 25.000 €'dur. Sicile başvurmadan önce her payın en az dörtte biri ve toplamda en az 12.500 € ödenir. UG (haftungsbeschränkt), 1 €'dan başlayan sermayeli aynı şirket türüdür: sermaye tamamen ve yalnızca nakit ödenir, ayni olarak ödenemez, ve sermaye 25.000 €'ya ulaşana kadar yıllık kârın dörtte biri yedeğe ayrılır. UG'nin unvanında «Unternehmergesellschaft (haftungsbeschränkt)» veya «UG (haftungsbeschränkt)» bulunmalıdır.
+413a59a1	Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Handelsregister'den bir sicil özeti ekleyin. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
+5197d659	Şirket ticaret yapıyor, hizmet veriyor veya üretim yapıyorsa Gewerbeanmeldung (ticari faaliyet bildirimi) gerekir: istisnalar hizmet sayfasında listelenmiştir. Bildirimi müdür, faaliyetin başlamasıyla aynı anda yapar. Handelsregister'den bir sicil özeti ekleyin. GmbH ve UG için BundID ile çevrimiçi 15 €; ilçe Ordnungsamt'ında şahsen tek müdürlü şirket için 31 € ve her ek müdür için 13 €.
+533fcffb	Listelenen yardımlardan hiçbirini almayan mülteci veya göçmen (AsylbLG, yardımlar kategorisindedir)
+5419b9ec	Tarih ve etkinliğin adı; yaş indirimi için yaşı doğrulayan belge.
+2ae71e19	Aylık net sınır tek yaşayan kişi için 1.200 €, iki kişi için 1.700 € ve her çocuk için 350 € ek tutardır.
+a4989a6b	İndirim müzeye; ücretsiz biletler ise müsaitlik ve uygunluk koşullarına bağlıdır.
+3bb9c308	Schwerbehindertenausweis; gerekiyorsa refakatçi işareti.
+382c5744	Bazı teklifler için yardım, gelir veya yaş belgesi gerekir.
+5e10b10b	116117 hizmeti devlet sigortalısı olanlara yöneliktir. Berlin'i girin, gerekli uzmanlığı ve boş zamanı seçin. Sıradan bir uzman için sevkte 12 haneli kod gerekir; aile hekimi, çocuk doktoru, jinekolog, göz doktoru ve psikoterapistle ilk görüşme için kod gerekmez. Onayı saklayın; hizmet belirli bir muayenehane vaat etmez.
+85c47e61	Köpeği sicil portalındaki sahip hesabında çevrimiçi kaydedin. Hayvan pasaportundaki 15 haneli çip numarası ve ırk bilgileri gerekir. Çevrimiçi maliyet: köpek başına 17,50 €. Ücret makbuzu (Kostenbescheid) onay yerine geçer. Sicile kayıt aynı zamanda vergi kaydıdır. Kayıt yaptırmamak veya değişiklikleri bildirmemek 10.000 €'ya kadar para cezası gerektiren bir kabahattir.
+021dfd96	Hunderegister'a kayıt yeterlidir: 1 Ocak 2024'ten beri vergi kaydı sayılır, Finanzamt'a ayrı ziyaret gerekmez. Vergi süresi, köpeğin edinilmesinden veya taşınmadan sonra bir aydır. Vergi bildirimi kendiliğinden, yaklaşık 4 hafta sonra gelir. SEPA ile otomatik ödeme bağlanabilir veya havaleyle ödenebilir. Künye artık gerekmez. Oran miktarı hizmet sayfasında belirtilmemiştir: bildirimde yazar. Muafiyet ayrı bir hizmetle başvurulur.
+83fab683	Köpek sahipleri için sorumluluk sigortası (Tierhalterhaftpflichtversicherung) Berlin'de yasal olarak zorunludur; Berlin'de yalnızca gezdirilen köpekler için de geçerlidir. Listenhunde için muafiyet yılda en fazla 500 €'dur.
+dcdbb3ed	Bilgileri posta veya e-postayla yazılı ya da telefonla (GovConnect GmbH) bildirin. Hayvan pasaportundaki 15 haneli çip numarası ve ırk bilgileri gerekir. Maliyet: köpek başına 26,50 €. Ücret makbuzu (Kostenbescheid) onay yerine geçer. Sicile kayıt aynı zamanda vergi kaydıdır. Kayıt yaptırmamak veya değişiklikleri bildirmemek 10.000 €'ya kadar para cezası gerektiren bir kabahattir.
+2f1302b6	Sachkundebescheinigung («Hundeführerschein») gerekir: tanınmış bir uzmanın yaptığı sınav (teori 30 soru, geçme eşiği %70, 45 dakika; pratik: köpek en az bir yaşında olmalı). Başvuru, semt Ordnungsamt'ına şahsen yapılır; form, köpeğin bilgileri, sigorta, Sachkunde belgesi ve fotoğraf gerekir. İşlem süresine göre ücret: başlanan her 15 dakika için 20,50 €, gerekçeye bağlı olarak en az 41–61,50 €.
+c5184cac	Süre, Ordnungsamt'a bildirimden (Anzeige) itibaren 8 haftadır. Bu, böyle bir köpeğin sahibinin «ehliyeti»dir. Teorik test (çoktan seçmeli 30 soru, gözetim altında 45 dakika, %70 doğru gerekir) ve köpekle uygulamalı itaat testi yapılır: köpek en az 1 yaşında olmalıdır. Sınavı Berlin Senatosu tarafından onaylanmış uzmanlar alır. Uzmanların listesi Ordnungsamt'ta ve aşağıdaki bağlantıdadır. Sachkundebescheinigung'u Ordnungsamt, özel formdaki başvuru üzerine verir.
+88c04c57	Berlin'de Listenhunde: Pit Bull Terrier, American Staffordshire Terrier, Bull Terrier ve melezleri. Başka herhangi bir köpeği Ordnungsamt bir olaydan sonra tehlikeli sayabilir.
+987f2f35	Sicile kaydetmemek ve değişiklikleri bildirmemek bir idari ihlaldir, para cezası 10.000 €'ya ulaşabilir.
+d96415df	İzni, okulun bulunduğu ilçenin Veterinär- und Lebensmittelaufsicht birimi verir. Birimlerin iletişim bilgileri Ordnungsämter listesindedir.
+1394d790	Amacınız tasmasız gezdirmekse derslerden sonra sınava girin
+a6e79749	Sınav, köpek bir yaşını doldurduktan sonra
+ebb248a4	22 Temmuz 2016’dan önce sahibiyle yaşayan köpekler (Bestandshunde) için Sachkundebescheinigung gerekmez. Kanıt olarak örneğin sigorta poliçesi, vergi bildirimi veya hayvan pasaportundaki kayıt kullanılabilir.
+59a64beb	Wesenstest ve ırk değerlendirmesi Senato’nun tanıdığı bir uzmanda yapılır
+5da1fbc9	Davranış testini (Wesenstest) ve ırk değerlendirmesini (Rassegutachten) yalnızca Berlin Senatosu’nun tanıdığı uzmanlar yapabilir. Listedeki bir köpek için süreler ve tüm süreç köpek rotasındadır.
+d22261fa	Ordnungsamt bildirimi, Sachkunde, sigorta ve Wesenstest süreleriyle birlikte köpek rotasındadır.
+55120ab9	Aşağıda yanıtlarınız için arama yolları, belgeler ve eylem sırası var. NOSTRES hazırlanmanıza ve resmi kaynaklara geçmenize yardım eder; boş konutun varlığı ve ev sahibinin kararı ona bağlı değildir.
+1dbc1630	Geçici koruma (§ 24) ayrı bir hizmettir
+950b5d79	Gerekçe veya işveren değişikliği ayrı bir hizmettir
+0e0017af	Vizenin süresinden uzun kalmayı planlıyorsanız LEA, vize geçerliyken başvurmanızı önerir, genellikle 12 aylık vizenin bitiminden altı–sekiz hafta önce. D vizesiyle ilk oturma izni, verilmiş bir oturma izninin uzatması değildir; hizmeti kalış amacına göre seçin.
+9e9e00fc	Schengen C vizesi ayrı bir prosedürdür
+0b2df4a3	Hayati tehlike varsa hastanenin acil servisine gidin veya 112'yi arayın. Hayati tehlike yoksa Berliner Krisendienst'e randevusuz gidebilir veya sohbetten yazabilirsiniz. Telefon yedek seçenektir.
+3901692d	Berliner Krisendienst kendi ilçenizin numarasından 24 saat yanıt verir: 030 39063-10 … -90, numaralar birimler sayfasında yazılıdır. TelefonSeelsorge 24 saat ve ücretsiz: 0800 111 0 111 ve 0800 111 0 222. Rusça yanıt veren hat: 030 440 308 454.
+9ae4272e	İlk görüşme (psychotherapeutische Sprechstunde): 25 dakikalık en fazla 6 buluşma, toplam en fazla 150 dakika. Sevk gerekmez. Sağlık sigortası kurumu izni olan terapist bu görüşmeleri yapmak zorundadır. Uygun yer yoksa 116117 servisi 4 hafta içinde ilk görüşme bulmak zorundadır.
+bc0f429c	Görüşmeden sonra terapist PTV 11 formunda tedavinin yakında gerektiğini işaretlerse acil tedavi (Akutbehandlung) mümkündür: en fazla 600 dakika. Sigorta kurumunun onayı gerekmez, terapist kurumu yalnızca PTV 12 formuyla bilgilendirir. 116117 servisi 2 hafta içinde acil tedavi bulmak zorundadır.
+9c0c501a	Önce birkaç deneme seansı ve fiziksel nedenleri dışlamak için aile hekiminde veya başka bir doktorda muayene yapılır. Sonra terapistle birlikte sağlık sigortası kurumuna başvurursunuz. Kısa süreli terapi 12–24 saat, uzun süreli terapi yönteme göre yaklaşık 30–60 saattir.
+00f2e370	Hastalık, bir belgeyle kanıtlanırsa geçerli bir nedendir. 1 Temmuz 2026'dan itibaren geçerli neden olmadan ikinci kaçırma ödemeyi azaltır, üst üste üç kaçırma ise şahsen gelene kadar ödemeyi durdurur.
+50450231	Jobcenter hastalık raporunu (Arbeitsunfähigkeitsbescheinigung) genellikle geçerli neden olarak kabul eder. Raporu Jobcenter'a gönderin ve gönderim kanıtını saklayın. Jobcenter ayrıca tam o randevuya gelemediğinizi gösteren bir doktor belgesi isteyebilir ve bunun ücretini 5,36 €'ya kadar ödeyebilir.
+1bc90533	Noter hizmetlerinin ücreti Gerichts- und Notarkostengesetz (GNotKG) yasasıyla belirlenmiştir ve tüm Almanya'da aynıdır. Notar yasanın öngördüğü tutarı tam olarak almak zorundadır; ne fazla ne eksik. Danışmanlık ve belge taslağının hazırlanması onay ücretine dahildir. Ücret işlemin değerine (Geschäftswert) bağlıdır.
+65c2f654	Handelsregister kaydı için resmî fatura gelir, genellikle Amtsgericht'ten (mahkemeden). Özel rehber firmaları benzer faturalar gönderir: bunları ödemeniz gerekmez. Berlin'de mahkeme harcı 150 €, ayni sermaye ile 240 €, artı bu tutarın üçte biridir; kayıt süresi mahkeme sayfasında belirtilmemiştir.
+43afc4e5	Köpek, Berlin’de bakmaya başladığınız anda merkezi sicile (Hunderegister) kaydedilir; mikroçipi olmalıdır. Kayıt ve vergi adımları köpek rotasındadır.
+6a54c1c0	çıkış ülkesinin resmî veya yetkili veterineri düzenler, ardından kurum onaylar; düzenlenmesinden giriş kontrolüne kadar 10 gün, AB içindeki sonraki seyahatler için 6 ay ya da aşı süresi bitene kadar geçerlidir
+a57343dd	AB dışı bir ülkeden giriş yalnızca girdiğiniz AB ülkesinin belirlediği yolcu giriş noktasından yapılabilir. Berlin’de bu BER Havalimanı’dır. Hayvanı gümrükte beyan edin: belgeler kontrol edilir ve çip okunur. Çip AB standardına uymuyorsa kendi okuyucunuzu getirin.
+c4e8c356	AB pasaportu, sahibi AB’de yaşayan hayvanlara verilir. AB ülkeleri arasında seyahat için gereklidir. Süreç pasaport rotasındadır.
+41c5bdfe	sertifika – girişten en fazla 10 gün önce
+75de80bf	Diğer hayvanlar için AB pasaportu yoktur. Onlarla seyahat kuralları hayvanla taşınma rotasındadır.
+ba4a2479	İktisatçı (Wirtschaftswissenschaftler/in) gibi düzenlenmemiş üniversite meslekleri için ZAB, diplomanın karşılaştırılabilirliğine dair bir görüş olan Zeugnisbewertung düzenler. Başvuru çevrim içi yapılır, BundID gerekir. Bu görüş düzenlenmiş bir meslekte çalışma hakkı vermez.
+e05bfe0e	AB, AEA ve İsviçre vatandaşlarının Almanya için vizeye ihtiyacı yoktur. Oturma izni olmadan çalışabilir, okuyabilir ve iş arayabilirsiniz. Taşındıktan sonraki ilk zorunlu adım adres kaydıdır.
+e3595de9	İş ilanları ve çalışan hakları istihdam rotasında, kabul ise öğrenim rotasında anlatılır.
+6289e034	Yolunuz: çalışma vizesi
+1be40c6d	Avustralya, İsrail, Japonya, Kanada, Güney Kore, Yeni Zelanda, Birleşik Krallık ve ABD vatandaşları vizesiz girişten sonra oturma izni alabilir. Başvuru girişten sonraki 90 gün içinde yapılır.
+c1523996	35 yaş altında Ausbildung yeri aramak için, sözleşmeyle doğrudan eğitime gelebilirsiniz.
+89204fa8	Yolunuz: Chancenkarte
+dac5b801	Yolunuz: öğrenci vizesi
+7069c2ce	Öğrenim için öğrenci vizesi gerekir; üniversite başvurunuz incelenirken öğrenci adayı vizesi. Maddi imkân Sperrkonto, Verpflichtungserklärung ya da bursla kanıtlanır.
+02d1e567	Yolunuz: Ausbildung vizesi
+be87437d	Yolunuz: gönüllüler için vize
+38292220	Almanya'da gönüllü hizmet Bundesfreiwilligendienst, FSJ, FÖJ ya da Avrupa Dayanışma Birlikleri'dir. Önce yer ve sözleşme, sonra vize gerekir.
+bccd363f	Yolunuz: aile birleşimi
+974d0338	Tanınmış eğitimle Chancenkarte uygundur; BFD gönüllü hizmetinde yaş sınırı yoktur.
+d471c320	18–30 yaş; Avustralya ve Kanada 18–35, Güney Kore 18–34
+d554b8ab	Herhangi bir Alman temsilciliği; Avustralya'da yaşayanlar için Sidney Başkonsolosluğu
+29d6ac37	Yolculuğun amacı ek işlerle tatil, kalıcı çalışma değil
+111264b8	Bu ülke için yaş sınırı 35'tir. Diğer taşınma seçeneklerini değerlendirin.
+1ff5c65a	Bu ülke için yaş sınırı 30'dur. Diğer taşınma seçeneklerini değerlendirin.
+7579c44e	Güney Kore için: Seul'deki Almanya Büyükelçiliği
+722c6bf7	Bu ülke için yaş sınırı 34'tür. Resmi koşulları ve başvuru yerini kontrol edin.
+a942e72d	Bu ülke için yaş sınırı 34'tür. Diğer taşınma seçeneklerini değerlendirin.
+4f5ef476	Kanada'da yaşayanlar: Almanya'nın Toronto Başkonsolosluğu
+11c7cdef	Bu ülke için yaş sınırı 35'tir. Resmi koşulları ve başvuru yerini kontrol edin.
+6868fa7a	Brezilya için: Brezilya'daki Alman dış temsilciliği
+36352ee4	Hong Kong için: Almanya'nın Hong Kong Başkonsolosluğu; başvuru sahibi Hong Kong'da yaşar
+78b518c0	Tayvan için: Taipei Alman Enstitüsü
+c78a5f0d	Yolunuz: Westbalkanregelung
+8537efe2	Niederlassungserlaubnis süresiz bir oturma iznidir. Diğer koşulların karşılandığından emin olun, belgeleri toplayın, başvuruyu çevrimiçi yapın ve LEA'daki randevuya gidin.
+5febc050	Başvuru ve dosyalar çevrimiçi gönderilir, ardından asıl belgelerle LEA'da randevuya gidilir.
+05cb1421	İnceleme için 56,50 € ve düzenleme için 56,50 €; yükseköğrenimli yüksek nitelikli eleman olarak 73,50 € ve 73,50 €; Türk vatandaşları için her bölüm başına 24 yaşına kadar 13,80 €, 24 yaşından itibaren 23,00 €
+04e6cf09	Dosyalar çevrimiçi forma yüklenir: liste aşağıdadır, tam liste hizmet sayfasındadır. Randevuda asıl belgeler gerekecektir.
+28c3d83e	Alman vatandaşının aile üyesi olarak oturma izniyle 3 yıl; aile bu süre boyunca birlikte yaşar ve birlikte kalır. Almanca B1, oturma izni 6 Eylül 2013'ten önce verildiyse A1. Geçim, Bürgergeld ve Sozialhilfe olmadan kendi gelirinizle sağlanır (istisna: tıbbi raporla belgelenen sürekli hastalık); sizin ve ailenizin sağlık ve bakım sigortası; Berlin'de ana ikamet yeri. Mahkeme kararıyla verilen bir para cezası bile izni engelleyebilir; açık bir soruşturma ise incelemeyi durdurur.
+c28e98e5	Başvuru için Almanca sertifikası gerekecek: B1, oturma izni 6 Eylül 2013'ten önce verildiyse A1. Kursu ve sınavı entegrasyon kursu rotasında seçebilirsiniz.
+079f185a	Numara işveren aracılığıyla verilir: tek yol vardır, yedek yol ise DRV'den veya kasadan sipariş etmektir.
+8a6cae91	Steuer-ID ayrı bir vergi numarasıdır
+a6a9fb28	Gereken tutarı yatırın; banka başvuru için onay verir. Girişten önce blokenin lehdarı temsilcilik, girişten sonra yabancılar dairesidir. Sağlayıcı seçenekleri aşağıda.
+3ac5168b	Öğrenim adayı vizesiyle Zulassung olmadan gelip yerinde üniversitelere başvurabilir, giriş sınavına girebilir ya da hazırlanabilirsiniz. Süresi dokuz aya kadardır.
+57256e18	Ausbildung yeri arama vizesi 35 yaşa kadar
+0970b351	Operatör, sözleşmeden önce metin hâlinde kısa bir sözleşme özeti vermek zorundadır. En uzun ilk süre 24 aydır. Sözleşmeyi nerede yapacağınızı seçin.
+4210323f	En kolay yol, ziyaretsiz ve postayla SIM olmadan eSIM'li bir uygulamadır. Şebeke operatöründe sözleşme istiyorsanız çevrimiçi yapın.
+e1804f32	En kolay ve en hızlı yol mobil şebekede router'dır: prize takın, internet çalışır. Kablolu internet çoğunlukla daha hızlıdır ama adrese bağlıdır ve usta gerektirebilir.
+a9117607	Vodafone'da asgari süre 24 aydır
+8581ca78	Eski operatör geçişe kadar hizmeti sürdürmeli ve bağlantı ücretinin en çok %50'sini almalıdır. Kesinti bir iş gününden uzun olmamalıdır. Her fazla iş günü için aylık ücretin %20'si (en az 10 €), numara taşıma başarısız olursa ikinci iş gününden itibaren günde 10 € tazminat hakkı vardır.
+dfe6aa29	Sosyal duruma bağlı genel bir indirim yoktur. İşveren en az %25 (15,75 €) katkı yaparsa Deutschlandticket Job 59,85 € olur ve çalışanın payı 44,10 €’yu aşmaz; öğrenciler ve çıraklar için ayrı seçenekler vardır.
+4501b535	Bilet yalnızca VBB sözleşmesi olan üniversitelerde sunulur. 2026’da standart Deutschlandticket fiyatının %60’ı, ayda 37,80 €’dur; teslim şeklini üniversite bildirir.
+5d7cf03e	2026’da katılımcı üniversitelerde ayda 37,80 €
+7debe894	Üniversitenizin bir anlaşmasının olması gerekir.
+c52c28f8	Bundesregierung: Deutschlandsemesterticket fiyatı – Deutschlandticket fiyatının %60’ı
+de8fc739	Üniversite Deutschlandsemesterticket’e katılmıyorsa, Berlin veya Brandenburg’da dönem başına en az 15 Credit Points alan öğrenci Monatskarte Ausbildung hakkı kazanabilir. 2026’da Berlin AB normal aylık bilet olarak 74,10 €, 12 aylık abonelikte ayda 55,40 €; Berlin ABC ise sırasıyla 95,70 € veya 77,50 €’dur. Bu tarifeler 2026 sonuna kadar geçerlidir; 1 Ocak 2027’den itibaren Berlin AB normal aylık bilet olarak 76,90 €, abonelikte ayda 57,50 €’dur.
+3cf67f29	Hak yalnızca belirli gruplar içindir: tam zamanlı mesleki eğitim ve tanınmış sağlık okulları; FSJ/FÖJ/BFD katılımcıları; ve ulaşım masrafı karşılanmayan bazı Berlin kamu görevlisi adayları. Eğitim veya hizmet en az 12 ay ve haftada 20 saat olmalı; kurum VBB listesinde yer almalıdır.
+5d282d38	İkili Ausbildung için işverenin Deutschlandticket Job sözleşmesi ve artırılmış katkı payı gerekir. 2026’da işveren en az 22,05 € katkı yapmalı; işletme indirimi sonrası bilet 59,85 € olur ve uygun çırak ayda en fazla 37,80 € öder.
+f746b0e0	Tam zamanlı mesleki eğitim veya gönüllü hizmet için: kurumdan alınan ve işletmeye sunulurken 30 günden eski olmayan Berechtigungsnachweis.
+dcafa498	İkili Ausbildung için: Deutschlandticket Job sözleşmesi ve işverenin artırılmış katkı payı (2026’da en az 22,05 €) belgesi.
+f4da9347	Ana ikamet adresiniz Berlin'de olmalı ve aldığınız yardım Berlin-Ticket S hakkı sağlayan resmi listede yer almalıdır.
+b4b4471e	Berlin-Ticket S yalnızca hak veren bir yardım alan Berlin sakinleri içindir. Rota, normal VBB tarifelerini ve Deutschlandticket’ı gösterir.
+ae8ccfb6	Geçerli Wertmarke ile ücretsiz; Merkzeichen B ile refakatçi hakkı
+20b57fab	Ücretsiz refakatçi için: Merkzeichen B işareti.
+f92507b5	112 kurtarma hizmetidir. Şiddetli nefes darlığı, bilinç kaybı, şiddetli kanama ve hayati tehlikenin diğer belirtilerinde uzmanların acil değerlendirmesi gerekir. Çağrı telefonla yapılır, sitedeki bir form üzerinden değil.
+2ad48233	116117, acil ama hayatı tehdit etmeyen sorunlar içindir. Nöbetçi muayenehanenin adresi ve saatleri güne ve semte bağlıdır; gitmeden önce kontrol edin.
+5d2531e6	116117'yi arayın. Hizmet 7/24 çalışır ve uygun yardıma yönlendirir. Hayati tehlikede 112.
+1d2a83d5	Pzt–Cum 9–19 Almanca ve İngilizce muayene. Arapça pazartesi 10–12, Fransızca randevuyla.
+796ef56d	Örneğin: Tiermedizinzentrum Evidensia, Kufsteiner Str. 22, 030 85 42 050, her gün 9–24; Tierklinik Freie Universität, Oertzenweg 19 b, 030 838 62422, hafta sonu ve resmî tatiller 10–18, aramadan gidilebilir; Tierarztpraxis Lenk, Schönfließer Str. 1, 030 44 69 769, Pazar ve resmî tatiller 10–18. Saatleriyle tam liste odanın sitesindedir.
+9b304a13	Tierärzte im Notdienst – Berlin & Brandenburg: 0157 859 49 631, 24 saat.
+2cdc7ebb	Tierärzte im Notdienst – Berlin & Brandenburg: 0157 859 49 631, 24 saat, ev ziyareti.
+4e253d78	27 yaş altı – 12 ayda 25 seminer günü ve 5 günlük siyasal eğitim semineri; ücretsiz ve hizmet saatinde
+3a5b071a	27 yaştan itibaren – ayda en az bir seminer günü, ücretsiz ve hizmet saatinde
+37f0dc03	Başlangıç tarihinde 30 yaşa kadar; 35 yaşa kadar yalnızca AB dışındaki ülkelerde insani yardım gönüllülüğü.
+1a3952fd	Gönüllü vizesi yalnızca bir hizmet yeriyle yapılan sözleşmeyle verilir. BFD her yaşa, FSJ ve FÖJ 27 yaşa kadar, Avrupa Dayanışma Birlikleri 18–30 yaşa açıktır.
+80c0e585	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin.
+a75a9667	Yalnız değilseniz: evlilik belgesi veya ortaklık bildirimi; çocuklar için doğum belgeleri ve velayet beyanı
+17887617	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin. WG için komşuların ortak başvurusu ve ayrı WBS'lerin birleştirilmesi mümkün değildir: herkes kendi başvurusunu yapar.
+c75e4349	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin. Koşul: Berlin'de yalnızca geçici olarak değil, en az 11 ay yaşamanız gerekir.
+80399a95	WBS'yi (Wohnberechtigungsschein, sosyal konut kiralama izni) semtinizin konut dairesi verir. Başvuru yöntemini seçin. Koşul: Berlin'de yalnızca geçici olarak değil, en az 11 ay yaşamanız gerekir. WG için komşuların ortak başvurusu ve ayrı WBS'lerin birleştirilmesi mümkün değildir: herkes kendi başvurusunu yapar.
+cee29f04	Eğitim belgesi: yükseköğretim için anabin'de olumlu sonuç veya ZAB değerlendirmesi; meslek eğitimi için ZAB'dan olumlu «Auskunft zur Berufsqualifikation»
+08f516cb	önce 12 aya kadar, her seferinde bir yıl uzatmayla 3 yıla kadar; anlaşılan işin yanında haftada 20 saate kadar ek iş
+9972ada2	Almanya'da tanınma olmadan mesleğinizde Anerkennungspartnerschaft ile çalışabilirsiniz: tanınma girişten sonra, çalışırken yapılır. Bunun için en az Almanca A2 gerekir. Diğer seçenek, tanınmayı taşınmadan önce almaktır.
+7b324dcf	yılda 50.000'e kadar onay, aylara ve ülkelere dağıtılır; son 24 ayda AsylbLG yardımı alınmamış olmalı; 45 yaşından itibaren ilk onayda yıllık 55.770 €'dan maaş ya da emeklilik güvencesi; ilk onay yalnızca altı ülkeden birindeki Alman temsilciliğine başvurulursa verilir
+e842bd1a	NOSTRES – kişisel rota özeti
+20c3f7b7	Kişisel IdNr.'nin size verilip verilmediğini belirleyin ve uygun resmî yolu izleyin: ücretli aracı olmadan ve numarayı NOSTRES'e vermeden.
+6bb8b9bf	Sigortaya resmî yolu belirleyin, Krankenkasse seçin ve üyelik onayını ile eGK'yı alın: ücretli aracı olmadan.
+f7f52821	Bu bir sıralama değildir. Aşağıda Berlin'de bulunan üç devlet kasası örneği ve tam resmî liste yer alır. Primi, yazılı hizmeti ve şubeleri karşılaştırın.
+ce7a42ce	Geçerli kasayı kullanın: aile sigortası için aile üyesinin kasasını, sağlık kartı için üyeliğin zaten doğrulandığı kasayı.
+9fbfda72	Değerlendirme şu anda kaydedilmedi. Yeniden göndermeyi deneyin: yanıtlar ekranda kalır.
+422720cb	Mesaj şu anda kaydedilmedi. Daha sonra yeniden deneyin: girdiğiniz veriler kaybolmadı.
+81a8499b	NOSTRES – bağımsız eylem planları ve resmî kaynaklar
+e40667a5	Vatandaşlık ve amaçla ilgili soruları yanıtlayın. Rota vizeye ihtiyacınız olup olmadığını ve hangi yolun uygun olduğunu – iş, Chancenkarte, öğrenim, Ausbildung, gönüllü hizmet, aile ya da Working Holiday – gösterir ve sonraki rotayı açar. Veriler Dışişleri Bakanlığı, Make it in Germany ve Berlin'in resmî sayfalarından.
+8a4779f8	Burada yalnızca sorular vardır. Yanıtladıktan sonra «Rotayı al»a basın: sonuç ve resmî işlemlere bağlantılar açılır.
+93eaee0f	Kayıt zaten varsa yanıtlarda bunu işaretleyin: madde kaybolur.
+9ecc1a25	2027/28 dönemi birinci sınıf öğrencileri için, doğum tarihi 01.10.2020–30.09.2021 olanların okulda şahsen kaydı 5–16 Ekim 2026 olarak belirlenmiştir. Taşındıktan sonra zaten okula giden öğrenciler için semtin düzeni farklıdır: resmî kaynağı kontrol edin.
+90933879	Önce elektronik kaydın belgelerinize ve durumunuza uygun olup olmadığını kontrol edin. Değilse resmî hizmet şahsen randevu öngörür; bunu yazılı vekâletnameli bir temsilci de yapabilir. Ne başvuru sahibinin ne de temsilcinin gelemediği ve çevrimiçi koşulların sağlanmadığı durum için yazılı alternatif doğrulanmamıştır: dairenin iletişim bilgilerini resmî sayfada kontrol edin.
+ad725635	NOSTRES – ana sayfaya
+7951eade	NOSTRES bağımsız bir hizmettir. İşlem düzeni ve uygulanabilirlik durumunuza bağlıdır; nihai kararı yetkili daire veya sigorta kasası verir.
+4b0043fa	Finanse edilen bir anaokulunda yer için Kita-Gutschein (kupon) gerekir. Başvuru çevrimiçi doldurulabilir, sonra imzalı belge semt Jugendamt'ına (gençlik dairesi) posta ile gönderilir veya şahsen teslim edilir. Yer arama ve kuponun verilmesi farklı işlemlerdir.
+13dbf581	Sağlık ve bakım sigortası, köpek sahibinin ve aracın sorumluluğu, işte sosyal sigorta ve serbest çalışanlar için gereklilikler: duruma göre ve resmî kaynaklarla.
+29ed78c3	İş sosyal prime tabiyse sosyal sigorta sistemlerine kaydı işveren yapar. Özel çalışma biçimlerinin kuralları farklıdır: sözleşmenizi ve maaş bordronuzu kontrol edin.
+ed269f36	Şahsen danışmanlık için şubeler vardır (AOK'ta «AOK vor Ort» araması), ancak üyeliğin zorunlu adımı olarak ziyaret belirtilmemiş.
+0ae75ea5	NOSTRES, İtalya'dan bağımsız bir bilgi projesidir.
+eae5af02	Başvuru veya talep gönderildi: yanıt bekleniyor
+442fcad1	NOSTRES – kişisel rota özeti
+fef8a8ab	Berlin resmi dairelerinde tercüman – ücretsiz
+5b05a082	Sosyal yardımlar ve doktor için tercüman – ücretsiz
+ae1e2003	116117'nin işitme veya konuşma engeli olan kişiler için bir sohbet hizmeti vardır – tıbbi yardım gerektiğinde, ancak hayati tehlike olmadığında. Sohbette Berlin bölgesini seçin. 116117 muayenehane aramasında «işaret dili» filtresi vardır.
+8deeba2d	NOSTRES – ana sayfa
+30498144	NOSTRES, taşındıktan sonra anlaşılır bir yoldur; ilk pilot Berlin
+3fce97df	NOSTRES, taşınma sonrası adım adım rehberler sunan ücretsiz bir bilgi hizmetidir: belgeler, konut, sağlık, iş, aile, yardımlar, banka ve iletişim, ulaşım ve evcil hayvanlar. İlk şehir Berlin; başka şehirler planlanıyor.
+333b681b	Anlaşılmayan kelimeler, gereksiz sorular, durumunuzun olmaması, yanlış yere giden bir bağlantı – sizi durduran veya tereddüt ettiren her şey.
+990321c4	Değerlendirmelerinize göre önce hangi rotaları düzelteceğimize ve hizmetin daha geniş bir lansmana hazır olup olmadığına karar vereceğiz. Bu yüzden testin asıl sonucu, rotanın sonundaki kısa değerlendirmedir.
+e13adcdf	Ad, adres, belge numaraları ve tıbbi bilgiler gerekmez; hizmet bunları sormaz. Ardından kişisel planınızı almak için soruların altındaki düğmeye basın.
+a2ffbb18	Rotayı değerlendirin: testin asıl sonucu budur
+72df6bac	Adımların hemen altında “Evet, yardımcı oldu” veya “Hayır, yardımcı olmadı” düğmesine basın: tek dokunuş. İsterseniz altta dört kısa sorudan oluşan ayrıntılı bir değerlendirme açılır. Yanıt olmadan testin nasıl geçtiğini bilemeyiz.
+628e3f7e	Hiçbir durum size tanıdık gelmiyorsa makul bir tanesini seçin ve o kişi gibi cevaplayın. Durumunuz cevaplar arasında yoksa değerlendirmede “Benim durumum yok” seçeneğini işaretleyin. Birden fazla rotayı test edebilirsiniz – her biri için bir değerlendirme.
+e5d696d5	Online-Ausweisfunktion (eID), kimliğinizi devletin çevrimiçi hizmetinde doğrulayan çip işlevidir. Ayrı bir hesap değildir: eID kimliği doğrular, BundID ise hesap olarak kullanılır.
+ac1d9833	Uygun kart ve altı haneli PIN zaten varsa: AusweisApp'i kurun ve «Gerät und Ausweis prüfen»'i çalıştırın: uygulama NFC'li akıllı telefonu ve eID'nin etkinliğini kontrol eder.
+93bb93e1	Ev sahibinden veya kiraya verenden Wohnungsgeberbestätigung alın: kira sözleşmesi onun yerini tutmaz.
+3b2ed1cc	Anmeldung formu: ziyarette
+63409077	Medeni durum belgeleri: ilk kayıtta, uygulanabiliyorsa
+d5d65b58	Almanya veya AB ülkesi vatandaşlığı: koşul ServicePortal Berlin'de böyle ifade edilmiştir.
+f998d02c	Çevrimiçi hizmet durumunuzu kabul etmiyorsa şahsen ziyareti seçin: gayriresmî dolambaçlı yöntemleri kullanmayın.
+ed6c131e	Birden çok daire için: Beiblatt zur Anmeldung / Hauptwohnungserklärung.
+e8ddde01	Özel velayet durumundaki çocuk için: ikinci yasal temsilcinin onayı ve belgeleri.
+880accf4	Temsilci için: yazılı vekâletname ve başvuru sahibinin imzaladığı form.
+b478cd8d	Statüye ve oturum amacına göre doğru LEA kanalını belirleyin: aracıdan randevu satın almadan.
+0a2fb61f	İşlem gerektiriyorsa sağlık sigortası ve kaynak belgesi
+d5b64837	Daha önce kayıtlıydım, şimdi değilim
+749037d2	Otomatik gönderim için resmî yaklaşım 4–8 haftadır. Üç ay sonra da mektup yoksa BZSt numarayı yeniden talep etmenizi önerir.
+632ea342	Kimlik belgesi: şahsen başvuru için
+f19beea7	Form 010250 ve belge kopyası: yalnızca Meldepflicht'i olmayanlar için
+d9eca154	Belge ve ücret olmadan; çevrimiçi talebin ortalama işlenmesi 4 hafta, ilk Anmeldung'dan sonra otomatik gönderim 4–8 hafta.
+a28cda29	steuerliche Identifikationsnummer verildiğine dair BZSt mektubunu kontrol edin: 11 hanedir.
+5c64cbf4	Numara bulunamazsa resmî çevrimiçi yeniden verilmeye geçin; acil gerekirse kimlik belgesiyle Finanzamt'a gidin.
+f0c8915c	Hauptwohnsitz'i belirtin: tatil konutunu veya kısa süreli adresi değil.
+b7ff194e	Meldebestätigung: adres kontrolü için almanız yararlıdır
+200fafe1	Anmeldung: taşındıktan sonra 14 gün içinde; IdNr. ardından otomatik verilir.
+60f1ce82	Einkommensteuererklärung veriyorsanız IdNr. için ayrı form gerekmeyebilir: bunu yetkili Finanzamt'ta kontrol edin.
+3f604371	Doktor arama ve acil yardım ayrı rotalar olacaktır. Burada amaç sigortanın kendisini doğrulamaktır.
+f0d2d983	Öğrenciler aile sigortalısı olabilir, studentische Pflichtversicherung'a tabi olabilir veya 30 yaşından sonra, koşullarla, GKV'yi gönüllü sürdürebilir.
+e57a4525	GKV üyesiyle akrabalık veya ortaklık, Almanya'da ikamet ve başka zorunlu sigortanın olmaması gerekir; geliri Krankenkasse kontrol eder. 2026'da genel gelir sınırı aylık 565 €, Minijob'da 603 €'dur.
+803d5fa2	Aylık 565 €'nun üzerinde gelir (Minijob'da 603 €'nun üzerinde)
+c28069cd	Bilmiyorum: resmî kontrol gerekiyor
+1e4586c6	İşverenin, üniversitenin, aile üyesinin veya Jobcenter'ın bilgileri: seçilen dayanağa göre
+22f75029	eGK için fotoğraf: Krankenkasse isteyince
+8cc69c3c	gesund.bund.de – federal sağlık portalı
+c2323567	2026'da genel gelir sınırı aylık 565 €, Minijob'da 603 €'dur.
+fd053ef0	eGK için fotoğraf: Krankenkasse istediğinde
+1c589ccd	eGK için fotoğraf: kasa hemen kabul etmeye hazırsa
+a7ba7b67	Prim bilgileri: destek gerekiyorsa
+0c94a372	Kimlik belgesi: kasa kimlik doğrulaması isterse
+31e168f0	İş sözleşmesi ve gelir: çalışıyorsanız
+b9333fb5	Immatrikulation veya Zulassung: okuyorsanız
+60d11d80	Aile sigortası dayanağı: uygulanabiliyorsa
+345766c0	Pasaport ve Aufenthaltstitel: uygulanabiliyorsa
+51b694db	İzinler veya mesleki belgeler: düzenlenmiş faaliyet için
+daaf6fa6	Varsa deneyim belgeleri
+f2778f0d	Anerkennung in Deutschland: resmî portal
+37e4b49f	Varsa önceki okul belgeleri
+e89e5e81	Ebeveynlerin çalışma / eğitim belgesi: gerekiyorsa Kita saati için
+1dd6ca84	Anmeldung için kira sözleşmesi Wohnungsgeberbestätigung'un yerini tutmaz. Berlin'deki ilk kayıtta ek olarak mevcut medeni durum belgeleri gerekebilir; özel durumlar için ayrı formlar.
+9998c01c	Olağan şahsen başvuru için Berlin'in adrese göre aramasını kullanın. Meldepflicht'i olmayan çalışan için işverenin Finanzamt'ı yetkilidir; başka bir vergi yükümlülüğü için Einkommensteuer'i yürüten Finanzamt.
+4963b963	Çevrimiçi yeniden talep için belge yüklenmez. Acil şahsen başvuru için kimlik belgesi gerekir; Meldepflicht'i olmayan kişiye verilme için form 010250 ve pasaportun veya Personalausweis'in kopyası.
+fa74193b	Üyelik zaten var: onayı kontrol edin
+16020079	Otomatik gönderim için resmî yaklaşım 4–8 haftadır. 3 ay sonra mektup yoksa çevrimiçi yeniden talebi kullanın; acil gerekiyorsa ServicePortal Finanzamt'a şahsen başvuruya izin verir.
+8761b667	BZSt aynı ömür boyu IdNr.'yi yeniden bildirir. Çevrimiçi formun ortalama işlenmesi 4 haftadır; numara e-postayla veya telefonla değil, kağıt mektupla gelir.
+d8999e42	2026'da aylık 565 € (Minijob'da 603 €) genel sınırın üzerindeki gelir ücretsiz aile sigortasını engeller. Kasadan kendi rejiminizi yazılı olarak belirlemesini isteyin.
+a0465b58	Freier Beruf ve Gewerbe farklı kurumlarda kaydedilir ve farklı vergilendirilir. Federal kılavuz serbest meslekleri sıralar: faaliyetiniz oradaysa yol Finanzamt'tan, değilse Gewerbeanmeldung'dan geçer. Faaliyetin kesin tanımını önceden hazırlayın.
+816ab9bd	Tüm soruları yanıtlayın: NOSTRES uygulanabilir sonraki adımı seçer.
+2347ad36	Teknik olaylar ve değerlendirmeler, ücretsiz hizmetin çalışmasını sürdürmek ve iyileştirmek için kullanılır. İşleme dayanağı, proje yazarının rotaların çalışmasını kontrol etme ve sorunları giderme konusundaki meşru menfaatidir. E-posta gönderirseniz verileri başvurunun incelenmesi ve yanıt için kullanılır.

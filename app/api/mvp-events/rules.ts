@@ -86,7 +86,7 @@ export type ParseResult = { ok: true; value: ParsedPayload } | { ok: false; erro
 
 const fail = (error: string): ParseResult => ({ ok: false, error });
 
-/** Поле необязательно: отсутствует или null — значит пусто; присутствует, но не по шаблону — ошибка, а не молчаливая запись. */
+/** Поле необязательно: отсутствует или null – значит пусто; присутствует, но не по шаблону – ошибка, а не молчаливая запись. */
 function optional(value: unknown, pattern: RegExp): { ok: true; value: string | null } | { ok: false } {
   if (value === undefined || value === null) return { ok: true, value: null };
   if (typeof value !== "string" || !pattern.test(value)) return { ok: false };

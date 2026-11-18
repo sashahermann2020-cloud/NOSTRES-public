@@ -10,7 +10,7 @@ export function InfoPage({ title, children }: { title: string; children: ReactNo
   return (
     <Translated>
       <header className="site-header">
-        <Link className="brand" href="/" aria-label="NOSTRES — главная">
+        <Link className="brand" href="/" aria-label="NOSTRES: главная">
           <span className="brand-mark">N</span>
           <span className="brand-copy"><b>NOSTRES</b><small>Понятный путь</small></span>
         </Link>

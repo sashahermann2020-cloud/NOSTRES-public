@@ -35,7 +35,7 @@ test("пособия отделены от банка и связи, фильт�
   assert.ok(inTheme("kindergeld", "Семья и дети") && inTheme("kindergeld", "Все") && !inTheme("kindergeld", "Банк и связь"));
 });
 
-test("переезд до въезда отделён от документов в Германии, автомобиль — в транспорте", () => {
+test("переезд до въезда отделён от документов в Германии, автомобиль – в транспорте", () => {
   for (const id of ["relocation", "chancenkarte", "workvisa", "studyvisa", "volunteer", "reunion", "petmove"]) assert.equal(themeOf(id), "Переезд в Германию", id);
   for (const id of ["anmeldung", "lea", "workpermit", "einbuergerung"]) assert.equal(themeOf(id), "Документы и статус", id);
   assert.equal(themeOf("kfz"), "Транспорт и досуг");

@@ -3,7 +3,7 @@ import { SOURCE_LOCALE, localeDir, localizedPath, type LocaleCode } from "./loca
 /**
  * Язык запроса на сервере. Воркер кладёт его в AsyncLocalStorage (globalThis.__nostresLocale):
  * так перевод не зависит от общего состояния модулей, а одновременные запросы не мешают друг другу.
- * Здесь же запоминаются строки, использованные при рендере, — их клиент получает для точной гидратации.
+ * Здесь же запоминаются строки, использованные при рендере, – их клиент получает для точной гидратации.
  */
 export type ServerContext = { locale: LocaleCode; dictionary: Record<string, string>; used: Record<string, string> };
 
@@ -13,7 +13,7 @@ export function serverContext(): ServerContext | undefined {
   return storage?.getStore();
 }
 
-/** Язык текущего серверного запроса; без контекста — русский. */
+/** Язык текущего серверного запроса; без контекста – русский. */
 export function serverLocale(): LocaleCode {
   return serverContext()?.locale ?? SOURCE_LOCALE;
 }

@@ -43,7 +43,7 @@ export function socialNumberPlan(a: Answers): Plan {
   if (!a.need || a.need === "tax") return {
     fit: "redirect",
     why: ["Вам нужен налоговый номер, а не номер социального страхования"],
-    title: "Steuer-ID — это отдельный налоговый номер",
+    title: "Steuer-ID: это отдельный налоговый номер",
     summary: "Работодатель просит два разных номера: налоговый Steuer-ID и номер социального страхования. Steuer-ID присваивает налоговое ведомство; как его получить или восстановить, показывает отдельный маршрут.",
     steps: [step("Откройте маршрут Steuer-ID", "Маршрут покажет, присвоен ли вам Steuer-ID и как получить его письмо заново. Номер социального страхования выдаёт Deutsche Rentenversicherung: если он тоже нужен, вернитесь сюда и выберите его.", "Онлайн", act("Маршрут: Steuer-ID", "/berlin/steuer-id"), act("DRV: что такое Versicherungsnummernachweis", o.proof))],
     note,
@@ -96,7 +96,7 @@ export function socialNumberPlan(a: Answers): Plan {
       step("Если документ не пришёл", `Закажите его бесплатно через онлайн-сервисы Deutsche Rentenversicherung или в своей больничной кассе. ${hotline}`, "Онлайн", act("DRV: онлайн-сервисы", o.online), act("DRV: как заказать документ", o.firstJob)),
       paidWarning,
     ],
-    singleMethodNote: "Номер присваивается через работодателя: способ один, запасной — заказ у DRV или кассы.",
+    singleMethodNote: "Номер присваивается через работодателя: способ один, запасной – заказ у DRV или кассы.",
     note,
     next: act("Маршрут: медицинская страховка", "/berlin/health-insurance"),
   };

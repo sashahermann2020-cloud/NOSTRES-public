@@ -20,7 +20,7 @@ const outcomeLabels: Record<string, string> = {
 
 export function buildTaxIdSummary({ method, doneSteps, blockedSteps, outcome, sources, generatedAt }: SummaryInput) {
   const lines = [
-    tr("NOSTRES — персональная сводка маршрута"),
+    tr("NOSTRES: персональная сводка маршрута"),
     tr("Цель: найти, получить или восстановить личную Steuer-ID"),
     `${tr("Способ:")} ${method.title}`,
     `${tr("Срок:")} ${method.deadline}`,

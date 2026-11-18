@@ -18,7 +18,7 @@ test("маршрут без изменений и в пределах срока
   assert.equal(r.daysSinceCheck, 10);
 });
 
-test("изменение официальной страницы после сверки требует сверки маршрута, до сверки — нет", () => {
+test("изменение официальной страницы после сверки требует сверки маршрута, до сверки – нет", () => {
   const now = at("2026-10-29");
   const links = route.sources.map((url) => ok(url, now));
   const before = { url: route.sources[0], kind: "content_changed", detail: "", created_at: at("2026-10-18") };
@@ -70,7 +70,7 @@ test("route-sources.json и monitored-links.json собраны из текущ�
   execFileSync("node", ["scripts/links-extract.mjs", "--check"], { cwd: root, stdio: "pipe" });
 });
 
-test("проверенное изменение страницы больше не требует сверки, а новое после проверки — требует", () => {
+test("проверенное изменение страницы больше не требует сверки, а новое после проверки – требует", () => {
   const now = at("2026-10-29");
   const links = route.sources.map((url) => ok(url, now));
   const change = { url: route.sources[0], kind: "content_changed", detail: "", created_at: at("2026-10-25") };

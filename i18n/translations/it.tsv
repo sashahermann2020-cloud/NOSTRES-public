@@ -197,7 +197,6 @@ f4f52431	Non ancora
 d05a02c5	Al momento non ha un conto tedesco
 e06690d7	Ha un indirizzo stabile
 eb3dbe8c	Il primo conto in Germania: Girokonto o Basiskonto
-6cc411bd	Le condizioni del conto ordinario Girokonto le stabilisce la banca. Il Basiskonto è il diritto a un conto di base per il consumatore che non ha ancora un conto di pagamento in Germania: la banca può rifiutare solo in pochi casi previsti dalla legge. Scelga il modo qui sotto.
 c69d07c4	Senza recarsi in filiale: online, app o telefono
 828f0943	La banca diretta verifica l'identità con Videoident o Postident. Va bene se non vuole o non può andare in filiale.
 b8258565	Disponibile per il suo documento
@@ -232,7 +231,6 @@ f3b19697	Conto ordinario · app
 b7fa6aef	Conto interamente mobile: si apre nell'app e l'identità si verifica per video. È un conto ordinario, non un Basiskonto: il Basiskonto non è citato nella pagina di N26; le condizioni del conto le stabilisce la banca.
 b59f2e88	videochiamata o foto del documento (Reisepass o Personalausweis); secondo il blog di N26 l'apertura online richiede «da pochi minuti a qualche ora». Un tempo di verifica separato non è indicato nelle pagine di N26
 1442a576	Piano N26 Standard
-a40d65ac	0 € al mese; carta fisica: 10 € una tantum
 38e5a689	Ha almeno 18 anni e vive in un paese in cui opera N26
 b571bb50	Servono uno smartphone e un documento valido: sono accettati passaporti, carte d'identità nazionali e permessi di soggiorno; l'elenco personale dei documenti lo mostra l'app all'inizio della verifica
 a490c572	Se il suo documento non è supportato, N26 non può aprire il conto
@@ -548,7 +546,6 @@ a08d15f2	il servizio di prenotazione deve proporre una visita da uno specialista
 06119a3e	Costo della prenotazione
 ac013f7b	le pagine ufficiali del Ministero della salute e della KBV non indicano alcun costo di prenotazione per il paziente; la visita è pagata dalla cassa assicurativa secondo le regole ordinarie, la compartecipazione di ogni cassa è diversa
 459110cc	Scelga una visita libera online
-22f310bc	Il servizio 116117 è destinato a chi ha l'assicurazione pubblica. Inserisca Berlino, scelga la specialità necessaria e l'orario libero. Per un normale specialista serve il codice di 12 cifre sull'impegnativa; per il medico di famiglia, il pediatra, il ginecologo, l'oculista e la prima visita dallo psicoterapeuta non serve il codice. Conservi la conferma; il servizio non promette uno studio specifico.
 ea21e899	Aprire l'eTerminservice ufficiale
 b6e245ac	Portale federale: a chi serve il codice e come prenotare
 8c839b87	Scegliere uno studio specifico
@@ -638,7 +635,6 @@ ad14a287	Berlino: Hundegesetz, domande e risposte
 2e7d9f2a	Iscriva subito il cane nell'Hunderegister
 0726d4ab	Registri il cane online nell'area del proprietario del portale del registro. Servono il numero del microchip di 15 cifre dal libretto dell'animale e i dati sulla razza. Costo online: 17,50 € per cane. La ricevuta del costo (Kostenbescheid) vale come conferma. L'iscrizione nel registro vale anche come registrazione fiscale. Una registrazione incompleta è una violazione amministrativa con una sanzione fino a 10.000 €.
 57a523f3	Imposta sul cane
-65f582cc	L'iscrizione nell'Hunderegister basta: dal 1° gennaio 2024 vale anche come registrazione fiscale e non serve una visita a parte al Finanzamt. Il termine fiscale è un mese dall'acquisto del cane o dal trasferimento. L'avviso fiscale arriva da solo, dopo circa 4 settimane. Si può attivare l'addebito SEPA o pagare con bonifico. Le medagliette non servono più. L'aliquota non è indicata nella pagina del servizio: la indicherà l'avviso. L'esenzione si richiede con un servizio a parte.
 189c0b72	Berlino: imposta sul cane
 56800ce0	Hunderegister: registrazione
 55323aea	Assicurazione di responsabilità civile
@@ -655,7 +651,6 @@ f8f9b54a	26,50 € per cane
 b1ec61ff	Assicurazioni in Germania
 98683275	Le informazioni si basano sulle pagine ufficiali di Berlino. I termini e le condizioni sono indicati in esse.
 5cde52c4	Esenzione dal guinzaglio (facoltativa)
-ebe9f0bf	Serve la Sachkundebescheinigung («Hundeführerschein»): esame presso un esperto riconosciuto (teoria 30 domande, soglia di superamento 70%, 45 minuti; pratica — il cane deve avere almeno un anno). La domanda si presenta di persona all'Ordnungsamt del distretto; servono il modulo, i dati del cane, l'assicurazione, la prova della Sachkunde e una foto. La tassa è calcolata sul tempo di trattazione: 20,50 € per ogni 15 minuti iniziati, minimo 41–61,50 € a seconda del motivo.
 4efdb2fe	Berlino: esenzione dal guinzaglio
 e7750ae0	Esperti riconosciuti di Berlino
 e0503ed8	La razza rientra nei Listenhunde: valgono termini e condizioni obbligatori
@@ -687,7 +682,6 @@ ac15ee62	In strada, fuori da un'area recintata: museruola che protegga dal morso
 56063604	Anche qualsiasi altra razza o incrocio può essere dichiarato pericoloso con decisione dell'Ordnungsamt dopo un incidente, ad esempio un morso. Si tratta di informazioni generali e non di una consulenza legale: i termini e le condizioni sono indicati nelle pagine delle autorità, nei link dei passaggi.
 38b1a136	Non sa se la razza del cane rientri nei Listenhunde
 b0991366	Stabilisca prima se il cane rientra nei Listenhunde
-d0939262	I Listenhunde a Berlino sono il Pit Bull Terrier, l'American Staffordshire Terrier, il Bull Terrier e i loro incroci. Qualsiasi altro cane può essere dichiarato pericoloso dall'Ordnungsamt dopo un incidente.
 0c18b633	Verifichi la razza dai documenti
 315c493e	Guardi il pedigree, il libretto dell'animale e i documenti di acquisizione. Per un cane sotto l'anno il venditore è tenuto a rilasciare un certificato scritto di acquisizione (Erwerbsbescheinigung); serve anche per i cani più grandi, con l'indicazione della razza o dell'incrocio.
 09a8c5a2	Richieda la valutazione della razza all'Ordnungsamt
@@ -708,7 +702,6 @@ f3e347a5	Non dimentichi di aggiornare anche la polizza assicurativa: comunichi i
 c47db8eb	Lo comunichi all'Hunderegister
 1827e21b	Il cane va cancellato dopo la morte, lo smarrimento o la cessione. La comunicazione si può presentare nell'area del proprietario, per iscritto o al telefono.
 d0e7a65f	Imposta sul cane: regole di registrazione
-6aff9547	La mancata iscrizione nel registro e la mancata comunicazione delle modifiche sono una violazione amministrativa, la sanzione può arrivare a 10.000 €.
 b02014f7	Da quanto tempo vive legalmente in Germania?
 fe4bfee8	5 anni o più senza interruzioni
 44fb613d	Tre anni, e sono sposato/a o in unione con un cittadino tedesco da almeno 2 anni
@@ -1185,7 +1178,6 @@ f03673f4	Non so se mi spetta
 473ce6c5	SCHUFA: sì
 405bb2ff	WBS: vuole verificare il WBS
 bf8291f8	Ricerca di un appartamento a Berlino
-0c52dff2	Qui sotto trova i modi di ricerca, i documenti e la procedura per le sue risposte. NOSTRES aiuta a prepararsi e a passare alle fonti ufficiali; la disponibilità di alloggi liberi e la decisione del locatore non dipendono da esso.
 5af76b7a	Si tratta di informazioni generali e non di una consulenza legale. Le condizioni dell'annuncio e dei servizi ufficiali le guardi nelle loro pagine; per il WBS c'è un percorso a parte.
 245315f3	Decida se presentare la domanda per l'alloggio sociale
 6bc5a127	Il WBS (permesso per l'affitto di alloggi sociali) dipende dal reddito e dallo status di soggiorno; la decisione la prende l'ufficio abitativo del distretto. Online prepari i documenti in PDF/JPG (in tutto fino a 30 MB, ciascuno fino a 5 MB). Per posta spedisca i moduli firmati all'ufficio del suo distretto; se non vive ancora a Berlino, può scegliere qualsiasi distretto. La presentazione è gratuita. Il termine di esame non è indicato nella pagina del servizio; il WBS non garantisce di ottenere un appartamento.
@@ -1921,7 +1913,6 @@ bd8bfe11	Proroga del permesso di soggiorno per i motivi umanitari elencati
 ea118b58	Documenti per il suo paragrafo: elenco completo nella pagina del servizio
 7fe0636d	non prima di otto settimane prima della scadenza
 93c2f42e	di solito 4–6 settimane dopo l'appuntamento, se viene rilasciato un permesso di soggiorno elettronico
-23288f25	La protezione temporanea (§ 24) è un servizio separato
 46932f12	Le regole generali di proroga umanitaria non riguardano il § 24. Verifichi condizioni e procedura attuali in una pagina ufficiale separata.
 b9c1be55	Si tratta di informazioni generali e non di una consulenza legale. Le condizioni provengono dalle pagine ufficiali indicate nei passi; la decisione definitiva spetta all'ufficio.
 31a2d9cf	Apra il servizio ufficiale adatto
@@ -1936,14 +1927,12 @@ d13a24ae	Scelga il servizio in base allo scopo della richiesta
 f50087e0	Il primo rilascio e la proroga con lo stesso motivo possono comportare requisiti diversi. Scelga il suo servizio in base al nome e verifichi la sezione «Online-Beantragung».
 7ddcdbeb	Aprire il catalogo dei servizi della LEA
 233e233d	Scopo: cambio di motivo o di datore di lavoro
-53414c77	Il cambio di motivo o di datore di lavoro è un altro servizio
 b87d0e6f	In caso di cambio di datore di lavoro può essere adatta una procedura separata; in caso di cambio di motivo scelga il servizio corrispondente nel catalogo. Non presenti automaticamente la proroga del vecchio motivo.
 d8862978	Se cambia il motivo stesso del soggiorno, usi il catalogo dei servizi della LEA.
 d514d11e	Verificare il cambio di datore di lavoro
 d854e399	Scopo: non ancora noto
 b99c554b	Documento: visto nazionale D
 f1bd5ba4	Con un visto nazionale D valido scelga il servizio in base allo scopo del soggiorno
-ae676c69	Se prevede di restare oltre la durata del visto, la LEA consiglia di presentare la domanda durante la sua validità, di solito da sei a otto settimane prima della fine di un visto di 12 mesi. Il primo permesso di soggiorno con visto D non è una proroga di un permesso già rilasciato; scelga il servizio in base allo scopo del soggiorno.
 e5dee4dc	Trovare il servizio per il suo motivo
 3fc64687	Documento: scaduto
 78f077c8	Il documento è già scaduto: serve un esame separato della LEA
@@ -1951,7 +1940,6 @@ fb68487f	La conferma di una normale domanda online non ripristina automaticament
 7fa8f71f	Non promettiamo la Fiktionsbescheinigung (attestato di mantenimento temporaneo dello status) se la domanda è presentata dopo la scadenza.
 f024ccb9	Trovare la sezione di contatto della LEA
 3cc71c17	Documento: visto Schengen C
-5954360c	Il visto Schengen C è una procedura separata
 4a1d2e91	Una normale domanda di permesso di soggiorno non prolunga la durata del soggiorno con un visto Schengen. La proroga del visto stesso è ammessa solo in casi eccezionali.
 a6a380cc	Non conti sul fatto che una domanda online di permesso di soggiorno crei il diritto a restare dopo la fine del visto C.
 1c9cac7f	Aprire il servizio ufficiale per il visto C
@@ -2545,7 +2533,6 @@ d0c55fa2	Telefonia mobile con internet illimitato (SIM o eSIM)
 6f5c1df7	Internet a casa
 612d94c6	Le serve un nuovo contratto di telefonia mobile o internet
 c9e85768	Nuovo contratto: cosa verificare prima di firmare
-ce9780d7	Il provider è tenuto a fornire un riepilogo del contratto in forma testuale prima della stipula. La durata iniziale massima è di 24 mesi. Scelga dove stipulerà il contratto.
 12b891ad	Online o per telefono
 e55aaccd	Il contratto si stipula senza andare in negozio. Vale il diritto di recesso. Se il telefono supporta l'eSIM (SIM integrata nel telefono), la SIM per posta non serve: l'operatore invia un profilo che si installa sul telefono. Quali operatori rilasciano eSIM è indicato nelle loro schede.
 6db86c8e	Disponibile alla stipula presso la maggior parte dei provider
@@ -2653,7 +2640,6 @@ d2026ed3	Il diritto di recesso di 14 giorni riguarda i contratti per telefono, o
 40a7d57d	Percorso: conto bancario
 b7062838	Le serve internet mobile illimitato per lo smartphone
 b855bd67	Internet mobile illimitato: varianti per comodità
-0d12b6d5	Il modo più semplice è un'app con eSIM, senza visite e senza SIM per posta. Se le serve un contratto con un operatore di rete, lo stipuli online.
 d99faa3a	Ordine nell'app (eSIM)
 60317c10	La tariffa si attiva nell'app senza visite e senza SIM per posta. Serve un telefono che supporti l'eSIM.
 d21a895c	Serve un telefono con eSIM
@@ -2711,7 +2697,6 @@ aecc0b69	fino a 30,6 GB al mese senza supplemento, oltre 1,31 € per GB
 62da66df	Si tratta di informazioni generali e non di una consulenza legale. Le tariffe qui non vengono confrontate né valutate.
 604a832a	Le serve internet a casa
 51890783	Internet a casa: varianti per comodità
-a2a0a42e	Il modo più semplice e rapido è un router sulla rete mobile: lo si collega alla presa e internet funziona. Internet via cavo è spesso più veloce, ma dipende dall'indirizzo e può richiedere un tecnico.
 08f0e174	Internet via rete mobile, senza tecnico
 ca34243c	Il router si collega alla presa, non c'è nulla da montare. Va bene se non c'è internet via cavo o serve in fretta.
 39ec9315	Disponibile se in casa c'è copertura 5G/LTE
@@ -2738,7 +2723,6 @@ e944967b	Inserisca l'indirizzo nella pagina dell'operatore: mostrerà quali velo
 d8625462	Serve un tipo di collegamento disponibile al suo indirizzo; a volte viene un tecnico. Di norma è più vantaggioso per velocità, ma l'attivazione richiede più tempo.
 f4b636d7	Dipende dall'indirizzo
 0a22a795	Tipo di collegamento e velocità si determinano con la verifica dell'indirizzo nella pagina dell'operatore
-1053baa3	La durata minima di Vodafone è 24 mesi
 5ddcd2f8	Consenso del proprietario dell'immobile all'allacciamento, se necessario
 b06064cc	Velocità Vodafone
 0e728817	da 50 a 1000 Mbit/s, router a 0 €
@@ -2760,7 +2744,6 @@ ea432601	Operatori di internet via cavo
 0a1926b7	Così non perde il numero e la linea. Il nuovo provider di norma aiuta a disdire il vecchio contratto. Verifichi nella fattura o nell'area personale la durata del contratto e i termini di preavviso: una disdetta tardiva di norma prolunga il contratto.
 6ba14e4d	Verbraucherzentrale: cambio di provider
 859db02b	Controlli l'interruzione del servizio
-79206527	Il vecchio provider deve mantenere il servizio fino al passaggio e può prendere non più del 50% del canone di attivazione. L'interruzione non deve durare più di un giorno lavorativo. Per ogni giorno lavorativo in più spetta il 20% del canone mensile (non meno di 10 €); se il trasferimento del numero non riesce, 10 € al giorno dal secondo giorno lavorativo.
 d4a43e22	Verbraucherzentrale: diritti nel cambio
 c95fe58f	Se si trasferisce
 8deee649	Se il suo provider non serve il nuovo indirizzo, il contratto si può disdire con preavviso di un mese.
@@ -2879,7 +2862,6 @@ c875528d	Non so valutare
 72052876	In caso di pericolo di vita chiami il 112
 f8f30dab	Non cerchi un appuntamento online e non aspetti la risposta di NOSTRES. Dica all'operatore l'indirizzo e cosa è successo.
 15bbdd8a	Chiami il 112 subito
-33a70db7	Il 112 è il servizio di soccorso. In caso di grave affanno, perdita di coscienza, forte emorragia e altri segni di pericolo di vita serve una valutazione urgente di specialisti. La chiamata si fa per telefono, non tramite un modulo del sito.
 534d2a33	Chiamata
 0fd438ee	Chiamare il 112
 def1da9d	Welcome Center di Berlino: numeri di aiuto
@@ -2887,7 +2869,6 @@ def1da9d	Welcome Center di Berlino: numeri di aiuto
 324d2a0f	No, serve aiuto prima
 a6c8a287	Sì, posso aspettare
 35d6cf4c	Serve aiuto prima del prossimo appuntamento ordinario
-e9f4e7b5	Il 116117 è per un problema urgente ma non pericoloso per la vita. Indirizzo e orari dello studio di guardia dipendono dal giorno e dal distretto; li verifichi prima di andare.
 b555033e	Trovi uno studio di guardia aperto
 abd0e8cc	Nella ricerca ufficiale inserisca Berlino o il CAP. Verifichi oggi indirizzo, orari, specializzazione e condizioni di visita. Non usi elenchi di indirizzi obsoleti.
 5d86afee	Trovare una Bereitschaftspraxis (studio di guardia) aperta
@@ -2913,7 +2894,6 @@ a30b8bdf	Inserisca i disturbi sul sito del 116117 e indichi Berlino o il CAP. Il
 e967cea4	Iniziare la valutazione su Patienten-Navi
 a7b338f5	116117: scopo del navigatore online
 6cf52dbe	Se la risposta online non è chiara
-30bdf69b	Chiami il 116117. Il servizio funziona 24 ore su 24 e indirizza all'aiuto adatto. Per il pericolo di vita: 112.
 7f60f06b	Risposte ufficiali del 116117
 80656c22	Qual è il suo status di soggiorno?
 6a27ce35	Cittadino tedesco o di un paese UE
@@ -2930,7 +2910,6 @@ f6d07f1d	È cittadino tedesco o UE
 50a034ef	Intende vivere a Berlino per almeno 11 mesi
 f6beae33	Presenta la domanda per sé
 7c9d9bf4	Può presentare la domanda di WBS
-5feaf4fd	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione.
 c907ad75	Domanda online
 0f48a2c9	Compili il modulo nel portale di Berlino e carichi i documenti come file. La decisione arriverà per posta.
 1b91f30e	File PDF o JPG: fino a 5 MB ciascuno e fino a 30 MB in totale
@@ -2938,7 +2917,6 @@ c907ad75	Domanda online
 462b4e9e	Modulo di domanda
 2cb355f4	Attestato dei suoi redditi e attestato del datore di lavoro sul reddito
 7f9969fa	Copie dei documenti d'identità di tutte le persone indicate nella domanda
-b8d07771	Se non è solo: certificato di matrimonio o dichiarazione di unione; per i figli certificati di nascita e dichiarazione sull'affidamento
 5898320b	In aggiunta secondo la situazione: documento di invalidità, attestato di studio, documento sul diritto di soggiorno
 2da1d17d	Costo
 8e3b73b9	gratuito
@@ -2970,15 +2948,12 @@ ce18c2d2	L'indirizzo dell'ufficio abitativo o del Bürgeramt del suo distretto �
 850ae95e	Alcuni alloggi popolari si affittano solo ai titolari di WBS con un bisogno particolare (ad esempio una famiglia con figli in un alloggio stretto o un'invalidità dal 50 in su); per questi servono almeno un anno di registrazione a Berlino e documenti che provino il motivo. Indichi il motivo nella domanda.
 a10964c9	Presenta la domanda per una famiglia o una coppia
 68567e5b	Presenta la domanda per un appartamento condiviso
-ff83d2a1	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione. Per un WG la domanda comune dei coinquilini e l'unione di WBS separati non sono possibili: ognuno presenta la propria.
 fa02a3c4	Intende vivere a Berlino meno di 11 mesi
 5e8cdc29	Il WBS non è adatto: è pensato per una permanenza da 11 mesi
 06a665e9	Secondo la pagina ufficiale del servizio il WBS lo può ottenere chi vive a Berlino non solo temporaneamente (almeno 11 mesi) e può fare della città il centro della propria vita. Per un periodo breve cerchi un alloggio temporaneo o una stanza.
 ad50cc78	Scelga un formato di ricerca senza WBS
 8278c319	Stanze, subaffitto e alloggi temporanei non richiedono il WBS. Apra la panoramica dei modi di ricerca.
 be0c59b8	Non sa ancora per quanto tempo vivrà a Berlino
-20159394	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione. Condizione: deve vivere a Berlino non solo temporaneamente, per almeno 11 mesi.
-35878eef	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione. Condizione: deve vivere a Berlino non solo temporaneamente, per almeno 11 mesi. Per un WG la domanda comune dei coinquilini e l'unione di WBS separati non sono possibili: ognuno presenta la propria.
 03f1b984	Il suo permesso di soggiorno è valido per almeno un anno
 72bf1a82	Il permesso di soggiorno è valido per meno di un anno
 31b68dfa	Il WBS al momento non è disponibile: il permesso di soggiorno deve essere valido per almeno un anno
@@ -3409,7 +3384,6 @@ db72cd8c	Crea un piano d'azione personale →
 5a9b334f	L'ufficio ha richiesto un documento aggiuntivo
 7b970d33	Ho ricevuto un rifiuto o i documenti non sono stati accettati
 fea41db3	Il percorso non è ancora completato
-ef2854d1	NOSTRES: riepilogo personale del percorso
 d3f6e83d	Obiettivo: registrare l'indirizzo a Berlino (Anmeldung)
 c0f83f06	Modalità:
 6e90f85f	Termine:
@@ -3438,7 +3412,6 @@ af0fa552	Meldebestätigung ricevuta. La conservi; il prossimo percorso dipendent
 c016bd86	Vai allo Steuer-ID
 1bc7c30e	Germania · azioni a Berlino
 6838aae3	Tasse · Germania
-8b91731d	Stabilisca se le è stato assegnato un IdNr. personale e segua il percorso ufficiale adatto, senza intermediario a pagamento e senza trasmettere il numero a NOSTRES.
 1bb3d154	Numero
 3ba0a630	11 cifre · a vita
 7e0ced98	Richiesta online
@@ -3449,7 +3422,6 @@ b886bdcd	NOSTRES distingue la nuova ricezione di un IdNr. già assegnato dal pri
 7171ae86	Vai all'assicurazione sanitaria
 41af0e6f	Assicurazione sanitaria
 5b4ad1f0	Salute · Germania
-ca6fb1d2	Stabilisca il percorso ufficiale per l'assicurazione, scelga la Krankenkasse e ottenga la conferma di iscrizione e la eGK, senza intermediario a pagamento.
 139d9551	Obbligo
 c91801c2	Copertura senza interruzioni
 88a8ecd3	Canali
@@ -3533,9 +3505,7 @@ f4818135	Secondo le sue risposte al momento non è prevista una domanda separata
 7c86ae92	Scelga la sua cassa
 df5a3769	Indichi la cassa attuale o nuova
 2e6e0583	Scelga la cassa malattia
-acd0c536	Non è una classifica. Qui sotto ci sono tre esempi di casse pubbliche disponibili a Berlino e l'elenco ufficiale completo. Confronti contributo, servizio scritto e sedi.
 47d95209	Si tratta della scelta del destinatario per una verifica scritta, non di una raccomandazione di iscriversi a una cassa pubblica. Se il diritto all'assicurazione privata viene confermato, la fase successiva mostrerà l'elenco ufficiale delle compagnie private.
-495e3d6d	Usi la cassa attuale: per l'assicurazione familiare la cassa del familiare, per la tessera sanitaria la cassa in cui l'iscrizione è già confermata.
 28fb23f5	Elenco completo
 57103d24	Cassa ufficiale
 aeccedf2	Scegli un'altra cassa
@@ -3610,7 +3580,6 @@ a090628a	Cosa ha ostacolato di più?
 73bfb5e4	Salvataggio…
 6ad96772	Grazie, la valutazione è stata salvata
 9622bd3d	Invia la valutazione anonima
-654ff54d	La valutazione al momento non è stata salvata. Provi a inviarla di nuovo: le risposte restano sullo schermo.
 6120152a	Fatto. Nella valutazione non sono inclusi dati personali né risposte alle domande del percorso.
 cc60f452	Tutte le fonti ufficiali e le date di verifica
 b4bf201f	Ogni conclusione pratica qui sopra è collegata a una di queste pagine. La data indica l'ultima verifica manuale della fonte, non la data di modifica della legge.
@@ -3622,14 +3591,12 @@ e77efef5	Scelga la fonte
 4cbdc4d6	Invio…
 a9e4f012	Segnalazione inviata
 709b67db	Invia senza dati personali
-880a5ef4	Al momento la segnalazione non è stata salvata. Riprovi più tardi: i dati inseriti non sono andati persi.
 9eea9168	La fonte è stata aggiunta alla coda di verifica manuale.
 75804bbf	NOSTRES spiega il percorso ufficiale confermato, ma non decide al posto dell'ufficio. Prima dell'invio verifichi ancora le condizioni attuali nella pagina ufficiale aperta.
 4093b2bd	Anmeldung (registrazione dell'indirizzo) a Berlino: online o di persona | NOSTRES
 b2cdc86a	Percorso personale per registrare l'indirizzo a Berlino: se si può fare online, appuntamento al Bürgeramt, documenti, termini e fonti ufficiali.
 9027c96b	Anmeldung (registrazione dell'indirizzo): percorso NOSTRES
 8e845741	Risponda alle domande, scelga un modo disponibile e completi la registrazione ufficiale dell'indirizzo fino alla Meldebestätigung.
-04be513f	NOSTRES: piani d'azione autonomi e fonti ufficiali
 39fc46c9	Arbeitslosengeld (indennità di disoccupazione) a Berlino | NOSTRES
 960bf6e0	Chi riceve l'Arbeitslosengeld, quanto e per quanto tempo, cos'è la Sperrzeit e come presentare la domanda. Secondo le fonti ufficiali.
 66efe46b	Aufenthaltstitel per lavoro (permesso di soggiorno per lavoro) a Berlino | NOSTRES
@@ -3768,7 +3735,6 @@ f9943ed6	Tutti i percorsi di prova
 0929e660	In caso di pericolo immediato di vita chiami il
 9019a0d5	. Non aspetti la risposta sul sito.
 99452f0d	Passo 1 · situazione
-d48af82d	Qui ci sono solo domande. Dopo le risposte prema «Ottieni il percorso»: si apriranno la conclusione e i link alle azioni ufficiali.
 055a9a75	Ottieni il percorso →
 f2d3490f	Le risposte restano solo su questo dispositivo. Documenti personali e dati sulla salute non vengono richiesti.
 714ead0d	Il suo percorso personale
@@ -3859,7 +3825,6 @@ a5021ba1	Prenotare una visita via internet non significa che la registrazione st
 5676a0d0	Dopo il trasloco verifichi la registrazione del nuovo indirizzo a Berlino.
 bec390d3	Dopo l'ingresso effettivo a Berlino
 4d4ec596	Presentazione online se le condizioni sono soddisfatte o prenotazione online della visita
-68b78bb8	Se la registrazione c'è già, lo segni nelle risposte: la voce scomparirà.
 4f9874c4	Verificare ingresso e pratiche del familiare
 e1db8a74	Ha indicato che un familiare arriverà più tardi. Le regole dipendono dalla cittadinanza e dal documento di ciascuna persona.
 2e4f706b	Verifica ufficiale online; domanda tramite la rappresentanza indicata o la LEA secondo il caso applicabile
@@ -3885,7 +3850,6 @@ ea5c8d54	Il figlio ha bisogno di un posto a scuola a Berlino.
 f9993500	Non è sicuro che la pratica scolastica sia completata.
 c4176a7e	Prima stabilisca il futuro distretto e indirizzo
 205f6e14	Ricerca online della scuola competente → iscrizione a scuola o tramite lo Schulamt (ufficio scolastico) del distretto secondo l'età e la situazione
-b08694b4	Per i bambini di prima classe dell'anno 2027/28 nati dal 01.10.2020 al 30.09.2021 la registrazione di persona a scuola è fissata dal 5 al 16 ottobre 2026. Per chi è già scolaro dopo il trasloco la procedura del distretto è diversa: verifichi la fonte ufficiale.
 63af6eb9	In base all'indirizzo trovi la scuola competente e lo Schulamt del distretto.
 9a8d1b90	Verifichi nella pagina ufficiale età, tipo di scuola, classe e necessità di sostegno linguistico.
 89c6db99	Contatti la scuola competente o lo Schulamt e prepari i documenti del genitore e del figlio, il certificato di nascita, gli eventuali documenti scolastici precedenti.
@@ -3992,7 +3956,6 @@ e615d363	L'obbligo dipende dall'attività esatta e dalle condizioni. Non sorge a
 85de7b4e	Obbligo pensionistico verificato ed eseguito, se la riguarda
 1908e18f	Modo scritto confermato: compili il modulo e lo invii all'Hunderegister per e-mail o per posta. Il telefono per questo passo non serve.
 91508b7c	Percorso scritto confermato: compilare, stampare e firmare la domanda, poi inviarla per posta all'ufficio competente. La presentazione elettronica della domanda non è confermata.
-3102aaa9	Prima verifichi se la registrazione elettronica è adatta ai suoi documenti e alla sua situazione. Se no, il servizio ufficiale prevede un appuntamento di persona; lo può svolgere un rappresentante con procura scritta. Per il caso in cui non possa venire né il richiedente né il rappresentante e le condizioni online non siano soddisfatte, un'alternativa scritta non è confermata: verifichi i contatti dell'ufficio nella pagina ufficiale.
 841dcfc7	Senza un eID adatto la disponibilità online della registrazione non è confermata. Il servizio ufficiale prevede un appuntamento di persona; lo può svolgere un rappresentante con procura scritta. Se né il richiedente né il rappresentante possono venire, non c'è un'alternativa scritta confermata: verifichi i contatti ufficiali dell'ufficio.
 26d71e6b	Inizi dal modulo online ufficiale della LEA. Non garantisce una pratica completamente a distanza: l'ufficio può fissare un appuntamento di persona. I canali scritti li verifichi nella pagina ufficiale del suo servizio; il telefono non è proposto come modo principale.
 a5bf8120	Verifichi nella pagina ufficiale proprio di questo servizio se sono disponibili il modulo elettronico, l'e-mail o la presentazione per posta. Il piano iniziale non conferma un altro canale scritto per questa situazione e non raccomanda il telefono al suo posto.
@@ -4159,7 +4122,6 @@ ef198ddf	Einkommensteuererklärung (dichiarazione dei redditi) in Germania | NOS
 45128dfd	Se serve presentare la dichiarazione, termini e modalità: ELSTER, carta o consulente. Secondo le fonti ufficiali.
 2d27e8ce	Mobilfunk e Internet (telefonia mobile e internet) | NOSTRES
 72979dc3	Cosa verificare prima di firmare, come cambiare operatore o disdire e cosa fare con problemi di velocità o connessione, secondo la Bundesnetzagentur.
-30a5b783	NOSTRES: alla home page
 f9b56032	Un percorso chiaro
 08408bda	Tutti i percorsi
 75fc0700	Percorso di navigazione
@@ -4168,7 +4130,6 @@ e906d66a	Rispondi alle domande e ricevi il tuo elenco di pratiche →
 7014b23a	Percorso passo passo per il cane: registro, tassa, razze pericolose →
 335ab593	Cosa verificare
 7b28345a	Fonte ufficiale:
-5efb1bba	NOSTRES è un servizio autonomo. La procedura e l'applicabilità dipendono dalla sua situazione; la decisione definitiva spetta all'ufficio competente o alla cassa assicurativa.
 67a5340f	Familie und Kinder (famiglia e figli dopo il trasloco a Berlino)
 cd6283b9	Cosa verificare per un figlio a Berlino: registrazione dell'indirizzo, copertura medica, asilo e scuola. Link ufficiali e piano secondo la sua situazione.
 9832c619	La procedura dipende dal fatto che la famiglia viva già a Berlino, dall'età del figlio e da ciò che è stato fatto. Inizi dal piano generale per non ripetere le azioni già completate.
@@ -4176,7 +4137,6 @@ cd6283b9	Cosa verificare per un figlio a Berlino: registrazione dell'indirizzo, 
 af1efad6	Se un familiare arriva più tardi, prima verifichi la procedura d'ingresso in base alla sua cittadinanza, al documento e al motivo di soggiorno. La registrazione generale dell'indirizzo a Berlino non sostituisce la verifica delle regole d'ingresso.
 9a20f86d	Ministero degli Esteri tedesco: visti e ingresso per motivi familiari
 f6afc7bb	Asilo
-b1a0849c	Per un posto in un asilo finanziato serve un Kita-Gutschein (buono). La domanda si può compilare online, poi il documento firmato si invia per posta al Jugendamt (ufficio per i giovani) del distretto o si consegna di persona. La ricerca del posto e il rilascio del buono sono azioni diverse.
 0aca501b	Berlino: servizio Kita-Gutschein
 ea0a3a5a	Scuola
 df9020a3	La ricerca della scuola e l'iscrizione dipendono dall'età, dall'indirizzo e dagli studi precedenti del figlio. Il distretto competente si determina in base all'indirizzo, e procedura e modulo di iscrizione sono indicati nella pagina ufficiale della città.
@@ -4195,12 +4155,10 @@ df1d97b5	Responsabilità del proprietario
 d96b27bf	La pagina ufficiale di Berlino indica l'assicurazione di responsabilità come obbligatoria per i Listenhunde (entro 8 settimane dalla registrazione, franchigia non superiore a 500 € all'anno) e per i turisti con un cane (almeno 1 milione di € per sinistro). Per gli altri proprietari l'obbligo generale in questa pagina non è indicato: l'assicurazione Haftpflicht per il cane copre i danni causati dal cane, e le sue condizioni sono scritte nella polizza.
 eb4896c6	Berlino: requisiti della legge sui cani
 6cb32c20	Pflichtversicherungen (quali assicurazioni sono obbligatorie in Germania e a Berlino)
-474822be	Assicurazione sanitaria e di assistenza, responsabilità del proprietario del cane e dell'auto, previdenza sociale sul lavoro e requisiti per i lavoratori autonomi: secondo la situazione e con fonti ufficiali.
 2646c342	Gli obblighi dipendono dalla composizione della famiglia, dal lavoro, dall'auto, dal cane e dal tipo di attività autonoma. Nel piano compariranno solo le verifiche che riguardano le sue risposte.
 0e0f5fbb	Salute e assistenza
 62e7e00a	L'assicurazione sanitaria è obbligatoria. L'assicurazione di assistenza è legata al tipo di assicurazione sanitaria; la copertura della famiglia va confermata per ogni persona.
 2973fb51	Portale federale della salute: assicurazione di assistenza
-111d58a6	Se il lavoro è soggetto a contributi sociali, la registrazione nei sistemi di previdenza sociale la effettua il datore di lavoro. Le forme speciali di occupazione hanno regole diverse: verifichi il suo contratto e la busta paga.
 cdd11b37	Portale ufficiale Make it in Germany: previdenza sociale
 f6bef6cd	L'assicurazione di responsabilità del proprietario del cane è richiesta espressamente per i Listenhunde e per i turisti con un cane; un obbligo generale per gli altri proprietari la pagina ufficiale non lo formula. Confronti l'Hundegesetz e le condizioni della sua polizza.
 7a439e51	Berlino: requisiti per il proprietario del cane
@@ -4267,7 +4225,6 @@ d0d41387	Iscrizione a una Krankenkasse pubblica
 2b0ede1c	AOK Nordost: domanda online
 7a619b76	Techniker Krankenkasse: iscrizione
 74824f00	AOK Nordost e TK accettano la domanda online; la visita in sede nelle loro pagine non è richiesta. L'AOK avvisa da sola la cassa precedente, la TK si occupa della disdetta del vecchio contratto. La tessera eGK la emette la cassa: la TK la promette per l'inizio dell'iscrizione, l'AOK non indica termine e modalità di consegna. Non c'è una procedura unica per tutte le casse: le condizioni le veda presso la cassa scelta.
-ecf74f1f	Ci sono sedi per la consulenza di persona (per l'AOK la ricerca «AOK vor Ort»), ma la visita come passo obbligatorio dell'iscrizione non è indicata.
 47a61735	L'AOK Nordost ha una linea di servizio 24 ore su 24 0800 2 650800 per la consulenza. La presentazione della domanda per telefono nelle pagine verificate non è descritta.
 f7e4f226	Nelle pagine verificate di AOK e TK la presentazione per posta non è indicata. Usi il modulo online della cassa o il modo di persona dell'elenco.
 3e8dbfbd	La presentazione della domanda per e-mail nelle pagine verificate non è indicata.
@@ -4323,17 +4280,14 @@ e5a2cc5c	Sì, cancella
 2de8c312	Contatti NOSTRES
 4c2086ea	Contatti l'autrice del progetto informativo indipendente NOSTRES.
 dba0fcb2	Contatti
-5a4f1702	NOSTRES è un progetto informativo indipendente dall'Italia.
 e48e81c2	Autrice del progetto:
 8bfd0b3a	Alexandra Hermann
 40012cd0	E-mail:
 a1609d96	Per inviare una domanda o un'osservazione, scrivi a questo indirizzo. NOSTRES non richiede nome o e-mail nell'interfaccia del sito.
-4b6ac162	Domanda o richiesta inviata: si attende la risposta
 627b15a2	Assicurazione confermata / eGK o Versicherungsnachweis ricevuti
 813f90da	La Krankenkasse, l'università, il datore di lavoro o il Jobcenter hanno richiesto un documento
 dba3839c	Ho ricevuto un rifiuto o il modo scelto non è confermato
 5418265e	Il percorso si è fermato per un altro problema
-ead1189b	NOSTRES: riepilogo personale del percorso
 3b43c03b	Obiettivo: stipulare o confermare l'assicurazione sanitaria in Germania
 ee2fb1bf	Creato il:
 490effc1	Stato delle fasi
@@ -4346,7 +4300,6 @@ f5da6aa3	[in attesa]
 d9396e7d	Lingua dell'interfaccia
 5537fc8e	Русский
 624f8ab7	Vai al contenuto principale
-19d6e201	NOSTRES: pagina principale
 887087a5	Sezioni del sito
 71c59938	Riservatezza
 21f8563b	Il progetto
@@ -4356,7 +4309,6 @@ d9396e7d	Lingua dell'interfaccia
 9d6c1c0e	NOSTRES: cosa fare dopo il trasloco
 965a613c	Servizio gratuito per le persone dopo il trasloco in un altro paese: percorsi su documenti, alloggio, assicurazione, medici e lavoro a Berlino. Banca e telefonia sono nei piani di sviluppo.
 3f79124b	NOSTRES è pensato per le pratiche importanti dopo il trasloco in un altro paese. I percorsi dettagliati riguardano ora Berlino; servizi bancari, telefonia mobile e altre città sono direzioni di sviluppo futuro.
-d6b956f6	NOSTRES: un percorso chiaro dopo il trasloco; primo progetto pilota: Berlino
 c9fceea4	I percorsi pronti di NOSTRES riguardano ora Berlino. Servizi bancari, telefonia mobile e altri paesi rientrano nell'obiettivo più ampio del progetto.
 c5da0fbb	NOSTRES è un servizio informativo gratuito per le persone che si trasferiscono in un altro paese. Il primo progetto pilota funzionante comprende percorsi verificati per Berlino; altre città, servizi bancari e telefonia mobile rientrano nello sviluppo futuro.
 64f28c99	Anmeldung (registrazione dell'indirizzo)
@@ -4455,8 +4407,6 @@ c60a4f24	Un figlio con genitori che vivono separati
 b1cbc9e5	Può confermare ora la sua identità tramite la Online-Ausweisfunktion (eID)?
 01923674	Servono un Personalausweis tedesco o una eID-Karte tedesca per cittadini UE con chip attivo, PIN di sei cifre e uno smartphone NFC con AusweisApp. Un normale passaporto o l'eAT non bastano per l'Anmeldung online.
 fbe4610b	Cos'è l'eID e come prepararla
-372397d6	La Online-Ausweisfunktion (eID) è una funzione del chip che conferma la sua identità in un servizio online statale. Non è un account separato: l'eID conferma l'identità, mentre la BundID si usa come account.
-5f6b57ee	Se ha già una carta adatta e un PIN di sei cifre: installi AusweisApp e avvii «Gerät und Ausweis prüfen»: l'app verificherà lo smartphone NFC e l'attività dell'eID.
 59fdd9ae	Se ha la carta e ha ricevuto un Transport-PIN di cinque cifre: lo sostituisca in AusweisApp con un PIN personale di sei cifre. Non serve andare in un ufficio.
 f2f213ba	Se il chip non è attivato o ha dimenticato il PIN: per il Personalausweis o la eID-Karte si rivolga a un qualsiasi Bürgeramt. L'attivazione o un nuovo PIN sono gratuiti e avvengono subito; l'attivazione è possibile senza prenotazione.
 3ef0865b	Se non ha una carta adatta: un cittadino UE/SEE può ordinare di persona una eID-Karte tedesca al Bürgeramt. Costa 37 € e di solito richiede 3–4 settimane. Per l'Anmeldung in corso entro il termine di 14 giorni è più rapido scegliere la registrazione di persona; avere una eID-Karte non annulla di per sé le altre condizioni del servizio online.
@@ -4467,13 +4417,10 @@ d2a5dc01	Ordinare la eID-Karte per cittadini UE/SEE
 8ebb9517	Sì: carta, eID, PIN e smartphone NFC sono pronti
 f9b05820	Ho la carta, ma eID o PIN vanno verificati e impostati
 2c49e53c	Non ho una carta adatta / ho solo il passaporto o l'eAT
-9191ac8e	Ottenga la Wohnungsgeberbestätigung dal proprietario o locatore: il contratto d'affitto non la sostituisce.
 5126bb7f	Scelga la presentazione online, se il risultato di NOSTRES conferma la disponibilità, oppure prenoti in un qualsiasi Berliner Bürgeramt.
 990d26ea	Presenti i dati entro 14 giorni dall'ingresso e conservi la Meldebestätigung.
 00002083	Verifichi nome, data di nascita e indirizzo nella conferma rilasciata.
 bc9a34b1	Passaporto o documento d'identità riconosciuto
-3e48a6e7	Modulo di Anmeldung: alla visita
-6b358ed7	Documenti sullo stato civile: alla prima registrazione, se applicabile
 a2a01ad0	Se non c'è tempo libero, riverifichi il servizio ufficiale: Berlino comunica che nuovi appuntamenti vengono aggiunti ogni giorno. Si può prenotare tramite il 115. La conferma della prenotazione vale come prova del rispetto del termine dell'Anmeldung. Gli appuntamenti sono gratuiti; quelli acquistati da intermediari non sono riconosciuti.
 884ed60c	Termine di 14 giorni, condizioni della presentazione online e di persona, documenti, costo e risultato.
 21816f59	Presentare l'Anmeldung online
@@ -4505,7 +4452,6 @@ b023e4cc	Fare tutto online
 de067d64	Ufficialmente: fino a 3 giorni lavorativi per la verifica dei dati da parte dell'ufficio.
 829ab5e0	Gratuito.
 e17f589a	Età da 18 anni.
-51fea826	Cittadinanza tedesca o di un paese UE: così è formulata la condizione nel ServicePortal Berlin.
 76cd228d	Trasloco all'interno della Germania nell'unico appartamento o in quello principale.
 b1aae2ee	BundID con accesso tramite identificazione online.
 e81869f1	Un Personalausweis tedesco o una eID-Karte tedesca per cittadini UE con Online-Ausweisfunktion attiva e PIN di sei cifre. Il permesso di soggiorno elettronico eAT non è adatto a questo servizio.
@@ -4527,7 +4473,6 @@ d59f2ae0	La Meldebestätigung digitale è disponibile per il download.
 dfe321c3	Se non ha la BundID, crei un account dal link ufficiale e torni alla presentazione.
 216bceb5	Se ha la carta, prima la verifichi in AusweisApp. Il Transport-PIN si può sostituire con un PIN di sei cifre da soli; un PIN dimenticato si ripristina al Bürgeramt.
 127b8448	Se non ha una carta adatta, non rimandi l'Anmeldung per ottenerla: la eID-Karte richiede circa 3–4 settimane, mentre l'Anmeldung serve entro 14 giorni. Scelga il percorso di persona.
-e795a7fb	Se il servizio online non accetta la sua situazione, scelga la visita di persona: non usi scorciatoie non ufficiali.
 8b4a3174	Iniziare l'Anmeldung online
 e0a519b4	Creare o aprire la BundID
 8ab0d2e5	Tutte le condizioni ufficiali
@@ -4545,9 +4490,6 @@ cd51564b	Modulo di Anmeldung compilato e firmato.
 757ecc84	Originali dei documenti d'identità di tutti coloro che si trasferiscono: passaporto, documento sostitutivo riconosciuto ed eAT, se applicabile.
 56c9e9d6	Wohnungsgeberbestätigung. Il contratto d'affitto non la sostituisce.
 4791314b	Documenti di stato civile alla prima registrazione a Berlino, se applicabile.
-c599c241	Per più appartamenti: Beiblatt zur Anmeldung / Hauptwohnungserklärung.
-8b4947e2	Per un figlio in una situazione particolare di affidamento: consenso e documenti dell'altro rappresentante legale.
-80ae5b3b	Per un rappresentante: procura scritta e modulo firmato dal richiedente.
 84f53cf9	Ottenga la Wohnungsgeberbestätigung e verifichi la data di ingresso, l'indirizzo e i nomi di tutte le persone da registrare.
 44ba520c	Scarichi e compili il modulo di Anmeldung; aggiunga gli allegati speciali per più appartamenti o per un figlio, se riguardano la sua situazione.
 aacfc211	Apra la prenotazione ufficiale, scelga il servizio Anmeldung e attivi la ricerca in tutti i Bürgeramt di Berlino.
@@ -4567,7 +4509,6 @@ e57e785d	Trovare il Bürgeramt e l'indirizzo
 733e018b	Regole di prenotazione e azioni senza appuntamento
 f3a6ed37	Soggiorno
 6511cb55	Aufenthaltstitel (presentazione o proroga del permesso di soggiorno)
-b1a7de87	Stabilire il canale LEA corretto in base allo status e allo scopo del soggiorno, senza comprare un appuntamento da un intermediario.
 59641a51	Vive a Berlino e vuole ottenere, prorogare o modificare il diritto di soggiorno.
 b4a7e94d	Il suo status attuale
 99f348d9	Cittadino UE / SEE
@@ -4588,7 +4529,6 @@ b951fcf8	Dopo la verifica attenda la richiesta di documenti aggiuntivi o l'invit
 3d300324	Visto / Aufenthaltstitel attuale
 430d71ca	Anmeldung o prova dell'indirizzo
 ba96e099	Documenti secondo lo scopo del soggiorno
-f3c44271	Assicurazione sanitaria e prova dei mezzi, se la procedura lo richiede
 16339b2c	Per un'urgenza confermata usi il modulo di contatto della sezione competente della LEA e allegi la prova. Un documento scaduto o una controversia complessa richiedono una verifica individuale.
 733b6980	Tutte le domande online e i moduli di contatto
 428572a6	Regole sugli appuntamenti e sull'urgenza confermata
@@ -4607,10 +4547,8 @@ f97fa6c0	Non so se il numero è stato assegnato
 ebd07923	Ha una registrazione di residenza in Germania?
 c8b15d6c	Dopo la prima registrazione la Meldebehörde trasmette i dati al BZSt. Se l'IdNr. è già stata assegnata in precedenza, non se ne assegna una nuova.
 43636b60	Sì, sono attualmente registrato/a
-b6b47391	In passato ero registrato/a, ora no
 fce0bf34	Non sono mai stato/a registrato/a
 cd5bf593	Quanto tempo è passato dalla prima Anmeldung in Germania?
-54175f71	L'indicazione ufficiale per l'invio automatico è di 4–8 settimane. Se la lettera non c'è nemmeno dopo 3 mesi, il BZSt consiglia di richiedere di nuovo il numero.
 dd546646	Meno di 3 mesi
 1d900384	3 mesi o più
 70a991c5	Non è la prima Anmeldung / ho vissuto in Germania in passato
@@ -4629,8 +4567,6 @@ bce62389	Serve urgentemente per lavoro o per un ufficio
 0a6ca82c	Non invii l'IdNr in una chat aperta e non la pubblichi in una community.
 d7b4a105	Nome, data e luogo di nascita
 3d6407cb	Hauptwohnsitz attuale
-93d4a06a	Documento d'identità: per la richiesta di persona
-761a9414	Modulo 010250 e copia del documento: solo per le persone senza Meldepflicht
 2bbbf028	Se il percorso ordinario non è adatto, NOSTRES distinguerà la situazione con Anmeldung obbligatoria dal rilascio speciale tramite il Finanzamt per le persone senza Meldepflicht.
 acf62f95	Steuer-ID: assegnazione e nuovo ricevimento
 d00be5c0	Berlino · Germania
@@ -4638,7 +4574,6 @@ d00be5c0	Berlino · Germania
 cc43468c	Farsi comunicare di nuovo lo Steuer-ID
 016de653	Modulo online ufficiale diretto del BZSt; il numero non si comunica per telefono o e-mail.
 073a3e26	Procedura, termini e costo
-aaf6c9f2	Senza documenti e senza costi; elaborazione media della richiesta online 4 settimane, invio automatico dopo la prima Anmeldung 4–8 settimane.
 a26dbc3d	Sezione ufficiale sullo Steuer-ID
 cf0d17f5	Descrizione federale dell'IdNr., del nuovo rilascio e delle domande dei cittadini.
 f36c6ad0	IdNr. per le persone senza obbligo di Anmeldung
@@ -4662,10 +4597,8 @@ c8adc4dc	Subito, se il numero è in uno dei documenti.
 f57bcd84	Lettera del BZSt sull'assegnazione dell'IdNr.
 02b4d9d5	Ultimo Einkommensteuerbescheid
 f84e483a	Lohnsteuerbescheinigung o busta paga del datore di lavoro
-5effc138	Controlli la lettera del BZSt sull'assegnazione della steuerliche Identifikationsnummer: sono 11 cifre.
 f314d2c0	Controlli l'ultimo Einkommensteuerbescheid e la Lohnsteuerbescheinigung del datore di lavoro.
 e632a79e	Si assicuri di aver trovato proprio l'IdNr. personale e non la Steuernummer, la USt-IdNr. o la W-IdNr.
-c8671498	Se non trova il numero, passi al nuovo rilascio online ufficiale; in caso di necessità urgente, al Finanzamt con un documento d'identità.
 e131f5ea	Trovato il suo precedente IdNr. di 11 cifre.
 5f4ee9f4	Non è stato creato un nuovo numero: si usa quello già assegnato.
 71855d30	Se i documenti non sono disponibili, richieda una nuova comunicazione tramite il BZSt.
@@ -4708,7 +4641,6 @@ a3fdb305	Ha accesso alla posta cartacea all'indirizzo indicato.
 f4b3e9e3	Non serve caricare documenti
 89f6b7af	Apra il modulo diretto del BZSt e scelga la comunicazione dell'IdNr. al contribuente stesso.
 d5a96849	Inserisca i dati personali esattamente come sono indicati nel Melderegister e nel documento d'identità.
-7c3608bc	Indichi l'Hauptwohnsitz, non una Ferienwohnung né un indirizzo di breve durata.
 7c167aac	Invii il modulo. Il BZSt non comunica l'IdNr. per e-mail o telefono.
 a1777f02	Attenda la lettera cartacea e verifichi il numero di 11 cifre.
 c858f481	Ricevuta la lettera cartacea con l'IdNr. già assegnato.
@@ -4729,7 +4661,6 @@ b5e83c34	L'IdNr. è già assegnato o lei è registrato in Germania.
 1f3db15e	C'è una necessità urgente confermata.
 63d8ca75	Può confermare di persona la sua identità.
 e0fc2977	Passaporto valido o altro documento d'identità adatto
-3c80c202	Meldebestätigung: utile da portare per verificare l'indirizzo
 45284e3f	Apra il Finanzamt-Finder ufficiale e trovi il Finanzamt per il suo indirizzo berlinese.
 34b6d57c	Apra la pagina del Finanzamt trovato e verifichi l'indirizzo e gli orari attuali dell'Infozentrale.
 d05fa278	Porti l'originale di un documento d'identità adatto e, se possibile, la Meldebestätigung.
@@ -4743,7 +4674,6 @@ e25f9fa9	Trovare il proprio Finanzamt
 b53d6f32	Prima l'Anmeldung (registrazione dell'indirizzo)
 d350e71b	Passo preliminare
 5c00a9b5	Se vive in Germania ed è obbligato a registrare l'indirizzo, il modulo separato 010250 non sostituisce l'Anmeldung.
-2d7f3e3d	Anmeldung: entro 14 giorni dall'ingresso; l'IdNr. dopo di essa viene assegnato automaticamente.
 05f5374d	Dipende dal modo scelto per l'Anmeldung.
 a01f0927	Online se le condizioni sono soddisfatte o di persona su appuntamento al Bürgeramt.
 f456b78a	Dopo la prima Anmeldung la lettera con l'IdNr. di norma arriva in 4–8 settimane.
@@ -4796,14 +4726,12 @@ e9ae0bc9	C'è un obbligo fiscale o un reddito in Germania.
 eb546406	Scarichi e compili il modulo ufficiale 010250.
 107f0969	Stabilisca il Finanzamt competente per la sua Einkommensteuer e consegni la domanda.
 0bab89d3	Attenda la comunicazione scritta dell'IdNr. all'indirizzo indicato.
-7607c737	Se presenta la Einkommensteuererklärung, un modulo separato per l'IdNr. può non servire: lo verifichi con il Finanzamt competente.
 760de848	Se vive effettivamente in Germania ed è obbligato a registrarsi, prima faccia l'Anmeldung.
 0a44d144	Verificare la competenza del Finanzamt
 08930838	Salute
 b8320951	Stabilire il percorso adatto, scegliere la Krankenkasse ufficiale e ottenere la conferma di assicurazione e la eGK.
 b2e717cf	Vive, lavora, studia o riceve la Grundsicherung in Germania e vuole stipulare o verificare l'assicurazione sanitaria.
 db19a5ab	Quale risultato le serve?
-54a9eb07	La ricerca del medico e l'assistenza urgente saranno percorsi separati. Qui l'obiettivo è confermare l'assicurazione stessa.
 054f97c3	Stipulare l'assicurazione per la prima volta o dopo il trasloco
 e03c4d72	Cambiare Krankenkasse
 b1bd0434	Ottenere la eGK o una conferma temporanea
@@ -4825,7 +4753,6 @@ abbbc68a	Lavoro ordinario: sopra il Minijob e non oltre 77.400 € all'anno
 9da91e36	Solo Minijob
 4de77255	Non so / status lavorativo particolare
 776f43f5	Quale variante la descrive?
-6a8b9c42	Gli studenti possono essere assicurati in famiglia, rientrare nella studentische Pflichtversicherung o, dopo i 30 anni, a certe condizioni, proseguire volontariamente nella GKV.
 f19eb3d2	Fino a 25 anni, possibile assicurazione tramite la famiglia
 576a64a3	25–29 anni o l'assicurazione familiare non va bene
 450f40e6	30 anni o più
@@ -4834,16 +4761,13 @@ b9c49b5d	Le condizioni di base della Familienversicherung sono soddisfatte?
 34385584	Servono parentela o unione con un iscritto alla GKV, residenza in Germania e assenza di un'altra assicurazione obbligatoria; il reddito lo verifica la Krankenkasse. Il limite generale di reddito nel 2026 è di 603 € al mese.
 32bfc485	Sì, le condizioni sono simili alle mie
 25199264	Reddito superiore a 603 € al mese
-7bd5dbde	Non so: serve una verifica ufficiale
 3b2ac802	Stabilisca il motivo dell'assicurazione: lavoro, studio, famiglia, Grundsicherung o verifica individuale.
 d378e64c	Se la GKV è confermata, scelga la Krankenkasse dall'elenco ufficiale ammessa a Berlino.
 391ac750	Presenti la domanda alla Krankenkasse scelta online oppure contatti il suo ufficio e ottenga la conferma scritta dell'inizio dell'iscrizione.
 0ba23ff0	Comunichi i dati della Krankenkasse scelta al datore di lavoro, all'università o al Jobcenter, se riguarda la sua situazione.
 3c315674	Ottenga la eGK; se la tessera non è ancora arrivata, chieda alla Krankenkasse un Versicherungsnachweis provvisorio.
 a6b2add0	Indirizzo e recapiti
-0a2c30a7	Dati del datore di lavoro, dell'università, di un familiare o del Jobcenter, a seconda del motivo
 446843db	Dati sull'assicurazione attuale o precedente
-5771e902	Foto per la eGK, su richiesta della Krankenkasse
 acaafcc3	Se la Krankenkasse non conferma il diritto al regime scelto, chieda una decisione scritta e non annulli l'assicurazione in corso. I passaggi complessi GKV ↔ PKV vengono prima verificati dalla Krankenkasse stessa.
 bfdb1019	Come funziona l'assicurazione sanitaria
 b0bcdadb	Obbligo di assicurazione, GKV/PKV, Minijob, libera scelta della Krankenkasse e assicurazione familiare.
@@ -4901,7 +4825,6 @@ a3cda7e0	Normale rapporto di lavoro sopra il limite del Minijob.
 89c10575	Il reddito non supera la Jahresarbeitsentgeltgrenze di 77.400 € nel 2026 oppure l'obbligo di GKV è confermato dalla cassa.
 f43e6528	La copertura deve essere continua; la polizza precedente non va annullata finché non è confermata la nuova.
 7de3b753	Data di inizio e dati del datore di lavoro
-bbc59d90	Foto per la eGK, quando la richiederà la Krankenkasse
 48866d4f	Verifichi che il suo lavoro non sia solo un Minijob e che il percorso GKV scelto corrisponda al reddito.
 09491137	Apra l'elenco ufficiale, scelga il Bundesland Berlin e confronti ammissione, Zusatzbeitrag, servizio e servizi aggiuntivi.
 5be08bc1	Dall'elenco passi al sito ufficiale della Krankenkasse scelta e apra Mitglied werden / Mitgliedsantrag.
@@ -4932,7 +4855,6 @@ c96008a3	È pronto/a a ottenere una conferma scritta, non solo una risposta a vo
 8db46ea7	Indirizzo
 05f094d1	Dati del datore di lavoro e data di inizio
 57206232	Dati sull'assicurazione precedente
-d7da05e3	Foto per la eGK, se la cassa è pronta ad accettarla subito
 183f8b28	Nell'elenco ufficiale filtri le casse per Berlino e apra il sito della Krankenkasse scelta.
 b3dea723	Sul sito della cassa apra Kontakt / Geschäftsstellen e verifichi indirizzo, orari e se serve un appuntamento.
 e14c86b1	Scriva alla cassa o si rechi in ufficio, chieda di verificare il motivo della GKV e di formalizzare la Mitgliedschaft.
@@ -5010,7 +4932,6 @@ ee52ddd3	Non cambia tra GKV e PKV senza aver verificato le conseguenze.
 a29fbdc5	Dati della Krankenkasse o della polizza
 3c3e96d9	Documenti della domanda di Grundsicherung
 a6193db3	Mitgliedsbescheinigung o altro Nachweis assicurativo, su richiesta
-d87e8694	Dati sui contributi, se serve un sussidio
 aa1c1dca	Verifichi la procedura ufficiale di copertura dei contributi con la Grundsicherung.
 7dd8967a	Se può scegliere la GKV, usi l'elenco ufficiale e formalizzi l'iscrizione alla cassa scelta.
 07424cec	Indichi la Krankenkasse nella domanda al Jobcenter o trasmetta la modifica tramite il servizio online ufficiale.
@@ -5036,7 +4957,6 @@ d1cf2f0e	Per chi ha 15 anni o più è pronta la foto, salvo eccezioni ufficiali.
 c066c04f	Numero di assicurato o conferma dell'iscrizione
 5a783fc9	Foto per la eGK dai 15 anni
 5cce2837	Indirizzo aggiornato
-9c9b6cc5	Documento d'identità, se la cassa richiede l'identificazione
 864dd8e3	Contatti la sua Krankenkasse tramite l'area personale ufficiale, il telefono o l'ufficio.
 c3224122	Verifichi se l'iscrizione è confermata e quale indirizzo viene usato per la consegna.
 014c8eb5	Trasmetta la foto nel modo indicato dalla cassa; per gli assicurati sotto i 15 anni la foto non serve.
@@ -5085,10 +5005,7 @@ c233d03f	La verifica presso la GKV non si paga separatamente; le condizioni dell
 a96800dc	Il suo caso non conferma il semplice percorso di GKV obbligatoria.
 d868c912	L'assicurazione in corso resta fino alla decisione scritta.
 a5ae289c	È disposto/a a fornire dati personali solo alla cassa o all'assicuratore ufficiale.
-40f528a6	Contratto di lavoro e reddito, se lavora
-13bef209	Immatrikulation o Zulassung, se studia
 f6c51046	Dati sulla GKV/PKV precedente o sull'assicurazione estera
-1b3afa4c	Motivo dell'assicurazione familiare, se applicabile
 f5591a87	Apra la panoramica ufficiale e stabilisca quale dettaglio preciso richiede verifica: reddito sopra il limite, Minijob, lavoro autonomo, età dello studente, PKV o assicurazione estera.
 de1a849a	Scelga dall'elenco ufficiale una GKV adatta e chieda una Prüfung der Versicherungspflicht / Mitgliedschaft scritta.
 08f3b686	Se la risposta scritta ammette la PKV, apra l'elenco degli assicuratori privati. Chieda più offerte personali e confronti copertura e condizioni, non solo il prezzo.
@@ -5115,11 +5032,9 @@ e5050405	Verifichi prima il diritto all'attività autonoma nel suo documento di 
 1252dbd8	Stabilisca se l'attività rientra nel Freier Beruf o nel Gewerbe; la qualificazione fiscale definitiva la dà il Finanzamt.
 8cfb0d57	Per il Freier Beruf presenti il Fragebogen zur steuerlichen Erfassung tramite ELSTER; per il Gewerbe usi prima la Gewerbeanmeldung di Berlino.
 f000e379	Non emetta fatture con una Steuernummer inventata e verifichi in anticipo IVA e assicurazioni obbligatorie.
-20fef6f2	Passaporto e Aufenthaltstitel, se applicabile
 e5005201	Descrizione dell'attività
 3f3b3c7a	Indirizzo dell'attività a Berlino
 ad382a44	Previsione di entrate e spese
-4c9f2188	Autorizzazioni o documenti professionali, per le attività regolamentate
 fcc71db7	Se il confine tra Freier Beruf e Gewerbe non è chiaro o ci sono redditi esteri, prepari i fatti e ottenga una consulenza fiscale individuale prima della registrazione.
 5c159556	Come registrarsi come Freiberufler
 17efec7a	Gewerbe anmelden a Berlino
@@ -5140,10 +5055,8 @@ a466b401	Ha il diploma e l'allegato con le materie?
 fcb92498	Presenti la domanda all'autorità competente indicata e conservi il Bescheid.
 2e85e684	Diploma / attestato di qualifica
 45f3f297	Allegato con materie e ore
-74fe6b40	Prove dell'esperienza, se ci sono
 53316c9b	Traduzioni solo secondo le richieste dell'autorità competente
 27f07054	Se mancano documenti, usi prima la consulenza ufficiale. Per un diploma accademico in una professione non regolamentata può servire una Zeugnisbewertung ZAB, non un riconoscimento professionale.
-941d50ff	Anerkennung in Deutschland, portale ufficiale
 ee996991	Procedura di riconoscimento passo per passo
 a58e6219	Valutazione di un titolo di studio superiore estero
 fc615b3a	10–15 minuti per percorso
@@ -5165,8 +5078,6 @@ cd96db69	Dopo l'assegnazione iscriva di persona il bambino alla scuola assegnata
 ab903d3c	Documento del bambino e del genitore
 8d209abf	Anmeldung / indirizzo a Berlino
 ad11f427	Certificato di nascita
-6eebcf4d	Documenti scolastici precedenti, se ci sono
-8b2eb66c	Prova di lavoro / studio dei genitori, per la durata della Kita, se richiesta
 e7261f32	Se un bambino in età scolare non è ancora assegnato, si rivolga al punto di coordinamento dello Schulamt del suo distretto; non aspetti una risposta spontanea da una scuola scelta a caso.
 2e726d31	Presentare la domanda di Kita-Gutschein
 f9958943	Kita- e Willkommensgutschein
@@ -5188,7 +5099,6 @@ c08cc1a9	Se il servizio online ufficiale non accetta la sua situazione, che è a
 b7e1a24c	Verificare le condizioni di presentazione online
 b5d5d375	Passare alla prenotazione al Bürgeramt
 9e61b441	Prima trovi il requisito esatto nella pagina del servizio
-0cbbf60a	Per l'Anmeldung il contratto d'affitto non sostituisce la Wohnungsgeberbestätigung. Alla prima registrazione a Berlino possono servire in più i documenti di stato civile già in suo possesso; per casi speciali, moduli separati.
 66f154c8	Aprire documenti e moduli
 f66995bb	Non è chiaro dove andare
 5ec68a9c	Per l'Anmeldung ordinaria si può scegliere qualsiasi Bürgeramt di Berlino
@@ -5220,11 +5130,9 @@ b7bc4801	Usi il percorso urgente confermato tramite il Finanzamt
 0fd3cc2a	Verificare il motivo
 1fc10de0	Non è chiaro quale Finanzamt
 631d364a	La competenza dipende dallo scopo e dall'indirizzo
-8498cf75	Per la normale visita di persona usi la ricerca berlinese per indirizzo. Per un lavoratore senza Meldepflicht è competente il Finanzamt del datore di lavoro; per un altro obbligo fiscale, il Finanzamt che gestisce la Einkommensteuer.
 7b87e0f1	Trovare il Finanzamt per indirizzo
 3a424a19	Verificare la competenza speciale
 70156173	Controlli il set per il modo scelto
-c0f27390	Per la richiesta online ripetuta non si caricano documenti. Per la visita urgente di persona serve un documento d'identità; per il rilascio a chi è senza Meldepflicht, il modulo 010250 e la copia del passaporto o del Personalausweis.
 6cfcc158	Verificare il set ufficiale
 f3fd6ae4	Torni al ServicePortal principale e segnali l'errore
 090e035e	Non sostituisca il modulo ufficiale con un intermediario pubblicitario. Usi la pagina principale del servizio e invii a NOSTRES una segnalazione, così la fonte entra nella coda di verifica.
@@ -5282,7 +5190,6 @@ fa40b286	Si può richiedere ora
 d8cbcf82	Prima confermi il tipo di assicurazione
 90d2d359	Si può iniziare il confronto ora
 bfeeb01e	Prima serve una verifica scritta del passaggio
-47c072d7	L'iscrizione c'è già: verifichi la conferma
 43e1e430	Si può presentare online
 c3a3b0ab	Si può stipulare tramite la cassa
 e0ab852e	Il Minijob non crea assicurazione tramite il lavoro
@@ -5327,11 +5234,9 @@ e1a7bb26	Non le serve una nuova Steuer-ID
 0fa5e7a6	Verificare dove trovare il numero
 d299ba28	Può attendere la lettera o rivolgersi subito al Finanzamt
 5f562ea1	Il percorso automatico dopo l'Anmeldung è ancora in corso
-90ae85d0	Il riferimento ufficiale per l'invio automatico è di 4–8 settimane. Se dopo 3 mesi non c'è la lettera, usi la nuova richiesta online; in caso di necessità urgente il ServicePortal ammette la visita di persona al Finanzamt.
 b11bb755	Verificare il termine ufficiale
 4020040c	Scelga la richiesta online o il Finanzamt urgente
 0fabf10e	Richiedere online la nuova comunicazione dell'IdNr.
-41c78c90	Il BZSt comunica di nuovo lo stesso IdNr. a vita. L'elaborazione media del modulo online è di 4 settimane; il numero arriva con lettera cartacea, non per email o telefono.
 341009bb	Aprire il modulo BZSt
 1a0460d5	Il numero esiste già: ne richieda una nuova comunicazione
 966e0029	Una precedente Anmeldung significa che l'IdNr. può essere stato assegnato prima. Non si crea un nuovo numero; usi il modulo BZSt e indichi l'Hauptwohnsitz attuale.
@@ -5395,7 +5300,6 @@ ca3c7e47	La registrazione dell'attività non sostituisce il permesso di lavoro. 
 66428af8	I Freiberufler di norma non presentano la Gewerbeanmeldung. Trasmetta il Fragebogen zur steuerlichen Erfassung e attenda la Steuernummer.
 f4dbc327	Aprire il Fragebogen in ELSTER
 fe3a69fa	Stabilisca il tipo di attività secondo l'elenco ufficiale
-23f9f198	Freier Beruf e Gewerbe si registrano presso autorità diverse e sono tassati in modo diverso. La guida federale elenca le libere professioni: se la sua attività vi rientra, il percorso passa dal Finanzamt, altrimenti dalla Gewerbeanmeldung. Prepari in anticipo una descrizione esatta dell'attività.
 ffe3f0dc	Aprire la guida per i Freiberufler
 4aca835a	Verificare la Zeugnisbewertung ZAB
 9d33a459	Per un'istruzione superiore estera in una professione non regolamentata si usa spesso la valutazione del diploma, non il riconoscimento professionale. Confermi prima il percorso nell'Anerkennungs-Finder.
@@ -5666,7 +5570,6 @@ a6c026fe	Servono moduli e indirizzi
 51172426	Trentacinque percorsi autonomi sono disponibili ora. Le risposte alle domande sono salvate sul suo dispositivo; non vengono richiesti documenti, Steuer-ID né dati medici. Nella prima versione non ci sono specialisti a pagamento.
 cad7ad72	Adatto se
 6cf3ba81	Precisi la sua situazione
-ddc22e37	Risponda a tutte le domande: NOSTRES sceglierà il passo successivo applicabile.
 25916374	Modo disponibile
 f328d058	Combinato
 83778a6d	L'altro modo non è mostrato perché non è confermato dalle condizioni ufficiali per le sue risposte.
@@ -5696,7 +5599,6 @@ cf940283	Quali dati tecnici riceve NOSTRES
 92d79870	Per verificare il funzionamento dei percorsi il sito invia eventi limitati: codice del percorso, tipo di azione, identificativo tecnico del tentativo, codice separato del passo o del problema e ora dell'evento. La valutazione integrata del percorso invia le valutazioni scelte e i codici degli ostacoli. Questi campi non richiedono nome, email, documenti o testo libero.
 a850a507	Eventi e valutazioni sono conservati nel database Cloudflare D1 in una regione europea e servono a trovare errori e migliorare i percorsi. L'accesso all'infrastruttura è fornito da Cloudflare per l'hosting e il funzionamento del database. I record sono conservati finché servono a questi scopi, rivisti regolarmente ed eliminati quando non servono più.
 f4c0e524	A che cosa servono i dati
-9c4c5067	Eventi tecnici e valutazioni servono a mantenere e migliorare il servizio gratuito. La base del trattamento è il legittimo interesse dell'autrice del progetto a verificare il funzionamento dei percorsi e correggere i problemi. Se invia una lettera, i suoi dati servono a esaminare la richiesta e a rispondere.
 269c01bd	Per consegnare le pagine e proteggere il sito Cloudflare può trattare dati tecnici di connessione, ad esempio indirizzo IP, ora della richiesta e intestazioni. NOSTRES non li usa per creare un profilo dell'utente. I dettagli sul trattamento presso il fornitore sono descritti nella
 8d44b62c	informativa sulla privacy di Cloudflare
 38e9e162	Se scrive alla PEC
@@ -5776,7 +5678,6 @@ af823a5e	Per presentare la domanda manca: uno status adeguato (Niederlassungserl
 bdff661b	Per presentare la domanda manca: uno status adeguato (Niederlassungserlaubnis, Blue Card e alcuni altri tipi); il certificato di tedesco B1; il certificato del test; il mantenimento autonomo senza Bürgergeld e Sozialhilfe, salvo i casi di eccezione. Le altre condizioni le ha indicate come soddisfatte.
 20bd6706	Per presentare la domanda manca: uno status adeguato (Niederlassungserlaubnis, Blue Card e alcuni altri tipi); il certificato di tedesco B1; il certificato del test; il mantenimento autonomo senza Bürgergeld e Sozialhilfe, salvo i casi di eccezione; l'assenza di condanne oltre le soglie stabilite. Le altre condizioni le ha indicate come soddisfatte.
 cd8e1bcc	Assicurazione dopo un'interruzione o un trasferimento
-90ca37d5	gesund.bund.de — portale federale della salute
 8a16bcd1	23 ottobre 2026
 3ea01314	L'assicurazione è obbligatoria per tutti i residenti; ritorno al sistema precedente (GKV o PKV) dopo un'interruzione; contributi per il periodo senza copertura.
 7aff1bec	Ministero federale dell'Interno: Mehrstaatigkeit (pluricittadinanza)
@@ -5805,8 +5706,6 @@ b71390ec	Il passo successivo è chiaro?
 e3df849f	Il percorso porta all’azione?
 83a420db	Il percorso La porta alla pagina ufficiale, al modulo o all’appuntamento giusti, invece di fermarsi a consigli generici?
 52a0d5d7	Dove il percorso si inceppa
-ff1d193c	Parole poco chiare, domande superflue, il Suo caso manca, un link porta altrove: tutto ciò che L’ha fatta fermare o esitare.
-4a3c9414	In base alle Sue valutazioni decideremo quali percorsi correggere per primi e se il servizio è pronto per un lancio più ampio. Per questo il risultato principale del test è la breve valutazione alla fine del percorso.
 199606dd	Cinque passaggi
 902eeafb	Scelga un percorso qui sotto
 4b9dfcb8	Meglio una pratica che ha affrontato o che conosce bene: così noterà subito se manca qualcosa o se qualcosa è sbagliato.
@@ -5822,21 +5721,17 @@ b8b92da3	Cosa chiede la valutazione
 53fff2ef	Quanto era chiaro il percorso, se è chiaro cosa fare dopo, se è arrivato all’azione ufficiale e cosa ha ostacolato di più.
 ba8d55e3	Ha trovato un link errato?
 93a80e80	Se una pagina ufficiale non si apre o è obsoleta, lo segnali tramite «Ha trovato un errore o un link obsoleto?» alla fine del percorso.
-02aaac5c	Se nessuna situazione Le è familiare, ne scelga una plausibile e risponda come farebbe quella persona. Se il Suo caso non è tra le risposte, indichi «Il mio caso non c’è» nella valutazione. Può provare più percorsi, con una valutazione per ciascuno.
 a0f2f7ca	Stai facendo il test? Vai alla valutazione del percorso ↓
 1780c414	Questo passaggio serve se stai già agendo sul sito ufficiale. Se fai il test, saltalo e vai alla valutazione del percorso qui sotto.
 676d6126	Lascia la tua valutazione alla fine del percorso
 65da9a7c	Il blocco della valutazione è già aperto sotto i passaggi del percorso: quattro brevi domande. Nel test salta il passaggio «Confermi il risultato»: serve a chi agisce sul sito ufficiale. Senza valutazione non sapremo com'è andato il test.
 a8d946e2	Sei passaggi
-dfb05c8a	Non servono nome, indirizzo, numeri di documenti né dati medici; il servizio non li chiede. Poi premi il pulsante sotto le domande per ottenere il tuo piano personale.
 f974b7f5	Se ci sono più modalità (online, per posta, di persona), scegli quella che andrebbe bene per te. Si apriranno preparazione e passaggi.
 8b02262f	Leggi i passaggi, ma non fare nulla sui siti ufficiali
 5c99ed5a	Controlla se è chiaro cosa fare per primo, quali documenti servono e se c'è una scadenza. Non serve presentare né compilare nulla. Non serve nemmeno segnare i passaggi come completati né usare il blocco «Confermi il risultato»: sono per chi agisce davvero.
 d990dd95	Apri il link ufficiale del primo passaggio
 740971cb	Verifica che porti dove promesso e che potresti proseguire da solo. Qui finisce la tua parte del percorso.
-1f802156	Valuta il percorso: è il risultato principale del test
 61823273	Il blocco di valutazione è già aperto sotto i passaggi (il pulsante «Vai alla valutazione del percorso» porta subito lì). Quattro brevi domande. Senza valutazione non sapremo com'è andato il test.
-78a35ec9	Subito sotto i passaggi premi «Sì, mi ha aiutato» o «No, non mi ha aiutato»: un solo tocco. Se vuoi, sotto si apre una valutazione dettagliata di quattro brevi domande. Senza risposta non sapremo com'è andato il test.
 944ecad7	Il percorso ti è stato utile?
 1fe85382	Sì, mi ha aiutato
 90f4d152	No, non mi ha aiutato
@@ -6234,9 +6129,7 @@ d1f95e9d	Chieda di vedere l’autorizzazione ai sensi del § 11 TierSchG
 018f90c5	Legge sulla protezione degli animali, § 11
 d21500a3	Neukölln: lavoro professionale con gli animali
 4b1d7bbe	Se ha dubbi sull’autorizzazione, scriva al servizio veterinario del distretto
-a8feb2de	L’autorizzazione è rilasciata dalla Veterinär- und Lebensmittelaufsicht del distretto in cui si trova la scuola. I contatti degli uffici sono nell’elenco degli Ordnungsämter.
 cd493fe1	Service Berlin: Ordnungsämter e servizio veterinario
-b7393715	Se l’obiettivo è passeggiare senza guinzaglio, sostenga l’esame dopo le lezioni
 6fe9c973	La Sachkundebescheinigung (Hundeführerschein) esonera dall’obbligo del guinzaglio. L’esame si sostiene con un esperto riconosciuto dal Senato.
 d5997d50	Senato di Berlino: regole ed esame
 6daba798	Senato di Berlino: esperti riconosciuti
@@ -6267,24 +6160,19 @@ d8930e8b	Presenti la domanda all’Ordnungsamt del suo distretto
 c2f9f0f3	Con l’esito dell’esame l’Ordnungsamt rilascia la Sachkundebescheinigung. Vale per lei e per questo cane. Anche i documenti analoghi di altri Länder tedeschi sono riconosciuti.
 d8887f37	Una sola via: esame con un esperto riconosciuto.
 161f38c5	Il cane ha meno di un anno
-78023fc2	L’esame dopo che il cane avrà compiuto un anno
 47f28d4b	Quando il cane avrà compiuto un anno
 0df885ae	Aspetti che il cane compia un anno
 b472688c	Alla parte pratica è ammesso solo un cane di almeno un anno. Fino ad allora può esercitarsi con un addestratore.
 9bed19e7	Il cane viveva con lei a Berlino prima del 22 luglio 2016
 df7bb3f4	Esame non necessario: dimostri che il cane viveva con lei prima del 22 luglio 2016
-a4090880	Per i cani che vivevano con il proprietario prima del 22 luglio 2016 (Bestandshunde) non serve la Sachkundebescheinigung. Come prova vale ad esempio una polizza assicurativa, un avviso fiscale o un’annotazione nel passaporto dell’animale.
 2f8be877	Prepari la prova
 cbf79f1d	Vanno bene una polizza di responsabilità civile, un avviso della tassa sui cani o un’annotazione nel passaporto dell’animale con data anteriore al 22 luglio 2016.
 5063a905	Rispetti i luoghi in cui il guinzaglio è sempre obbligatorio
 ec695a44	Anche senza l’obbligo generale, il guinzaglio è obbligatorio nei parchi, nei boschi senza cartello di area libera, vicino ai parchi giochi, nelle aree comuni degli edifici, nelle zone pedonali, nei luoghi affollati e sui mezzi pubblici.
 29488f5e	Cane della lista delle razze pericolose
-38588457	Wesenstest e perizia di razza presso un esperto riconosciuto dal Senato
-0c0f0208	Il test del comportamento (Wesenstest) e la perizia di razza (Rassegutachten) possono essere svolti solo da esperti riconosciuti dal Senato di Berlino. Scadenze e procedura completa per un cane della lista sono nel percorso sul cane.
 e8262103	Scelga un esperto dall’elenco ufficiale
 6a83a575	Nell’elenco del Senato può filtrare gli esperti per tipo di verifica: Wesenstest o Rassegutachten. Ci sono indirizzo, telefono ed e-mail.
 9da19f92	Segua tutta la procedura per un cane della lista
-c4de8a9b	Comunicazione all’Ordnungsamt, Sachkunde, assicurazione e Wesenstest, con le scadenze, sono nel percorso sul cane.
 d11df2b5	Quale animale si trasferisce con lei?
 38e1cd8b	Gatto o furetto
 095bc7d2	Uccello
@@ -6315,7 +6203,6 @@ bc38159d	BMLEH: viaggiare con cani, gatti e furetti
 5674bbf8	Il vaccino si fa a un animale di almeno 12 settimane; vale non prima di 21 giorni.
 9b5e6e61	Your Europe: viaggiare con animali
 858d0614	Dopo l’ingresso registri il cane a Berlino
-57b6e475	Il cane va iscritto nel registro centrale (Hunderegister) appena inizia a tenerlo a Berlino; deve avere un microchip. Registrazione e tassa sono nel percorso sul cane.
 13351862	Percorso: cane a Berlino (registro, tassa, passeggiate)
 99c9ff28	Service Berlin: registrazione del cane
 394a4969	Scelga un veterinario a Berlino
@@ -6364,11 +6251,9 @@ b0660ab1	Dichiarazione del proprietario sul modello UE (Anhang V Teil 2 Durchfü
 6c54e6b8	L’ingresso da un paese extra UE avviene solo tramite un punto d’ingresso per viaggiatori del primo paese UE sul suo percorso. A Berlino è l’aeroporto BER. Dichiari l’animale in dogana: si controllano i documenti e si legge il chip. Se il chip non è conforme allo standard UE, porti il suo lettore.
 c3c35b5d	BMLEH: elenco dei punti d’ingresso in Germania
 e149f8da	Richieda l’EU-Heimtierausweis (passaporto dell’animale)
-6e151d30	Il passaporto UE è rilasciato per animali i cui proprietari vivono nell’UE. Serve per viaggiare tra paesi UE. La procedura è nel percorso sul passaporto.
 c23220dd	Percorso: EU-Heimtierausweis (passaporto dell’animale)
 cdde5320	Una sola via: ingresso tramite un punto d’ingresso per viaggiatori.
 37985417	Microchip e vaccino ci sono già
-c8063da8	il certificato, entro 10 giorni prima dell’ingresso
 2772d3ad	Microchip, vaccino e test degli anticorpi antirabbici ci sono già
 17c4220b	Paese fuori dall’elenco UE: serve il test degli anticorpi
 8e7bd867	Ingresso da un paese fuori dall’elenco UE: test degli anticorpi e 90 giorni di attesa
@@ -6460,7 +6345,6 @@ e4e19093	Il veterinario legge il chip con uno scanner. Se manca, lo impianta nel
 ce466995	Commissione europea: domande e risposte
 3596039f	Non è cane, gatto o furetto
 b5895e29	Il passaporto UE si rilascia solo per cani, gatti e furetti
-89b023c1	Per altri animali non c’è il passaporto UE. Le regole per viaggiare con loro sono nel percorso sul trasferimento con un animale.
 c93b20af	Apra le regole per il suo animale
 21e7027e	Per uccelli, conigli, roditori e rettili valgono altre regole d’ingresso.
 c6d64129	Percorso: trasferimento con un animale
@@ -6493,7 +6377,6 @@ f4c77df0	tedesco, inglese, polacco, arabo, spagnolo
 a86e3520	Bizetstr. 48, 13088 Berlin; +49 30 927 34 41; lun 9–16, mar 12–18, mer 10–12, gio 12–18, ven 9–16
 499a7ce1	Dr. Anja Peters: sito dell’ambulatorio
 40832a15	Charlottenburg
-b9b160bb	Visite lun–ven 9–19 in tedesco e inglese. In arabo il lunedì 10–12, in francese su appuntamento.
 f8b89cad	tedesco e inglese; arabo il lunedì 10–12; francese su appuntamento
 48a42924	Tante Käthe & Onkel Bolle: sito dell’ambulatorio
 b414cedb	Lichterfelde
@@ -6526,9 +6409,7 @@ f7514990	Le serve aiuto di notte, nel fine settimana o in un giorno festivo
 a56dd098	Scelga un ambulatorio con orari di turno o una visita a domicilio
 9872aa7f	La Tierärztekammer Berlin pubblica un elenco di ambulatori aperti nel fine settimana e nei festivi e un servizio di visite a domicilio 24 ore su 24. Le cliniche servono solo in pericolo di vita.
 54026f8f	Trovi l’ambulatorio di turno più vicino
-44ddf145	Ad esempio: Tiermedizinzentrum Evidensia, Kufsteiner Str. 22, 030 85 42 050, tutti i giorni 9–24; Tierklinik Freie Universität, Oertzenweg 19 b, 030 838 62422, fine settimana e festivi 10–18, anche senza telefonare; Tierarztpraxis Lenk, Schönfließer Str. 1, 030 44 69 769, dom e festivi 10–18. L’elenco completo con gli orari è sul sito della camera.
 49219163	Oppure chiami un veterinario a domicilio
-b25d1669	Tierärzte im Notdienst — Berlin & Brandenburg: 0157 859 49 631, 24 ore su 24.
 6d93d724	Tierärztekammer Berlin: servizio di emergenza
 fdbadc0b	Tenga conto della tariffa di turno
 ceefb79c	Almeno tariffa doppia e un diritto di turno di 50 €, una volta per caso.
@@ -6552,7 +6433,6 @@ f1fac387	La Tierärztekammer Berlin (camera dei veterinari) chiede di rivolgersi
 2bc9c036	24 ore su 24: Klinik für Klein- und Heimtiere, Alt-Biesdorf 22, 030 51 43 760; Valera, Potsdamer Str. 23/24, 030 201 80 57 50; Tierarztpraxis Bärenwiese, Uhlandstr. 151, 030 23 36 26 27; Tierarztpraxis Rödiger, Scharnweberstr. 136, 030 412 73 57; VetZentrum Berlin, Märkische Allee 258, 030 93 22 093.
 bb84f8c4	Tierärztekammer Berlin: cliniche di turno
 5a7dea49	Se non può portarlo, chiami un veterinario a domicilio
-655ff577	Tierärzte im Notdienst — Berlin & Brandenburg: 0157 859 49 631, 24 ore su 24, visite a domicilio.
 c53aa22e	Passaporto dell’animale o registrazioni dei vaccini e numero di chip, se li ha a portata di mano.
 051fd027	Clinica con servizio 24 ore su 24
 05e9d1fd	Visita senza appuntamento in base all’urgenza.
@@ -6628,7 +6508,6 @@ e5648cfb	Una famiglia residente a Berlino con un figlio minorenne
 27b23c64	Una persona con un reddito basso che può documentarlo
 07b02a04	Uno studente o una persona in formazione
 747486fa	Una persona con disabilità; lo Schwerbehindertenausweis può riportare il Merkzeichen B
-38b3cc1f	Una persona rifugiata o migrante che non riceve prestazioni dell’elenco (AsylbLG rientra tra le prestazioni)
 6e83d416	Più persone con requisiti diversi
 bbeffb97	Un altro visitatore o una persona senza uno specifico requisito per l’agevolazione
 5e636bcf	Che cosa desidera visitare?
@@ -6654,7 +6533,6 @@ b47e1796	Musei di Berlino con ingresso gratuito
 4a1b577b	Per musei e mostre, apra l’elenco degli ingressi gratuiti per i bambini e il catalogo generale dei musei con collezioni permanenti gratuite.
 ca606d40	La disponibilità dipende dalle regole del singolo evento
 1e1d4412	L’ingresso e la prenotazione dipendono dalla struttura, dalla data e dall’evento specifico.
-f4a12aac	Data e nome dell’evento; per l’agevolazione legata all’età, un documento che la attesti.
 c584916c	Aprire il calendario ufficiale
 55b636b0	Trovare eventi gratuiti a Berlino
 39d1a3b6	Eventi gratuiti a Berlino
@@ -6721,14 +6599,12 @@ ba514370	Trovare offerte gratuite e agevolate
 faf3cbca	Le agevolazioni per visitatori con disabilità e accompagnatori variano in base al museo o alla struttura e sono indicate nelle relative regole.
 057532e7	Agevolazioni per persone con disabilità e accompagnatori
 07517397	Le agevolazioni e le condizioni d’ingresso dipendono dalla struttura
-8210cbe6	Schwerbehindertenausweis; se necessario, con l’indicazione dell’accompagnatore.
 9f750dc9	Lo status di rifugiato o migrante non dà di per sé diritto a uno sconto generale; chi riceve prestazioni AsylbLG può usare il percorso per i beneficiari.
 cbd014e2	Eventi gratuiti e tariffe delle strutture
 1fdee0a8	Non esiste uno sconto unico per tutti i visitatori. L’ingresso gratuito e i prezzi ridotti dipendono dall’evento e dalla struttura specifici.
 f8be2709	Gli eventi gratuiti sono soggetti alle condizioni della singola struttura
 71f0e776	Controlli le regole dell’evento scelto.
 39a2f2b1	Lo status di rifugiato o migrante non dà di per sé diritto a uno sconto generale; chi riceve prestazioni AsylbLG può seguire il percorso sui benefici sociali.
-ae1b9052	Per alcune offerte è necessario documentare le prestazioni, il reddito o l’età.
 ca49902c	Trovare un evento gratuito
 8f8f5c3b	Il calendario di Berlino raccoglie gli eventi attuali con ingresso gratuito.
 cec4ff66	Aprire gli eventi gratuiti
@@ -6820,7 +6696,6 @@ e8c102eb	La pagina VBB elenca le modalità di acquisto e rilascio della VBB-fahr
 a65b548f	Rivolgiti al centro assistenza di un operatore che accetta richieste di persona. Questo abbonamento non è disponibile ai distributori automatici.
 b43352e6	Deutschlandsemesterticket e tariffe per studenti
 6d04b492	Deutschlandsemesterticket per studenti
-adc02899	È necessario che il tuo ateneo abbia un accordo.
 b73ebfe6	Il biglietto è valido sui trasporti locali e regionali in tutta la Germania; sono esclusi i treni a lunga percorrenza ICE, IC ed EC.
 df29ae43	Prova dell’attuale status di studente e dati dell’account universitario.
 e350f71f	Documento con foto per i controlli.
@@ -6844,7 +6719,6 @@ c668d99a	Richiedi il biglietto all’operatore o tramite il datore di lavoro
 6c7e135b	Il Berlin-Ticket S è disponibile per chi ha la residenza principale a Berlino e riceve una prestazione inclusa nell’elenco ufficiale. È un abbonamento mensile valido solo a Berlin AB; non esiste uno sconto generale sul Deutschlandticket.
 0aa4de65	Berlin-Ticket S per viaggiare a tariffa agevolata
 483029c4	La tariffa ridotta si applica solo se soddisfi le condizioni VBB
-698c79e2	La residenza principale deve essere a Berlino e la prestazione deve figurare nell’elenco ufficiale di quelle che danno diritto al Berlin-Ticket S.
 1317f9ed	Servono una prova aggiornata della prestazione e un documento con foto; durante il controllo mostra entrambi insieme al biglietto.
 bd8ef0ea	Leistungsbescheid o Leistungsnachweis in corso di validità.
 bf730d98	Documento con foto; il nome sul biglietto deve corrispondere a quello sul documento.
@@ -6860,11 +6734,9 @@ b10847b6	Acquista un abbonamento mensile
 e968eef7	Una Wertmarke valida consente di viaggiare gratuitamente nella rete VBB; il Merkzeichen B dà diritto a un accompagnatore gratuito.
 2e1d0d8f	Viaggiare gratuitamente con una Wertmarke
 3435b13b	Una Wertmarke valida nello Schwerbehindertenausweis dà diritto a viaggiare gratuitamente sui trasporti pubblici VBB. Con Merkzeichen B, anche una persona accompagnatrice viaggia gratis.
-4380d5b1	Gratuito con Wertmarke valida; accompagnatore con Merkzeichen B
 3b07f52a	Verifica che la Wertmarke sia valida il giorno del viaggio.
 d212953c	Questa regola vale per i trasporti VBB; fuori dalla rete VBB si applicano le condizioni del relativo operatore.
 b9b54d70	Schwerbehindertenausweis e una Wertmarke valida.
-8d28a029	Per l’accompagnatore gratuito: il contrassegno Merkzeichen B.
 2e722fe2	Porta con te i documenti durante il viaggio
 2282e6b7	Durante il controllo, mostra lo Schwerbehindertenausweis con una Wertmarke valida.
 25a7c0d5	Apri le regole VBB sull’accessibilità
@@ -6918,7 +6790,6 @@ a3d98d0b	Chi riceve Bürgergeld, Wohngeld, Grundsicherung o AsylbLG entra gratis
 10201a6e	Anche dopo la registrazione, i biglietti gratuiti dipendono dalla disponibilità e non sono garantiti.
 683c73df	Prova aggiornata del reddito o di una prestazione ammessa; gli studenti possono presentare gli estratti conto degli ultimi tre mesi.
 16dfc5d2	Verifica il reddito e i documenti
-55d3affe	Il limite netto mensile è di 1.200 € per chi vive solo e 1.700 € per due persone, più 350 € per ogni figlio.
 81b0bbe4	Apri i requisiti di iscrizione a KulturLeben
 a20f1a90	Invia il modulo cartaceo
 2b604903	Scarica, compila e firma il modulo. Allega una copia della prova aggiornata del reddito e inviala all’indirizzo indicato nella pagina dei punti di iscrizione o tramite un partner sociale.
@@ -6943,7 +6814,6 @@ af043926	Vai all’elenco dei musei e delle condizioni
 9083a3a1	Per Fairgnügen, prepara un documento valido riconosciuto da Berlino; ai familiari o componenti del nucleo può servire il prospetto di calcolo. Per i biglietti da 3 € nelle strutture aderenti non serve una prova.
 85b186ac	Prepara una prova del reddito o di una prestazione ammessa; gli studenti possono presentare gli estratti conto degli ultimi tre mesi.
 ed4c79a3	Non esiste uno sconto valido per tutti i musei e gli eventi. Nei Staatliche Museen zu Berlin, alunni, apprendisti, studenti e partecipanti al servizio volontario hanno il 50% di sconto con prova; le altre strutture applicano regole proprie.
-b8a45ce1	Lo sconto dipende dal museo; i biglietti gratuiti dipendono dalla disponibilità e dai requisiti.
 c2f04001	I Staatliche Museen zu Berlin offrono il 50% di sconto anche a chi riceve ALG I e alle persone con GdB pari o superiore a 50; mostra la prova all’ingresso.
 5ea636e9	Prima di pagare, verifica il prezzo e la prova richiesta sulla pagina del museo o dell’evento specifico.
 8b2b7ae5	Alunni, apprendisti, studenti e partecipanti a servizi volontari ricevono il 50% di sconto; mostra la prova all’ingresso.
@@ -6972,11 +6842,8 @@ e8c140cc	Apri le modalità di richiesta dello Schülerticket
 f05341e8	Richiesta online del biglietto scolastico gratuito VBB
 b43d77c1	Questo abbonamento personale costa 63 € al mese e vale sui trasporti locali e regionali in tutta la Germania. Non è valido sui treni a lunga percorrenza ICE, IC o EC.
 713fa1a9	Si ordina come abbonamento presso un operatore; nella zona VBB il biglietto viene emesso sul telefono o su una VBB-fahrCard.
-86a2d769	Non esiste uno sconto generale legato alla condizione sociale. Con un contributo del datore di lavoro di almeno il 25% (15,75 €), il Deutschlandticket Job costa 59,85 € e la quota del dipendente non supera 44,10 €; studenti e apprendisti hanno offerte specifiche.
 994e322b	Alcuni operatori accettano ordini nei centri con personale e rilasciano una VBB-fahrCard. L’abbonamento non si vende ai distributori automatici, agli autisti o ai controllori.
 442ea60e	Il Deutschlandsemesterticket spetta solo agli studenti di università con contratto VBB; chi non ha il contratto dovrebbe verificare la tariffa Ausbildung specifica.
-e322b1a5	Il biglietto è disponibile solo negli atenei con contratto VBB. Nel 2026 costa il 60% del Deutschlandticket standard, cioè 37,80 € al mese; l’università spiega come ottenerlo.
-de9ca3f1	Nel 2026: 37,80 € al mese negli atenei aderenti
 b28c5adc	Tariffa Ausbildung per studenti senza abbonamento semestrale
 3cf60a96	Gli studenti senza contratto per il Deutschlandsemesterticket possono verificare il diritto alla Monatskarte Ausbildung: l’ateneo deve trovarsi a Berlino o Brandeburgo e il carico di studio deve essere di almeno 15 Credit Points per semestre.
 a106efe8	Monatskarte Ausbildung per studenti senza contratto per il biglietto semestrale
@@ -6997,11 +6864,7 @@ bfd35523	Conferma il diritto alla tariffa Ausbildung
 6709373c	Acquisto e documenti per la Monatskarte Ausbildung BVG
 a5ad07a9	Apri le condizioni dell’abbonamento BVG
 b260d924	Dal 1º luglio 2026, gli apprendisti idonei possono ottenere il Deutschlandticket Zuschuss Ausbildung a 37,80 € al mese. Per la formazione duale vale una condizione distinta legata al datore di lavoro.
-de3cfa7d	Ne hanno diritto solo gruppi specifici: formazione professionale a tempo pieno e scuole sanitarie riconosciute; partecipanti a FSJ/FÖJ/BFD; e alcuni candidati al pubblico impiego di Berlino senza rimborso del trasporto. La formazione o il servizio deve durare almeno 12 mesi per 20 ore settimanali; l’ente deve figurare nell’elenco VBB.
-59fe659d	Per la formazione duale, il datore di lavoro deve avere un contratto Deutschlandticket Job e versare un contributo maggiorato. Nel 2026 deve contribuire almeno 22,05 €; dopo lo sconto dell’operatore il biglietto costa 59,85 € e l’apprendista idoneo paga al massimo 37,80 € al mese.
 bb11f4af	Questo contributo speciale non spetta automaticamente a tutti gli apprendisti.
-bd3017cb	Per la formazione professionale a tempo pieno o il servizio volontario: Berechtigungsnachweis dell’ente, rilasciato da non più di 30 giorni al momento dell’invio all’operatore.
-43076b51	Per la formazione duale: prova del contratto Deutschlandticket Job e del contributo maggiorato del datore di lavoro (almeno 22,05 € nel 2026).
 8b8ac803	La formazione a tempo pieno e il servizio volontario si ordinano come abbonamento mensile presso un operatore; la disdetta va inviata entro il giorno 10 per terminare a fine mese. Nella formazione duale, verifica il contratto Jobticket e il contributo del datore: nel 2026 la tua quota non supera 37,80 € al mese.
 8ca76549	Questo biglietto mensile personale e non trasferibile vale solo a Berlino AB e non è un abbonamento. Secondo la pagina VBB, il 30 ottobre 2026 costa 27,50 €.
 e52d8ada	VBB indica distributori, app BVG, DB Navigator, negozi privati e centri assistenza come punti vendita. Scrivi nome e cognome sul biglietto mensile; per la zona C serve un altro titolo o un supplemento.
@@ -7011,7 +6874,6 @@ c7d3b254	Biglietto acquistato o diritto alla riduzione confermato
 fd41c207	I percorsi disponibili riguardano documenti, casa, salute, famiglia, lavoro, prestazioni, imposte, banche e telecomunicazioni, studio, trasporti, agevolazioni culturali e animali.
 d4006707	Non restare
 8958d4ff	bloccato
-b2242510	Bundesregierung: prezzo del Deutschlandsemesterticket — 60% del Deutschlandticket
 02612049	Trasporti e tempo libero
 c81ecaa8	L’elenco del Museumsportal Berlin mostra i musei con ingresso gratuito per alcuni gruppi di rifugiati e i documenti da mostrare. È una condizione dei singoli musei, non uno sconto generale per status.
 9735a2ef	Non tutti i musei partecipano: l’elenco indica quali e con quali documenti.
@@ -7019,7 +6881,6 @@ c81ecaa8	L’elenco del Museumsportal Berlin mostra i musei con ingresso gratuit
 dd7012de	A Berlino e dintorni: zone tariffarie AB o ABC
 d13f845c	Al distributore o al punto vendita scelga un biglietto per la zona e il periodo giusti e lo prenda prima di partire.
 3301b4d8	Si faccia confermare dall’università un carico di almeno 15 Credit Points e richieda la VBB-Kundenkarte in un centro servizi con i documenti e una foto.
-54fc47bb	Il Berlin-Ticket S è solo per i residenti a Berlino con un sussidio che dà diritto. Il percorso mostra le tariffe normali VBB e il Deutschlandticket.
 ddadb3c8	Pagine ufficiali verificate: {date}. I link sono nei passaggi.
 bcc68682	Wertmarke (bollino della tessera di invalidità per viaggiare gratis)
 4754a5c2	Merkzeichen B (annotazione che dà diritto a un accompagnatore)
@@ -7047,12 +6908,8 @@ a46968c4	FÖJ (anno ecologico volontario)
 37c33255	biglietti dei trasporti di Berlino e Deutschlandticket
 27097b18	musei gratuiti, eventi e sconti per cultura e tempo libero
 f9aa72c8	Servono un Personalausweis tedesco o una eID-Karte tedesca per cittadini UE con chip attivo, PIN di sei cifre e AusweisApp su uno smartphone NFC oppure un lettore di schede per il computer. Un normale passaporto o l'eAT non bastano per l'Anmeldung online.
-1b49523e	Servono parentela o unione con un iscritto alla GKV, residenza in Germania e assenza di un'altra assicurazione obbligatoria; il reddito lo verifica la Krankenkasse. Il limite generale di reddito nel 2026 è di 565 € al mese, con un Minijob 603 €.
-4e20902c	Reddito oltre 565 € al mese (con Minijob oltre 603 €)
 70aa4852	Gruppi con assicurazione obbligatoria, studenti, assicurazione familiare; Geringfügigkeitsgrenze di 603 € al mese nel 2026.
 1b9b9fec	Limite di reddito per la Familienversicherung nel 2026
-28aff317	Nel 2026 il limite generale di reddito è di 565 € al mese, con un Minijob 603 €.
-0f4a63a7	Un reddito sopra il limite generale di 565 € al mese (con Minijob 603 €) nel 2026 impedisce l'assicurazione familiare gratuita. Chieda alla cassa di stabilire per iscritto il suo regime proprio.
 7b5bf464	NOSTRES: guide gratuite passo dopo passo per registrazione, casa, assicurazione, medici, lavoro, servizi bancari e telefonia a Berlino.
 33016c4f	NOSTRES è un servizio gratuito per orientarsi tra registrazione, casa, assicurazione, lavoro, servizi bancari e telefonia dopo un trasferimento. Berlino è la prima città disponibile.
 037bb7af	NOSTRES aiuta a orientarsi tra registrazione, casa, assicurazione, lavoro, servizi bancari e telefonia dopo un trasferimento. Berlino è la prima città disponibile.
@@ -7063,7 +6920,6 @@ e00e6461	NOSTRES: guide gratuite passo per passo per Berlino: documenti, casa, s
 d230f13c	Guide gratuite dopo il trasferimento a Berlino: documenti, casa, salute, lavoro, famiglia, sussidi, trasporti e animali.
 5e36ca69	NOSTRES la guida passo per passo dopo il trasloco a Berlino: documenti, casa, salute, lavoro, famiglia, sussidi, trasporti e animali.
 e1052822	Guide gratuite NOSTRES per Berlino: documenti, casa, salute, lavoro, famiglia, sussidi, trasporti e animali.
-48d00289	NOSTRES è un servizio informativo gratuito con guide passo per passo dopo il trasloco: documenti, casa, salute, lavoro, famiglia, sussidi, banca e telefonia, trasporti e animali. La prima città è Berlino; altre città sono previste.
 9cbf7241	, l'autrice riceve l'indirizzo del mittente, il testo della lettera e gli allegati, se li ha aggiunti. Questi dati servono a leggere la richiesta e a rispondere; la lettera è trattata dal servizio di posta Proton Mail. Non invii documenti e dati sensibili se non servono per la domanda.
 48c10802	Può rivolgersi all'indirizzo indicato con una richiesta di accesso, rettifica o cancellazione dei dati che la riguardano, oppure opporsi al trattamento. Può inoltre presentare reclamo all'autorità italiana di controllo per la protezione dei dati
 869dd222	Per inviare una domanda o un'osservazione, scriva a questo indirizzo. NOSTRES non richiede nome o e-mail nell'interfaccia del sito.
@@ -7101,7 +6957,6 @@ bc81ed21	Curriculum
 995ec3d7	tutti gli uffici visti sono collegati all'Auslandsportal dal 1° gennaio 2025; online si accettano 28 motivi di soggiorno, i visti Schengen non ancora
 25be1d81	Mezzi di sostentamento
 e8896de3	Sperrkonto di almeno 1.091 € netti al mese (2026) o Verpflichtungserklärung
-e56c5a7d	fino a 1 anno; se trovi un lavoro qualificato e nessun altro permesso è adatto, proroga fino a 2 anni
 d466b27b	Lavoro durante la ricerca
 431e1d7f	lavoretti fino a 20 ore settimanali e prova fino a 2 settimane presso ciascun datore di lavoro
 640fe0a3	Sperrkonto · online
@@ -7137,7 +6992,6 @@ cfb536cb	Su carta con appuntamento
 6cab1141	Alternativa se la tua rappresentanza non accetta ancora questo motivo online.
 6220ef83	Se il motivo non è aperto online presso la tua rappresentanza
 4fb62f4b	Appuntamento alla rappresentanza o al centro visti della residenza abituale
-8687c8a6	a seconda del motivo, alcuni mesi
 fc90c2a1	Prenota alla rappresentanza o al centro visti
 272a8f86	Se il tuo motivo non è ancora accettato online presso la rappresentanza, la domanda si presenta su carta con appuntamento. La rappresentanza si sceglie in base alla residenza abituale.
 b3ae07ce	Consegna domanda e originali
@@ -7189,7 +7043,6 @@ eb890249	2 anni di esperienza su 5: 2 punti
 04937cd4	Totale punti: 6 sui 6 necessari
 05868fd7	Totale punti: 5 sui 6 necessari
 71fef7f0	Manca 1 punto per la Chancenkarte
-86c70834	Il minimo del sistema a punti è 6. I punti si aggiungono più in fretta con la lingua (tedesco A2 — 1, B1 — 2, B2 — 3 punti) e con il riconoscimento parziale del titolo in Germania (4 punti).
 e53708c5	Migliora il tuo tedesco
 9ca35d64	Ogni livello sopra A1 dà un punto: A2, B1, B2 e superiore.
 95ba6ebf	Chiedi il riconoscimento del titolo in Germania
@@ -7212,7 +7065,6 @@ f50da44d	Il sistema a punti richiede almeno tedesco A1 o inglese B2. Senza certi
 febf7fb4	Torna al percorso con il certificato
 5c45cb5c	Con il certificato il percorso calcolerà i tuoi punti.
 10b0ebf1	Titolo riconosciuto nel Paese in cui è stato conseguito: 0 punti
-8f28802b	Per una laurea, esito positivo in anabin o valutazione ZAB; per una professione, una «Digitale Auskunft zur Berufsqualifikation» positiva della ZAB
 6cba1cd0	Totale punti: 3 sui 6 necessari
 7ba580ff	Mancano 3 punti per la Chancenkarte
 d4537097	Totale punti: 2 sui 6 necessari
@@ -7232,13 +7084,11 @@ d98ba7db	Australia, Israele, Giappone, Canada, Corea del Sud, Nuova Zelanda, Reg
 d9774a95	Argentina, Brasile, Cile, Uruguay, Hong Kong o Taiwan
 b80c5843	Albania, Bosnia ed Erzegovina, Kosovo, Macedonia del Nord, Montenegro o Serbia
 b64ae3b7	Non ti servono né visto né permesso di lavoro
-8e1ee371	I cittadini di UE, SEE e Svizzera non hanno bisogno del visto per la Germania. Si può lavorare, studiare e cercare lavoro senza permesso di soggiorno. Il primo passo obbligatorio dopo il trasloco è registrare l'indirizzo.
 eee2cc72	Registrazione al Bürgeramt entro due settimane dal trasloco: il percorso mostra appuntamento e documenti.
 7133bec0	Percorso: registrazione dell'indirizzo
 aa742bca	Stipula un'assicurazione sanitaria
 50a21206	L'assicurazione si sceglie prima di iniziare a lavorare o studiare: il percorso mostra casse e modalità.
 9d97c909	Cerca lavoro o un posto di studio
-944ec0c7	Offerte e diritti dei lavoratori sono nel percorso sul lavoro dipendente; l'ammissione nel percorso sullo studio.
 d8908fe6	Percorso: ricerca di lavoro
 b3cd2cca	Percorso: ammissione all'università e all'Ausbildung
 304dfee8	Cosa vuoi fare in Germania?
@@ -7255,10 +7105,8 @@ e9cae8be	Nessuna formazione di questo tipo
 ff1c7f2a	Cittadinanza di un Paese i cui cittadini ottengono il permesso senza visto
 f1969844	Obiettivo: lavoro con offerta
 7124b0f9	Formazione riconosciuta
-2734733a	La tua via: visto per lavoro
 f573577c	Con un'offerta di lavoro e una formazione riconosciuta sono adatte la Blue Card, il visto per lavoratori qualificati o l'Anerkennungspartnerschaft. Il percorso sceglie il tipo di visto in base a formazione e stipendio.
 6383e269	Puoi entrare senza visto e fare domanda a Berlino
-950bba5f	I cittadini di Australia, Israele, Giappone, Canada, Corea del Sud, Nuova Zelanda, Regno Unito e USA ottengono il permesso dopo l'ingresso senza visto. La domanda va presentata entro 90 giorni dall'ingresso.
 b153762e	§ 41 AufenthV: ingresso senza visto
 f4d417ae	Berlino: permesso per lavoro senza visto
 9e9daaf1	Apri il percorso del visto per lavoro
@@ -7269,33 +7117,25 @@ b3edbd0f	Il percorso mostra il tipo di visto, il consenso della Bundesagentur f�
 e91735c7	Senza formazione riconosciuta, la via inizia con un mestiere
 30d222c8	Il visto per lavoro e la Chancenkarte richiedono una laurea o un mestiere di almeno due anni. Senza, sono possibili l'Ausbildung, il volontariato o, per i cittadini dei Paesi partner, il Working Holiday.
 ba194a30	Impara un mestiere con l'Ausbildung
-0eed4846	Con meno di 35 anni puoi venire a cercare un posto di Ausbildung; con un contratto, direttamente per la formazione.
 2cb23a84	Percorso: visto per studio e Ausbildung
 33b5792f	Valuta il volontariato
 d930449d	Il servizio non richiede un mestiere; durante il servizio sei assicurato.
 260da7c9	Percorso: visto per volontari
 3f4783bf	Obiettivo: ricerca di lavoro
-05032442	La tua via: la Chancenkarte
 21b3bf67	Con una formazione riconosciuta puoi venire a cercare lavoro fino a un anno con la Chancenkarte. Il percorso calcola i punti e mostra la domanda.
 ed4510c0	Apri il percorso della Chancenkarte
 66c5c7ed	Il percorso verifica i punti con la tabella ufficiale, i mezzi e i documenti.
 218c7a29	Percorso: Chancenkarte
 8a85dcd7	Obiettivo: studio
-57e505b9	La tua via: visto per studenti
-d91eda25	Per studiare serve un visto per studenti; finché l'università esamina la domanda, un visto per candidati. I mezzi si dimostrano con Sperrkonto, Verpflichtungserklärung o borsa di studio.
 5aff87b1	Apri il percorso del visto per studenti
 9f6acda2	Il percorso calcola l'importo necessario e mostra documenti e domanda nell'Auslandsportal.
 3add936f	Scegli corso o posto
 b05fe0f5	Ammissione, uni-assist e ricerca di posti di Ausbildung sono in un percorso a parte.
-aaaabadf	La tua via: visto per l'Ausbildung
 b8dfb97a	L'Ausbildung richiede un contratto con il luogo di formazione e di solito tedesco B1. Senza posto, con meno di 35 anni puoi venire a cercarlo fino a nove mesi.
 bd309a19	Obiettivo: volontariato
-f033a005	La tua via: visto per volontari
-73c94cdf	Il volontariato in Germania è il Bundesfreiwilligendienst, l'FSJ, l'FÖJ o il Corpo europeo di solidarietà. Prima servono posto e accordo, poi il visto.
 067bed52	Apri il percorso per volontari
 aaf16bb7	Il percorso mostra quale servizio è adatto alla tua età, dove cercare un posto e quali documenti servono per il visto.
 f728b4c2	Obiettivo: raggiungere la famiglia
-2b6a7124	La tua via: ricongiungimento familiare
 560bd1ac	Trasferirsi dal coniuge o dai genitori è un ricongiungimento familiare. Le condizioni dipendono da chi vive già in Germania e dall'età dei figli.
 d3c0e691	Apri il percorso sul ricongiungimento familiare
 4a53fc35	Il percorso mostra se serve il visto, quale tedesco è richiesto e quali documenti raccogliere.
@@ -7330,9 +7170,8 @@ d8ce8f4b	56 € per l'etichetta o 100 € per l'eAT, foto sul posto 6 €; ne
 5cf5f47b	Dopo un esito positivo il LEA invia un invito; l'etichetta si rilascia sul posto, l'eAT è pronto in 4–6 settimane.
 25aa8362	Visto Working Holiday presso una rappresentanza tedesca
 19708f89	La domanda si presenta prima del viaggio nel Paese in cui vivi.
-30e451d6	Australia, Israele, Giappone, Nuova Zelanda — qualsiasi rappresentanza; Corea del Sud — solo l'ambasciata a Seul
+30e451d6	Australia, Israele, Giappone, Nuova Zelanda – qualsiasi rappresentanza; Corea del Sud – solo l'ambasciata a Seul
 26b6a184	Età alla data della domanda entro i limiti del programma
-5539e7f0	Lo scopo del viaggio è una vacanza con lavoretti, non un lavoro stabile
 60c20f7e	Domanda di visto nazionale
 2a6e2e02	Documenti indicati nella pagina Working Holiday della tua rappresentanza
 d3cb1765	75 € per gli adulti e 37,50 € per i minorenni; in alcuni casi la tassa è ridotta o non dovuta
@@ -7349,13 +7188,11 @@ b893e1a1	Tra 31 e 35 anni il programma è aperto solo ai cittadini della Corea d
 ebd66ff0	Il Working Holiday è disponibile fino a 35 anni
 5d65d1f5	Il limite di età è 30 anni, solo 34 per la Corea del Sud e 35 per il Canada. Oltre sono adatte altre vie.
 85746559	Scegli un'altra via
-49dc2860	La Chancenkarte è adatta con una formazione riconosciuta; il volontariato BFD non ha limiti di età.
 90dc547f	Cittadinanza di un Paese con programma Working Holiday
-dd73eee0	Argentina, Cile, Uruguay — qualsiasi rappresentanza; Brasile solo in Brasile; Hong Kong — Consolato generale di Hong Kong; Taiwan — Istituto tedesco di Taipei
+dd73eee0	Argentina, Cile, Uruguay – qualsiasi rappresentanza; Brasile solo in Brasile; Hong Kong – Consolato generale di Hong Kong; Taiwan – Istituto tedesco di Taipei
 66a2c6b1	Per il tuo Paese la domanda si presenta solo presso una rappresentanza tedesca, quindi la modalità è una sola.
 310b7a19	Per il tuo Paese il Working Holiday è fino a 30 anni
 790c7594	Cittadinanza di un Paese dei Balcani occidentali
-f28e1a8b	La tua via: la Westbalkanregelung
 ca27779b	I cittadini di Albania, Bosnia ed Erzegovina, Kosovo, Macedonia del Nord, Montenegro e Serbia possono svolgere qualsiasi lavoro in Germania senza mestiere riconosciuto se un datore di lavoro offre un contratto. Il numero di permessi è limitato da una quota.
 9bef5a6c	Il percorso mostra l'approvazione preventiva della Bundesagentur für Arbeit e la domanda di visto.
 e63d4765	Per il tuo Paese non esiste il programma Working Holiday
@@ -7384,7 +7221,6 @@ b9640dc8	992 € al mese, 11.904 € all'anno
 40097368	fino a 140 giorni lavorativi interi o 280 mezze giornate all'anno; i lavori da studente all'università non contano
 ad0074a9	Se perdi l'ammissione non per colpa tua
 de82d4c8	hai fino a nove mesi per iscriverti a un'altra università
-50fd4df2	Versa l'importo necessario; la banca rilascia una conferma per la domanda. Prima dell'ingresso il beneficiario del blocco è la rappresentanza, dopo l'ingresso l'ufficio stranieri. Le opzioni di fornitori sono qui sotto.
 d2ea12fe	Make it in Germany: requisiti per studiare
 97ff8b28	§ 16b AufenthG: studio
 85081b82	Berlino: permesso per studio dopo l'arrivo
@@ -7399,7 +7235,6 @@ ba86335c	Il corso di lingua o lo Studienkolleg da cui dipende la Zulassung fa pa
 0b205bd8	Zulassung con condizione o accettazione allo Studienkolleg
 45590a5c	Obiettivo: candidatura all'università
 c5d3b861	Visto per candidati agli studi
-8cecd372	Il visto per candidati permette di venire senza Zulassung e candidarsi alle università sul posto, sostenere un esame d'ingresso o prepararsi. Dura fino a nove mesi.
 c1140173	Diploma scolastico con accesso all'università
 9cfb4f25	Corrispondenza con l'università o uni-assist: domanda, ammissione condizionata o conferma di invio
 b2ac7304	Certificato nella lingua d'insegnamento
@@ -7455,7 +7290,6 @@ ed16fbc9	Visto per cercare un posto di Ausbildung
 1994ad7d	Make it in Germany: visto per cercare un posto di Ausbildung
 925d70e9	Per il visto di ricerca di un posto di Ausbildung serve un certificato di tedesco B1.
 210e69b8	Età 35 o più
-2d87003a	Il visto per cercare un posto di Ausbildung è fino a 35 anni
 1931a4d1	Si può venire a cercare un posto di Ausbildung solo prima dei 35 anni. Dopo, il visto si ottiene se hai già un contratto di Ausbildung: puoi cercare il posto dal tuo Paese.
 abc4376e	Cerca un posto di Ausbildung dal tuo Paese
 92fa415b	Il percorso di ammissione mostra la ricerca di posti di Ausbildung dell'Arbeitsagentur.
@@ -7488,7 +7322,6 @@ c5af97fe	Paghetta
 f0b58590	al massimo 676 € al mese (gennaio 2026); l'importo si concorda con il luogo di servizio
 60319103	durante il servizio hai l'assicurazione pubblica sanitaria, pensionistica e altre; i contributi li paga il luogo di servizio
 2d5b6cd0	Seminari
-df154226	sotto i 27 anni — 25 giorni di seminario in 12 mesi e un seminario di educazione civica di 5 giorni; gratuiti e in orario di servizio
 05323a00	Firma l'accordo di servizio
 2bfbd42b	L'accordo si stipula con il luogo di servizio o con il Bundesamt für Familie und zivilgesellschaftliche Aufgaben; indica durata, paghetta, alloggio e vitto. Per il visto serve l'originale firmato da tutte le parti.
 05a6e27d	Bundesfreiwilligendienst: dalla A alla Z
@@ -7501,7 +7334,6 @@ d0ff941a	la paghetta insieme ad alloggio e vitto del luogo di servizio deve copr
 6d8cd1f3	la paghetta insieme ad alloggio e vitto del luogo di servizio deve coprire la tariffa base secondo SGB II o XII; la differenza si dimostra con Sperrkonto o Verpflichtungserklärung
 e9a06dee	Solo BFD: FSJ e FÖJ fino a 27 anni
 43f1a023	Età 27–30
-7815ef6d	dai 27 anni — almeno un giorno di seminario al mese, gratuito e in orario di servizio
 173f5beb	Età 31 o più
 b1af1468	Corpo europeo di solidarietà
 96392e26	Visto per il Corpo europeo di solidarietà
@@ -7520,7 +7352,6 @@ b44b6a86	Trova un posto BFD
 464b947d	Bundesfreiwilligendienst: ricerca del posto
 9a3272cf	Nessun luogo di servizio per ora
 abd23d42	Prima trova un luogo di servizio
-f184eeca	Il visto per volontari si rilascia solo con un accordo con un luogo di servizio. Il BFD è aperto a ogni età, FSJ e FÖJ fino a 27 anni, il Corpo europeo di solidarietà dai 18 ai 30.
 a07d8a5f	Nella banca dati del Bundesfreiwilligendienst cerchi un posto o un'offerta e scrivi direttamente all'Einsatzstelle. Non c'è un ufficio centrale né scadenze.
 14ef6458	Bundesfreiwilligendienst: domande e risposte
 42fc97b3	Oppure registrati al Corpo europeo di solidarietà
@@ -7591,11 +7422,9 @@ bcf03935	Mestiere riconosciuto in Germania
 bf779360	Certificato di tedesco A2
 b761cef7	Accordo con il datore di lavoro sullo svolgimento del riconoscimento
 1e6e3741	Durata e lavoro
-081a6e6c	prima fino a 12 mesi, proroga di un anno alla volta fino a 3 anni; oltre al lavoro concordato, lavoretto fino a 20 ore settimanali
 a6b7f7ef	Formazione riconosciuta nel tuo Paese
 1ecc0995	Tedesco sotto A2
 afa2aa4e	Per l'Anerkennungspartnerschaft serve il tedesco A2
-a3e598c9	Senza riconoscimento in Germania puoi lavorare nella tua professione tramite un'Anerkennungspartnerschaft: il riconoscimento avviene dopo l'ingresso, durante il lavoro. Serve un tedesco di almeno A2. L'alternativa è ottenere il riconoscimento prima del trasferimento.
 bac6bc7f	Porta il tuo tedesco al livello A2
 9e5e06b8	Il percorso mostra corsi con certificato.
 a53c9b23	Oppure chiedi il riconoscimento dall'estero
@@ -7627,7 +7456,6 @@ fdee5cff	visto per volontari: BFD, FSJ, FÖJ, Corpo europeo di solidarietà
 e1e8ff84	Chancenkarte: punti, mezzi e visto | NOSTRES
 d763eca8	Calcola i punti della Chancenkarte con la tabella ufficiale, prepara Sperrkonto e documenti e chiedi il visto tramite l'Auslandsportal.
 6024d91b	Trasferirsi in Germania: quale via fa per te
-30ddf1ce	Rispondi alle domande su cittadinanza e obiettivo. Il percorso mostra se serve il visto e quale via è adatta — lavoro, Chancenkarte, studio, Ausbildung, volontariato, famiglia o Working Holiday — e apre il percorso successivo. Dati dalle pagine ufficiali del Ministero degli Esteri, di Make it in Germany e di Berlino.
 b6c9994d	Via scelta
 9d67e08a	Chancenkarte (carta delle opportunità per cercare lavoro)
 438f1ef3	Calcola i punti con la tabella ufficiale, prepara mezzi e documenti e chiedi il visto ancora nel tuo Paese. Dati dalle pagine ufficiali di Make it in Germany e del Ministero degli Esteri.
@@ -7805,7 +7633,6 @@ afcfba86	Servizio in Germania: limite di età 30 anni
 8a8b768c	Per il servizio in Germania il ESC è aperto fino a 30 anni
 ffdf20a4	Il volontariato ESC nei paesi UE è aperto fino a 30 anni alla data di inizio. Il volontariato di aiuto umanitario ESC fino a 35 anni si svolge solo in paesi extra UE, quindi non è adatto a un servizio in Germania. Il BFD non ha un limite massimo di età.
 b22ff077	Requisiti di età del ESC
-dfb3c46a	Fino a 30 anni alla data di inizio; fino a 35 solo per il volontariato di aiuto umanitario in paesi extra UE.
 8c4f8ebd	Corpo europeo di solidarietà: volontariato di aiuto umanitario
 af0fde7d	L'autorità ha promesso per iscritto l'abilitazione (Zusage)
 34dcd216	al rilascio del permesso di soggiorno l'abilitazione deve essere concessa o promessa per iscritto dall'autorità (Zusage)
@@ -7840,48 +7667,29 @@ b2097e73	Verifica i requisiti Working Holiday
 2104d32f	Il Ministero federale degli Esteri pubblica l'elenco ufficiale dei Paesi e le regole per la domanda.
 9a3846b5	Working Holiday è disponibile dai 18 anni
 3be60c14	Puoi richiedere Working Holiday a partire dai 18 anni.
-7b1fabb8	Per la Corea del Sud: Ambasciata tedesca a Seul
-63cdecc5	Per il Brasile: rappresentanza diplomatica tedesca in Brasile
 9a612887	Per Hong Kong: Consolato generale tedesco a Hong Kong
-dd156179	Per Taiwan: Istituto tedesco di Taipei
 5c0c60c5	La sede della domanda dipende dalla cittadinanza; consulta l'elenco ufficiale delle rappresentanze
 5f20835b	Per questo Paese il Working Holiday è disponibile fino a 35 anni
 1915e135	Per questo Paese il Working Holiday è disponibile fino a 34 anni
 bcb1db28	Per questo Paese il Working Holiday è disponibile fino a 30 anni
-6757ba75	Il limite di età per questo Paese è 35 anni. Valuta altre possibilità di trasferimento.
-2424b5b1	Il limite di età per questo Paese è 34 anni. Valuta altre possibilità di trasferimento.
-4bc13489	Il limite di età per questo Paese è 30 anni. Valuta altre possibilità di trasferimento.
-9531a5ac	Il limite di età per questo Paese è 35 anni. Verifica i requisiti ufficiali e dove presentare la domanda.
-d6c9063b	Il limite di età per questo Paese è 34 anni. Verifica i requisiti ufficiali e dove presentare la domanda.
-1308c2ce	18–30 anni; Australia e Canada 18–35, Corea del Sud 18–34
 20c54c08	Australia: il Working Holiday è disponibile dai 31 ai 35 anni, ma la pagina LEA di Berlino indica ancora il limite di 30 anni; presenta la domanda presso una rappresentanza tedesca.
-463999ec	Qualsiasi rappresentanza tedesca; chi risiede in Australia presso il Consolato generale di Sydney
 d95bf50f	Qualsiasi rappresentanza tedesca all'estero
 a388b9cd	Richiesta tramite il modulo di contatto del LEA (ufficio F 1)
 072e7a64	Scrivete al LEA tramite il modulo di contatto
 e6470434	Per i cittadini giapponesi la domanda online non è ancora disponibile. L'ufficio F 1 del LEA riceve le richieste tramite il modulo di contatto nella pagina del servizio.
-e66ad093	Residenti in Canada: Consolato generale di Germania a Toronto
-8519cbc7	Per Hong Kong: Consolato generale di Germania a Hong Kong; il richiedente vive a Hong Kong
-5c4f4db7	Registri il cane online nell'area del proprietario del portale del registro. Servono il numero del microchip di 15 cifre dal libretto dell'animale e i dati sulla razza. Costo online: 17,50 € per cane. La ricevuta del costo (Kostenbescheid) vale come conferma. L'iscrizione nel registro vale anche come registrazione fiscale. La mancata registrazione o la mancata comunicazione delle modifiche è un illecito amministrativo con una multa fino a 10.000 €.
-f102f8c1	Comunichi i dati per iscritto per posta o e-mail oppure al telefono (GovConnect GmbH). Servono il numero del microchip di 15 cifre dal libretto dell'animale e i dati sulla razza. Costo: 26,50 € per cane. La ricevuta del costo (Kostenbescheid) vale come conferma. L'iscrizione nel registro vale anche come registrazione fiscale. La mancata registrazione o la mancata comunicazione delle modifiche è un illecito amministrativo con una multa fino a 10.000 €.
-a9fcb3e5	Il termine è di 8 settimane dalla comunicazione (Anzeige) all'Ordnungsamt. È la «patente» del proprietario di un cane del genere. Si sostengono un test teorico (30 domande a risposta multipla, 45 minuti sotto sorveglianza, serve il 70% di risposte corrette) e un test pratico di obbedienza con il cane stesso: deve avere almeno 1 anno. L'esame lo svolgono esperti approvati dal Senato di Berlino. L'elenco degli esperti è presso l'Ordnungsamt e al link qui sotto. La Sachkundebescheinigung la rilascia l'Ordnungsamt su domanda con un modulo apposito.
 901fb969	Dopo la registrazione il proprietario ottiene una medaglietta verde numerata: secondo il Bezirksamt Mitte la si riceve come conferma della registrazione. La medaglietta si fissa al collare o alla pettorina quando il cane è fuori da un'area recintata e fuori dall'appartamento in un condominio. Finché non avete la targhetta, portate con voi il certificato dell'Ordnungsamt che conferma la comunicazione (Bescheinigung nach § 18 Abs. 1 Satz 4 HundeG) e mostratelo su richiesta. Chi la rilascia esattamente, la pagina del distretto di Spandau non lo dice: la medaglietta la rilascia l'ufficio che tratta la sua registrazione.
 ed515741	La rappresentanza verifica in via preliminare la domanda e vi comunica nel portale cosa manca o è compilato in modo errato: correggete e inviate di nuovo. Da novembre 2025 una famiglia può fare domanda insieme da un solo account.
-f59fbd10	L'ingresso da un paese extra UE è possibile solo attraverso un punto d'ingresso per viaggiatori designato dal paese UE in cui entrate. A Berlino è l’aeroporto BER. Dichiari l’animale in dogana: si controllano i documenti e si legge il chip. Se il chip non è conforme allo standard UE, porti il suo lettore.
 9a7dac94	Nella banca dati del Bundesfreiwilligendienst cerchi un posto o un'offerta e scrivi direttamente all'Einsatzstelle. Non esiste un ufficio centrale per le candidature né scadenze uniche; alcuni enti hanno scadenze proprie.
 331b5c2a	Con l’esito dell’esame l’Ordnungsamt rilascia la Sachkundebescheinigung. Vale per lei e per questo cane. Con un certificato di un altro Land tedesco, l'Ordnungsamt rilascia quello di Berlino senza un nuovo esame.
 02fbb70b	Qualsiasi lavoro tranne le professioni regolamentate (ad esempio medico), senza qualifica riconosciuta, se il datore di lavoro offre un contratto alle stesse condizioni dei lavoratori in Germania. I permessi si rilasciano entro una quota.
 ee260385	Dati dai siti degli ambulatori, verificati il 5 novembre 2026. Non è una classifica né una raccomandazione. Né la Tierärztekammer Berlin né la città hanno un elenco ufficiale dei veterinari per lingua, quindi NOSTRES mostra solo ambulatori che indicano la lingua sul proprio sito.
 64440b8c	Le informazioni sono state verificate sui siti degli ambulatori il 5 novembre 2026. Non è una classifica né una raccomandazione. Né la Tierärztekammer Berlin né la città pubblicano un elenco ufficiale di veterinari per lingua. Per questo NOSTRES mostra solo gli ambulatori che indicano una lingua sul proprio sito. NOSTRES non ha ancora trovato ambulatori che indichino la lingua selezionata.
-345aac5e	fino a 50.000 approvazioni l'anno, ripartite per mesi e Paesi; nessuna prestazione AsylbLG negli ultimi 24 mesi; dai 45 anni, alla prima approvazione, stipendio da 55.770 € l'anno o previdenza pensionistica; il primo consenso solo se la domanda è presentata presso la rappresentanza tedesca in uno dei sei paesi
 19309a64	Dall'elenco dipende se serve un test degli anticorpi antirabbici 3 mesi prima del viaggio. Nell'elenco rientrano, ad esempio, Stati Uniti, Regno Unito, Canada, Serbia e Giappone. Russia, Ucraina, Bielorussia, Kazakistan, Turchia, Georgia, Armenia e Israele non ne fanno parte.
-1a5b7418	L'assicurazione di responsabilità civile per i proprietari di cani (Tierhalterhaftpflichtversicherung) è obbligatoria per legge a Berlino, anche per i cani portati a passeggio a Berlino. Per i Listenhunde la franchigia è al massimo di 500 € l'anno.
 60c4eb9e	Service Berlin: esenzione dal guinzaglio e assicurazione
 0f4741a4	Aree per cani nei boschi di Berlino
 3146a8e6	Anche senza la regola generale il guinzaglio è obbligatorio nei parchi, nei boschi senza cartello di area libera, nelle parti comuni degli edifici, nelle zone pedonali, tra la folla e sui mezzi pubblici. Non si possono portare cani nei parchi giochi, negli stabilimenti balneari e nei luoghi di balneazione.
 5da7fc8c	Da un paese extra UE dell'elenco UE: Stati Uniti, Regno Unito, Canada, Serbia, Giappone e altri
 41916240	non più di 5 in un unico veicolo se il viaggio non è a scopo di vendita; il proprietario viaggia con l'animale o entro 5 giorni prima o dopo
-5316f767	rilasciato da un veterinario ufficiale o autorizzato del paese di partenza e poi vidimato dall'autorità; valido 10 giorni dal rilascio al controllo d'ingresso e, per i viaggi successivi nell'UE, 6 mesi o fino alla scadenza del vaccino
 b4dc7d73	Svizzera e paesi vicini
 6552b88e	da Svizzera, Islanda, Liechtenstein, Andorra, Monaco, San Marino, Vaticano, Gibilterra, Groenlandia e Isole Fær Øer non serve un punto d'ingresso; con un passaporto per animali rilasciato in uno di questi paesi non serve il certificato
 99c939d3	Uccello da un paese extra UE: marcatura, certificato, dichiarazione e controllo alla frontiera
@@ -7891,7 +7699,6 @@ fb46ff60	Tenete gli uccelli separati per 30 giorni dopo l'ingresso
 61b62699	Per almeno 30 giorni dopo l'arrivo gli uccelli vanno tenuti separati dagli altri uccelli.
 5bd7f009	Oberhofer Weg 68, 12209 Berlin; (030) 711 63 57; lun–sab 9–12, lun, mar, gio, ven 16–18; appuntamenti e visite a domicilio su richiesta
 21297595	non serve con uno stipendio pari ad almeno il 50% del massimale contributivo annuo dell'assicurazione pensionistica (2026: 50.700 € lordi)
-e83d0d10	Prova della qualifica: per la laurea, esito positivo in anabin o valutazione della ZAB; per la formazione professionale, «Auskunft zur Berufsqualifikation» positiva della ZAB
 67de60eb	5 novembre 2026
 8609ec69	4,90 € al mese (al 01.11.2026)
 62cec337	Percorso: GmbH o UG
@@ -7943,7 +7750,6 @@ edbc7dd6	Bilancio annuale
 889cb57f	Legge: versamenti prima dell'iscrizione (§ 7 GmbHG)
 854bbe1f	IHK Berlin: GmbH e UG (haftungsbeschränkt)
 3e8f78c1	Prepari il Musterprotokoll o un proprio contratto
-e1df6d98	Con fino a tre soci e un amministratore (Geschäftsführer) può usare il Musterprotokoll, un modello di contratto già pronto previsto dalla legge. La IHK Berlin indica che con esso è possibile solo una costituzione con conferimenti in denaro. Se servono regole particolari tra i soci, redigere un proprio Gesellschaftsvertrag (atto costitutivo). Il contratto deve indicare denominazione, sede, oggetto sociale, ammontare del capitale e quota di ciascun socio.
 5125364e	Legge: forma del contratto e Musterprotokoll (§ 2 GmbHG)
 5907fa0b	Berlino: iscrizione di una GmbH nello Handelsregister
 8d19f5e9	Faccia autenticare il contratto dal notaio
@@ -7953,9 +7759,7 @@ ed40e7c8	Legge: autenticazione in videoconferenza (§ 2 Abs. 3 GmbHG)
 538e4ecf	Versi il capitale sul conto della società
 fc1859cd	Apra un conto aziendale intestato a «GmbH i.G.» (in costituzione) e versi almeno un quarto di ogni quota e in totale almeno 12.500 €. Consegni la conferma bancaria al notaio.
 1a03a227	Attenda l'iscrizione nello Handelsregister
-c4e6a958	A Berlino il registro è tenuto solo dall'Amtsgericht Charlottenburg (tribunale di Charlottenburg). Il notaio vi invia la domanda, il contratto, la nomina dell'amministratore e l'elenco dei soci. La tassa del tribunale è di 150 €, 240 € con conferimento in natura, più una Bereitstellungsgebühr (tassa per la messa a disposizione dei dati) pari a un terzo di tale importo. I tempi di trattazione non sono indicati nella pagina del servizio.
 3f909c1b	Registri il Gewerbe della società
-617b4afa	La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Una società in costituzione allega il contratto autenticato e il consenso dei soci. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
 d087df1e	Berlino: Gewerbeanmeldung per una società
 92871607	Berlino: documenti e tasse del Gewerbe
 7d9acadb	La costituzione della società va comunicata al fisco: invii online il Fragebogen zur steuerlichen Erfassung (questionario di iscrizione fiscale) per la costituzione di una Kapitalgesellschaft (società di capitali). Serve un account gratuito Mein ELSTER. Il questionario è gratuito; il Finanzamt (ufficio delle imposte) lo esamina in circa due settimane dalla ricezione di tutti i documenti e invia la Steuernummer.
@@ -7979,7 +7783,6 @@ b101fa10	La legge consente l'autenticazione notarile del contratto in videoconfe
 36cf2b8b	Ordine: contratto dal notaio, versamento del capitale, iscrizione nello Handelsregister presso l'Amtsgericht Charlottenburg, poi questionario fiscale, Transparenzregister e bilancio annuale. Scelga come autenticare il contratto.
 0afd2f04	Verifichi con le eccezioni se serve un Gewerbe
 38d032fe	Verifichi se serve la Gewerbeanmeldung
-c732fbf5	La Gewerbeanmeldung (comunicazione di attività imprenditoriale) è necessaria se la società commercia, presta servizi o produce: le eccezioni sono elencate nella pagina del servizio. La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Una società in costituzione allega il contratto autenticato e il consenso dei soci. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
 47e0d2e7	Cittadinanza extra UE: il diritto al lavoro si verifica presso il LEA
 53bf1b89	Ordine: contratto dal notaio, versamento del capitale, iscrizione nello Handelsregister presso l'Amtsgericht Charlottenburg, poi Gewerbe, questionario fiscale, Transparenzregister e bilancio annuale. Il Suo diritto a lavorare nella società si verifica a parte. Scelga come autenticare il contratto.
 0538ddbf	Verifichi se il permesso di soggiorno consente il lavoro nella società
@@ -8010,7 +7813,6 @@ d3e15a06	Legge: riserva della UG (§ 5a GmbHG)
 cb677b57	La forma non è ancora scelta: confronti prima GmbH e UG
 8fe9d054	Costituzione di una società: scelga prima GmbH o UG
 471d9508	Scelga GmbH o UG
-46e39577	GmbH (società a responsabilità limitata): lo Stammkapital (capitale sociale) è di almeno 25.000 €. Prima della domanda al registro si versa almeno un quarto di ogni quota e in totale almeno 12.500 €. La UG (haftungsbeschränkt) è la stessa forma con capitale da 1 €: il capitale si versa interamente e solo in denaro, non in natura, e un quarto dell'utile annuo va in una riserva finché il capitale non raggiunge 25.000 €. La denominazione della UG deve contenere «Unternehmergesellschaft (haftungsbeschränkt)» o «UG (haftungsbeschränkt)».
 955fbef1	Il contratto è autenticato, l'iscrizione nel registro non c'è ancora
 0f95cfb7	Contratto autenticato: iscrizione della società e primi obblighi
 a13bbbb2	Versi il capitale, attenda l'iscrizione nello Handelsregister e completi Gewerbe, questionario fiscale e Transparenzregister.
@@ -8019,9 +7821,7 @@ a13bbbb2	Versi il capitale, attenda l'iscrizione nello Handelsregister e complet
 3d32face	La società è già nello Handelsregister
 e8e0a214	Società nel registro: iscrizioni e obblighi annuali
 61814909	Dopo l'iscrizione registri il Gewerbe, invii il questionario fiscale, comunichi i titolari al Transparenzregister e pubblichi il bilancio ogni anno.
-239b73f8	La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Alleghi un estratto dello Handelsregister. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
 e6377034	Dopo l'iscrizione invii il questionario fiscale, comunichi i titolari al Transparenzregister e pubblichi il bilancio ogni anno.
-efdfe716	La Gewerbeanmeldung (comunicazione di attività imprenditoriale) è necessaria se la società commercia, presta servizi o produce: le eccezioni sono elencate nella pagina del servizio. La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Alleghi un estratto dello Handelsregister. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
 114c892e	Nell'MVP sono disponibili quarantanove percorsi: per Berlino e per trasferirsi in Germania dal proprio Paese:
 e21b3180	GmbH o UG: società a responsabilità limitata
 cd4fe17c	GmbH o UG a Berlino: costituzione e numero fiscale | NOSTRES
@@ -8064,7 +7864,6 @@ ef5f17cd	Lo richieda gratuitamente tramite i servizi online della Deutsche Rente
 e958f632	Non paghi intermediari
 ccd3c354	Il Versicherungsnummernachweis viene rilasciato gratuitamente. Alcuni siti internet lo fanno pagare: non è vietato, ma questi siti devono dichiarare chiaramente di non essere un ufficio pubblico. Richieda il documento solo alla Deutsche Rentenversicherung o alla Sua cassa malattia.
 f9f0a79e	DRV: il documento è gratuito, attenzione ai siti a pagamento
-5dda803b	Il numero viene assegnato tramite il datore di lavoro: la via è una sola, l'alternativa è la richiesta alla DRV o alla cassa.
 b9da6f6d	Queste sono informazioni generali. Le condizioni provengono dalle pagine ufficiali della Deutsche Rentenversicherung, di gesund.bund.de e del Ministero federale della Salute.
 874d486c	Ha già un numero, ma non lo conosce
 981a6a92	Il numero c'è, ma non lo conosce: lo cerchi nelle lettere o lo richieda per iscritto
@@ -8118,7 +7917,6 @@ e3f90125	La tessera eGK con il numero dell'assicurazione sanitaria è rilasciata
 9cb6ac31	Il percorso sull'assicurazione sanitaria mostra quale assicurazione Le spetta, come iscriversi a una cassa e cosa portare. Dopo l'iscrizione la cassa Le invierà la tessera eGK con il numero.
 638c842d	gesund.bund.de: tessera eGK
 88ae367c	Le serve il codice fiscale, non il numero di previdenza sociale
-68b3ef86	La Steuer-ID è un codice fiscale a parte
 8f0b09df	Il datore di lavoro chiede due numeri diversi: il codice fiscale Steuer-ID e il numero di previdenza sociale. La Steuer-ID è assegnata dall'amministrazione finanziaria; come ottenerla o recuperarla lo mostra un percorso a parte.
 05d192c6	Apra il percorso Steuer-ID
 b1b6a6c5	Il percorso mostra se Le è stata assegnata una Steuer-ID e come ricevere di nuovo la relativa lettera. Il numero di previdenza sociale lo rilascia la Deutsche Rentenversicherung: se serve anche quello, torni qui e lo selezioni.
@@ -8153,9 +7951,7 @@ b5b3ffd3	Permesso di soggiorno per specialisti
 eebd18ec	Periodo di soggiorno raggiunto
 6188ebd6	Tedesco B1 o superiore attestato
 b0fc5a01	Può presentare domanda di Niederlassungserlaubnis
-99a29d01	La Niederlassungserlaubnis è un permesso di soggiorno a tempo indeterminato. Verifichi di soddisfare gli altri requisiti, raccolga i documenti, presenti la domanda online e si rechi all'appuntamento presso la LEA.
 d78144ab	Domanda online e appuntamento presso la LEA
-0c655556	Domanda e file online, poi appuntamento presso la LEA con gli originali.
 25a7466a	Quick-Check sulla pagina del servizio
 07c70cbc	Pagamento con carta o tramite PayPal
 a5b96d08	Passaporto e permesso di soggiorno attuale
@@ -8165,13 +7961,11 @@ d74f1561	Prova dell'alloggio: contratto d'affitto con canone comprensivo di risc
 d2600dc5	Prova delle conoscenze sull'ordinamento della Germania
 cf2f7a91	Periodo di soggiorno
 bb0dabfa	3 anni con permesso di soggiorno per specialisti (§ 18a, § 18b, § 18d o § 18g); 2 anni se ha concluso gli studi o un'Ausbildung in Germania. Deve continuare a lavorare come specialista
-0997c860	56,50 € per l'esame della domanda e 56,50 € per il rilascio; con istruzione universitaria come specialista altamente qualificato, 73,50 € e 73,50 €; per i cittadini turchi 13,80 € fino a 24 anni e 23,00 € dai 24 anni per ciascuna parte
 8a2d15a9	Quando viene rilasciato il documento
 e9210b62	non prima di 4 settimane dall'appuntamento presso la LEA
 08abfa0f	3 anni con permesso di soggiorno per specialisti (§ 18a, § 18b, § 18d o § 18g); 2 anni se ha concluso gli studi o un'Ausbildung in Germania. Deve continuare a lavorare come specialista. Almeno 36 mesi di contributi all'assicurazione pensionistica pubblica, 24 mesi in caso di studi o Ausbildung in Germania. Tedesco B1. Servono conoscenze di base dell'ordinamento giuridico e sociale della Germania: si attestano con un corso di integrazione o di orientamento, il test «Leben in Deutschland» o il test di cittadinanza, un diploma scolastico o professionale tedesco, almeno un anno di studi o Ausbildung in Germania. Sostentamento garantito con reddito proprio senza Bürgergeld né Sozialhilfe; assicurazione sanitaria pubblica tedesca o privata equivalente (quella estera non è valida); spazio abitativo sufficiente per la famiglia; residenza principale a Berlino. Anche una multa inflitta con sentenza può impedire il rilascio, e un'indagine in corso sospende l'esame della domanda.
 17495cfb	LEA Berlin: Niederlassungserlaubnis per specialisti
 66297e3e	Legge: § 18c AufenthG
-b094052a	I file si caricano nel modulo online: l'elenco è qui sotto, l'elenco completo è sulla pagina del servizio. Gli originali serviranno all'appuntamento.
 4102eaa7	Faccia il Quick-Check e presenti la domanda online
 e7e9e9ac	La domanda si presenta solo online: prima un breve Quick-Check sulla pagina del servizio, poi il modulo con i file. La tariffa per l'esame della domanda si paga con carta o tramite PayPal prima dell'invio. Dopo l'invio riceverà una conferma in PDF.
 11a0276d	Si rechi all'appuntamento presso la LEA
@@ -8218,11 +8012,9 @@ f323802c	Il periodo di soggiorno è raggiunto, ma per la Niederlassungserlaubnis
 d12b27d6	Familiare di un cittadino tedesco
 9995cd8c	Certificato di matrimonio o di nascita del figlio e documento del familiare con cittadinanza tedesca
 3ca24dde	3 anni con permesso di soggiorno come familiare di un cittadino tedesco; la famiglia ha vissuto insieme per tutto questo tempo e resta unita
-dc15bd29	3 anni con permesso di soggiorno come familiare di un cittadino tedesco; la famiglia ha vissuto insieme per tutto questo tempo e resta unita. Tedesco B1; con permesso di soggiorno anteriore al 6 settembre 2013, A1. Sostentamento garantito con reddito proprio senza Bürgergeld né Sozialhilfe (eccezione: malattia permanente con certificato medico); assicurazione sanitaria e assicurazione per l'assistenza per Lei e la famiglia; residenza principale a Berlino. Anche una multa inflitta con sentenza può impedire il rilascio, e un'indagine in corso sospende l'esame della domanda.
 648087c7	LEA Berlin: Niederlassungserlaubnis per familiari di cittadini tedeschi
 7841c516	Aveva un permesso di soggiorno come familiare di un cittadino tedesco prima del 6 settembre 2013?
 b83bd6aa	Nel Suo caso serve: 3 anni con permesso di soggiorno come familiare di un cittadino tedesco; la famiglia ha vissuto insieme per tutto questo tempo e resta unita. Finché il periodo non è raggiunto, rinnovi per tempo il Suo permesso di soggiorno attuale.
-09837510	Per la domanda servirà un certificato di tedesco: B1 e, con permesso di soggiorno anteriore al 6 settembre 2013, A1. Può scegliere corso ed esame nel percorso del corso di integrazione.
 9cf79a05	Da quanti anni vive legalmente in Germania con un permesso di soggiorno?
 1fb89f52	5 anni o più
 cefcf552	Meno di 5 anni
@@ -8289,7 +8081,6 @@ d3532d92	Attenda la lettera cartacea e verifichi il numero di 11 cifre.
 1aa3c725	Controlli il set per il modo scelto
 4a4fdb08	Controlli presso la sua Krankenkasse iscrizione, indirizzo e foto
 f077b165	Questo abbonamento personale costa 63 € al mese e vale sui trasporti locali e regionali in tutta la Germania; dal 1° gennaio 2027 il prezzo sale a 66,80 €. Non è valido sui treni a lunga percorrenza ICE, IC o EC.
-8c774d53	Se l’ateneo non partecipa al Deutschlandsemesterticket, lo studente può avere diritto alla Monatskarte Ausbildung se studia a Berlino o Brandeburgo per almeno 15 Credit Points a semestre. Nel 2026 Berlin AB costa 74,10 € per il normale mensile o 55,40 € al mese con abbonamento di 12 mesi; Berlin ABC costa rispettivamente 95,70 € o 77,50 €. Queste tariffe valgono fino a fine 2026; dal 1° gennaio 2027 Berlin AB costa 76,90 € per il normale mensile e 57,50 € al mese con abbonamento.
 5341845c	Questo biglietto mensile personale e non trasferibile vale solo a Berlino AB e non è un abbonamento. Secondo la pagina VBB, il 12 novembre 2026 costa 27,50 € e nel 2027 il prezzo non cambia.
 81480e1c	Annoti quale documento esattamente le chiedono e entro quando. Risponda con lo stesso canale da cui è arrivata la richiesta. Se non è chiaro cosa serve, scriva all'ufficio al contatto indicato nella lettera, indichi il numero di pratica (Aktenzeichen) e conservi la risposta.
 f5e72b88	Stabilisca il tipo di azione: prima immatricolazione di un'auto nuova o modifica dell'immatricolazione di un'auto già esistente. Condizioni e documenti differiscono.
@@ -8301,7 +8092,6 @@ f8203a45	Trovi lo studio e prenoti la visita tramite i suoi contatti prima di an
 974422bb	Prenda dai dati del datore di lavoro richiesti dal modulo il nome del suo Betriebsstätten-Finanzamt (ufficio delle imposte del luogo dell'impresa): è quello competente per l'IdNr. ai fini dell'ELStAM.
 bb79c769	La sua situazione
 9f9a5f32	Eventi e valutazioni sono conservati nel database Cloudflare D1 in una regione europea e servono a trovare errori e migliorare i percorsi. L'accesso all'infrastruttura è fornito da Cloudflare per l'hosting e il funzionamento del database. I record sono conservati al massimo 12 mesi dall'evento; quelli più vecchi vengono eliminati automaticamente una volta al giorno.
-dbfb3ffd	Il contratto è valido solo in forma notarile. Può recarsi presso lo studio notarile di sua scelta oppure effettuare l'autenticazione in videoconferenza: la legge lo consente. Il Notar autentica anche le firme sulla domanda all'Handelsregister (registro delle imprese) e la invia lui stesso al tribunale. Gli onorari del Notar sono stabiliti dalla legge e sono uguali presso tutti i notai: il calcolo per GmbH e UG si trova nel percorso sul Notar.
 04f7927f	Percorso: il Notar e il suo costo
 906dbb5e	Motocicletta
 e85544e9	anche la motocicletta (Kraftrad) è per legge un Kraftfahrzeug e in caso di trasloco si applica la stessa procedura; per una motocicletta leggera fino a 125 cm³, per la quale l'immatricolazione non è obbligatoria, al posto della Zulassungsbescheinigung Teil II è valida la Betriebserlaubnis (autorizzazione alla circolazione)
@@ -8335,7 +8125,6 @@ c956b96b	più il 19% di IVA e spese, ad esempio 4,50 € per l'archivio elettron
 1f039566	a parte: 150 €, con conferimento in natura 240 €, più un terzo di tale importo
 3639ca25	non indicato sulla pagina del tribunale
 9186fb72	Tenga presente che il prezzo è uguale presso tutti i notai
-8952392e	Il costo dei servizi del Notar è stabilito dalla legge Gerichts- und Notarkostengesetz (GNotKG) ed è uguale in tutta la Germania. Il Notar è tenuto a chiedere esattamente quanto previsto dalla legge, né di più né di meno. La consulenza e la preparazione della bozza del documento sono comprese negli onorari per l'autenticazione. Gli onorari dipendono dal valore della pratica (Geschäftswert).
 bd75dceb	Notarkammer Berlin: costo secondo la legge
 d29af808	Calcoli gli onorari del Notar
 3f61bdfc	Secondo l'esempio della Bundesnotarkammer, la costituzione di una UG da parte di un solo socio fondatore secondo il Musterprotokoll costa 105 € IVA e spese escluse: 60 € per l'autenticazione, 30 € per la domanda all'Handelsregister e 15 € per la trasmissione elettronica dei dati. Per il Musterprotokoll non si applica il valore minimo della pratica di 30 000 €, perciò gli onorari sono più bassi.
@@ -8346,7 +8135,6 @@ e62b3e2d	Trovi un Notar
 5472fd11	Bundesnotarkammer: ricerca dei notai a Berlino
 3d984cf5	Notarkammer Berlin: domande frequenti
 debe912d	Paghi solo le fatture ufficiali
-cf0e385d	Per l'iscrizione nell'Handelsregister arriva una fattura ufficiale, di solito dall'Amtsgericht (tribunale). Gli elenchi privati inviano fatture simili: non vanno pagate. La tassa del tribunale a Berlino è di 150 €, con conferimento in natura 240 €, più un terzo di tale importo; il termine per l'iscrizione non è indicato sulla pagina del tribunale.
 ed96e651	Bundesnotarkammer: sulle fatture dopo la costituzione
 a2df4c2a	Berlino: tassa dell'Handelsregister
 17a04e2f	Ha scelto la modalità di autenticazione nelle risposte.
@@ -8407,7 +8195,6 @@ bc455cc8	Il titolo «Architekt» a Berlino è protetto: serve l'iscrizione nell'
 7609e7ea	IHK FOSA: elenco delle professioni
 bfe6d89a	Tassa e tempi: ZAB (Zentralstelle für ausländisches Bildungswesen)
 019ee01f	208 €, circa 3 mesi dopo il ricevimento di tutti i documenti e del pagamento
-92bcdfed	Per le professioni universitarie non regolamentate, ad esempio economista (Wirtschaftswissenschaftler/in), la ZAB rilascia la Zeugnisbewertung, un parere sulla comparabilità del titolo di studio. La domanda si presenta online e serve il BundID. Il parere non dà diritto a lavorare in una professione regolamentata.
 369edcfa	Nell'MVP sono disponibili cinquantadue percorsi: su Berlino e sul trasferimento in Germania dal suo paese:
 bdbf0f1b	Notar a Berlino: ricerca e costo
 1f38fb40	Notar (notaio) a Berlino: come trovarlo e quanto costa
@@ -8485,7 +8272,6 @@ a1e29fe0	Psicoterapia: cura attraverso il dialogo
 78d884b8	Non riesco ad andare all'appuntamento al Jobcenter per il mio stato di salute
 603bec5d	Sta male in questo momento
 fa323598	Aiuto subito: prima ciò che non richiede una telefonata
-743b3dba	In caso di pericolo di vita: il pronto soccorso di una clinica o il 112. Senza pericolo di vita può andare al Berliner Krisendienst senza appuntamento o scrivere in chat. Il telefono è l'alternativa di riserva.
 b08c9ffc	In caso di pericolo di vita: 112 o pronto soccorso
 b485bba3	Se può fare del male a sé o ad altri, serve un aiuto d'emergenza. Può andare senza appuntamento al pronto soccorso (Notaufnahme) di una clinica con reparto psichiatrico. Può chiamare il 112. Può scrivere alla centrale del 112 senza parlare nell'app ufficiale nora, se ha completato la registrazione in anticipo.
 d7c36efc	gesund.bund.de: cosa fare in una crisi psichica
@@ -8499,7 +8285,6 @@ a5b0c3ac	Krisendienst: notizie e chiusure delle sedi
 def3328c	TelefonSeelsorge: chat
 ca3b9cd3	TelefonSeelsorge: e-mail
 8c357b0d	Se può telefonare
-e7c10885	Il Berliner Krisendienst risponde 24 ore su 24 al numero del quartiere: 030 39063-10 … -90, i numeri sono indicati nella pagina delle sedi. TelefonSeelsorge: 24 ore su 24 e gratis, 0800 111 0 111 e 0800 111 0 222. In russo risponde la linea 030 440 308 454.
 ae817e0c	Krisendienst: numeri delle sedi
 e62e6d12	Berlino: numeri per l'aiuto in caso di crisi
 3b292ff1	Willkommenszentrum: numeri e lingue
@@ -8562,14 +8347,11 @@ acf08056	Inizi dal primo colloquio: non servono impegnativa né codice. Se l'aiu
 26cfb4d2	116117: psicoterapia
 5c8ab2fd	Ricerca psicoterapeuti 116117
 8353767d	Faccia il primo colloquio
-57f6a61f	Il primo colloquio (psychotherapeutische Sprechstunde) prevede fino a 6 incontri da 25 minuti, in totale fino a 150 minuti. L'impegnativa non serve. Il terapeuta convenzionato con la cassa malattia è obbligato a offrire questi colloqui. Se non c'è un posto adatto, il servizio 116117 deve trovare un primo colloquio entro 4 settimane.
 6befc58f	BMG: primo colloquio e tempi
 b924d0e9	Se l'aiuto serve in fretta: cura urgente
-accdc079	Se dopo il colloquio il terapeuta indica nel modulo PTV 11 che la cura serve a breve, è possibile una cura urgente (Akutbehandlung) fino a 600 minuti. Non serve l'autorizzazione della cassa, il terapeuta la informa soltanto con il modulo PTV 12. Il servizio 116117 deve trovare una cura urgente entro 2 settimane.
 4777ba15	116117: cura urgente
 b41fe36a	KBV: domande sulla psicoterapia
 243dbeb2	Per una terapia lunga presenti la domanda insieme al terapeuta
-5342d170	Prima alcuni incontri di prova e una visita dal medico di famiglia o da un altro medico per escludere cause fisiche. Poi presenta la domanda alla cassa malattia insieme al terapeuta. La terapia breve dura 12–24 ore, quella lunga circa 30–60 ore a seconda del metodo.
 12812c11	Il modo di prenotazione lo ha scelto nelle risposte; poi la procedura è la stessa.
 2e7a6b61	Scelga uno studio vicino e fissi un appuntamento
 6184582c	Nella ricerca 116117 trovi uno studio vicino e il modo per contattarlo. Nel filtro «Fremdsprachen» (lingue straniere) può scegliere la lingua. Il primo colloquio si svolge di persona.
@@ -8604,9 +8386,7 @@ d3bdd583	Chiami il Berliner Krisendienst
 40f9fb9a	Il servizio di crisi aiuta anche familiari, amici e colleghi della persona in crisi. Risponde 24 ore su 24 al numero del quartiere: 030 39063-10 … -90. Nei casi urgenti gli operatori vanno sul posto; c'è un medico di turno.
 e52f7c60	Le è difficile andare all'appuntamento al Jobcenter per il suo stato di salute
 7f468bd9	Non riesco ad andare al Jobcenter: come mantenere le prestazioni
-da297aa3	La malattia è un motivo valido se è confermata da un documento. Dal 1° luglio 2026 la seconda assenza senza motivo valido riduce la prestazione, e tre assenze di seguito la sospendono fino alla presentazione di persona.
 f7d0281e	Confermi il motivo con un documento
-e9472613	Il certificato di malattia (Arbeitsunfähigkeitsbescheinigung) di regola è riconosciuto dal Jobcenter come motivo valido. Lo invii al Jobcenter e conservi la conferma dell'invio. Il Jobcenter può chiedere a parte un certificato medico che attesti che non poteva andare proprio a quell'appuntamento, e pagarlo fino a 5,36 €.
 f12ff16b	Bundesagentur für Arbeit: regole sulle assenze agli appuntamenti
 dd2e102f	Jobcenter: diritti, obblighi e riduzioni
 363ac625	Risponda alla richiesta di spiegazioni (Anhörung)
@@ -8634,11 +8414,9 @@ b44c4373	Cinquantatré percorsi autonomi sono disponibili ora. Le risposte alle 
 ae4b1245	Questa è una copia salvata della pagina. Le condizioni potrebbero essere cambiate: quando la connessione tornerà, la pagina verrà caricata di nuovo.
 17989646	Perché il sito funzioni senza internet, il browser salva sul dispositivo le copie delle pagine di NOSTRES che ha aperto e i file necessari per mostrarle. Le risposte alle domande non fanno parte di queste copie. Con la connessione, la pagina viene sempre caricata di nuovo. Le copie si eliminano insieme ai dati del sito nelle impostazioni del browser.
 9196ab25	Questa è una copia della pagina del {date}: è salvata su questo dispositivo. Le condizioni potrebbero essere cambiate: quando la connessione tornerà, la pagina verrà caricata di nuovo.
-421956a9	Interprete presso un ufficio di Berlino: gratuito
 c9eecddf	Con gli uffici di Berlino, per esempio il Bürgeramt e il LEA, può comunicare nella lingua dei segni tedesca o con altri mezzi di comunicazione, per esempio un interprete di sottotitolazione. Le spese sono a carico dell'ufficio: lo stabilisce la legge berlinese sulla parità di diritti (LGBG, § 13). Comunichi in anticipo all'ufficio che le serve un interprete e di che tipo: di lingua dei segni o di sottotitolazione. L'ufficio è tenuto a informarla di questo diritto.
 0ee1cc0a	Legge di Berlino LGBG, § 13
 e47e5735	Berlino: diritti secondo la LGBG
-8e6d92d6	Interprete per le prestazioni e dal medico: gratuito
 d8e33519	Quando riceve prestazioni o servizi sociali, per esempio presso il Jobcenter, l'Agentur für Arbeit o la cassa malattia, può comunicare nella lingua dei segni tedesca o con altri mezzi di comunicazione. Questo vale anche per visite e cure dal medico. Le spese per l'interprete sono a carico dell'ufficio o della cassa competente per quella prestazione o cura (§ 17 Abs. 2 SGB I). Comunichi in anticipo che le serve un interprete e di che tipo: di lingua dei segni o di sottotitolazione.
 fe753391	Legge: § 17 SGB I
 a035e586	Regolamento KHV sui mezzi di comunicazione
@@ -8647,7 +8425,6 @@ a035e586	Regolamento KHV sui mezzi di comunicazione
 22827739	Bundesnetzagentur: servizio per persone con disabilità uditiva
 1a0dd4cd	Bundesnetzagentur: minuti gratuiti per anno
 308db80d	116117 senza telefonare
-d1f6260b	Il 116117 ha una chat per persone con disabilità uditiva o del linguaggio, per quando serve assistenza medica ma la vita non è in pericolo. Nella chat scelga la regione Berlino. Nella ricerca degli studi medici del 116117 c'è il filtro «lingua dei segni».
 6e9c1819	116117: chat per persone con disabilità uditiva
 7f2c998c	116117 nella lingua dei segni
 458386c4	Emergenza senza telefonare
@@ -8659,3 +8436,226 @@ c79c774f	Domande su assicurazione e assistenza nella lingua dei segni
 21a0fe7b	BMG: videochiamata nella lingua dei segni
 a07abf8b	Persone con disabilità uditiva
 d18cb816	Lingua dei segni, interprete presso l'ufficio e comunicazione senza voce.
+31169962	Le condizioni del conto ordinario Girokonto le stabilisce la banca. Il Basiskonto è il diritto a un conto di base per il consumatore che non ha ancora un conto di pagamento in Germania: la banca può rifiutare solo in pochi casi previsti dalla legge. Scelga il modo qui sotto.
+296b556c	0 € al mese; carta fisica: 10 € una tantum
+c80681e2	fino a 1 anno; se trovi un lavoro qualificato e nessun altro permesso è adatto, proroga fino a 2 anni
+c4bc0c2b	a seconda del motivo, alcuni mesi
+ea7d6c6a	Il minimo del sistema a punti è 6. I punti si aggiungono più in fretta con la lingua (tedesco A2 – 1, B1 – 2, B2 – 3 punti) e con il riconoscimento parziale del titolo in Germania (4 punti).
+f1f77953	Per una laurea, esito positivo in anabin o valutazione ZAB; per una professione, una «Digitale Auskunft zur Berufsqualifikation» positiva della ZAB
+5e0139b7	Con fino a tre soci e un amministratore (Geschäftsführer) può usare il Musterprotokoll, un modello di contratto già pronto previsto dalla legge. La IHK Berlin indica che con esso è possibile solo una costituzione con conferimenti in denaro. Se servono regole particolari tra i soci, redigere un proprio Gesellschaftsvertrag (atto costitutivo). Il contratto deve indicare denominazione, sede, oggetto sociale, ammontare del capitale e quota di ciascun socio.
+6664b6ff	Il contratto è valido solo in forma notarile. Può recarsi presso lo studio notarile di sua scelta oppure effettuare l'autenticazione in videoconferenza: la legge lo consente. Il Notar autentica anche le firme sulla domanda all'Handelsregister (registro delle imprese) e la invia lui stesso al tribunale. Gli onorari del Notar sono stabiliti dalla legge e sono uguali presso tutti i notai: il calcolo per GmbH e UG si trova nel percorso sul Notar.
+c95af3d0	A Berlino il registro è tenuto solo dall'Amtsgericht Charlottenburg (tribunale di Charlottenburg). Il notaio vi invia la domanda, il contratto, la nomina dell'amministratore e l'elenco dei soci. La tassa del tribunale è di 150 €, 240 € con conferimento in natura, più una Bereitstellungsgebühr (tassa per la messa a disposizione dei dati) pari a un terzo di tale importo. I tempi di trattazione non sono indicati nella pagina del servizio.
+6ad1ef98	La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Una società in costituzione allega il contratto autenticato e il consenso dei soci. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
+555fed6e	La Gewerbeanmeldung (comunicazione di attività imprenditoriale) è necessaria se la società commercia, presta servizi o produce: le eccezioni sono elencate nella pagina del servizio. La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Una società in costituzione allega il contratto autenticato e il consenso dei soci. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
+b771d3e1	GmbH (società a responsabilità limitata): lo Stammkapital (capitale sociale) è di almeno 25.000 €. Prima della domanda al registro si versa almeno un quarto di ogni quota e in totale almeno 12.500 €. La UG (haftungsbeschränkt) è la stessa forma con capitale da 1 €: il capitale si versa interamente e solo in denaro, non in natura, e un quarto dell'utile annuo va in una riserva finché il capitale non raggiunge 25.000 €. La denominazione della UG deve contenere «Unternehmergesellschaft (haftungsbeschränkt)» o «UG (haftungsbeschränkt)».
+413a59a1	La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Alleghi un estratto dello Handelsregister. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
+5197d659	La Gewerbeanmeldung (comunicazione di attività imprenditoriale) è necessaria se la società commercia, presta servizi o produce: le eccezioni sono elencate nella pagina del servizio. La comunicazione la presenta l'amministratore contestualmente all'inizio dell'attività. Alleghi un estratto dello Handelsregister. Online per GmbH e UG tramite BundID: 15 €; di persona presso l'Ordnungsamt del distretto: 31 € per una società con un amministratore e 13 € per ogni ulteriore.
+533fcffb	Una persona rifugiata o migrante che non riceve prestazioni dell’elenco (AsylbLG rientra tra le prestazioni)
+5419b9ec	Data e nome dell’evento; per l’agevolazione legata all’età, un documento che la attesti.
+2ae71e19	Il limite netto mensile è di 1.200 € per chi vive solo e 1.700 € per due persone, più 350 € per ogni figlio.
+a4989a6b	Lo sconto dipende dal museo; i biglietti gratuiti dipendono dalla disponibilità e dai requisiti.
+3bb9c308	Schwerbehindertenausweis; se necessario, con l’indicazione dell’accompagnatore.
+382c5744	Per alcune offerte è necessario documentare le prestazioni, il reddito o l’età.
+5e10b10b	Il servizio 116117 è destinato a chi ha l'assicurazione pubblica. Inserisca Berlino, scelga la specialità necessaria e l'orario libero. Per un normale specialista serve il codice di 12 cifre sull'impegnativa; per il medico di famiglia, il pediatra, il ginecologo, l'oculista e la prima visita dallo psicoterapeuta non serve il codice. Conservi la conferma; il servizio non promette uno studio specifico.
+85c47e61	Registri il cane online nell'area del proprietario del portale del registro. Servono il numero del microchip di 15 cifre dal libretto dell'animale e i dati sulla razza. Costo online: 17,50 € per cane. La ricevuta del costo (Kostenbescheid) vale come conferma. L'iscrizione nel registro vale anche come registrazione fiscale. La mancata registrazione o la mancata comunicazione delle modifiche è un illecito amministrativo con una multa fino a 10.000 €.
+021dfd96	L'iscrizione nell'Hunderegister basta: dal 1° gennaio 2024 vale anche come registrazione fiscale e non serve una visita a parte al Finanzamt. Il termine fiscale è un mese dall'acquisto del cane o dal trasferimento. L'avviso fiscale arriva da solo, dopo circa 4 settimane. Si può attivare l'addebito SEPA o pagare con bonifico. Le medagliette non servono più. L'aliquota non è indicata nella pagina del servizio: la indicherà l'avviso. L'esenzione si richiede con un servizio a parte.
+83fab683	L'assicurazione di responsabilità civile per i proprietari di cani (Tierhalterhaftpflichtversicherung) è obbligatoria per legge a Berlino, anche per i cani portati a passeggio a Berlino. Per i Listenhunde la franchigia è al massimo di 500 € l'anno.
+dcdbb3ed	Comunichi i dati per iscritto per posta o e-mail oppure al telefono (GovConnect GmbH). Servono il numero del microchip di 15 cifre dal libretto dell'animale e i dati sulla razza. Costo: 26,50 € per cane. La ricevuta del costo (Kostenbescheid) vale come conferma. L'iscrizione nel registro vale anche come registrazione fiscale. La mancata registrazione o la mancata comunicazione delle modifiche è un illecito amministrativo con una multa fino a 10.000 €.
+2f1302b6	Serve la Sachkundebescheinigung («Hundeführerschein»): esame presso un esperto riconosciuto (teoria 30 domande, soglia di superamento 70%, 45 minuti; pratica – il cane deve avere almeno un anno). La domanda si presenta di persona all'Ordnungsamt del distretto; servono il modulo, i dati del cane, l'assicurazione, la prova della Sachkunde e una foto. La tassa è calcolata sul tempo di trattazione: 20,50 € per ogni 15 minuti iniziati, minimo 41–61,50 € a seconda del motivo.
+c5184cac	Il termine è di 8 settimane dalla comunicazione (Anzeige) all'Ordnungsamt. È la «patente» del proprietario di un cane del genere. Si sostengono un test teorico (30 domande a risposta multipla, 45 minuti sotto sorveglianza, serve il 70% di risposte corrette) e un test pratico di obbedienza con il cane stesso: deve avere almeno 1 anno. L'esame lo svolgono esperti approvati dal Senato di Berlino. L'elenco degli esperti è presso l'Ordnungsamt e al link qui sotto. La Sachkundebescheinigung la rilascia l'Ordnungsamt su domanda con un modulo apposito.
+88c04c57	I Listenhunde a Berlino sono il Pit Bull Terrier, l'American Staffordshire Terrier, il Bull Terrier e i loro incroci. Qualsiasi altro cane può essere dichiarato pericoloso dall'Ordnungsamt dopo un incidente.
+987f2f35	La mancata iscrizione nel registro e la mancata comunicazione delle modifiche sono una violazione amministrativa, la sanzione può arrivare a 10.000 €.
+d96415df	L’autorizzazione è rilasciata dalla Veterinär- und Lebensmittelaufsicht del distretto in cui si trova la scuola. I contatti degli uffici sono nell’elenco degli Ordnungsämter.
+1394d790	Se l’obiettivo è passeggiare senza guinzaglio, sostenga l’esame dopo le lezioni
+a6e79749	L’esame dopo che il cane avrà compiuto un anno
+ebb248a4	Per i cani che vivevano con il proprietario prima del 22 luglio 2016 (Bestandshunde) non serve la Sachkundebescheinigung. Come prova vale ad esempio una polizza assicurativa, un avviso fiscale o un’annotazione nel passaporto dell’animale.
+59a64beb	Wesenstest e perizia di razza presso un esperto riconosciuto dal Senato
+5da1fbc9	Il test del comportamento (Wesenstest) e la perizia di razza (Rassegutachten) possono essere svolti solo da esperti riconosciuti dal Senato di Berlino. Scadenze e procedura completa per un cane della lista sono nel percorso sul cane.
+d22261fa	Comunicazione all’Ordnungsamt, Sachkunde, assicurazione e Wesenstest, con le scadenze, sono nel percorso sul cane.
+55120ab9	Qui sotto trova i modi di ricerca, i documenti e la procedura per le sue risposte. NOSTRES aiuta a prepararsi e a passare alle fonti ufficiali; la disponibilità di alloggi liberi e la decisione del locatore non dipendono da esso.
+1dbc1630	La protezione temporanea (§ 24) è un servizio separato
+950b5d79	Il cambio di motivo o di datore di lavoro è un altro servizio
+0e0017af	Se prevede di restare oltre la durata del visto, la LEA consiglia di presentare la domanda durante la sua validità, di solito da sei a otto settimane prima della fine di un visto di 12 mesi. Il primo permesso di soggiorno con visto D non è una proroga di un permesso già rilasciato; scelga il servizio in base allo scopo del soggiorno.
+9e9e00fc	Il visto Schengen C è una procedura separata
+0b2df4a3	In caso di pericolo di vita: il pronto soccorso di una clinica o il 112. Senza pericolo di vita può andare al Berliner Krisendienst senza appuntamento o scrivere in chat. Il telefono è l'alternativa di riserva.
+3901692d	Il Berliner Krisendienst risponde 24 ore su 24 al numero del quartiere: 030 39063-10 … -90, i numeri sono indicati nella pagina delle sedi. TelefonSeelsorge: 24 ore su 24 e gratis, 0800 111 0 111 e 0800 111 0 222. In russo risponde la linea 030 440 308 454.
+9ae4272e	Il primo colloquio (psychotherapeutische Sprechstunde) prevede fino a 6 incontri da 25 minuti, in totale fino a 150 minuti. L'impegnativa non serve. Il terapeuta convenzionato con la cassa malattia è obbligato a offrire questi colloqui. Se non c'è un posto adatto, il servizio 116117 deve trovare un primo colloquio entro 4 settimane.
+bc0f429c	Se dopo il colloquio il terapeuta indica nel modulo PTV 11 che la cura serve a breve, è possibile una cura urgente (Akutbehandlung) fino a 600 minuti. Non serve l'autorizzazione della cassa, il terapeuta la informa soltanto con il modulo PTV 12. Il servizio 116117 deve trovare una cura urgente entro 2 settimane.
+9c0c501a	Prima alcuni incontri di prova e una visita dal medico di famiglia o da un altro medico per escludere cause fisiche. Poi presenta la domanda alla cassa malattia insieme al terapeuta. La terapia breve dura 12–24 ore, quella lunga circa 30–60 ore a seconda del metodo.
+00f2e370	La malattia è un motivo valido se è confermata da un documento. Dal 1° luglio 2026 la seconda assenza senza motivo valido riduce la prestazione, e tre assenze di seguito la sospendono fino alla presentazione di persona.
+50450231	Il certificato di malattia (Arbeitsunfähigkeitsbescheinigung) di regola è riconosciuto dal Jobcenter come motivo valido. Lo invii al Jobcenter e conservi la conferma dell'invio. Il Jobcenter può chiedere a parte un certificato medico che attesti che non poteva andare proprio a quell'appuntamento, e pagarlo fino a 5,36 €.
+1bc90533	Il costo dei servizi del Notar è stabilito dalla legge Gerichts- und Notarkostengesetz (GNotKG) ed è uguale in tutta la Germania. Il Notar è tenuto a chiedere esattamente quanto previsto dalla legge, né di più né di meno. La consulenza e la preparazione della bozza del documento sono comprese negli onorari per l'autenticazione. Gli onorari dipendono dal valore della pratica (Geschäftswert).
+65c2f654	Per l'iscrizione nell'Handelsregister arriva una fattura ufficiale, di solito dall'Amtsgericht (tribunale). Gli elenchi privati inviano fatture simili: non vanno pagate. La tassa del tribunale a Berlino è di 150 €, con conferimento in natura 240 €, più un terzo di tale importo; il termine per l'iscrizione non è indicato sulla pagina del tribunale.
+43afc4e5	Il cane va iscritto nel registro centrale (Hunderegister) appena inizia a tenerlo a Berlino; deve avere un microchip. Registrazione e tassa sono nel percorso sul cane.
+6a54c1c0	rilasciato da un veterinario ufficiale o autorizzato del paese di partenza e poi vidimato dall'autorità; valido 10 giorni dal rilascio al controllo d'ingresso e, per i viaggi successivi nell'UE, 6 mesi o fino alla scadenza del vaccino
+a57343dd	L'ingresso da un paese extra UE è possibile solo attraverso un punto d'ingresso per viaggiatori designato dal paese UE in cui entrate. A Berlino è l’aeroporto BER. Dichiari l’animale in dogana: si controllano i documenti e si legge il chip. Se il chip non è conforme allo standard UE, porti il suo lettore.
+c4e8c356	Il passaporto UE è rilasciato per animali i cui proprietari vivono nell’UE. Serve per viaggiare tra paesi UE. La procedura è nel percorso sul passaporto.
+41c5bdfe	il certificato, entro 10 giorni prima dell’ingresso
+75de80bf	Per altri animali non c’è il passaporto UE. Le regole per viaggiare con loro sono nel percorso sul trasferimento con un animale.
+ba4a2479	Per le professioni universitarie non regolamentate, ad esempio economista (Wirtschaftswissenschaftler/in), la ZAB rilascia la Zeugnisbewertung, un parere sulla comparabilità del titolo di studio. La domanda si presenta online e serve il BundID. Il parere non dà diritto a lavorare in una professione regolamentata.
+e05bfe0e	I cittadini di UE, SEE e Svizzera non hanno bisogno del visto per la Germania. Si può lavorare, studiare e cercare lavoro senza permesso di soggiorno. Il primo passo obbligatorio dopo il trasloco è registrare l'indirizzo.
+e3595de9	Offerte e diritti dei lavoratori sono nel percorso sul lavoro dipendente; l'ammissione nel percorso sullo studio.
+6289e034	La tua via: visto per lavoro
+1be40c6d	I cittadini di Australia, Israele, Giappone, Canada, Corea del Sud, Nuova Zelanda, Regno Unito e USA ottengono il permesso dopo l'ingresso senza visto. La domanda va presentata entro 90 giorni dall'ingresso.
+c1523996	Con meno di 35 anni puoi venire a cercare un posto di Ausbildung; con un contratto, direttamente per la formazione.
+89204fa8	La tua via: la Chancenkarte
+dac5b801	La tua via: visto per studenti
+7069c2ce	Per studiare serve un visto per studenti; finché l'università esamina la domanda, un visto per candidati. I mezzi si dimostrano con Sperrkonto, Verpflichtungserklärung o borsa di studio.
+02d1e567	La tua via: visto per l'Ausbildung
+be87437d	La tua via: visto per volontari
+38292220	Il volontariato in Germania è il Bundesfreiwilligendienst, l'FSJ, l'FÖJ o il Corpo europeo di solidarietà. Prima servono posto e accordo, poi il visto.
+bccd363f	La tua via: ricongiungimento familiare
+974d0338	La Chancenkarte è adatta con una formazione riconosciuta; il volontariato BFD non ha limiti di età.
+d471c320	18–30 anni; Australia e Canada 18–35, Corea del Sud 18–34
+d554b8ab	Qualsiasi rappresentanza tedesca; chi risiede in Australia presso il Consolato generale di Sydney
+29d6ac37	Lo scopo del viaggio è una vacanza con lavoretti, non un lavoro stabile
+111264b8	Il limite di età per questo Paese è 35 anni. Valuta altre possibilità di trasferimento.
+1ff5c65a	Il limite di età per questo Paese è 30 anni. Valuta altre possibilità di trasferimento.
+7579c44e	Per la Corea del Sud: Ambasciata tedesca a Seul
+722c6bf7	Il limite di età per questo Paese è 34 anni. Verifica i requisiti ufficiali e dove presentare la domanda.
+a942e72d	Il limite di età per questo Paese è 34 anni. Valuta altre possibilità di trasferimento.
+4f5ef476	Residenti in Canada: Consolato generale di Germania a Toronto
+11c7cdef	Il limite di età per questo Paese è 35 anni. Verifica i requisiti ufficiali e dove presentare la domanda.
+6868fa7a	Per il Brasile: rappresentanza diplomatica tedesca in Brasile
+36352ee4	Per Hong Kong: Consolato generale di Germania a Hong Kong; il richiedente vive a Hong Kong
+78b518c0	Per Taiwan: Istituto tedesco di Taipei
+c78a5f0d	La tua via: la Westbalkanregelung
+8537efe2	La Niederlassungserlaubnis è un permesso di soggiorno a tempo indeterminato. Verifichi di soddisfare gli altri requisiti, raccolga i documenti, presenti la domanda online e si rechi all'appuntamento presso la LEA.
+5febc050	Domanda e file online, poi appuntamento presso la LEA con gli originali.
+05cb1421	56,50 € per l'esame della domanda e 56,50 € per il rilascio; con istruzione universitaria come specialista altamente qualificato, 73,50 € e 73,50 €; per i cittadini turchi 13,80 € fino a 24 anni e 23,00 € dai 24 anni per ciascuna parte
+04e6cf09	I file si caricano nel modulo online: l'elenco è qui sotto, l'elenco completo è sulla pagina del servizio. Gli originali serviranno all'appuntamento.
+28c3d83e	3 anni con permesso di soggiorno come familiare di un cittadino tedesco; la famiglia ha vissuto insieme per tutto questo tempo e resta unita. Tedesco B1; con permesso di soggiorno anteriore al 6 settembre 2013, A1. Sostentamento garantito con reddito proprio senza Bürgergeld né Sozialhilfe (eccezione: malattia permanente con certificato medico); assicurazione sanitaria e assicurazione per l'assistenza per Lei e la famiglia; residenza principale a Berlino. Anche una multa inflitta con sentenza può impedire il rilascio, e un'indagine in corso sospende l'esame della domanda.
+c28e98e5	Per la domanda servirà un certificato di tedesco: B1 e, con permesso di soggiorno anteriore al 6 settembre 2013, A1. Può scegliere corso ed esame nel percorso del corso di integrazione.
+079f185a	Il numero viene assegnato tramite il datore di lavoro: la via è una sola, l'alternativa è la richiesta alla DRV o alla cassa.
+8a6cae91	La Steuer-ID è un codice fiscale a parte
+a6a9fb28	Versa l'importo necessario; la banca rilascia una conferma per la domanda. Prima dell'ingresso il beneficiario del blocco è la rappresentanza, dopo l'ingresso l'ufficio stranieri. Le opzioni di fornitori sono qui sotto.
+3ac5168b	Il visto per candidati permette di venire senza Zulassung e candidarsi alle università sul posto, sostenere un esame d'ingresso o prepararsi. Dura fino a nove mesi.
+57256e18	Il visto per cercare un posto di Ausbildung è fino a 35 anni
+0970b351	Il provider è tenuto a fornire un riepilogo del contratto in forma testuale prima della stipula. La durata iniziale massima è di 24 mesi. Scelga dove stipulerà il contratto.
+4210323f	Il modo più semplice è un'app con eSIM, senza visite e senza SIM per posta. Se le serve un contratto con un operatore di rete, lo stipuli online.
+e1804f32	Il modo più semplice e rapido è un router sulla rete mobile: lo si collega alla presa e internet funziona. Internet via cavo è spesso più veloce, ma dipende dall'indirizzo e può richiedere un tecnico.
+a9117607	La durata minima di Vodafone è 24 mesi
+8581ca78	Il vecchio provider deve mantenere il servizio fino al passaggio e può prendere non più del 50% del canone di attivazione. L'interruzione non deve durare più di un giorno lavorativo. Per ogni giorno lavorativo in più spetta il 20% del canone mensile (non meno di 10 €); se il trasferimento del numero non riesce, 10 € al giorno dal secondo giorno lavorativo.
+dfe6aa29	Non esiste uno sconto generale legato alla condizione sociale. Con un contributo del datore di lavoro di almeno il 25% (15,75 €), il Deutschlandticket Job costa 59,85 € e la quota del dipendente non supera 44,10 €; studenti e apprendisti hanno offerte specifiche.
+4501b535	Il biglietto è disponibile solo negli atenei con contratto VBB. Nel 2026 costa il 60% del Deutschlandticket standard, cioè 37,80 € al mese; l’università spiega come ottenerlo.
+5d7cf03e	Nel 2026: 37,80 € al mese negli atenei aderenti
+7debe894	È necessario che il tuo ateneo abbia un accordo.
+c52c28f8	Bundesregierung: prezzo del Deutschlandsemesterticket – 60% del Deutschlandticket
+de8fc739	Se l’ateneo non partecipa al Deutschlandsemesterticket, lo studente può avere diritto alla Monatskarte Ausbildung se studia a Berlino o Brandeburgo per almeno 15 Credit Points a semestre. Nel 2026 Berlin AB costa 74,10 € per il normale mensile o 55,40 € al mese con abbonamento di 12 mesi; Berlin ABC costa rispettivamente 95,70 € o 77,50 €. Queste tariffe valgono fino a fine 2026; dal 1° gennaio 2027 Berlin AB costa 76,90 € per il normale mensile e 57,50 € al mese con abbonamento.
+3cf67f29	Ne hanno diritto solo gruppi specifici: formazione professionale a tempo pieno e scuole sanitarie riconosciute; partecipanti a FSJ/FÖJ/BFD; e alcuni candidati al pubblico impiego di Berlino senza rimborso del trasporto. La formazione o il servizio deve durare almeno 12 mesi per 20 ore settimanali; l’ente deve figurare nell’elenco VBB.
+5d282d38	Per la formazione duale, il datore di lavoro deve avere un contratto Deutschlandticket Job e versare un contributo maggiorato. Nel 2026 deve contribuire almeno 22,05 €; dopo lo sconto dell’operatore il biglietto costa 59,85 € e l’apprendista idoneo paga al massimo 37,80 € al mese.
+f746b0e0	Per la formazione professionale a tempo pieno o il servizio volontario: Berechtigungsnachweis dell’ente, rilasciato da non più di 30 giorni al momento dell’invio all’operatore.
+dcafa498	Per la formazione duale: prova del contratto Deutschlandticket Job e del contributo maggiorato del datore di lavoro (almeno 22,05 € nel 2026).
+f4da9347	La residenza principale deve essere a Berlino e la prestazione deve figurare nell’elenco ufficiale di quelle che danno diritto al Berlin-Ticket S.
+b4b4471e	Il Berlin-Ticket S è solo per i residenti a Berlino con un sussidio che dà diritto. Il percorso mostra le tariffe normali VBB e il Deutschlandticket.
+ae8ccfb6	Gratuito con Wertmarke valida; accompagnatore con Merkzeichen B
+20b57fab	Per l’accompagnatore gratuito: il contrassegno Merkzeichen B.
+f92507b5	Il 112 è il servizio di soccorso. In caso di grave affanno, perdita di coscienza, forte emorragia e altri segni di pericolo di vita serve una valutazione urgente di specialisti. La chiamata si fa per telefono, non tramite un modulo del sito.
+2ad48233	Il 116117 è per un problema urgente ma non pericoloso per la vita. Indirizzo e orari dello studio di guardia dipendono dal giorno e dal distretto; li verifichi prima di andare.
+5d2531e6	Chiami il 116117. Il servizio funziona 24 ore su 24 e indirizza all'aiuto adatto. Per il pericolo di vita: 112.
+1d2a83d5	Visite lun–ven 9–19 in tedesco e inglese. In arabo il lunedì 10–12, in francese su appuntamento.
+796ef56d	Ad esempio: Tiermedizinzentrum Evidensia, Kufsteiner Str. 22, 030 85 42 050, tutti i giorni 9–24; Tierklinik Freie Universität, Oertzenweg 19 b, 030 838 62422, fine settimana e festivi 10–18, anche senza telefonare; Tierarztpraxis Lenk, Schönfließer Str. 1, 030 44 69 769, dom e festivi 10–18. L’elenco completo con gli orari è sul sito della camera.
+9b304a13	Tierärzte im Notdienst – Berlin & Brandenburg: 0157 859 49 631, 24 ore su 24.
+2cdc7ebb	Tierärzte im Notdienst – Berlin & Brandenburg: 0157 859 49 631, 24 ore su 24, visite a domicilio.
+4e253d78	sotto i 27 anni – 25 giorni di seminario in 12 mesi e un seminario di educazione civica di 5 giorni; gratuiti e in orario di servizio
+3a5b071a	dai 27 anni – almeno un giorno di seminario al mese, gratuito e in orario di servizio
+37f0dc03	Fino a 30 anni alla data di inizio; fino a 35 solo per il volontariato di aiuto umanitario in paesi extra UE.
+1a3952fd	Il visto per volontari si rilascia solo con un accordo con un luogo di servizio. Il BFD è aperto a ogni età, FSJ e FÖJ fino a 27 anni, il Corpo europeo di solidarietà dai 18 ai 30.
+80c0e585	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione.
+a75a9667	Se non è solo: certificato di matrimonio o dichiarazione di unione; per i figli certificati di nascita e dichiarazione sull'affidamento
+17887617	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione. Per un WG la domanda comune dei coinquilini e l'unione di WBS separati non sono possibili: ognuno presenta la propria.
+c75e4349	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione. Condizione: deve vivere a Berlino non solo temporaneamente, per almeno 11 mesi.
+80399a95	Il WBS (Wohnberechtigungsschein, permesso per affittare un alloggio popolare) lo rilascia l'ufficio abitativo del suo distretto. Scelga il modo di presentazione. Condizione: deve vivere a Berlino non solo temporaneamente, per almeno 11 mesi. Per un WG la domanda comune dei coinquilini e l'unione di WBS separati non sono possibili: ognuno presenta la propria.
+cee29f04	Prova della qualifica: per la laurea, esito positivo in anabin o valutazione della ZAB; per la formazione professionale, «Auskunft zur Berufsqualifikation» positiva della ZAB
+08f516cb	prima fino a 12 mesi, proroga di un anno alla volta fino a 3 anni; oltre al lavoro concordato, lavoretto fino a 20 ore settimanali
+9972ada2	Senza riconoscimento in Germania puoi lavorare nella tua professione tramite un'Anerkennungspartnerschaft: il riconoscimento avviene dopo l'ingresso, durante il lavoro. Serve un tedesco di almeno A2. L'alternativa è ottenere il riconoscimento prima del trasferimento.
+7b324dcf	fino a 50.000 approvazioni l'anno, ripartite per mesi e Paesi; nessuna prestazione AsylbLG negli ultimi 24 mesi; dai 45 anni, alla prima approvazione, stipendio da 55.770 € l'anno o previdenza pensionistica; il primo consenso solo se la domanda è presentata presso la rappresentanza tedesca in uno dei sei paesi
+e842bd1a	NOSTRES: riepilogo personale del percorso
+20c3f7b7	Stabilisca se le è stato assegnato un IdNr. personale e segua il percorso ufficiale adatto, senza intermediario a pagamento e senza trasmettere il numero a NOSTRES.
+6bb8b9bf	Stabilisca il percorso ufficiale per l'assicurazione, scelga la Krankenkasse e ottenga la conferma di iscrizione e la eGK, senza intermediario a pagamento.
+f7f52821	Non è una classifica. Qui sotto ci sono tre esempi di casse pubbliche disponibili a Berlino e l'elenco ufficiale completo. Confronti contributo, servizio scritto e sedi.
+ce7a42ce	Usi la cassa attuale: per l'assicurazione familiare la cassa del familiare, per la tessera sanitaria la cassa in cui l'iscrizione è già confermata.
+9fbfda72	La valutazione al momento non è stata salvata. Provi a inviarla di nuovo: le risposte restano sullo schermo.
+422720cb	Al momento la segnalazione non è stata salvata. Riprovi più tardi: i dati inseriti non sono andati persi.
+81a8499b	NOSTRES: piani d'azione autonomi e fonti ufficiali
+e40667a5	Rispondi alle domande su cittadinanza e obiettivo. Il percorso mostra se serve il visto e quale via è adatta – lavoro, Chancenkarte, studio, Ausbildung, volontariato, famiglia o Working Holiday – e apre il percorso successivo. Dati dalle pagine ufficiali del Ministero degli Esteri, di Make it in Germany e di Berlino.
+8a4779f8	Qui ci sono solo domande. Dopo le risposte prema «Ottieni il percorso»: si apriranno la conclusione e i link alle azioni ufficiali.
+93eaee0f	Se la registrazione c'è già, lo segni nelle risposte: la voce scomparirà.
+9ecc1a25	Per i bambini di prima classe dell'anno 2027/28 nati dal 01.10.2020 al 30.09.2021 la registrazione di persona a scuola è fissata dal 5 al 16 ottobre 2026. Per chi è già scolaro dopo il trasloco la procedura del distretto è diversa: verifichi la fonte ufficiale.
+90933879	Prima verifichi se la registrazione elettronica è adatta ai suoi documenti e alla sua situazione. Se no, il servizio ufficiale prevede un appuntamento di persona; lo può svolgere un rappresentante con procura scritta. Per il caso in cui non possa venire né il richiedente né il rappresentante e le condizioni online non siano soddisfatte, un'alternativa scritta non è confermata: verifichi i contatti dell'ufficio nella pagina ufficiale.
+ad725635	NOSTRES: alla home page
+7951eade	NOSTRES è un servizio autonomo. La procedura e l'applicabilità dipendono dalla sua situazione; la decisione definitiva spetta all'ufficio competente o alla cassa assicurativa.
+4b0043fa	Per un posto in un asilo finanziato serve un Kita-Gutschein (buono). La domanda si può compilare online, poi il documento firmato si invia per posta al Jugendamt (ufficio per i giovani) del distretto o si consegna di persona. La ricerca del posto e il rilascio del buono sono azioni diverse.
+13dbf581	Assicurazione sanitaria e di assistenza, responsabilità del proprietario del cane e dell'auto, previdenza sociale sul lavoro e requisiti per i lavoratori autonomi: secondo la situazione e con fonti ufficiali.
+29ed78c3	Se il lavoro è soggetto a contributi sociali, la registrazione nei sistemi di previdenza sociale la effettua il datore di lavoro. Le forme speciali di occupazione hanno regole diverse: verifichi il suo contratto e la busta paga.
+ed269f36	Ci sono sedi per la consulenza di persona (per l'AOK la ricerca «AOK vor Ort»), ma la visita come passo obbligatorio dell'iscrizione non è indicata.
+0ae75ea5	NOSTRES è un progetto informativo indipendente dall'Italia.
+eae5af02	Domanda o richiesta inviata: si attende la risposta
+442fcad1	NOSTRES: riepilogo personale del percorso
+fef8a8ab	Interprete presso un ufficio di Berlino: gratuito
+5b05a082	Interprete per le prestazioni e dal medico: gratuito
+ae1e2003	Il 116117 ha una chat per persone con disabilità uditiva o del linguaggio, per quando serve assistenza medica ma la vita non è in pericolo. Nella chat scelga la regione Berlino. Nella ricerca degli studi medici del 116117 c'è il filtro «lingua dei segni».
+8deeba2d	NOSTRES: pagina principale
+30498144	NOSTRES: un percorso chiaro dopo il trasloco; primo progetto pilota: Berlino
+3fce97df	NOSTRES è un servizio informativo gratuito con guide passo per passo dopo il trasloco: documenti, casa, salute, lavoro, famiglia, sussidi, banca e telefonia, trasporti e animali. La prima città è Berlino; altre città sono previste.
+333b681b	Parole poco chiare, domande superflue, il Suo caso manca, un link porta altrove: tutto ciò che L’ha fatta fermare o esitare.
+990321c4	In base alle Sue valutazioni decideremo quali percorsi correggere per primi e se il servizio è pronto per un lancio più ampio. Per questo il risultato principale del test è la breve valutazione alla fine del percorso.
+e13adcdf	Non servono nome, indirizzo, numeri di documenti né dati medici; il servizio non li chiede. Poi premi il pulsante sotto le domande per ottenere il tuo piano personale.
+a2ffbb18	Valuta il percorso: è il risultato principale del test
+72df6bac	Subito sotto i passaggi premi «Sì, mi ha aiutato» o «No, non mi ha aiutato»: un solo tocco. Se vuoi, sotto si apre una valutazione dettagliata di quattro brevi domande. Senza risposta non sapremo com'è andato il test.
+628e3f7e	Se nessuna situazione Le è familiare, ne scelga una plausibile e risponda come farebbe quella persona. Se il Suo caso non è tra le risposte, indichi «Il mio caso non c’è» nella valutazione. Può provare più percorsi, con una valutazione per ciascuno.
+e5d696d5	La Online-Ausweisfunktion (eID) è una funzione del chip che conferma la sua identità in un servizio online statale. Non è un account separato: l'eID conferma l'identità, mentre la BundID si usa come account.
+ac1d9833	Se ha già una carta adatta e un PIN di sei cifre: installi AusweisApp e avvii «Gerät und Ausweis prüfen»: l'app verificherà lo smartphone NFC e l'attività dell'eID.
+93bb93e1	Ottenga la Wohnungsgeberbestätigung dal proprietario o locatore: il contratto d'affitto non la sostituisce.
+3b2ed1cc	Modulo di Anmeldung: alla visita
+63409077	Documenti sullo stato civile: alla prima registrazione, se applicabile
+d5d65b58	Cittadinanza tedesca o di un paese UE: così è formulata la condizione nel ServicePortal Berlin.
+f998d02c	Se il servizio online non accetta la sua situazione, scelga la visita di persona: non usi scorciatoie non ufficiali.
+ed6c131e	Per più appartamenti: Beiblatt zur Anmeldung / Hauptwohnungserklärung.
+e8ddde01	Per un figlio in una situazione particolare di affidamento: consenso e documenti dell'altro rappresentante legale.
+880accf4	Per un rappresentante: procura scritta e modulo firmato dal richiedente.
+b478cd8d	Stabilire il canale LEA corretto in base allo status e allo scopo del soggiorno, senza comprare un appuntamento da un intermediario.
+0a2fb61f	Assicurazione sanitaria e prova dei mezzi, se la procedura lo richiede
+d5b64837	In passato ero registrato/a, ora no
+749037d2	L'indicazione ufficiale per l'invio automatico è di 4–8 settimane. Se la lettera non c'è nemmeno dopo 3 mesi, il BZSt consiglia di richiedere di nuovo il numero.
+632ea342	Documento d'identità: per la richiesta di persona
+f19beea7	Modulo 010250 e copia del documento: solo per le persone senza Meldepflicht
+d9eca154	Senza documenti e senza costi; elaborazione media della richiesta online 4 settimane, invio automatico dopo la prima Anmeldung 4–8 settimane.
+a28cda29	Controlli la lettera del BZSt sull'assegnazione della steuerliche Identifikationsnummer: sono 11 cifre.
+5c64cbf4	Se non trova il numero, passi al nuovo rilascio online ufficiale; in caso di necessità urgente, al Finanzamt con un documento d'identità.
+f0c8915c	Indichi l'Hauptwohnsitz, non una Ferienwohnung né un indirizzo di breve durata.
+b7ff194e	Meldebestätigung: utile da portare per verificare l'indirizzo
+200fafe1	Anmeldung: entro 14 giorni dall'ingresso; l'IdNr. dopo di essa viene assegnato automaticamente.
+60f1ce82	Se presenta la Einkommensteuererklärung, un modulo separato per l'IdNr. può non servire: lo verifichi con il Finanzamt competente.
+3f604371	La ricerca del medico e l'assistenza urgente saranno percorsi separati. Qui l'obiettivo è confermare l'assicurazione stessa.
+f0d2d983	Gli studenti possono essere assicurati in famiglia, rientrare nella studentische Pflichtversicherung o, dopo i 30 anni, a certe condizioni, proseguire volontariamente nella GKV.
+e57a4525	Servono parentela o unione con un iscritto alla GKV, residenza in Germania e assenza di un'altra assicurazione obbligatoria; il reddito lo verifica la Krankenkasse. Il limite generale di reddito nel 2026 è di 565 € al mese, con un Minijob 603 €.
+803d5fa2	Reddito oltre 565 € al mese (con Minijob oltre 603 €)
+c28069cd	Non so: serve una verifica ufficiale
+1e4586c6	Dati del datore di lavoro, dell'università, di un familiare o del Jobcenter, a seconda del motivo
+22f75029	Foto per la eGK, su richiesta della Krankenkasse
+8cc69c3c	gesund.bund.de – portale federale della salute
+c2323567	Nel 2026 il limite generale di reddito è di 565 € al mese, con un Minijob 603 €.
+fd053ef0	Foto per la eGK, quando la richiederà la Krankenkasse
+1c589ccd	Foto per la eGK, se la cassa è pronta ad accettarla subito
+a7ba7b67	Dati sui contributi, se serve un sussidio
+0c94a372	Documento d'identità, se la cassa richiede l'identificazione
+31e168f0	Contratto di lavoro e reddito, se lavora
+b9333fb5	Immatrikulation o Zulassung, se studia
+60d11d80	Motivo dell'assicurazione familiare, se applicabile
+345766c0	Passaporto e Aufenthaltstitel, se applicabile
+51b694db	Autorizzazioni o documenti professionali, per le attività regolamentate
+daaf6fa6	Prove dell'esperienza, se ci sono
+f2778f0d	Anerkennung in Deutschland, portale ufficiale
+37e4b49f	Documenti scolastici precedenti, se ci sono
+e89e5e81	Prova di lavoro / studio dei genitori, per la durata della Kita, se richiesta
+1dd6ca84	Per l'Anmeldung il contratto d'affitto non sostituisce la Wohnungsgeberbestätigung. Alla prima registrazione a Berlino possono servire in più i documenti di stato civile già in suo possesso; per casi speciali, moduli separati.
+9998c01c	Per la normale visita di persona usi la ricerca berlinese per indirizzo. Per un lavoratore senza Meldepflicht è competente il Finanzamt del datore di lavoro; per un altro obbligo fiscale, il Finanzamt che gestisce la Einkommensteuer.
+4963b963	Per la richiesta online ripetuta non si caricano documenti. Per la visita urgente di persona serve un documento d'identità; per il rilascio a chi è senza Meldepflicht, il modulo 010250 e la copia del passaporto o del Personalausweis.
+fa74193b	L'iscrizione c'è già: verifichi la conferma
+16020079	Il riferimento ufficiale per l'invio automatico è di 4–8 settimane. Se dopo 3 mesi non c'è la lettera, usi la nuova richiesta online; in caso di necessità urgente il ServicePortal ammette la visita di persona al Finanzamt.
+8761b667	Il BZSt comunica di nuovo lo stesso IdNr. a vita. L'elaborazione media del modulo online è di 4 settimane; il numero arriva con lettera cartacea, non per email o telefono.
+d8999e42	Un reddito sopra il limite generale di 565 € al mese (con Minijob 603 €) nel 2026 impedisce l'assicurazione familiare gratuita. Chieda alla cassa di stabilire per iscritto il suo regime proprio.
+a0465b58	Freier Beruf e Gewerbe si registrano presso autorità diverse e sono tassati in modo diverso. La guida federale elenca le libere professioni: se la sua attività vi rientra, il percorso passa dal Finanzamt, altrimenti dalla Gewerbeanmeldung. Prepari in anticipo una descrizione esatta dell'attività.
+816ab9bd	Risponda a tutte le domande: NOSTRES sceglierà il passo successivo applicabile.
+2347ad36	Eventi tecnici e valutazioni servono a mantenere e migliorare il servizio gratuito. La base del trattamento è il legittimo interesse dell'autrice del progetto a verificare il funzionamento dei percorsi e correggere i problemi. Se invia una lettera, i suoi dati servono a esaminare la richiesta e a rispondere.

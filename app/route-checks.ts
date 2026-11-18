@@ -4,7 +4,7 @@
  * страницы маршрутов, сводка и отчёт об актуальности (scripts/sources-extract.mjs → worker/route-sources.json).
  *
  * Дата меняется только после фактической сверки всего маршрута по официальным источникам
- * (docs/SOURCE_POLICY.md, п. 4). Формат — как на странице: «19 октября 2026».
+ * (docs/SOURCE_POLICY.md, п. 4). Формат – как на странице: «19 октября 2026».
  */
 export const routeCheckedAt = {
   anmeldung: "30 октября 2026",
@@ -85,25 +85,25 @@ export function isoDate(russian: string): string {
  * Изменения отдельных официальных страниц, которые уже проверены: страница сверена с утверждениями маршрута
  * (и при необходимости маршрут исправлен), но весь маршрут заново не сверялся, поэтому его общая дата не меняется.
  * События мониторинга по этой странице до указанного момента (UTC) отчёт об актуальности больше не показывает.
- * Запись добавляется только после фактического чтения страницы; в комментарии — что проверено.
+ * Запись добавляется только после фактического чтения страницы; в комментарии – что проверено.
  */
 export const sourceReviewedAt: Record<string, string> = {
   // Basiskonto: 27,83 € в 2023, форма и онлайн-доступ, украинские документы, бесплатная процедура BaFin совпадают (перепроверено 2026-11-16, Stand 11.07.2025).
   "https://www.verbraucherzentrale.de/wissen/geld-versicherungen/sparen-und-anlegen/das-recht-auf-ein-basiskonto-fuer-neu-in-deutschland-angekommene-12224": "2026-11-16T07:50Z",
   // N26: 18 лет, страна проживания, смартфон, документ, 0 €, карта 10 €, «in wenigen Minuten» совпадают; адрес без переадресации (перепроверено 2026-11-12).
   "https://n26.com/de-de/konto-eroeffnen": "2026-11-12T12:14Z",
-  // Vivid: 18 лет, без отделения, счёт готов после регистрации — совпадает (перепроверено 2026-11-16).
+  // Vivid: 18 лет, без отделения, счёт готов после регистрации – совпадает (перепроверено 2026-11-16).
   "https://support.vivid.money/en/articles/8460178-how-can-i-open-an-account": "2026-11-16T07:50Z",
-  // AOK Nordost Berlin: онлайн-сервисы, контактная форма, поиск сервисных центров — совпадает.
+  // AOK Nordost Berlin: онлайн-сервисы, контактная форма, поиск сервисных центров – совпадает.
   "https://www.aok.de/pk/nordost/region/berlin/": "2026-10-29T16:46Z",
   // BAMF: 2,29 €/час, 1.603 €, возврат половины, повтор 300 часов; допуск по § 44 Abs. 4 добавлен для ЕС и ВНЖ до 2005 года.
   "https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/TeilnahmeKosten/EU-Buerger/eu-buerger-node.html": "2026-10-29T16:46Z",
   "https://www.bamf.de/DE/Themen/Integration/TraegerLehrFachkraefte/TraegerIntegrationskurse/Organisatorisches/TeilnahmeKosten/Auslaender/auslaender.html?nn=282656": "2026-10-29T16:46Z",
-  // Willkommenszentrum: ведомства, консультации на русском и украинском, телефоны и часы — совпадает.
+  // Willkommenszentrum: ведомства, консультации на русском и украинском, телефоны и часы – совпадает.
   "https://willkommenszentrum.berlin.de/en/work-education/recognition-international-qualifications": "2026-10-29T16:46Z",
-  // Blue Card (та же услуга 324659): пороги 2026, согласие BA, онлайн, файлы, сборы, eAT 4–6 недель — совпадает.
+  // Blue Card (та же услуга 324659): пороги 2026, согласие BA, онлайн, файлы, сборы, eAT 4–6 недель – совпадает.
   "https://service.berlin.de/dienstleistung/324659/standort/327805/": "2026-10-29T16:46Z",
-  // Commerzbank Basiskonto (открыта в Chrome): 6,90 €/мес., порядок «форма → запись → документы → проверка в отделении → письменное решение» совпадает; сроки онлайн-открытия на странице отсутствуют — факт исправлен.
+  // Commerzbank Basiskonto (открыта в Chrome): 6,90 €/мес., порядок «форма → запись → документы → проверка в отделении → письменное решение» совпадает; сроки онлайн-открытия на странице отсутствуют – факт исправлен.
   "https://www.commerzbank.de/privatkunden/girokonten/basiskonto/": "2026-10-29T17:20Z",
   // Ausbildung: B1 обычно требуется, если учреждение не проверило немецкий и подготовительный курс не предусмотрен (§ 16a Abs. 3: «erworben werden sollen»); суммы 2026 и 20 часов подтверждены.
   "https://www.make-it-in-germany.com/de/visum-anerkennung/visaarten/berufsausbildung": "2026-11-05T11:30Z",
@@ -111,7 +111,7 @@ export const sourceReviewedAt: Record<string, string> = {
   "https://www.make-it-in-germany.com/en/visa-recognition/visa-types/qualified-professionals": "2026-11-05T11:30Z",
   // Auslandsportal: 28 долгосрочных целей, все визовые отделы подключены, лично всё ещё нужны биометрия и оригиналы.
   "https://www.auswaertiges-amt.de/en/visa-service/consular-services-portal": "2026-11-05T11:30Z",
-  // ESC: регистрация с 17, начало с 18, предел 30 лет; 35 лет — только гуманитарное волонтёрство в третьих странах.
+  // ESC: регистрация с 17, начало с 18, предел 30 лет; 35 лет – только гуманитарное волонтёрство в третьих странах.
   "https://youth.europa.eu/solidarity/young-people/about_en": "2026-11-05T11:30Z",
   // FSJ/FÖJ: Vollzeitschulpflicht должна быть завершена, к окончанию службы нельзя достичь 27 лет; волонтёры из-за рубежа допускаются.
   "https://www.jugendfreiwilligendienste.de/jugendfreiwilligendienste/service/faq": "2026-11-05T11:30Z",
@@ -128,56 +128,56 @@ export const sourceReviewedAt: Record<string, string> = {
   // Berlin LEA: in-country method and age bands; Australia still listed as 18–30, so not offered in Berlin for ages 31–35; Japan: online application not yet possible, contact form of Referat F 1 (rechecked 2026-11-05T18:40Z).
   "https://service.berlin.de/dienstleistung/305265/": "2026-11-05T11:43Z",
   // Еженедельная сверка 2026-11-12 (страницы прочитаны, факты маршрутов совпадают):
-  // Berliner Sparkasse, Entgeltinformation Giro Digital Basiskonto (Datum 01.11.2026): 4,95 € в месяц — совпадает.
+  // Berliner Sparkasse, Entgeltinformation Giro Digital Basiskonto (Datum 01.11.2026): 4,95 € в месяц – совпадает.
   "https://www.berliner-sparkasse.de/content/dam/myif/berliner-sk/work/dokumente/pdf/preise-leistungen/entgeltinformation-giro-digital-basis.pdf?n=true": "2026-11-12T12:14Z",
-  // BaFin: адрес отдаёт страницу формы «Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung … Basiskontovertrags» со ссылкой на PDF — назначение совпадает.
+  // BaFin: адрес отдаёт страницу формы «Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung … Basiskontovertrags» со ссылкой на PDF – назначение совпадает.
   "https://www.bafin.de/SharedDocs/Downloads/DE/Formular/dl_fo_basiskonto_antrag_verwaltungsverfahren.pdf?__blob=publicationFile&v=1": "2026-11-12T12:14Z",
   // 116117: адрес открывает «Arzt- und Psychotherapeutensuche» (не главную), языки портала совпадают; фильтр строится скриптом и не проверен (перепроверено 2026-11-16: страница открывается, 10 языков интерфейса).
   "https://arztsuche.116117.de/pages/arztsuche.xhtml": "2026-11-16T07:50Z",
-  // Anmeldung: 14 дней, онлайн с BundID и eID (с 18 лет, переезд внутри Германии, eAT не подходит), документы, «Gebühren: keine», Meldebestätigung — совпадает.
+  // Anmeldung: 14 дней, онлайн с BundID и eID (с 18 лет, переезд внутри Германии, eAT не подходит), документы, «Gebühren: keine», Meldebestätigung – совпадает.
   "https://service.berlin.de/dienstleistung/120686/": "2026-11-12T12:14Z",
-  // EWA: 4 шага, 10 + 5 минут, до 3 рабочих дней, бесплатно (Aktualisierung 01.11.2026) — совпадает.
+  // EWA: 4 шага, 10 + 5 минут, до 3 рабочих дней, бесплатно (Aktualisierung 01.11.2026) – совпадает.
   "https://serviceportal.gemeinsamonline.de/Onlinedienste/Service/Entry/EWA": "2026-11-12T12:14Z",
-  // PIN: шестизначный, бесплатно, можно сменить самому в AusweisApp; активация в любом Bürgeramt без записи — совпадает.
+  // PIN: шестизначный, бесплатно, можно сменить самому в AusweisApp; активация в любом Bürgeramt без записи – совпадает.
   "https://service.berlin.de/dienstleistung/329833/": "2026-11-12T12:14Z",
-  // eID-карта ЕС/ЕЭЗ: 37 €, 3–4 недели, только лично — совпадает.
+  // eID-карта ЕС/ЕЭЗ: 37 €, 3–4 недели, только лично – совпадает.
   "https://service.berlin.de/dienstleistung/330112/": "2026-11-12T12:14Z",
-  // BundID: учётная запись для онлайн-услуг, вход через Online-Ausweis и другие способы — совпадает.
+  // BundID: учётная запись для онлайн-услуг, вход через Online-Ausweis и другие способы – совпадает.
   "https://service.berlin.de/nutzerkonten/bundid/": "2026-11-12T12:14Z",
-  // Verbraucherzentrale, смена провайдера (Stand 14.11.2024): не дольше рабочего дня, 20 % или 10 €, 10 € в день за номер — совпадает.
+  // Verbraucherzentrale, смена провайдера (Stand 14.11.2024): не дольше рабочего дня, 20 % или 10 €, 10 € в день за номер – совпадает.
   "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/telefon-oder-internetanbieterwechsel-hoechstens-ein-tag-ohne-leitung-11248": "2026-11-12T12:14Z",
-  // Verbraucherzentrale, права клиентов (Stand 17.04.2026): 24 месяца, месяц уведомления, 15/5 Мбит/с и 150 мс, компенсации, изменение условий — совпадает.
+  // Verbraucherzentrale, права клиентов (Stand 17.04.2026): 24 месяца, месяц уведомления, 15/5 Мбит/с и 150 мс, компенсации, изменение условий – совпадает.
   "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/wichtige-kundenrechte-fuer-telefon-handy-und-internetvertraege-65879": "2026-11-12T12:14Z",
-  // o2 HomeSpot: 24,99/34,99 €, 29,99/39,99 €, подключение 9,99 €, 24 месяца — совпадает (перепроверено 2026-11-16).
+  // o2 HomeSpot: 24,99/34,99 €, 29,99/39,99 €, подключение 9,99 €, 24 месяца – совпадает (перепроверено 2026-11-16).
   "https://www.o2online.de/internet-festnetz/homespot-tarife/": "2026-11-16T07:50Z",
-  // o2 DSL: страница тарифов DSL с проверкой адреса — совпадает.
+  // o2 DSL: страница тарифов DSL с проверкой адреса – совпадает.
   "https://www.o2online.de/internet-festnetz/dsl-tarife/": "2026-11-12T12:14Z",
-  // Bundesnetzagentur: идёт консультация по новой редакции Verfügung (до 07.12.2026), действует Verfügung 94/2021; факты маршрута опираются на § 172 TKG — без изменений.
+  // Bundesnetzagentur: идёт консультация по новой редакции Verfügung (до 07.12.2026), действует Verfügung 94/2021; факты маршрута опираются на § 172 TKG – без изменений.
   "https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/OeffentlicheSicherheit/IdentverfahrenPrepaid/artikel.html": "2026-11-12T12:14Z",
-  // HWR Berlin: C1 для программ на немецком, DSH-2, TestDaF TDN 4, Feststellungsprüfung, Goethe C2, telc C1 Hochschule; английский или французский — совпадает.
+  // HWR Berlin: C1 для программ на немецком, DSH-2, TestDaF TDN 4, Feststellungsprüfung, Goethe C2, telc C1 Hochschule; английский или французский – совпадает.
   "https://www.hwr-berlin.de/studium/bewerbung/voraussetzungen-fuer-dein-studium": "2026-11-12T12:14Z",
-  // DAAD: база International Programmes (обучение в основном на английском), теперь в My GUIDE — совпадает.
+  // DAAD: база International Programmes (обучение в основном на английском), теперь в My GUIDE – совпадает.
   "https://www.daad.de/en/studying-in-germany/advisory-service/international-programmes/": "2026-11-12T12:14Z",
-  // Auswärtiges Amt: для пребывания больше трёх месяцев национальная виза в представительстве до въезда — совпадает.
+  // Auswärtiges Amt: для пребывания больше трёх месяцев национальная виза в представительстве до въезда – совпадает.
   "https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa": "2026-11-12T12:14Z",
-  // Транспорт (сверка 2026-11-12 по текстам официальных страниц): Deutschlandticket 63 € (с 1.1.2027 — 66,80 €), Deutschlandticket Job 59,85 € / 44,10 €, Deutschlandsemesterticket — 60% — совпадает.
+  // Транспорт (сверка 2026-11-12 по текстам официальных страниц): Deutschlandticket 63 € (с 1.1.2027 – 66,80 €), Deutschlandticket Job 59,85 € / 44,10 €, Deutschlandsemesterticket – 60% – совпадает.
   "https://www.vbb.de/abonnements/deutschlandticket/erwerbsmoeglichkeiten-und-nutzung/": "2026-11-12T17:06Z",
-  // Berlin-Ticket S: 27,50 € (в 2027 году без изменений), только Berlin AB, не абонемент, список пособий — совпадает.
+  // Berlin-Ticket S: 27,50 € (в 2027 году без изменений), только Berlin AB, не абонемент, список пособий – совпадает.
   "https://www.vbb.de/tickets/monatskarten/berlin-ticket-s/": "2026-11-12T17:06Z",
-  // Monatskarte Ausbildung: Berlin AB 74,10 € / 55,40 € по абонементу, с 1.1.2027 — 76,90 € / 57,50 €; 15 Credit Points — совпадает.
+  // Monatskarte Ausbildung: Berlin AB 74,10 € / 55,40 € по абонементу, с 1.1.2027 – 76,90 € / 57,50 €; 15 Credit Points – совпадает.
   "https://www.vbb.de/tickets/monatskarten/monatskarte-ausbildung/": "2026-11-12T17:06Z",
-  // Deutschlandticket Zuschuss Ausbildung: 37,80 €, 22,05 € взноса работодателя, 20 часов и 12 месяцев, Berechtigungsnachweis не старше 30 дней — совпадает.
+  // Deutschlandticket Zuschuss Ausbildung: 37,80 €, 22,05 € взноса работодателя, 20 часов и 12 месяцев, Berechtigungsnachweis не старше 30 дней – совпадает.
   "https://www.vbb.de/abonnements/ausbildung/deutschlandticket-zuschuss-ausbildung/": "2026-11-12T17:06Z",
   // Еженедельная сверка 2026-11-16 (страницы прочитаны):
-  // BMG, взносы (Stand 03.09.2026): Jahresarbeitsentgeltgrenze 77.400 € в 2026 году, взносы пополам с работодателем — совпадает.
+  // BMG, взносы (Stand 03.09.2026): Jahresarbeitsentgeltgrenze 77.400 € в 2026 году, взносы пополам с работодателем – совпадает.
   "https://www.bundesgesundheitsministerium.de/beitraege": "2026-11-16T07:50Z",
-  // BMG, выбор и смена кассы (Stand 03.09.2026): допустимые кассы, «schnellstmöglich» сообщить работодателю, 12 месяцев Bindungsfrist, Sonderkündigungsrecht — совпадает.
+  // BMG, выбор и смена кассы (Stand 03.09.2026): допустимые кассы, «schnellstmöglich» сообщить работодателю, 12 месяцев Bindungsfrist, Sonderkündigungsrecht – совпадает.
   "https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/online-ratgeber-krankenversicherung/krankenversicherung/wahl-und-wechsel-der-krankenkasse": "2026-11-16T07:50Z",
-  // BMG, GKV ↔ PKV (Stand 03.09.2026): ограничения возврата в GKV после 55 лет — совпадает.
+  // BMG, GKV ↔ PKV (Stand 03.09.2026): ограничения возврата в GKV после 55 лет – совпадает.
   "https://www.bundesgesundheitsministerium.de/themen/krankenversicherung/online-ratgeber-krankenversicherung/krankenversicherung/wechsel-zwischen-gkv-und-pkv": "2026-11-16T07:50Z",
-  // gesund.bund.de: страховка обязательна, возврат в прежнюю систему, взносы за период без страховки — совпадает.
+  // gesund.bund.de: страховка обязательна, возврат в прежнюю систему, взносы за период без страховки – совпадает.
   "https://gesund.bund.de/en/krankenversicherung": "2026-11-16T07:50Z",
-  // TK и BARMER: онлайн-заявление; BARMER: форма, чат, поиск отделений — совпадает.
+  // TK и BARMER: онлайн-заявление; BARMER: форма, чат, поиск отделений – совпадает.
   "https://www.tk.de/techniker/mitglied-werden-2003672": "2026-11-16T07:50Z",
   "https://www.barmer.de/mitglied-werden": "2026-11-16T07:50Z",
   "https://www.barmer.de/persoenliche-beratung": "2026-11-16T07:50Z",

@@ -116,7 +116,7 @@ export default function StartJourney() {
   const finished = shown?.filter((item) => item.steps ? confirmed.includes(item.id) : (routes[item.id]?.outcome === "received" || (item.id === "housing" && routes[item.id]?.outcome === "ready"))).length ?? 0;
 
   return <main className="start-page" id="top" tabIndex={-1}>
-    <header className="route-page-header"><Link className="brand" href="/" aria-label={tr("NOSTRES — на главную")}><span className="brand-mark" aria-hidden="true">N</span><span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span></Link><Link className="start-back" href="/">{tr("Все маршруты")}</Link><HeaderTools /></header>
+    <header className="route-page-header"><Link className="brand" href="/" aria-label={tr("NOSTRES: на главную")}><span className="brand-mark" aria-hidden="true">N</span><span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span></Link><Link className="start-back" href="/">{tr("Все маршруты")}</Link><HeaderTools /></header>
     <div className="start-shell">
       <p className="overline">{tr("NOSTRES · Берлин · первая версия плана")}</p>
       <h1 ref={titleRef} tabIndex={-1}>{shown ? tr("Ваш план действий") : tr("С чего начать в Берлине")}</h1>
