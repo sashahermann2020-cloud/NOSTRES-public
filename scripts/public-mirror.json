@@ -1,0 +1,56 @@
+{
+  "note": "Состав публичного зеркала NOSTRES-public. Публикуется только код и технические реестры, нужные для сборки и тестов. Внутренние документы, исследования и правила работы в зеркало не попадают. Файлы из publicOwned ведутся прямо в публичном репозитории, зеркало их не трогает.",
+  "include": [
+    "app/",
+    "db/",
+    "drizzle/",
+    "examples/",
+    "i18n/",
+    "public/",
+    "scripts/",
+    "tests/",
+    "worker/",
+    "docs/ROUTE_REGISTRY.json",
+    "docs/VISUAL_REFERENCE.json",
+    ".gitignore",
+    ".npmrc",
+    "drizzle.config.ts",
+    "eslint.config.mjs",
+    "next.config.ts",
+    "package.json",
+    "package-lock.json",
+    "postcss.config.mjs",
+    "tsconfig.json",
+    "vite.config.ts",
+    "wrangler.jsonc"
+  ],
+  "exclude": [],
+  "publicOwned": [
+    "README.md",
+    "LICENSE",
+    "SECURITY.md",
+    "SPONSORS.md",
+    "docs/ROUTES.md",
+    "docs/SOURCE_POLICY.md",
+    ".github/FUNDING.yml"
+  ],
+  "forbiddenNames": [
+    "(^|/)\\.env",
+    "(^|/)\\.dev\\.vars",
+    "\\.pem$",
+    "\\.key$",
+    "\\.p12$",
+    "(^|/)id_(rsa|ed25519)"
+  ],
+  "forbiddenContent": [
+    "-----BEGIN [A-Z ]*PRIVATE KEY-----",
+    "ghp_[A-Za-z0-9]{30,}",
+    "github_pat_[A-Za-z0-9_]{30,}",
+    "gh[osu]_[A-Za-z0-9]{30,}",
+    "AKIA[0-9A-Z]{16}",
+    "sk-[A-Za-z0-9_-]{30,}",
+    "xox[abprs]-[A-Za-z0-9-]{10,}",
+    "CLOUDFLARE_API_TOKEN\\s*[=:]\\s*['\"]?[A-Za-z0-9_-]{30,}",
+    "@pec\\.it"
+  ]
+}

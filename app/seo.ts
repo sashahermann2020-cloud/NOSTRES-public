@@ -1,0 +1,73 @@
+export const SITE_ORIGIN = "https://nostres.world";
+
+export const INDEXABLE_PATHS = [
+  "/",
+  "/about",
+  "/contact",
+  "/privacy",
+  "/berlin/start",
+  "/berlin/anmeldung",
+  "/berlin/steuer-id",
+  "/berlin/health-insurance",
+  "/berlin/wohnungssuche",
+  "/berlin/aufenthalt",
+  "/berlin/vrach",
+  "/berlin/srochnaya-pomoshch",
+  "/berlin/samostoyatelnaya-rabota",
+  "/berlin/familie-deti",
+  "/berlin/sobaka/marshrut",
+  "/berlin/bank",
+  "/berlin/svyaz",
+  "/berlin/wbs",
+  "/berlin/kindergeld",
+  "/berlin/jobcenter",
+  "/berlin/kita-schule",
+  "/berlin/rabota-po-najmu",
+  "/berlin/elterngeld",
+  "/berlin/kinderzuschlag",
+  "/berlin/steuererklaerung",
+  "/berlin/elternzeit",
+  "/berlin/wohngeld",
+  "/berlin/mutterschutz",
+  "/berlin/bildungspaket",
+  "/berlin/pflegegeld",
+  "/berlin/schwerbehinderung",
+  "/berlin/wohnungsgeber",
+  "/berlin/umzug",
+  "/berlin/arbeitslosengeld",
+  "/berlin/grundsicherungsgeld",
+  "/berlin/kfz-ummeldung",
+  "/berlin/einbuergerung",
+  "/berlin/aufenthalt-rabota",
+  "/berlin/anerkennung",
+  "/berlin/integrationskurs",
+  "/berlin/familiennachzug",
+  "/berlin/sprachkurs",
+  "/berlin/pereezd-s-zhivotnym",
+  "/berlin/heimtierausweis",
+  "/berlin/veterinar",
+  "/berlin/dressirovka",
+  "/berlin/transport-tickets",
+  "/berlin/culture-discounts",
+  "/berlin/pereezd-v-germaniyu",
+  "/berlin/chancenkarte",
+  "/berlin/viza-rabota",
+  "/berlin/viza-volontyor",
+  "/berlin/viza-uchyoba",
+  "/berlin/notar",
+  "/berlin/psihicheskoe-zdorovye",
+  "/berlin/niederlassungserlaubnis",
+  "/berlin/sozialversicherungsnummer",
+  "/berlin/gmbh-ug",
+  "/berlin/studium-ausbildung",
+  "/berlin/obyazatelnye-strahovki",
+] as const;
+
+export function canonical(path: string) {
+  return new URL(path, SITE_ORIGIN).toString();
+}
+
+export function jsonLd(data: Record<string, unknown>) {
+  // Keep literal script-closing sequences out of JSON in server-rendered HTML.
+  return JSON.stringify(data).replace(/</g, "\\u003c");
+}

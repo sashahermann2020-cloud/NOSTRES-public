@@ -1,0 +1,1749 @@
+{
+  "schema_version": 1,
+  "project": "NOSTRES",
+  "recorded_on": "2026-11-12",
+  "baseline_commit": "50d6d6433560d70bd0a27ce8ab2f93f83728ddd0",
+  "status": "documented-contracts",
+  "note": "Все пути source относительно корня репозитория. Записи описывают контракт и ссылки на реализацию, а не успешное прохождение QA. Новые URL/экраны добавляются в реестр в том же изменении. Предметные данные отдельных маршрутов сохраняют источник, дату и ограничения.",
+  "routes": [
+    {
+      "path": "/",
+      "kind": "home",
+      "source": "app/page.tsx",
+      "logic": "Поиск/категория → доступный маршрут; не смешивать плановые и готовые действия",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "/",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/about",
+      "kind": "information",
+      "source": "app/about/page.tsx",
+      "logic": "Информационная страница и проверяемые ссылки, без фиктивной отправки",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "Зачем нужен NOSTRES: сервис после переезда",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/api/mvp-events",
+      "kind": "api",
+      "source": "app/api/mvp-events/route.ts",
+      "logic": "Серверная валидация разрешённых событий по узким шаблонам полей до обращения к D1 (app/api/mvp-events/rules.ts); лимит тела 4 КБ; лимит частоты по адресу в пределах экземпляра Worker; лимиты на попытку по индексу attempt_id; без свободного содержимого",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ]
+    },
+    {
+      "path": "/berlin/anerkennung",
+      "kind": "guided",
+      "source": "app/berlin/anerkennung/page.tsx",
+      "logic": "GuidedRoute → planFor(\"recognition\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — recognitionPlan в app/berlin/new-routes/work-learning-plans.ts Ветки по профессиям (12.11.2026): архитектор → Architektenkammer Berlin (155–515 €, немецкий не проверяют); повар и Bilanzbuchhalter → IHK FOSA (100–600 €); экономист → ZAB Zeugnisbewertung (208 €); инженер → Baukammer (200 €, B2); врач вне ЕС → LAGeSo (430 €, Kenntnisprüfung по заявлениям после 31.10.2026).",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "recognition",
+      "title": "Anerkennung (признание иностранного диплома или профессии) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "recognitionPlan",
+      "ruleSource": "app/berlin/new-routes/work-learning-plans.ts"
+    },
+    {
+      "path": "/berlin/anmeldung",
+      "kind": "journey",
+      "source": "app/berlin/anmeldung/page.tsx",
+      "logic": "AnmeldungJourney(\"anmeldung\"): вопросы, применимость, способы, прогресс и итог",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "Anmeldung (регистрация адреса) в Берлине: онлайн или лично | NOSTRES",
+      "contracts": [],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ]
+    },
+    {
+      "path": "/berlin/arbeitslosengeld",
+      "kind": "guided",
+      "source": "app/berlin/arbeitslosengeld/page.tsx",
+      "logic": "GuidedRoute → planFor(\"arbeitslosengeld\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — alPlan в app/berlin/new-routes/status-money-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "arbeitslosengeld",
+      "title": "Arbeitslosengeld (пособие по безработице) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "alPlan",
+      "ruleSource": "app/berlin/new-routes/status-money-plans.ts"
+    },
+    {
+      "path": "/berlin/aufenthalt",
+      "kind": "guided",
+      "source": "app/berlin/aufenthalt/page.tsx",
+      "logic": "GuidedRoute → planFor(\"lea\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — leaGuidedPlan в app/berlin/new-routes/lea-guided.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "lea",
+      "title": "Aufenthaltstitel (вид на жительство): продлить в Берлине, LEA | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "leaGuidedPlan",
+      "ruleSource": "app/berlin/new-routes/lea-guided.ts"
+    },
+    {
+      "path": "/berlin/aufenthalt-rabota",
+      "kind": "guided",
+      "source": "app/berlin/aufenthalt-rabota/page.tsx",
+      "logic": "GuidedRoute → planFor(\"workpermit\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — workPlan в app/berlin/new-routes/work-learning-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "workpermit",
+      "title": "Aufenthaltstitel für Beschäftigung (вид на жительство для работы) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "workPlan",
+      "ruleSource": "app/berlin/new-routes/work-learning-plans.ts"
+    },
+    {
+      "path": "/berlin/bank",
+      "kind": "guided",
+      "source": "app/berlin/bank/page.tsx",
+      "logic": "GuidedRoute → planFor(\"bank\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — everydayPlan в app/berlin/new-routes/everyday-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "bank",
+      "title": "Girokonto (банковский счёт): как открыть в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "everydayPlan",
+      "ruleSource": "app/berlin/new-routes/everyday-plans.ts"
+    },
+    {
+      "path": "/berlin/bildungspaket",
+      "kind": "guided",
+      "source": "app/berlin/bildungspaket/page.tsx",
+      "logic": "GuidedRoute → planFor(\"bildungspaket\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — butPlan в app/berlin/new-routes/family-support-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "bildungspaket",
+      "title": "Bildungs- und Teilhabepaket (помощь на школу и досуг детей) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "butPlan",
+      "ruleSource": "app/berlin/new-routes/family-support-plans.ts"
+    },
+    {
+      "path": "/berlin/chancenkarte",
+      "kind": "guided",
+      "source": "app/berlin/chancenkarte/page.tsx",
+      "logic": "GuidedRoute → planFor(\"chancenkarte\", answers); признание образования → язык → баллы по официальной таблице (минимум 6); балльному пути нужны девять входных параметров, полностью признанное образование сокращает анкету → средства (Sperrkonto 1 091 €/мес. 2026 с провайдерами или Verpflichtungserklärung) → Auslandsportal при доступности цели или бумажная подача → после работы переход на вид на жительство для работы → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "chancenkarte",
+      "title": "Chancenkarte: баллы, средства и виза | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/relocation-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "chancePlan",
+      "ruleSource": "app/berlin/new-routes/relocation-plans.ts"
+    },
+    {
+      "path": "/berlin/culture-discounts",
+      "kind": "guided",
+      "source": "app/berlin/culture-discounts/page.tsx",
+      "logic": "GuidedRoute → planFor(\"culture\", answers); профиль и вид мероприятия → предложения по возрасту, семейному статусу, пособию, доходу, учёбе или инвалидности → условия и документы; нет единой льготы только по статусу беженца → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "culture",
+      "title": "Льготы на культуру и досуг в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/mobility-culture-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "culturePlan",
+      "ruleSource": "app/berlin/new-routes/mobility-culture-plans.ts"
+    },
+    {
+      "path": "/berlin/dressirovka",
+      "kind": "guided",
+      "source": "app/berlin/dressirovka/page.tsx",
+      "logic": "GuidedRoute → planFor(\"dogtrainer\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; индивидуальные условия — dogTrainerPlan в app/berlin/new-routes/pets-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "dogtrainer",
+      "title": "Hundeschule и Hundeführerschein (дрессировка и экзамен владельца собаки) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "dogTrainerPlan",
+      "ruleSource": "app/berlin/new-routes/pets-plans.ts"
+    },
+    {
+      "path": "/berlin/einbuergerung",
+      "kind": "guided",
+      "source": "app/berlin/einbuergerung/page.tsx",
+      "logic": "GuidedRoute → planFor(\"einbuergerung\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — citizenshipPlan в app/berlin/new-routes/status-money-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "einbuergerung",
+      "title": "Einbürgerung (получение гражданства Германии) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "citizenshipPlan",
+      "ruleSource": "app/berlin/new-routes/status-money-plans.ts"
+    },
+    {
+      "path": "/berlin/elterngeld",
+      "kind": "guided",
+      "source": "app/berlin/elterngeld/page.tsx",
+      "logic": "GuidedRoute → planFor(\"elterngeld\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — elterngeldPlan в app/berlin/new-routes/family-money-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "elterngeld",
+      "title": "Elterngeld (пособие родителям после рождения ребёнка) в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "elterngeldPlan",
+      "ruleSource": "app/berlin/new-routes/family-money-plans.ts"
+    },
+    {
+      "path": "/berlin/elternzeit",
+      "kind": "guided",
+      "source": "app/berlin/elternzeit/page.tsx",
+      "logic": "GuidedRoute → planFor(\"elternzeit\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — elternzeitPlan в app/berlin/new-routes/life-benefits-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "elternzeit",
+      "title": "Elternzeit (родительский отпуск) в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "elternzeitPlan",
+      "ruleSource": "app/berlin/new-routes/life-benefits-plans.ts"
+    },
+    {
+      "path": "/berlin/familie-deti",
+      "kind": "topic",
+      "source": "app/berlin/familie-deti/page.tsx",
+      "logic": "TopicPage topics.family: объяснение темы и ссылки на применимые маршруты",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "family",
+      "title": "/berlin/familie-deti",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/berlin/familiennachzug",
+      "kind": "guided",
+      "source": "app/berlin/familiennachzug/page.tsx",
+      "logic": "GuidedRoute → planFor(\"reunion\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — reunionPlan в app/berlin/new-routes/reunion-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "reunion",
+      "title": "Familiennachzug (воссоединение семьи) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "reunionPlan",
+      "ruleSource": "app/berlin/new-routes/reunion-plans.ts"
+    },
+    {
+      "path": "/berlin/grundsicherungsgeld",
+      "kind": "guided",
+      "source": "app/berlin/grundsicherungsgeld/page.tsx",
+      "logic": "GuidedRoute → planFor(\"grundsicherungsgeld\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — basicPlan в app/berlin/new-routes/status-money-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "grundsicherungsgeld",
+      "title": "Grundsicherungsgeld (бывшее Bürgergeld: основное пособие для нуждающихся) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "basicPlan",
+      "ruleSource": "app/berlin/new-routes/status-money-plans.ts"
+    },
+    {
+      "path": "/berlin/health-insurance",
+      "kind": "journey",
+      "source": "app/berlin/health-insurance/page.tsx",
+      "logic": "AnmeldungJourney(\"health\"): вопросы, применимость, способы, прогресс и итог",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "health",
+      "title": "Krankenversicherung (медицинская страховка) в Германии: GKV, eGK и Jobcenter | NOSTRES",
+      "contracts": [],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ]
+    },
+    {
+      "path": "/berlin/heimtierausweis",
+      "kind": "guided",
+      "source": "app/berlin/heimtierausweis/page.tsx",
+      "logic": "GuidedRoute → planFor(\"petpass\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; индивидуальные условия — petPassPlan в app/berlin/new-routes/pets-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "petpass",
+      "title": "EU-Heimtierausweis (паспорт животного ЕС) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "petPassPlan",
+      "ruleSource": "app/berlin/new-routes/pets-plans.ts"
+    },
+    {
+      "path": "/berlin/integrationskurs",
+      "kind": "guided",
+      "source": "app/berlin/integrationskurs/page.tsx",
+      "logic": "GuidedRoute → planFor(\"language\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — languagePlan в app/berlin/new-routes/work-learning-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "language",
+      "title": "Integrationskurs (интеграционный и языковой курс) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "languagePlan",
+      "ruleSource": "app/berlin/new-routes/work-learning-plans.ts"
+    },
+    {
+      "path": "/berlin/jobcenter",
+      "kind": "guided",
+      "source": "app/berlin/jobcenter/page.tsx",
+      "logic": "GuidedRoute → planFor(\"jobcenter\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — jobcenterPlan в app/berlin/new-routes/family-work-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "jobcenter",
+      "title": "Agentur für Arbeit и Jobcenter (потеря работы и пособия) в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "jobcenterPlan",
+      "ruleSource": "app/berlin/new-routes/family-work-plans.ts"
+    },
+    {
+      "path": "/berlin/kfz-ummeldung",
+      "kind": "guided",
+      "source": "app/berlin/kfz-ummeldung/page.tsx",
+      "logic": "GuidedRoute → planFor(\"kfz\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — carPlan в app/berlin/new-routes/status-money-plans.ts Мотоцикл (Kraftrad) — Kraftfahrzeug по § 2 Nr. 9 FZV, порядок тот же; лёгкий мотоцикл без обязательной регистрации — Betriebserlaubnis вместо ZB II; обязанность при переезде — § 15 FZV.",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "kfz",
+      "title": "Kfz-Ummeldung в Берлине: перерегистрация авто и мотоцикла | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "carPlan",
+      "ruleSource": "app/berlin/new-routes/status-money-plans.ts"
+    },
+    {
+      "path": "/berlin/kindergeld",
+      "kind": "guided",
+      "source": "app/berlin/kindergeld/page.tsx",
+      "logic": "GuidedRoute → planFor(\"kindergeld\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — kindergeldPlan в app/berlin/new-routes/family-work-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "kindergeld",
+      "title": "Kindergeld (пособие на ребёнка) в Германии: как подать заявление | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "kindergeldPlan",
+      "ruleSource": "app/berlin/new-routes/family-work-plans.ts"
+    },
+    {
+      "path": "/berlin/kinderzuschlag",
+      "kind": "guided",
+      "source": "app/berlin/kinderzuschlag/page.tsx",
+      "logic": "GuidedRoute → planFor(\"kinderzuschlag\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — kinderzuschlagPlan в app/berlin/new-routes/family-money-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "kinderzuschlag",
+      "title": "Kinderzuschlag (доплата к Kindergeld для семей с небольшим доходом) в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "kinderzuschlagPlan",
+      "ruleSource": "app/berlin/new-routes/family-money-plans.ts"
+    },
+    {
+      "path": "/berlin/kita-schule",
+      "kind": "guided",
+      "source": "app/berlin/kita-schule/page.tsx",
+      "logic": "GuidedRoute → planFor(\"kita\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — kitaGuidedPlan в app/berlin/new-routes/family-work-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "kita",
+      "title": "Kita, Schule und Geburt (детский сад, школа, рождение ребёнка) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "kitaGuidedPlan",
+      "ruleSource": "app/berlin/new-routes/family-work-plans.ts"
+    },
+    {
+      "path": "/berlin/mutterschutz",
+      "kind": "guided",
+      "source": "app/berlin/mutterschutz/page.tsx",
+      "logic": "GuidedRoute → planFor(\"mutterschutz\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — maternityPlan в app/berlin/new-routes/family-support-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "mutterschutz",
+      "title": "Mutterschutz und Mutterschaftsgeld (защита материнства и пособие по материнству) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "maternityPlan",
+      "ruleSource": "app/berlin/new-routes/family-support-plans.ts"
+    },
+    {
+      "path": "/berlin/obyazatelnye-strahovki",
+      "kind": "topic",
+      "source": "app/berlin/obyazatelnye-strahovki/page.tsx",
+      "logic": "TopicPage topics.insurance: объяснение темы и ссылки на применимые маршруты",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "insurance",
+      "title": "/berlin/obyazatelnye-strahovki",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/berlin/pereezd-s-zhivotnym",
+      "kind": "guided",
+      "source": "app/berlin/pereezd-s-zhivotnym/page.tsx",
+      "logic": "GuidedRoute → planFor(\"petmove\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; индивидуальные условия — petMovePlan в app/berlin/new-routes/pets-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "petmove",
+      "title": "Переезд в Германию с собакой, кошкой или другим животным | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "petMovePlan",
+      "ruleSource": "app/berlin/new-routes/pets-plans.ts"
+    },
+    {
+      "path": "/berlin/pereezd-v-germaniyu",
+      "kind": "guided",
+      "source": "app/berlin/pereezd-v-germaniyu/page.tsx",
+      "logic": "GuidedRoute → planFor(\"relocation\", answers); гражданство (ЕС, § 41 AufenthV, Working Holiday, Западные Балканы, другое) и цель → ЕС без визы; работа, Chancenkarte, учёба, Ausbildung, волонтёрство, семья → профильный маршрут; Working Holiday → проверка точного гражданства, страны и возраста: Австралия и Канада 18–35, Южная Корея 18–34, другие партнёры 18–30; Австралия 31–35 — только представительство Германии, поскольку LEA Берлина пока указывает предел 30; место подачи по стране: Сеул, Тайбэй, Гонконг (для жителей Гонконга), представительства в Бразилии, для жителей Австралии — Сидней, для жителей Канады — Торонто, остальные — любое представительство Германии; гражданам Японии онлайн-заявление в LEA недоступно — обращение через контактную форму отдела F 1; UK/US и несогласованные ответы → отказ в методе или уточнение → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "relocation",
+      "title": "Переезд в Германию: какой путь подходит | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/relocation-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "relocationPlan",
+      "ruleSource": "app/berlin/new-routes/relocation-plans.ts"
+    },
+    {
+      "path": "/berlin/pflegegeld",
+      "kind": "guided",
+      "source": "app/berlin/pflegegeld/page.tsx",
+      "logic": "GuidedRoute → planFor(\"pflegegeld\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — carePlan в app/berlin/new-routes/life-events-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "pflegegeld",
+      "title": "Pflegegeld und Pflegegrad (пособие по уходу и степень нуждаемости в уходе) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "carePlan",
+      "ruleSource": "app/berlin/new-routes/life-events-plans.ts"
+    },
+    {
+      "path": "/berlin/rabota-po-najmu",
+      "kind": "guided",
+      "source": "app/berlin/rabota-po-najmu/page.tsx",
+      "logic": "GuidedRoute → planFor(\"employment\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — employmentPlan в app/berlin/new-routes/family-work-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "employment",
+      "title": "Stellensuche (поиск работы по найму) в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "employmentPlan",
+      "ruleSource": "app/berlin/new-routes/family-work-plans.ts"
+    },
+    {
+      "path": "/berlin/samostoyatelnaya-rabota",
+      "kind": "guided",
+      "source": "app/berlin/samostoyatelnaya-rabota/page.tsx",
+      "logic": "GuidedRoute → planFor(\"business\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — businessPlan в app/berlin/new-routes/route-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "business",
+      "title": "Gewerbe или Freiberuf (своё дело или фриланс) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "businessPlan",
+      "ruleSource": "app/berlin/new-routes/route-plans.ts"
+    },
+    {
+      "path": "/berlin/schwerbehinderung",
+      "kind": "guided",
+      "source": "app/berlin/schwerbehinderung/page.tsx",
+      "logic": "GuidedRoute → planFor(\"schwerbehinderung\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — disabilityPlan в app/berlin/new-routes/life-events-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "schwerbehinderung",
+      "title": "Schwerbehindertenausweis (удостоверение тяжёлой инвалидности) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "disabilityPlan",
+      "ruleSource": "app/berlin/new-routes/life-events-plans.ts"
+    },
+    {
+      "path": "/berlin/sobaka",
+      "kind": "redirect",
+      "source": "worker/index.ts",
+      "logic": "Постоянная переадресация 301 (MOVED_PAGES) на /berlin/sobaka/marshrut с сохранением языка; справочная страница заменена маршрутом 29–30 октября 2026",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "/berlin/sobaka → /berlin/sobaka/marshrut",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/berlin/sobaka/marshrut",
+      "kind": "guided",
+      "source": "app/berlin/sobaka/marshrut/page.tsx",
+      "logic": "GuidedRoute → planFor(\"dog\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — everydayPlan в app/berlin/new-routes/everyday-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "dog",
+      "title": "Hund (собака: регистрация, налог, опасные породы) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "everydayPlan",
+      "ruleSource": "app/berlin/new-routes/everyday-plans.ts"
+    },
+    {
+      "path": "/berlin/sprachkurs",
+      "kind": "guided",
+      "source": "app/berlin/sprachkurs/page.tsx",
+      "logic": "GuidedRoute → planFor(\"sprachkurs\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — sprachkursPlan в app/berlin/new-routes/sprachkurs-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "sprachkurs",
+      "title": "Sprachkurs (языковые курсы) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "sprachkursPlan",
+      "ruleSource": "app/berlin/new-routes/study-language-plans.ts"
+    },
+    {
+      "path": "/berlin/srochnaya-pomoshch",
+      "kind": "urgent",
+      "source": "app/berlin/srochnaya-pomoshch/page.tsx",
+      "logic": "GuidedRoute → planFor(\"urgent\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "urgent",
+      "title": "Notfall (срочная медицинская помощь) в Берлине: 112 и 116117 | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": []
+    },
+    {
+      "path": "/berlin/start",
+      "kind": "city-plan",
+      "source": "app/berlin/start/page.tsx",
+      "logic": "StartJourney: исходное положение → городской план → следующий доступный зависимый шаг",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам",
+        "После построения плана доступно отправить чистую локализованную ссылку на начало анкеты; URL не содержит ответов, результата или прогресса.",
+        "Системная отправка, копирование и ручной fallback доступны с клавиатуры и на узком экране; блок скрыт при печати."
+      ],
+      "routeId": null,
+      "title": "Составить план действий в Берлине | NOSTRES",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/berlin/steuer-id",
+      "kind": "journey",
+      "source": "app/berlin/steuer-id/page.tsx",
+      "logic": "AnmeldungJourney(\"tax-id\"): вопросы, применимость, способы, прогресс и итог",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "tax-id",
+      "title": "Steuer-ID (налоговый номер) в Германии: получить или восстановить | NOSTRES",
+      "contracts": [],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ]
+    },
+    {
+      "path": "/berlin/steuererklaerung",
+      "kind": "guided",
+      "source": "app/berlin/steuererklaerung/page.tsx",
+      "logic": "GuidedRoute → planFor(\"steuererklaerung\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — taxPlan в app/berlin/new-routes/family-money-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "steuererklaerung",
+      "title": "Einkommensteuererklärung (налоговая декларация) в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "taxPlan",
+      "ruleSource": "app/berlin/new-routes/family-money-plans.ts"
+    },
+    {
+      "path": "/berlin/studium-ausbildung",
+      "kind": "guided",
+      "source": "app/berlin/studium-ausbildung/page.tsx",
+      "logic": "GuidedRoute → planFor(\"study\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — studyPlan в app/berlin/new-routes/study-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "study",
+      "title": "Учёба в Берлине: университет, Studienkolleg и Ausbildung | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "studyPlan",
+      "ruleSource": "app/berlin/new-routes/study-language-plans.ts"
+    },
+    {
+      "path": "/berlin/svyaz",
+      "kind": "guided",
+      "source": "app/berlin/svyaz/page.tsx",
+      "logic": "GuidedRoute → planFor(\"telecom\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — everydayPlan в app/berlin/new-routes/everyday-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "telecom",
+      "title": "Mobilfunk и Internet (мобильная связь и интернет) | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "everydayPlan",
+      "ruleSource": "app/berlin/new-routes/everyday-plans.ts"
+    },
+    {
+      "path": "/berlin/transport-tickets",
+      "kind": "guided",
+      "source": "app/berlin/transport-tickets/page.tsx",
+      "logic": "GuidedRoute → planFor(\"transport\", answers); профиль, зоны, частота и канал покупки → обычные тарифы VBB, Deutschlandticket или точная льгота по условиям → документы и шаги → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "transport",
+      "title": "Билеты на транспорт Берлина и Deutschlandticket | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/mobility-culture-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "transportPlan",
+      "ruleSource": "app/berlin/new-routes/mobility-culture-plans.ts"
+    },
+    {
+      "path": "/berlin/umzug",
+      "kind": "guided",
+      "source": "app/berlin/umzug/page.tsx",
+      "logic": "GuidedRoute → planFor(\"umzug\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — movePlan в app/berlin/new-routes/life-events-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "umzug",
+      "title": "Umzug (переезд и смена адреса) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "movePlan",
+      "ruleSource": "app/berlin/new-routes/life-events-plans.ts"
+    },
+    {
+      "path": "/berlin/veterinar",
+      "kind": "guided",
+      "source": "app/berlin/veterinar/page.tsx",
+      "logic": "GuidedRoute → planFor(\"vet\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; индивидуальные условия — vetPlan в app/berlin/new-routes/pets-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "vet",
+      "title": "Tierarzt (ветеринар в Берлине): срочная помощь и приём на вашем языке | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "vetPlan",
+      "ruleSource": "app/berlin/new-routes/pets-plans.ts"
+    },
+    {
+      "path": "/berlin/viza-rabota",
+      "kind": "guided",
+      "source": "app/berlin/viza-rabota/page.tsx",
+      "logic": "GuidedRoute → planFor(\"workvisa\", answers); предложение работы → образование → зарплата (порог Blue Card 2026) или немецкий A2 (Anerkennungspartnerschaft) или Западные Балканы → в обычной визе специалиста/Blue Card профессиональное разрешение для регулируемой профессии — выдано или письменно обещано (Zusage, § 18 Abs. 2 Nr. 3 AufenthG); в Anerkennungspartnerschaft признание проходит после въезда → согласие и Vorabzustimmung Bundesagentur für Arbeit → Auslandsportal при доступности цели, бумажная подача или LEA без визы по § 41 AufenthV → пять исходов; IT без диплома — переход в /berlin/aufenthalt-rabota",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "workvisa",
+      "title": "Виза для работы в Германии: Blue Card и специалисты | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/relocation-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "workVisaPlan",
+      "ruleSource": "app/berlin/new-routes/relocation-plans.ts"
+    },
+    {
+      "path": "/berlin/viza-uchyoba",
+      "kind": "guided",
+      "source": "app/berlin/viza-uchyoba/page.tsx",
+      "logic": "GuidedRoute → planFor(\"studyvisa\", answers); цель (учёба § 16b, поступление § 17 Abs. 2, Ausbildung § 16a, поиск места § 17 Abs. 1) → возраст и немецкий B1 → для Ausbildung ниже B1 проверяется письменное подтверждение места обучения или запись на подготовительный курс немецкого (§ 16a Abs. 3 AufenthG) → вид Ausbildung и зарплата за обучение → средства 2026 (992/1 091/959 €) → Sperrkonto с провайдерами, Verpflichtungserklärung или стипендия → Auslandsportal при доступности цели или бумажная подача → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "studyvisa",
+      "title": "Виза для учёбы, поступления и Ausbildung | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/relocation-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "studyVisaPlan",
+      "ruleSource": "app/berlin/new-routes/relocation-plans.ts"
+    },
+    {
+      "path": "/berlin/viza-volontyor",
+      "kind": "guided",
+      "source": "app/berlin/viza-volontyor/page.tsx",
+      "logic": "GuidedRoute → planFor(\"volunteer\", answers); служба (отдельно BFD, FSJ/FÖJ или Европейский корпус солидарности) → возраст и условия: FSJ/FÖJ до 27 после обязательного школьного обучения, ESC 18–30 для службы в Германии (гуманитарное волонтёрство до 35 — только вне ЕС, поэтому 31–35 → BFD), BFD после обязательного школьного обучения без верхней границы → жильё и питание от места службы → договор → виза или LEA без визы → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "volunteer",
+      "title": "Виза для волонтёров: BFD, FSJ, FÖJ и ESC | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/relocation-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "volunteerPlan",
+      "ruleSource": "app/berlin/new-routes/relocation-plans.ts"
+    },
+    {
+      "path": "/berlin/vrach",
+      "kind": "guided",
+      "source": "app/berlin/vrach/page.tsx",
+      "logic": "GuidedRoute → planFor(\"doctor\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — doctorPlan в app/berlin/new-routes/route-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "doctor",
+      "title": "Arztsuche (поиск врача и запись) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "doctorPlan",
+      "ruleSource": "app/berlin/new-routes/route-plans.ts"
+    },
+    {
+      "path": "/berlin/wbs",
+      "kind": "guided",
+      "source": "app/berlin/wbs/page.tsx",
+      "logic": "GuidedRoute → planFor(\"wbs\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — everydayPlan в app/berlin/new-routes/everyday-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "wbs",
+      "title": "WBS (разрешение на социальное жильё) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "everydayPlan",
+      "ruleSource": "app/berlin/new-routes/everyday-plans.ts"
+    },
+    {
+      "path": "/berlin/wohngeld",
+      "kind": "guided",
+      "source": "app/berlin/wohngeld/page.tsx",
+      "logic": "GuidedRoute → planFor(\"wohngeld\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — wohngeldPlan в app/berlin/new-routes/life-benefits-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "wohngeld",
+      "title": "Wohngeld (жилищная доплата к аренде или расходам на жильё) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "wohngeldPlan",
+      "ruleSource": "app/berlin/new-routes/life-benefits-plans.ts"
+    },
+    {
+      "path": "/berlin/wohnungsgeber",
+      "kind": "guided",
+      "source": "app/berlin/wohnungsgeber/page.tsx",
+      "logic": "GuidedRoute → planFor(\"wohnungsgeber\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — landlordPlan в app/berlin/new-routes/life-events-plans.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "wohnungsgeber",
+      "title": "Wohnungsgeberbestätigung (подтверждение заселения от арендодателя) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "landlordPlan",
+      "ruleSource": "app/berlin/new-routes/life-events-plans.ts"
+    },
+    {
+      "path": "/berlin/wohnungssuche",
+      "kind": "guided",
+      "source": "app/berlin/wohnungssuche/page.tsx",
+      "logic": "GuidedRoute → planFor(\"housing\", answers); видимые вопросы → применимость → способ → документы → шаги → пять исходов; срочная помощь сначала официальный канал; индивидуальные условия — housingGuidedPlan в app/berlin/new-routes/housing-guided.ts",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "housing",
+      "title": "Wohnungssuche (поиск квартиры или комнаты) в Берлине: документы, SCHUFA | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "housingGuidedPlan",
+      "ruleSource": "app/berlin/new-routes/housing-guided.ts"
+    },
+    {
+      "path": "/contact",
+      "kind": "information",
+      "source": "app/contact/page.tsx",
+      "logic": "Информационная страница и проверяемые ссылки, без фиктивной отправки; адрес alexandra.hermann@nostres.world работает через Cloudflare Email Routing (PROJECT_SPEC.md#подключения-и-данные), доставка проверена тестовым письмом 14.11.2026",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "Контакты NOSTRES",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/mvp-test",
+      "kind": "information",
+      "source": "app/mvp-test/page.tsx",
+      "logic": "Закрытый тестовый каталог, noindex: цель теста (что хотим узнать), пять шагов прохождения с объяснением, что спросит оценка; ссылки на реальные маршруты",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "Тестирование маршрутов | NOSTRES",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/privacy",
+      "kind": "information",
+      "source": "app/privacy/page.tsx",
+      "logic": "Информация о данных → явная очистка локального прогресса; описана обработка писем через Cloudflare Email Routing (PROJECT_SPEC.md#подключения-и-данные)",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "Конфиденциальность: NOSTRES",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
+      "path": "/berlin/gmbh-ug",
+      "kind": "guided",
+      "source": "app/berlin/gmbh-ug/page.tsx",
+      "logic": "GuidedRoute → planFor(\"company\", answers); этап (план, договор заверен, компания в реестре) → для плана форма (GmbH от 25 000 €, до регистрации 12 500 €; UG от 1 €, полный денежный взнос, резерв четверти прибыли — § 5a, § 7 GmbHG) и число учредителей (Musterprotokoll до трёх учредителей и одного директора, § 2 Abs. 1a) → гражданство (вне ЕС: проверка права на работу в LEA; за границей: заверение по видеосвязи, § 2 Abs. 3) → вид деятельности (Gewerbe нужна или нет) → способы «нотариат» и «по видеосвязи» → Handelsregister в Amtsgericht Charlottenburg (150 €/240 € + треть), Gewerbe (15 €/31 € + 13 €), анкета ELSTER для Kapitalgesellschaft, Transparenzregister, годовая отчётность в Unternehmensregister (не позднее года) → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "company",
+      "title": "GmbH или UG в Берлине: учреждение и налоговый номер | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/company-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "companyPlan",
+      "ruleSource": "app/berlin/new-routes/company-plans.ts"
+    },
+    {
+      "path": "/berlin/sozialversicherungsnummer",
+      "kind": "guided",
+      "source": "app/berlin/sozialversicherungsnummer/page.tsx",
+      "logic": "GuidedRoute → planFor(\"socialnumber\", answers); какой номер (социальное страхование, медицинская страховка, Steuer-ID → маршрут Steuer-ID) → для социального страхования опыт работы (первая работа: номер через работодателя и бесплатный Versicherungsnummernachweis; номер неизвестен: письма DRV или письменный запрос с датой, фамилией и местом рождения, телефон номер не сообщает; нужен документ: бесплатная замена через онлайн-сервисы DRV или кассу) → для медицинской страховки статус (карта есть: номер на лицевой стороне eGK; карты нет: касса выпускает новую; не застрахован: маршрут медицинской страховки) → предупреждение о платных сайтах → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "socialnumber",
+      "title": "Номер соцстрахования и медстраховки в Германии | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/socialnumber-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "socialNumberPlan",
+      "ruleSource": "app/berlin/new-routes/socialnumber-plans.ts"
+    },
+    {
+      "path": "/berlin/niederlassungserlaubnis",
+      "kind": "guided",
+      "source": "app/berlin/niederlassungserlaubnis/page.tsx",
+      "logic": "GuidedRoute → planFor(\"settlement\", answers); основание (специалист § 18c Abs. 1, Blue Card § 18c Abs. 2, семья граждан Германии § 28 Abs. 2, общее § 9, признанные беженцы § 26 Abs. 3) → срок для основания (3/2 года; 27/21 месяц; 3 года; 5 лет; 5/3 года) → сертификат немецкого (B1; Blue Card A1 при 27 месяцах; семья A1 при ВНЖ до 06.09.2013; беженцы A2 или C1) → условия, документы, Quick-Check и онлайн-заявление, приём в LEA (Friedrich-Krause-Ufer 24), выдача не раньше 4 недель; при недостатке срока или языка — продление ВНЖ и курсы → пять исходов",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "settlement",
+      "title": "Niederlassungserlaubnis: бессрочный ВНЖ (ПМЖ) в Берлине | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/settlement-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "settlementPlan",
+      "ruleSource": "app/berlin/new-routes/settlement-plans.ts"
+    },
+    {
+      "path": "/berlin/notar",
+      "kind": "guided",
+      "source": "app/berlin/notar/page.tsx",
+      "logic": "GuidedRoute → planFor(\"notary\", answers); дело (компания, недвижимость, отцовство и опека, другое) → для компании форма (UG одного учредителя по Musterprotokoll: 105 € по примеру Bundesnotarkammer; GmbH нескольких учредителей со своим договором и капиталом 25 000 €: 630 €; другое: минимум стоимости дела 30 000 € по § 107 GNotKG, без минимума для Musterprotokoll по § 105 Abs. 6) и способ (нотариат или видео, +25 €) → цена по закону одинакова у всех нотариусов, НДС и расходы, сбор суда за Handelsregister отдельно, официальный счёт суда и предупреждение о частных счетах → пять исходов Поиск нотариуса — с фильтром языка страницы (notar.de language=RU/EN/ES/IT/TR/PT/FR; de — общий список; ar — общий список и EN).",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": "notary",
+      "title": "Нотариус в Берлине: поиск по языку и стоимость | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/notary-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "notaryPlan",
+      "ruleSource": "app/berlin/new-routes/notary-plans.ts"
+    },
+    {
+      "path": "/berlin/psihicheskoe-zdorovye",
+      "kind": "guided",
+      "source": "app/berlin/psihicheskoe-zdorovye/page.tsx",
+      "logic": "GuidedRoute → planFor(\"mental\", answers); что нужно: «плохо прямо сейчас» сразу даёт план без других вопросов (опасность для жизни → приёмное отделение клиники, 112, nora при регистрации заранее; Berliner Krisendienst без записи 16–24 ч, ночью и в выходные Große Hamburger Straße 5; чат и письмо TelefonSeelsorge; телефон — запасной шаг; подготовка заранее); психиатр и психотерапия → страховка (государственная, частная, нет) и способ связи (письменно/онлайн, лично, телефон: первым шагом идёт выбранный канал); без страховки → Sozialpsychiatrischer Dienst района и бесплатная психосоциальная консультация, затем маршрут страховки; психотерапия с государственной страховкой → первая беседа без направления (до 150 минут), срок службы 116117 4 недели, срочное лечение до 600 минут без разрешения кассы (PTV 11, PTV 12, срок 2 недели), заявление с терапевтом; психиатр → поиск 116117, код направления от семейного врача для сервиса записи, PIA и дневной стационар при каждой психиатрической клинике; помощь близкому → способ связи; Jobcenter → больничный лист как уважительная причина, справка о невозможности прийти (до 5,36 €), устное объяснение по телефону, видео или с визитом при известном психическом заболевании, последствия пропусков с 1.7.2026 → пять исходов. Каналы без звонка показываются первыми.",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам",
+        "Ответ «плохо прямо сейчас» показывает помощь без других вопросов, первым — способ без звонка"
+      ],
+      "routeId": "mental",
+      "title": "Психическое здоровье в Берлине: кризис, психиатр, психотерапия | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/mental-health-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "mentalPlan",
+      "ruleSource": "app/berlin/new-routes/mental-health-plans.ts"
+    }
+  ],
+  "source_blobs": [
+    {
+      "path": "app/globals.css",
+      "blob": "bd8ca1c07848a9445fd5722cb179b444e4167cd0"
+    },
+    {
+      "path": "app/channels.ts",
+      "blob": "71fe6c2e83575a9c3c749a413ec2108eb2bbcc39"
+    },
+    {
+      "path": "app/berlin/new-routes/route-model.ts",
+      "blob": "6705a26193eede0df5c0d502f5af0d5d2b8dfed3"
+    },
+    {
+      "path": "app/berlin/topics.ts",
+      "blob": "05c3230bc331e5ca5e3fb2372ce4af88cb5cd804"
+    },
+    {
+      "path": "app/berlin/new-routes/route-plans.ts",
+      "blob": "8800290902071cdcf540eef75826250027e00592"
+    },
+    {
+      "path": "README.md",
+      "blob": "e74afdc41153d4e0fe4bf728579b6f23fc766176"
+    },
+    {
+      "path": "docs/NOSTRES_MVP_Functional_Specification_v1_RU.md",
+      "blob": "d74d983ef3d2848b13fe0bffe825d004538c7de4"
+    },
+    {
+      "path": "docs/LOGIC_AUDIT_2026-10-19.md",
+      "blob": "6bf673c790d414f6791358b5f2a749036f8fd867"
+    }
+  ]
+}

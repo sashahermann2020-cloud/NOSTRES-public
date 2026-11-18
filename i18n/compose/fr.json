@@ -1,0 +1,11 @@
+{
+  "head": "Pour présenter la demande, il manque : ",
+  "tail": " Vous avez indiqué que les autres conditions sont remplies.",
+  "parts": {
+    "подходящий статус (Niederlassungserlaubnis, Blue Card и некоторые другие виды)": "un statut approprié (Niederlassungserlaubnis, Blue Card et quelques autres types)",
+    "сертификат на немецкий B1": "le certificat d'allemand B1",
+    "сертификат о тесте": "le certificat du test",
+    "самостоятельное обеспечение без Bürgergeld и Sozialhilfe, кроме случаев исключений": "la subsistance autonome sans Bürgergeld ni Sozialhilfe, sauf cas d'exception",
+    "отсутствие судимостей выше установленных порогов": "l'absence de condamnations au-delà des seuils fixés"
+  }
+}

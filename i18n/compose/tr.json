@@ -1,0 +1,11 @@
+{
+  "head": "Başvuru için eksik olanlar: ",
+  "tail": " Diğer koşulları karşılanmış olarak belirttiniz.",
+  "parts": {
+    "подходящий статус (Niederlassungserlaubnis, Blue Card и некоторые другие виды)": "uygun bir oturum statüsü (Niederlassungserlaubnis, Blue Card ve bazı diğer türler)",
+    "сертификат на немецкий B1": "Almanca B1 sertifikası",
+    "сертификат о тесте": "test sertifikası",
+    "самостоятельное обеспечение без Bürgergeld и Sozialhilfe, кроме случаев исключений": "Bürgergeld ve Sozialhilfe almadan kendi geçimini sağlama (istisna durumları hariç)",
+    "отсутствие судимостей выше установленных порогов": "belirlenen sınırları aşan mahkûmiyetlerin bulunmaması"
+  }
+}
