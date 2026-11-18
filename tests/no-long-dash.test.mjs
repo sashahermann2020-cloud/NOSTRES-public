@@ -8,7 +8,7 @@ const files = ["i18n/source.tsv", ...readdirSync(new URL("i18n/translations/", r
 
 test("в текстах сайта и переводах нет длинного тире", () => {
   for (const file of files) {
-    const lines = readFileSync(new URL(file, root), "utf8").split("\n").filter((line) => line.includes("—"));
+    const lines = readFileSync(new URL(file, root), "utf8").split("\n").filter((line) => line.includes("\u2014"));
     assert.equal(lines.length, 0, `${file}: ${lines.slice(0, 3).join(" | ")}`);
   }
 });
