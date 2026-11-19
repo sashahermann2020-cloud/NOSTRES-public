@@ -54,7 +54,7 @@ for (const id of ["anmeldung", "tax-id", "health"]) {
   });
 }
 
-for (const id of ["doctor", "urgent", "business", "bank", "telecom", "dog", "wbs", "lea", "housing", "kindergeld", "jobcenter", "kita", "employment", "elterngeld", "kinderzuschlag", "steuererklaerung", "elternzeit", "wohngeld", "mutterschutz", "bildungspaket", "pflegegeld", "schwerbehinderung", "wohnungsgeber", "umzug", "arbeitslosengeld", "grundsicherungsgeld", "kfz", "einbuergerung", "workpermit", "recognition", "language", "reunion", "sprachkurs", "study", "petmove", "petpass", "vet", "dogtrainer", "transport", "culture", "relocation", "chancenkarte", "workvisa", "volunteer", "studyvisa", "company", "socialnumber", "settlement", "notary", "mental"]) {
+for (const id of ["doctor", "urgent", "business", "bank", "telecom", "dog", "wbs", "lea", "housing", "kindergeld", "jobcenter", "kita", "employment", "elterngeld", "kinderzuschlag", "steuererklaerung", "elternzeit", "wohngeld", "mutterschutz", "bildungspaket", "pflegegeld", "schwerbehinderung", "wohnungsgeber", "umzug", "arbeitslosengeld", "grundsicherungsgeld", "kfz", "einbuergerung", "workpermit", "recognition", "language", "reunion", "sprachkurs", "study", "petmove", "petpass", "vet", "dogtrainer", "transport", "culture", "relocation", "chancenkarte", "workvisa", "volunteer", "studyvisa", "company", "socialnumber", "settlement", "notary", "mental", "discrimination", "homeless", "hardship", "violence"]) {
   test(`${id}: every question changes the plan`, () => {
     const all = [];
     const collect = (a) => questionsFor(id, a);

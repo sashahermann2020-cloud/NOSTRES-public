@@ -60,6 +60,10 @@ export const routeCheckedAt = {
   settlement: "12 ноября 2026",
   notary: "12 ноября 2026",
   mental: "18 ноября 2026",
+  discrimination: "19 ноября 2026",
+  homeless: "19 ноября 2026",
+  hardship: "19 ноября 2026",
+  violence: "19 ноября 2026",
 } as const;
 
 export type CheckedRouteId = keyof typeof routeCheckedAt;
@@ -69,7 +73,7 @@ export type CheckedRouteId = keyof typeof routeCheckedAt;
  * Цены и условия банков, касс и провайдеров меняются чаще, чем правила ведомств.
  */
 export const DEFAULT_REVIEW_DAYS = 60;
-export const routeReviewDays: Partial<Record<CheckedRouteId, number>> = { bank: 30, telecom: 30, health: 30, vet: 30, transport: 7, culture: 30, chancenkarte: 30, volunteer: 30, studyvisa: 30 };
+export const routeReviewDays: Partial<Record<CheckedRouteId, number>> = { bank: 30, telecom: 30, health: 30, vet: 30, transport: 7, culture: 30, chancenkarte: 30, volunteer: 30, studyvisa: 30, discrimination: 30, homeless: 30 };
 
 const MONTHS = ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"];
 

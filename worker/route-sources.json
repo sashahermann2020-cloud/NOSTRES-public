@@ -1040,5 +1040,87 @@
   "reviewed": {
    "https://arztsuche.116117.de/pages/arztsuche.xhtml": "2026-11-16T07:50Z"
   }
+ },
+ {
+  "id": "discrimination",
+  "path": "/berlin/diskriminaciya",
+  "title": "Дискриминация в Берлине: консультация, жалоба, сроки AGG",
+  "checkedAt": "2026-11-19",
+  "reviewDays": 30,
+  "sources": [
+   "https://antidiskriminierungsstelle.de/EN/about-us/contact/contact-node.html",
+   "https://fairmieten-fairwohnen.de/beratung/",
+   "https://gewaltschutzambulanz.charite.de/",
+   "https://www.adnb.de/de/Beratung/Beratungsangebot/",
+   "https://www.antidiskriminierungsstelle.de/EN/we-offer-advice-to-you/we-offer-advice-to-you.html",
+   "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/beauftragte/gleichstellung/artikel.1180363.php",
+   "https://www.berlin.de/buerger-polizeibeauftragter/kontakt/formular.1253876.php",
+   "https://www.berlin.de/buerger-polizeibeauftragter/ombudsstelle/worueber-koennen-sie-sich-beschweren-1391945.php",
+   "https://www.berlin.de/sen/lads/beratung/diskriminierung/wohnungsmarkt/",
+   "https://www.berlin.de/sen/lads/beratung/suche/index.php/index.html?reset=1",
+   "https://www.berlin.de/sen/lads/recht/ladg/ombudsstelle/artikel.1525630.php",
+   "https://www.gesetze-im-internet.de/agg/__15.html",
+   "https://www.gesetze-im-internet.de/agg/__21.html",
+   "https://www.nora-notruf.de/de-as/was-ist-nora"
+  ]
+ },
+ {
+  "id": "homeless",
+  "path": "/berlin/bez-zhilya",
+  "title": "Без жилья в Берлине: ночлег, Soziale Wohnhilfe, выселение",
+  "checkedAt": "2026-11-19",
+  "reviewDays": 30,
+  "sources": [
+   "https://berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/amt-fuer-soziales/soziale-wohnhilfe/hilfe-bei-bestehender-wohnungslosigkeit.pdf",
+   "https://service.berlin.de/dienstleistung/324485/",
+   "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/amt-fuer-soziales/hilfe-zum-lebensunterhalt-und-grundsicherung/artikel.286707.php",
+   "https://www.berlin.de/lfu/",
+   "https://www.berlin.de/sen/asgiva/presse/pressemitteilungen/2026/pressemitteilung.1631968.php",
+   "https://www.berlin.de/sen/soziales/besondere-lebenssituationen/schuldner/anerkannte-beratungsstellen/",
+   "https://www.berliner-stadtmission.de/angebote/armut-und-wohnungslosigkeit",
+   "https://www.caritas.de/hilfeundberatung/ratgeber/wohnungslosigkeit/lebenaufderstrasse/was-tun-bei-mietschulden",
+   "https://www.gesetze-im-internet.de/bgb/__569.html",
+   "https://www.gesetze-im-internet.de/sgb_2/__22.html",
+   "https://www.kaeltehilfe-berlin.de/",
+   "https://www.kaeltehilfe-berlin.de/angebote-start"
+  ]
+ },
+ {
+  "id": "hardship",
+  "path": "/berlin/trudnaya-situaciya",
+  "title": "Трудная ситуация в Берлине: еда, пособия, долги, консультация",
+  "checkedAt": "2026-11-19",
+  "reviewDays": 60,
+  "sources": [
+   "https://bamf-navi.bamf.de/de/",
+   "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/beauftragte/integration/beratung/artikel.829420.php",
+   "https://www.berlin.de/sen/soziales/besondere-lebenssituationen/schuldner/anerkannte-beratungsstellen/",
+   "https://www.berliner-stadtmission.de/angebote/beratung-in-ausnahmesituationen",
+   "https://www.berliner-tafel.de/laib-und-seele/",
+   "https://www.berliner-tafel.de/laib-und-seele/die-praxis/kunden/ausgabestellen",
+   "https://www.caritas.de/hilfeundberatung/onlineberatung",
+   "https://www.caritas.de/hilfeundberatung/onlineberatung/schuldnerberatung/",
+   "https://www.drk-berlin.de/informieren/leistungen-von-a-z.html",
+   "https://www.kaeltehilfe-berlin.de/",
+   "https://www.kaeltehilfe-berlin.de/angebote-start",
+   "https://www.mbeon.de/"
+  ]
+ },
+ {
+  "id": "violence",
+  "path": "/berlin/domashnee-nasilie",
+  "title": "Домашнее насилие в Берлине: BIG Hotline, Frauenhaus, помощь",
+  "checkedAt": "2026-11-19",
+  "reviewDays": 60,
+  "sources": [
+   "https://gewaltschutzambulanz.charite.de/",
+   "https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/beauftragte/gleichstellung/artikel.1180363.php",
+   "https://www.berlin.de/polizei/aufgaben/praevention/gewalt/artikel.125028.php",
+   "https://www.berlin.de/sen/frauen/keine-gewalt/unterstuetzungs-angebote-fuer-betroffene-von-gewalt/",
+   "https://www.big-hotline.de/",
+   "https://www.hilfetelefon.de/",
+   "https://www.maennerhilfetelefon.de/",
+   "https://www.nora-notruf.de/de-as/was-ist-nora"
+  ]
  }
 ]

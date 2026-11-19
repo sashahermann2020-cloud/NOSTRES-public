@@ -1009,6 +1009,98 @@ cd3ad2f3	route:culture	Откройте предложения площадки
 bfa5701b	route:culture	Открыть обзор культурных льгот
 d9176ab4	route:culture	Сравните условия каждого человека: возраст, семейный pass, пособие, доход, учёбу или отметку в удостоверении.
 2952fff4	route:culture	Для каждого события доступны отдельные тарифы, а официальный календарь Берлина показывает мероприятия со свободным входом.
+174e2a37	route:discrimination	Где с вами обошлись несправедливо?
+28da3cfb	route:discrimination	Жильё: поиск квартиры, аренда, соседи
+3377a6f8	route:discrimination	Работа или поиск работы
+2738331d	route:discrimination	Магазин, ресторан, банк, транспорт, клуб и другие услуги
+36b046e7	route:discrimination	Ведомство, школа или другое учреждение Берлина
+191abb6c	route:discrimination	Полиция Берлина
+fe5cfb34	route:discrimination	На меня напали или мне угрожают
+90a2e65a	route:discrimination	Что вы хотите сделать?
+4fb801f0	route:discrimination	Сначала получить бесплатную консультацию
+48c06990	route:discrimination	Подать жалобу или требовать возмещения
+39a8f372	route:discrimination	Жильё: поиск или аренда
+92796f70	route:discrimination	Сначала нужна консультация
+d700d4d1	route:discrimination	Дискриминация при поиске или аренде жилья: где получить консультацию
+43bd19bf	route:discrimination	В Берлине есть отдельная консультация по дискриминации на рынке жилья: Fair mieten – Fair wohnen.
+4e03489c	route:discrimination	Обратитесь в Fair mieten – Fair wohnen
+310215ba	route:discrimination	Берлинская служба против дискриминации на рынке жилья консультирует людей, которых не взяли в квартиру, обидели при аренде или в доме. Сайт есть на английском, турецком, арабском, персидском, русском и украинском.
+6f2d29e0	route:discrimination	Fair mieten – Fair wohnen: консультация
+9607dfb0	route:discrimination	LADS: дискриминация на рынке жилья
+71228e5f	route:discrimination	ADNB: консультация
+c15cdd51	route:discrimination	Запишите, что произошло
+111eb51b	route:discrimination	Запишите дату, место, имена или должности, точные слова и свидетелей. Сохраните письма, объявления, переписку, отказ и скриншоты. Эти записи нужны консультации и для любой жалобы.
+8d4205e1	route:discrimination	LADS: поиск бесплатной консультации
+303aab3a	route:discrimination	Найдите консультацию по вашему случаю
+dfacd491	route:discrimination	В поиске LADS выберите тему «Жильё и поиск жилья» (Wohnen und Wohnungssuche) и свой язык: там около 30 бесплатных консультаций.
+074d9eed	route:discrimination	LADS: поиск консультации по теме и языку
+86ed7599	route:discrimination	Antidiskriminierungsstelle des Bundes: консультация
+96473c50	route:discrimination	Порядок один: консультация, записи, затем решение.
+796cbada	route:discrimination	Это общая информация, а не юридическая консультация. Консультации в Берлине бесплатны, по желанию анонимны. Данные взяты с официальных страниц Landesstelle für Gleichbehandlung – gegen Diskriminierung (LADS), Antidiskriminierungsstelle des Bundes, Bürger- und Polizeibeauftragter Berlin и закона AGG.
+b5cdad4b	route:discrimination	Маршрут: поиск квартиры или комнаты
+a26cae45	route:discrimination	Вы хотите подать жалобу или требовать возмещения
+1c98127c	route:discrimination	Дискриминация при поиске или аренде жилья: как требовать возмещения
+85cb951b	route:discrimination	Закон AGG защищает и при поиске жилья, и при аренде. Требование нужно предъявить в течение 2 месяцев; профильная консультация поможет составить его.
+82a4664a	route:discrimination	Успейте письменно заявить требование за 2 месяца
+cc0b8080	route:discrimination	Требование по закону AGG к арендодателю, магазину или другой фирме нужно предъявить в течение 2 месяцев. Законопроект о сроке 4 месяца ещё не вступил в силу, поэтому ориентируйтесь на 2 месяца. Отправьте требование письменно и сохраните подтверждение отправки; консультация поможет составить письмо.
+66221199	route:discrimination	AGG § 21: срок 2 месяца
+4c547a30	route:discrimination	LADS: поиск консультации с юридической помощью
+bf5ad3be	route:discrimination	Дискриминация на работе: где получить консультацию
+bcf1cfe6	route:discrimination	Бесплатно консультируют берлинские службы из поиска LADS и федеральная Antidiskriminierungsstelle des Bundes.
+d7335324	route:discrimination	В поиске LADS выберите причину дискриминации и язык. ADNB des TBB (антидискриминационная сеть Берлина) консультирует по закону AGG, особенно при расизме.
+cc435a22	route:discrimination	Бесплатная консультация федеральной службы
+c2443986	route:discrimination	Antidiskriminierungsstelle des Bundes (федеральная служба по борьбе с дискриминацией) консультирует бесплатно и конфиденциально: письмо на beratung@ads.bund.de или звонок 0800 546 546 5 с понедельника по четверг с 9 до 15 часов.
+92d287eb	route:discrimination	Antidiskriminierungsstelle des Bundes: контакты
+4718fe51	route:discrimination	Начните с консультации, затем решайте о требовании.
+d8932a4f	route:discrimination	Дискриминация на работе: как требовать возмещения
+161af44f	route:discrimination	На работе и при приёме на работу действует закон AGG. Требование к работодателю нужно отправить письменно в течение 2 месяцев.
+418b51b1	route:discrimination	Требование о возмещении по закону AGG нужно предъявить работодателю письменно в течение 2 месяцев. Срок начинается, когда вы узнали об отказе или несправедливом обращении. Законопроект о сроке 4 месяца ещё не вступил в силу, поэтому ориентируйтесь на 2 месяца. Консультация поможет составить письмо.
+a45aa171	route:discrimination	AGG § 15: срок 2 месяца
+054786c8	route:discrimination	Сначала срок, потому что он короткий.
+bcd20481	route:discrimination	Магазин, ресторан, банк, транспорт или другие услуги
+1ad92aea	route:discrimination	Отказ в услуге или несправедливое обращение: где получить консультацию
+3d6ebf6a	route:discrimination	В поиске LADS выберите причину дискриминации и свой язык. Консультации бесплатны; часть из них помогает и юридически.
+e53244ca	route:discrimination	Порядок один: записи, консультация, требование.
+c948c4f6	route:discrimination	Отказ в услуге или несправедливое обращение: как требовать возмещения
+30adadba	route:discrimination	Закон AGG запрещает отказывать в обычных услугах из-за происхождения, пола, религии, инвалидности, возраста или сексуальной ориентации. Требование нужно предъявить в течение 2 месяцев.
+2c090b32	route:discrimination	Дискриминация в учреждении Берлина: где получить консультацию
+e2307484	route:discrimination	Для учреждений Берлина действует берлинский закон LADG. Бесплатно и независимо разбирает такие случаи LADG-Ombudsstelle.
+e94470f0	route:discrimination	Получите оценку случая в LADG-Ombudsstelle
+cd226fda	route:discrimination	LADG-Ombudsstelle разбирает дискриминацию со стороны учреждений Берлина: бесплатно, конфиденциально и независимо. Сначала она оценивает, была ли дискриминация, и объясняет, что можно сделать. E-mail: beschwerde@ladg-os.berlin.de. Телефон 030 9013 3456: запись во вторник с 9 до 13 и в четверг с 12 до 16 часов, открытая консультация в среду с 13 до 17 часов. Адрес: Alt-Moabit 59–61.
+b1ce1fad	route:discrimination	LADG-Ombudsstelle: что делает и как связаться
+33f070eb	route:discrimination	В поиске LADS выберите тему «Ведомства» (Behörden) или «Школа или Kita» и свой язык.
+d024353a	route:discrimination	Порядок один: Ombudsstelle, затем другие пути.
+1b20d094	route:discrimination	Дискриминация в учреждении Берлина: как подать жалобу
+a920f9b9	route:discrimination	Подайте жалобу в LADG-Ombudsstelle
+6fe48547	route:discrimination	LADG-Ombudsstelle разбирает дискриминацию со стороны учреждений Берлина: бесплатно, конфиденциально и независимо. Если вы хотите, она проводит примирение с учреждением. E-mail: beschwerde@ladg-os.berlin.de. Телефон 030 9013 3456: запись во вторник с 9 до 13 и в четверг с 12 до 16 часов, открытая консультация в среду с 13 до 17 часов. Адрес: Alt-Moabit 59–61.
+d4827a98	route:discrimination	Если учреждение не отвечает или медлит
+91b2acb9	route:discrimination	Bürger- und Polizeibeauftragter принимает жалобы на ведомства Берлина, которые действуют несправедливо, дискриминируют, не отвечают или долго не решают заявление, в том числе по Grundsicherungsgeld и Wohngeld. Форма жалобы есть на сайте.
+c90ed6c7	route:discrimination	Bürgerbeauftragter: форма жалобы
+0d3d21c3	route:discrimination	Bürgerbeauftragter: на что можно пожаловаться
+1964c591	route:discrimination	Дискриминация со стороны полиции Берлина: где получить консультацию
+b020da39	route:discrimination	Полиция Берлина: учреждение Берлина, поэтому консультирует LADG-Ombudsstelle; жалобу можно подать независимому Polizeibeauftragter.
+6637ef0b	route:discrimination	Начните с консультации, жалобу можно подать позже, но в течение 6 месяцев.
+78053f62	route:discrimination	Дискриминация со стороны полиции Берлина: как подать жалобу
+d58e834c	route:discrimination	Жалобу на полицию принимает независимый Bürger- und Polizeibeauftragter: в течение 6 месяцев после действий полиции.
+ab706b6e	route:discrimination	Подайте жалобу Polizeibeauftragter в течение 6 месяцев
+bea6df93	route:discrimination	Bürger- und Polizeibeauftragter (уполномоченный по жалобам на ведомства и полицию) не входит в полицию. Жалобу на проверку, задержание, отказ принять заявление или дискриминацию нужно подать в течение 6 месяцев после окончания действий полиции: через форму на сайте или на post@bebuepol-berlin.de.
+2d9b5790	route:discrimination	Polizeibeauftragter: форма жалобы
+e295953c	route:discrimination	Polizeibeauftragter: на что можно пожаловаться
+4efaa459	route:discrimination	Сначала жалоба: у неё есть срок.
+9255fe9a	route:discrimination	На вас напали или вам угрожают
+3e6e7370	route:discrimination	Если на вас напали или угрожают
+f6e6ea23	route:discrimination	При опасности сейчас звоните 110. Травмы можно бесплатно задокументировать без заявления в полицию, а консультация для пострадавших поможет решить, что делать дальше.
+21d2b0cc	route:discrimination	При опасности: 110
+577789b1	route:discrimination	Если опасность продолжается, звоните в полицию: 110. Написать в экстренные службы без разговора можно в официальном приложении nora, если вы зарегистрировались в нём заранее.
+dff6e61c	route:discrimination	Позвонить 110
+a4da631e	route:discrimination	nora: экстренный вызов без звонка
+256e4119	route:discrimination	Задокументируйте травмы бесплатно
+8a811e48	route:discrimination	Gewaltschutzambulanz der Charité (амбулатория защиты от насилия) бесплатно документирует травмы так, чтобы документ годился для суда. Заявление в полицию для этого не нужно: решить можно позже. Телефон 030 450 570 270, вход: Birkenstraße 62.
+0e6b5c7b	route:discrimination	Получите консультацию для пострадавших
+8b5f5707	route:discrimination	В поиске LADS выберите «после насилия» (nach Gewaltvorfällen): там консультации для пострадавших от расистского, антисемитского, антиквирного и другого насилия. Opferhilfe Berlin консультирует пострадавших от любых преступлений бесплатно и конфиденциально: 030 395 28 67.
+6807c38e	route:discrimination	LADS: консультации после насилия
+a6307d05	route:discrimination	Берлин: службы помощи пострадавшим
+40389072	route:discrimination	Шаги расположены от срочного к следующим действиям.
 9a84aa45	route:doctor	Как вы сейчас застрахованы?
 592c09d1	route:doctor	Государственная страховка (GKV)
 d678a2ae	route:doctor	Частная страховка (PKV)
@@ -1782,6 +1874,134 @@ c26eaeac	route:grundsicherungsgeld	Семья: 3 человек
 a7df8c0d	route:grundsicherungsgeld	взрослый один: 563 €, партнёры по 506 €; дети: до 5 лет 357 €, 6–13 лет 390 €, 14–17 лет 471 €
 653c7a52	route:grundsicherungsgeld	Семья: 4 человек
 051906c1	route:grundsicherungsgeld	Семья: 5 человек и больше
+1a9596e8	route:hardship	Что нужно в первую очередь?
+ab985460	route:hardship	Еда: денег нет прямо сейчас
+cf2e0f8c	route:hardship	Денег не хватает на жизнь
+6d124eac	route:hardship	Долги
+5a43341c	route:hardship	Консультация на моём языке: письма, документы, права
+aad2f12b	route:hardship	Нет денег на еду
+ed9367a1	route:hardship	Еда сегодня и на неделю
+a56deb2c	route:hardship	LAIB und SEELE Berliner Tafel раз в неделю выдаёт продукты за символическую плату. Бесплатную еду дают места из списка Kältehilfe. Параллельно подайте заявление на пособие.
+2993cc5f	route:hardship	Найдите пункт LAIB und SEELE рядом
+f7aa8923	route:hardship	Пункты LAIB und SEELE (программа Berliner Tafel и церковных общин) раз в неделю выдают продукты людям с маленьким доходом за символическую плату от 1 €. В Берлине около 55 пунктов; адреса и дни выдачи есть в списке. Вопросы: 030 787 163 52, с понедельника по пятницу с 10 до 14 часов.
+519d0c68	route:hardship	Berliner Tafel: пункты LAIB und SEELE
+b64eb672	route:hardship	Berliner Tafel: как работает LAIB und SEELE
+772130a8	route:hardship	Бесплатная еда сегодня
+d4798b33	route:hardship	Суповые кухни и дневные места для людей в нужде показывают сайт и приложение Berliner Kältehilfe.
+dac35936	route:hardship	Подайте заявление на пособие
+4cd3851f	route:hardship	Если денег не хватает на жизнь, подайте заявление на Grundsicherungsgeld (основное пособие). Маршрут поможет понять, подходит ли оно, и подать заявление. Если вы работаете или получаете пенсию, проверьте Wohngeld и Kinderzuschlag.
+4a85f168	route:hardship	Помощь Красного Креста Берлина
+abca29ce	route:hardship	Красный Крест Берлина (DRK Berliner Rotes Kreuz) ведёт миграционную консультацию (MBE) и зимний Wärmebus для бездомных. Все его услуги собраны в списке от А до Я.
+b997b3bd	route:hardship	DRK Berlin: услуги от А до Я
+49046049	route:hardship	Сначала еда, параллельно пособие.
+0b7c0188	route:hardship	Данные взяты с официальных страниц Берлина, BAMF, mbeon, Berliner Tafel, Красного Креста Берлина (DRK), Caritas и Berliner Stadtmission. Помощь в списках бесплатна или стоит символические деньги, как указано в шагах.
+547a26ea	route:hardship	Денег не хватает на жизнь: на какую помощь у вас есть право
+1b5f020e	route:hardship	Начните с пособий: Grundsicherungsgeld, Wohngeld или Kinderzuschlag. Бесплатная консультация поможет с заявлением.
+2d19e8ac	route:hardship	Получите помощь с заявлением
+e337b973	route:hardship	Caritas консультирует онлайн бесплатно и анонимно, в том числе в разделе «Общая социальная консультация». Berliner Stadtmission помогает в особых ситуациях, например без медицинской страховки.
+72ac62f1	route:hardship	Caritas: онлайн-консультация
+498e3e17	route:hardship	Berliner Stadtmission: консультация
+7d0ffeed	route:hardship	Порядок один: пособие, затем помощь с заявлением.
+32a43889	route:hardship	Долги: бесплатная консультация
+96c563d6	route:hardship	В каждом районе Берлина есть государственно признанная служба по долгам (Schuldner- und Insolvenzberatung), консультация бесплатна. Долг за аренду решайте сразу: от него зависит жильё.
+0795f95b	route:hardship	Обратитесь в службу по долгам своего района
+09cede0e	route:hardship	Консультация бесплатна и конфиденциальна. Служба составляет план выплат, ведёт переговоры с кредиторами и готовит личное банкротство (Privatinsolvenz). Обращайтесь в службу района, где живёте.
+d1cd8e27	route:hardship	Начните онлайн, если до службы долго ждать
+74d024ce	route:hardship	Caritas консультирует по долгам онлайн, бесплатно и анонимно.
+595a2814	route:hardship	Caritas: онлайн-консультация по долгам
+43e181a2	route:hardship	Долг за аренду: отдельный маршрут
+4c419b51	route:hardship	Если есть долг за аренду или договор уже расторгнут, есть сроки, после которых жильё не сохранить. Маршрут покажет, что делать.
+6e73d24c	route:hardship	Маршрут: без жилья или угроза выселения
+4e82f0df	route:hardship	Сначала служба района, онлайн, если ждать долго.
+797ccea3	route:hardship	Меньше 27
+cc64b0ad	route:hardship	27 и больше
+7941e924	route:hardship	Нужна консультация на вашем языке
+45c5b33a	route:hardship	Вам меньше 27 лет
+8515241c	route:hardship	Бесплатная консультация на вашем языке
+bb1eba72	route:hardship	Для молодёжи до 27 лет есть Jugendmigrationsdienst: бесплатная консультация рядом с вами. Онлайн поможет Caritas.
+f63fa81e	route:hardship	Обратитесь в Jugendmigrationsdienst
+4f9f7925	route:hardship	Jugendmigrationsdienst (JMD, миграционная служба для молодёжи от 12 до 27 лет) бесплатно и конфиденциально помогает с письмами, документами, учёбой, работой и жильём. Ближайшую службу показывает BAMF-NAvI.
+22fe4d74	route:hardship	BAMF-NAvI: службы рядом
+9360bf73	route:hardship	Берлин: MBE и JMD
+4e2fc21e	route:hardship	Общая социальная консультация онлайн
+7499b86a	route:hardship	Caritas консультирует онлайн бесплатно и анонимно по письмам ведомств, деньгам, семье и жилью.
+ff71af56	route:hardship	Служба рядом и онлайн-консультация дополняют друг друга.
+e213aabe	route:hardship	Вам 27 лет и больше
+578a4eac	route:hardship	Migrationsberatung für Erwachsene помогает лично и онлайн через mbeon: ответ в течение 48 часов.
+c328f41d	route:hardship	Обратитесь в Migrationsberatung für Erwachsene
+543fd3a9	route:hardship	Migrationsberatung für erwachsene Zuwanderer (MBE, миграционная консультация для взрослых с 27 лет) бесплатно и конфиденциально помогает с письмами, документами, работой, жильём и пособиями, часто на нескольких языках. Ближайшую службу показывает BAMF-NAvI.
+a457d017	route:hardship	Напишите онлайн в mbeon
+da99e369	route:hardship	mbeon (онлайн-миграционная консультация) бесплатно и конфиденциально отвечает в чате обычно в течение 48 часов. Консультация на нескольких языках, для взрослых с 28 лет.
+8c04001a	route:hardship	mbeon: онлайн-консультация
+9d75c5e8	route:homeless	Что с жильём сейчас?
+502c710f	route:homeless	Мне негде ночевать сегодня
+1ed8b238	route:homeless	Жилья нет: живу у знакомых, в машине или на улице
+dc80bcec	route:homeless	Могу потерять жильё: долги за аренду или расторжение договора
+101e2b80	route:homeless	Негде ночевать сегодня
+47421857	route:homeless	Ночлег на сегодня
+94c16ee2	route:homeless	Ночлежки Berliner Kältehilfe принимают без записи. Если вы не можете дойти, с ноября по март приедет Kältebus или Wärmebus. При угрозе жизни: 112.
+7dd47d03	route:homeless	Найдите ночлег на сегодня
+f84bd272	route:homeless	Berliner Kältehilfe (зимняя помощь бездомным) работает с 1 октября: ночлежки (Notübernachtung) и ночные кафе принимают без записи и без направления ведомства. Свободные места показывают сайт и приложение «Berliner Kältehilfe». Телефон Kältehilfe: 030 343 971 40, ежедневно с 19 до 23 часов.
+b5635730	route:homeless	Kältehilfe: ночлежки и места
+bf32d0c8	route:homeless	Позвонить в Kältehilfe
+36ba049c	route:homeless	Если вы на улице и не можете дойти
+cd7b085c	route:homeless	С ноября по март по Берлину ездят Kältebus Berliner Stadtmission (030 690 333 690, с 20 до 2 часов) и Wärmebus Красного Креста (030 600 300 10 10, с 18 до 24 часов). Они привозят в ночлежку, дают тёплые вещи и еду. При угрозе жизни звоните 112.
+82eaf4e6	route:homeless	Kältehilfe: номера автобусов
+f8b92c2a	route:homeless	Берлин: Kältehilfe 2026/2027
+5ca1d719	route:homeless	Обратитесь в Soziale Wohnhilfe своего района
+9d5f73c6	route:homeless	Утром обратитесь в Soziale Wohnhilfe района, где вы зарегистрированы: она направляет в общежитие на длительный срок. Если вы не зарегистрированы в Берлине, район определяется по особым правилам: часто по месяцу рождения.
+34c435f1	route:homeless	service.berlin.de: помощь при угрозе или потере жилья
+5cff008b	route:homeless	Если нет адреса в Берлине: какой район отвечает
+a2d05ccc	route:homeless	Шаги расположены от сегодняшней ночи к следующим дням.
+c5056fd7	route:homeless	NOSTRES не предоставляет жильё и не принимает экстренные обращения. Данные взяты с официальных страниц Берлина (service.berlin.de, районные Ämter für Soziales), Berliner Kältehilfe, Berliner Stadtmission, Caritas и закона.
+aec04481	route:homeless	Маршрут: трудная ситуация и нет денег
+56332fa3	route:homeless	Гражданство Германии или ЕС, вид на жительство
+a8d9e07f	route:homeless	Идёт процедура убежища или нет вида на жительство
+579c0cb1	route:homeless	Жилья нет
+8a35aac7	route:homeless	Жилья нет: место в общежитии и ночлег
+f82d1206	route:homeless	Soziale Wohnhilfe района помогает с размещением: обычно это место в общежитии (Wohnheim). Ночлежки Kältehilfe принимают без направления, пока место не найдено.
+5bf1bb32	route:homeless	Soziale Wohnhilfe (жилищная помощь районного Amt für Soziales) не подбирает обычную квартиру, а прекращает бездомность: направляет в общежитие (Wohnheim), обычно в комнату на несколько человек. Если у вас есть доход, вы доплачиваете часть стоимости. Возьмите паспорт или ВНЖ, последний документ о регистрации и письма Jobcenter или других ведомств. Приёмные часы у районов разные. Если вы не зарегистрированы в Берлине, район определяется по особым правилам: часто по месяцу рождения.
+26d1bed2	route:homeless	Получите помощь днём
+97061f98	route:homeless	Berliner Stadtmission и другие организации помогают едой, душем, одеждой и консультацией. Дневные места (Tagesstätten) показывает приложение и сайт Kältehilfe.
+007f2877	route:homeless	Berliner Stadtmission: помощь при потере жилья
+d5548c52	route:homeless	Kältehilfe: адреса помощи
+ba4b4eee	route:homeless	Знайте, как устроено размещение
+206cca94	route:homeless	Место в общежитии выделяет только Soziale Wohnhilfe; права на конкретное общежитие нет, но пожелания учитывают.
+c0f79d50	route:homeless	Bezirksamt Neukölln: как работает Soziale Wohnhilfe
+314fcef1	route:homeless	Сначала место в общежитии, параллельно ночлег на сегодня.
+adaee447	route:homeless	Если идёт процедура убежища или нет вида на жительство, размещением занимается Landesamt für Flüchtlingsangelegenheiten und Unterbringung (LFU). Ночлежки Kältehilfe принимают без направления.
+2b12e184	route:homeless	Обратитесь в Landesamt für Flüchtlingsangelegenheiten und Unterbringung
+1eb54491	route:homeless	Людям в процедуре убежища и без вида на жительство размещение предоставляет Landesamt für Flüchtlingsangelegenheiten und Unterbringung (LFU), а не районный Amt für Soziales.
+cfda2b44	route:homeless	service.berlin.de: кто отвечает за размещение
+49bb4515	route:homeless	Что уже произошло?
+59f8fc26	route:homeless	Есть долг за аренду, договор ещё не расторгнут
+25f04cf0	route:homeless	Арендодатель расторг договор (Kündigung)
+468b7aa6	route:homeless	Пришло письмо из суда о выселении (Räumungsklage)
+01209194	route:homeless	Могу потерять жильё
+ab458608	route:homeless	Есть долг за аренду
+a4b3ceca	route:homeless	Долг за аренду: как не потерять жильё
+c25192f9	route:homeless	Чем раньше вы обратитесь, тем проще сохранить жильё: Soziale Wohnhilfe и Jobcenter помогают и до расторжения договора.
+68263a6f	route:homeless	Подайте заявление о погашении долга за аренду
+b15cca01	route:homeless	Долг за аренду может погасить Jobcenter, если вы получаете Grundsicherungsgeld, или Amt für Soziales, если не получаете, обычно в виде беспроцентного займа. Условие: иначе вы потеряете жильё. Подайте заявление о социальной помощи с приложением 6 (Mietschulden), договор аренды, письма арендодателя и выписки. Помощь бесплатна.
+4cd8d75c	route:homeless	service.berlin.de: заявление и приложения
+8a36df9b	route:homeless	SGB II § 22: погашение долга за жильё
+1d9a1b19	route:homeless	Soziale Wohnhilfe районного Amt für Soziales помогает при угрозе потери жилья: разбирается с долгом, договаривается с арендодателем, помогает с залогом за новое жильё беспроцентным займом. Возьмите паспорт или ВНЖ, договор аренды, письма арендодателя, выписки и письма Jobcenter.
+ce4ca4f0	route:homeless	Получите бесплатную консультацию
+ca00f0bc	route:homeless	Berliner Stadtmission и Caritas консультируют при долгах, угрозе выселения и без медицинской страховки. Государственно признанные службы по долгам (Schuldner- und Insolvenzberatung) есть в каждом районе, консультация бесплатна.
+5dcacd02	route:homeless	Berliner Stadtmission: помощь при бедности и потере жилья
+717b0323	route:homeless	Caritas: что делать при долге за аренду
+47f074de	route:homeless	Берлин: службы по долгам по районам
+6e8cf773	route:homeless	Порядок один: заявление о долге, Soziale Wohnhilfe, консультация.
+e5e194c1	route:homeless	Арендодатель расторг договор
+637cb9ba	route:homeless	Договор расторгнут из-за долга: как сохранить жильё
+45e86b87	route:homeless	Расторжение договора из-за долга ещё можно отменить, если погасить долг. Обратитесь в Soziale Wohnhilfe сразу, не дожидаясь письма из суда.
+8f5f2b88	route:homeless	Пришло письмо из суда о выселении
+46592a4f	route:homeless	Письмо из суда о выселении: действуйте сразу
+fd82ba47	route:homeless	Если договор расторгнут без предупреждения из-за долга, расторжение теряет силу, когда долг погашен или ведомство письменно обязалось его погасить в течение 2 месяцев после получения письма из суда. Это возможно один раз за 2 года.
+0852dd42	route:homeless	Запишите дату получения письма из суда
+689b04da	route:homeless	Срок 2 месяца начинается с даты, когда суд вручил вам иск о выселении (Räumungsklage). За это время долг должен быть погашен или Jobcenter либо Amt für Soziales должны письменно обязаться его погасить. Тогда расторжение без предупреждения (fristlose Kündigung) теряет силу. Если так уже было за последние 2 года, это правило не действует.
+44ae3a48	route:homeless	BGB § 569: срок 2 месяца
+c60521c6	route:homeless	Действуйте сразу. Долг за аренду может погасить Jobcenter, если вы получаете Grundsicherungsgeld, или Amt für Soziales, если не получаете, обычно в виде беспроцентного займа. Условие: иначе вы потеряете жильё. Подайте заявление о социальной помощи с приложением 6 (Mietschulden), договор аренды, письма арендодателя и выписки. Помощь бесплатна.
 bf1a2473	route:housing	Что вы ищете?
 23cb8619	route:housing	Отдельную квартиру
 de05941d	route:housing	Комнату в квартире совместного проживания (WG)
@@ -5013,6 +5233,65 @@ bae5d73a	route:vet	Круглосуточно
 9f499357	route:vet	Приезжайте и предупредите о срочности
 8f4ff211	route:vet	Клиники принимают по степени срочности; ожидание бывает долгим.
 82aa34f6	route:vet	Способ один: клиника с круглосуточной службой.
+17b0eb20	route:violence	Что происходит?
+4df96c34	route:violence	Мне угрожает опасность прямо сейчас
+fded4aec	route:violence	Я женщина, меня бьёт или запугивает партнёр или кто-то из семьи
+f76a37ab	route:violence	Я мужчина и пострадал от насилия
+ecb607ac	route:violence	Ребёнок или подросток в опасности
+20ee8918	route:violence	Хочу помочь другому человеку
+8e523d1a	route:violence	Вам угрожает опасность прямо сейчас
+55bce3f9	route:violence	Опасность прямо сейчас
+d04c6117	route:violence	Звоните 110. Если говорить нельзя, используйте приложение nora. После этого BIG Hotline найдёт безопасное место круглосуточно.
+d002b37f	route:violence	Если вам или детям угрожают сейчас, звоните в полицию: 110. Написать в экстренные службы без разговора можно в официальном приложении nora, если вы зарегистрировались в нём заранее. Полиция при каждом вызове по домашнему насилию сообщает о BIG Hotline.
+95212039	route:violence	Полиция Берлина: домашнее насилие
+c0fb7f8c	route:violence	BIG Hotline: помощь при домашнем насилии
+7a28eff1	route:violence	BIG Hotline: 030 611 03 00, круглосуточно. Находит место в Frauenhaus для женщин с детьми в любое время и может прислать мобильную команду.
+c3063fb8	route:violence	BIG Hotline: телефон, чат, e-mail
+2dc28f5f	route:violence	Берлин: помощь пострадавшим от насилия
+ad7c5f9f	route:violence	Позвонить в BIG Hotline
+b2ec8aa2	route:violence	Напишите, если говорить небезопасно
+e4a4e4f5	route:violence	Hilfetelefon Gewalt gegen Frauen (федеральная линия помощи) отвечает круглосуточно, бесплатно и анонимно: телефон 116 016 на 18 языках и онлайн-консультация на сайте. BIG Hotline отвечает на beratung@big-hotline.de и в чате по средам с 15:30 до 17:30 и по пятницам с 13:30 до 15:30.
+52b08fbd	route:violence	Hilfetelefon: онлайн-консультация
+f4f219ce	route:violence	BIG Hotline: чат и e-mail
+c38d3b6b	route:violence	Шаги расположены от срочного к следующим.
+4b07f2ed	route:violence	NOSTRES не принимает экстренные обращения. Помощь бесплатна, по желанию анонимна, заявление в полицию для неё не нужно. Данные взяты с официальных страниц Берлина, полиции Берлина, BIG Hotline, Hilfetelefon Gewalt gegen Frauen, Hilfetelefon Gewalt an Männern и Gewaltschutzambulanz der Charité.
+19a04bb7	route:violence	Безопасное место для меня и детей
+75c41cbc	route:violence	Консультация, документы о травмах, защита по закону
+3c1c34ca	route:violence	Насилие со стороны партнёра или семьи
+d2818896	route:violence	Нужно безопасное место
+a9b57016	route:violence	Безопасное место: Frauenhaus и защищённые квартиры
+2fd2ac28	route:violence	Место в Frauenhaus (убежище для женщин и детей) или в защищённой квартире находит BIG Hotline: круглосуточно, каждый день.
+16d6e689	route:violence	Позвоните в BIG Hotline: 030 611 03 00, круглосуточно, в выходные и праздники. Через неё работает BIG Clearingstelle, которая принимает женщин с детьми круглосуточно и находит место в Frauenhaus или защищённой квартире (Zufluchtswohnung). Можно попросить переводчика.
+67cc6fe7	route:violence	Список Frauenhäuser и защищённых квартир
+13124ea2	route:violence	Берлин публикует телефоны Frauenhäuser и защищённых квартир. Звоните им напрямую, если BIG Hotline занята.
+1e004c1a	route:violence	Берлин: Frauenhäuser и Zufluchtswohnungen
+751c2b95	route:violence	Сначала место, затем консультация.
+8ac31a59	route:violence	Нужна консультация и документы
+22f610ac	route:violence	Консультация, документы о травмах и защита по закону
+af373369	route:violence	BIG Hotline и Hilfetelefon консультируют круглосуточно и анонимно. Травмы можно бесплатно задокументировать без заявления в полицию.
+e7493db7	route:violence	BIG Hotline консультирует по телефону 030 611 03 00 круглосуточно, по желанию анонимно и с переводчиком. Мобильная команда BIG может приехать к вам, если вы не можете прийти сами.
+a019b1c9	route:violence	Gewaltschutzambulanz der Charité бесплатно документирует травмы так, чтобы документ годился для суда, без заявления в полицию: решить можно позже. Телефон 030 450 570 270, вход: Birkenstraße 62.
+c8810e8f	route:violence	Письменный канал первым: так безопаснее, если рядом обидчик.
+2a2bd11a	route:violence	Вы мужчина и пострадали от насилия
+d60ad33d	route:violence	Помощь мужчинам, пострадавшим от насилия
+2dc6da11	route:violence	Hilfetelefon Gewalt an Männern консультирует бесплатно и анонимно по телефону и в чате. В Берлине BIG Hotline направляет мужчин в Opferhilfe Berlin.
+1e361884	route:violence	Напишите или позвоните в Hilfetelefon Gewalt an Männern
+df7c97b1	route:violence	Чат без регистрации: с понедельника по четверг с 12 до 15 и с 17 до 19 часов. Телефон 0800 123 99 00: с понедельника по четверг с 8 до 20, в пятницу с 8 до 15 часов. Бесплатно и анонимно.
+e914965b	route:violence	Консультация в Берлине: Opferhilfe Berlin
+aaa6bf53	route:violence	Opferhilfe Berlin консультирует пострадавших от любых преступлений бесплатно и конфиденциально: 030 395 28 67. BIG Hotline направляет туда мужчин, пострадавших от домашнего насилия.
+4c5dea69	route:violence	Письменный канал первым, звонок как запасной.
+c9d4cf05	route:violence	Berliner Notdienst Kinderschutz (служба защиты детей) помогает, если ребёнок в опасности. При опасности сейчас: 110.
+97befd47	route:violence	Позвоните в Berliner Notdienst Kinderschutz
+1da5da13	route:violence	Служба защиты детей: 030 61 00 66. Для девушек, в том числе при угрозе принудительного брака: Mädchennotdienst, 030 610 063.
+a78cbe97	route:violence	Берлин: экстренные номера
+7e6b0520	route:violence	Позвонить в Kinderschutz
+29d6cd65	route:violence	Сначала служба защиты детей, при опасности сразу 110.
+6ca75b7f	route:violence	Вы хотите помочь другому человеку
+2ac434a4	route:violence	Как помочь человеку, который пострадал от насилия
+b5ad6bbd	route:violence	BIG Hotline и Hilfetelefon консультируют и родственников, друзей, коллег. Решения принимает сам пострадавший человек; при опасности звоните 110.
+4c82371f	route:violence	Получите консультацию для себя
+d80fde0c	route:violence	Hilfetelefon Gewalt gegen Frauen (116 016, онлайн) и BIG Hotline (030 611 03 00) консультируют и родственников, друзей и коллег, бесплатно и анонимно. Для помощи мужчине: Hilfetelefon Gewalt an Männern.
+0f037d5a	route:violence	Консультация для вас, при опасности 110.
 daae504e	route:volunteer	Какая служба вас интересует?
 46f7a6d4	route:volunteer	Bundesfreiwilligendienst (BFD): место уже есть
 f8f28bbf	route:volunteer	FSJ или FÖJ: место уже есть
@@ -5658,7 +5937,7 @@ b765f325	ui:app/about/page.tsx	Маршрут
 92a3499e	ui:app/about/page.tsx	Личные визиты, звонки и сложные тексты бывают барьером: из-за языка, ограниченной мобильности, социальной тревожности, нарушений зрения или слуха и других причин. В стартовом плане можно выбрать онлайн или письменное общение без звонков и отметить, что визит сложен или невозможен. Объяснять причину и называть диагноз не нужно.
 a7872c02	ui:app/about/page.tsx	Для каждой процедуры NOSTRES показывает только способы, подтверждённые официальными условиями: онлайн, почтой, через представителя или лично. Если дистанционного пути нет, план пишет об этом и ведёт на официальную страницу следующего шага. Ведомство при этом может потребовать личный приём.
 b8e8b37c	ui:app/about/page.tsx	Какие маршруты есть сейчас
-5c891efe	ui:app/about/page.tsx	Сейчас доступны пятьдесят три маршрута по Берлину и по переезду в Германию, сгруппированные по темам.
+c2b33750	ui:app/about/page.tsx	Сейчас доступны пятьдесят семь маршрутов по Берлину и по переезду в Германию, сгруппированные по темам.
 7c3d2f2f	ui:app/about/page.tsx	переезд в Германию: какой путь вам подходит
 f68f3936	ui:app/about/page.tsx	Chancenkarte: карта возможностей для поиска работы
 b5f4b894	ui:app/about/page.tsx	виза для работы: Blue Card, специалисты, Anerkennungspartnerschaft
@@ -5703,6 +5982,11 @@ d98be739	ui:app/about/page.tsx	Bildungs- und Teilhabepaket: помощь на ш
 8fa81709	ui:app/about/page.tsx	Arbeitslosengeld: пособие по безработице
 48120f45	ui:app/about/page.tsx	Grundsicherungsgeld: бывшее Bürgergeld: основное пособие для нуждающихся
 d57b8e65	ui:app/about/page.tsx	Pflegegeld und Pflegegrad: пособие по уходу и степень нуждаемости в уходе
+112d36f2	ui:app/about/page.tsx	Защита и помощь
+f8e3a054	ui:app/about/page.tsx	дискриминация: консультация, жалоба и сроки
+1850ad7d	ui:app/about/page.tsx	без жилья или угроза выселения
+e7d829fb	ui:app/about/page.tsx	трудная ситуация: еда, деньги, долги и консультация
+346f836c	ui:app/about/page.tsx	домашнее насилие: где получить защиту
 0e4564cb	ui:app/about/page.tsx	Налоги
 c248f5a7	ui:app/about/page.tsx	налоговый номер (Steuer-ID)
 9a7ed2b4	ui:app/about/page.tsx	Einkommensteuererklärung: налоговая декларация
@@ -5966,12 +6250,18 @@ ff05bced	ui:app/berlin/aufenthalt-rabota/page.tsx	Blue Card, вид на жит�
 cec493a7	ui:app/berlin/aufenthalt/page.tsx	Ответьте на четыре вопроса и получите маршрут к официальной услуге LEA: документы, онлайн-форма, подтверждение, личный приём и сроки.
 4a8a576c	ui:app/berlin/bank/page.tsx	Girokonto (банковский счёт): как открыть в Германии | NOSTRES
 21bde0d5	ui:app/berlin/bank/page.tsx	Обычный Girokonto или Basiskonto: документы, адрес, срок решения банка и что делать при отказе, по официальным страницам BaFin.
+1a1d391f	ui:app/berlin/bez-zhilya/page.tsx	Без жилья в Берлине: ночлег, Soziale Wohnhilfe, выселение | NOSTRES
+6a0caa6d	ui:app/berlin/bez-zhilya/page.tsx	Негде ночевать, нет жилья или грозит выселение: ночлежки Kältehilfe, Soziale Wohnhilfe района и погашение долга за аренду в Берлине.
 c4eb2598	ui:app/berlin/bildungspaket/page.tsx	Bildungs- und Teilhabepaket (помощь на школу и досуг детей) в Берлине | NOSTRES
 fc9f4202	ui:app/berlin/bildungspaket/page.tsx	Помощь на обед, школьные принадлежности, поездки, репетитора и кружки: кому положена и как получить berlinpass-BuT. По официальным источникам.
 e1e8ff84	ui:app/berlin/chancenkarte/page.tsx	Chancenkarte: баллы, средства и виза | NOSTRES
 d763eca8	ui:app/berlin/chancenkarte/page.tsx	Посчитайте баллы Chancenkarte по официальной таблице, подготовьте Sperrkonto и документы и подайте визу через Auslandsportal.
 1bb91e11	ui:app/berlin/culture-discounts/page.tsx	Льготы на культуру и досуг в Берлине | NOSTRES
 9be0c128	ui:app/berlin/culture-discounts/page.tsx	Найдите бесплатные музеи и события, предложения для детей и семей, льготы для получателей пособий, студентов, людей с инвалидностью и людей с низким доходом.
+baaadbeb	ui:app/berlin/diskriminaciya/page.tsx	Дискриминация в Берлине: консультация, жалоба, сроки AGG | NOSTRES
+4add5c64	ui:app/berlin/diskriminaciya/page.tsx	Бесплатная помощь при дискриминации в Берлине: жильё, работа, услуги, ведомства и полиция. Консультации, LADG-Ombudsstelle и срок 2 месяца по AGG.
+42d16b7c	ui:app/berlin/domashnee-nasilie/page.tsx	Домашнее насилие в Берлине: BIG Hotline, Frauenhaus, помощь | NOSTRES
+d5605534	ui:app/berlin/domashnee-nasilie/page.tsx	Помощь при домашнем насилии в Берлине: BIG Hotline круглосуточно, Frauenhaus, чат без звонка, помощь мужчинам и детям, документация травм.
 e9542feb	ui:app/berlin/dressirovka/page.tsx	Hundeschule и Hundeführerschein (дрессировка и экзамен владельца собаки) в Берлине | NOSTRES
 3be79058	ui:app/berlin/dressirovka/page.tsx	Как проверить разрешение дрессировщика по § 11 Tierschutzgesetz, где сдать Sachkundeprüfung для прогулок без поводка и кто проводит Wesenstest в Берлине.
 a8c6ef53	ui:app/berlin/einbuergerung/page.tsx	Einbürgerung (получение гражданства Германии) в Берлине | NOSTRES
@@ -6098,6 +6388,14 @@ b6662513	ui:app/berlin/new-routes/GuidedRoute.tsx	Узнайте, когда м�
 05a9acf3	ui:app/berlin/new-routes/GuidedRoute.tsx	Psychische Gesundheit (психическое здоровье): где получить помощь
 97cb0237	ui:app/berlin/new-routes/GuidedRoute.tsx	Если вам плохо прямо сейчас, выберите первый ответ: помощь покажется сразу, без других вопросов. Сначала маршрут показывает способы без звонка: прийти лично или написать. Данные взяты с официальных страниц 116117, BMG, gesund.bund.de, Берлина, Berliner Krisendienst и Bundesagentur für Arbeit.
 ed2c065d	ui:app/berlin/new-routes/GuidedRoute.tsx	Помощь найдена
+a738c07b	ui:app/berlin/new-routes/GuidedRoute.tsx	Diskriminierung (дискриминация): где получить помощь
+1528775d	ui:app/berlin/new-routes/GuidedRoute.tsx	Расскажите, где с вами обошлись несправедливо: маршрут покажет бесплатные консультации в Берлине, сроки для требований и куда подать жалобу. Данные взяты с официальных страниц LADS, Antidiskriminierungsstelle des Bundes, Bürger- und Polizeibeauftragter и закона AGG.
+a3208894	ui:app/berlin/new-routes/GuidedRoute.tsx	Wohnungslosigkeit (без жилья или угроза выселения)
+3be4e8aa	ui:app/berlin/new-routes/GuidedRoute.tsx	Если негде ночевать сегодня, выберите первый ответ: ночлег покажется сразу. Маршрут ведёт к Soziale Wohnhilfe района, ночлежкам Berliner Kältehilfe и помощи при долге за аренду. Данные взяты с официальных страниц Берлина, Berliner Kältehilfe, Berliner Stadtmission и закона.
+a0faddbe	ui:app/berlin/new-routes/GuidedRoute.tsx	Трудная ситуация: еда, деньги, долги, консультация
+8e5f4cf5	ui:app/berlin/new-routes/GuidedRoute.tsx	Выберите, что нужно в первую очередь: маршрут покажет пункты выдачи еды, пособия, бесплатные службы по долгам и миграционную консультацию на вашем языке. Данные взяты с официальных страниц Берлина, BAMF, Berliner Tafel, Красного Креста, Caritas и Berliner Stadtmission.
+20bfac28	ui:app/berlin/new-routes/GuidedRoute.tsx	Häusliche Gewalt (домашнее насилие): где получить защиту
+3ae2924a	ui:app/berlin/new-routes/GuidedRoute.tsx	Если вам угрожает опасность сейчас, выберите первый ответ: помощь покажется сразу. Маршрут показывает BIG Hotline, Frauenhaus, письменные каналы без звонка и бесплатную документацию травм. Данные взяты с официальных страниц Берлина, полиции Берлина, BIG Hotline и Hilfetelefon.
 1f38fb40	ui:app/berlin/new-routes/GuidedRoute.tsx	Notar (нотариус) в Берлине: как найти и сколько стоит
 afc85903	ui:app/berlin/new-routes/GuidedRoute.tsx	Узнайте, как найти нотариуса в Берлине, почему цена одинакова у всех нотариусов и сколько стоит учреждение GmbH или UG по примерам Bundesnotarkammer. Данные взяты с официальных страниц Notarkammer Berlin, Bundesnotarkammer и закона GNotKG.
 b403a70f	ui:app/berlin/new-routes/GuidedRoute.tsx	Договор заверен
@@ -6597,6 +6895,8 @@ c7930cee	ui:app/berlin/topics.ts	Для ряда видов самостояте
 eb9a4ed7	ui:app/berlin/topics.ts	Государственная пенсионная служба: самозанятые
 01c8c5a1	ui:app/berlin/transport-tickets/page.tsx	Билеты на транспорт Берлина и Deutschlandticket | NOSTRES
 27c80bb0	ui:app/berlin/transport-tickets/page.tsx	Сравните обычные тарифы VBB, Deutschlandticket и льготы для школьников, студентов, учащихся, получателей пособий и людей с инвалидностью.
+009fa524	ui:app/berlin/trudnaya-situaciya/page.tsx	Трудная ситуация в Берлине: еда, пособия, долги, консультация | NOSTRES
+e2157191	ui:app/berlin/trudnaya-situaciya/page.tsx	Нет денег на еду или жизнь, долги: LAIB und SEELE, пособия, бесплатные службы по долгам и миграционная консультация MBE и JMD в Берлине.
 1c5d2709	ui:app/berlin/umzug/page.tsx	Umzug (переезд и смена адреса) в Берлине | NOSTRES
 43627efc	ui:app/berlin/umzug/page.tsx	Как сменить адрес в Берлине: регистрация в течение 14 дней, онлайн или в Bürgeramt, Rundfunkbeitrag и выплаты. По официальным источникам.
 1dd1edea	ui:app/berlin/veterinar/page.tsx	Tierarzt (ветеринар в Берлине): срочная помощь и приём на вашем языке | NOSTRES
@@ -6842,6 +7142,14 @@ e1437df0	ui:app/mvp-test/MvpTestBody.tsx	Виза для работы: Blue Card
 73577ce4	ui:app/mvp-test/MvpTestBody.tsx	Место службы, условия по возрасту и документы для визы.
 be4dbbdc	ui:app/mvp-test/MvpTestBody.tsx	Виза для учёбы, поступления и Ausbildung
 725fa8e9	ui:app/mvp-test/MvpTestBody.tsx	Средства на 2026 год, Sperrkonto и подача визы.
+5272b8ea	ui:app/mvp-test/MvpTestBody.tsx	Häusliche Gewalt (домашнее насилие)
+7ba0e930	ui:app/mvp-test/MvpTestBody.tsx	Опасность сейчас, Frauenhaus через BIG Hotline, чат без звонка, помощь мужчинам, детям и близким.
+3522c3c7	ui:app/mvp-test/MvpTestBody.tsx	Трудная ситуация: еда, деньги, долги
+973555d5	ui:app/mvp-test/MvpTestBody.tsx	LAIB und SEELE, пособия, службы по долгам и миграционная консультация MBE и JMD.
+aeb41b8b	ui:app/mvp-test/MvpTestBody.tsx	Wohnungslosigkeit (без жилья или выселение)
+348d6c57	ui:app/mvp-test/MvpTestBody.tsx	Ночлег сегодня, Soziale Wohnhilfe, LFU, долг за аренду и письмо из суда о выселении.
+8be0b39c	ui:app/mvp-test/MvpTestBody.tsx	Diskriminierung (дискриминация)
+ba0c1150	ui:app/mvp-test/MvpTestBody.tsx	Жильё, работа, услуги, ведомства, полиция и нападение: консультации, жалобы и сроки AGG.
 7f497b8f	ui:app/mvp-test/MvpTestBody.tsx	Psychische Gesundheit (психическое здоровье)
 cfc5c3eb	ui:app/mvp-test/MvpTestBody.tsx	Кризисная помощь без звонка, психиатр, психотерапия, помощь близкому и пропуск встречи в Jobcenter.
 758ecfa3	ui:app/mvp-test/MvpTestBody.tsx	Notar (нотариус в Берлине)
@@ -7926,7 +8234,7 @@ ccd1f1c5	ui:app/page.tsx	Уровень правила
 55bc398c	ui:app/page.tsx	· сохранено
 4aabc3e3	ui:app/page.tsx	· завершено
 2d26288a	ui:app/page.tsx	Маршруты по вашей задаче
-0eca15dd	ui:app/page.tsx	Пятьдесят три маршрута ведут от ответов на вопросы к официальному действию: переезд и визы, документы, здоровье, жильё, работа, пособия, транспорт и досуг.
+52bd8510	ui:app/page.tsx	Пятьдесят семь маршрутов ведут от ответов на вопросы к официальному действию: переезд и визы, документы, здоровье, жильё, работа, пособия, помощь в трудной ситуации, транспорт и досуг.
 311c9232	ui:app/page.tsx	Фильтр категорий
 28bcdd6c	ui:app/page.tsx	до {n} вопросов
 ed6cb01a	ui:app/page.tsx	{n} вопроса
@@ -7961,6 +8269,17 @@ d263cf35	ui:app/page.tsx	Официальные способы записи
 cfaf5727	ui:app/page.tsx	до 3 вопросов
 eca7128f	ui:app/page.tsx	Письменно, лично или по телефону
 35e0b593	ui:app/page.tsx	Официальные службы
+2c37bfd5	ui:app/page.tsx	(дискриминация: консультация и жалоба)
+38ab4c2e	ui:app/page.tsx	Бесплатные консультации, LADG-Ombudsstelle, жалоба на полицию и срок для требований по AGG.
+e6ebee11	ui:app/page.tsx	Консультация → жалоба
+c68bdaa6	ui:app/page.tsx	(без жилья или угроза выселения)
+26152cff	ui:app/page.tsx	Ночлег на сегодня, место в общежитии через Soziale Wohnhilfe и погашение долга за аренду.
+1b710e45	ui:app/page.tsx	Ночлег → жильё
+15027637	ui:app/page.tsx	(трудная ситуация: еда, деньги, долги)
+baa52dda	ui:app/page.tsx	Пункты выдачи еды, пособия, бесплатные службы по долгам и консультация на вашем языке.
+8919bc65	ui:app/page.tsx	Еда, деньги, консультация
+9a7c2128	ui:app/page.tsx	(домашнее насилие: где получить защиту)
+3a8f0dd5	ui:app/page.tsx	BIG Hotline круглосуточно, Frauenhaus, чат без звонка, помощь мужчинам и детям.
 2be88d09	ui:app/page.tsx	Gewerbe или Freiberuf
 55d7463a	ui:app/page.tsx	(своё дело или фриланс)
 305f84f8	ui:app/page.tsx	Проверить право на деятельность, определить способ регистрации и подать налоговую анкету.
@@ -8169,7 +8488,7 @@ a6c026fe	ui:app/page.tsx	Нужны формы и адреса
 92f56628	ui:app/page.tsx	Понятный путь после переезда · первый город Берлин
 9805654a	ui:app/page.tsx	Информация не является индивидуальной юридической, медицинской или налоговой консультацией.
 a2cdce8a	ui:app/page.tsx	Пилотный запуск
-b44c4373	ui:app/page.tsx	Пятьдесят три самостоятельных маршрута доступны сейчас. Ответы на вопросы сохраняются на вашем устройстве; документы, Steuer-ID и медицинские сведения не запрашиваются. Платных специалистов в первой версии нет.
+8e689454	ui:app/page.tsx	Пятьдесят семь самостоятельных маршрутов доступны сейчас. Ответы на вопросы сохраняются на вашем устройстве; документы, Steuer-ID и медицинские сведения не запрашиваются. Платных специалистов в первой версии нет.
 cad7ad72	ui:app/page.tsx	Подходит, если
 bb79c769	ui:app/page.tsx	Ваша ситуация
 816ab9bd	ui:app/page.tsx	Ответьте на все вопросы: NOSTRES выберет применимый следующий шаг.
@@ -8230,6 +8549,7 @@ c2592be3	ui:app/route-checks.ts	29 октября 2026
 c9d73925	ui:app/route-checks.ts	12 ноября 2026
 69682de5	ui:app/route-checks.ts	31 октября 2026
 537e9c3a	ui:app/route-checks.ts	18 ноября 2026
+98160676	ui:app/route-checks.ts	19 ноября 2026
 334ef02e	ui:app/route-summary.ts	Ссылка не работает
 a62e4020	ui:app/route-summary.ts	Маршрут не подходит для моего места
 e31fd030	ui:app/route-summary.ts	Инструкция непонятна

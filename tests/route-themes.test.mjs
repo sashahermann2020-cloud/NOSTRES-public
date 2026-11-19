@@ -8,7 +8,7 @@ const pageIds = [...page.matchAll(/inTheme\("([^"]+)", category\)/g)].map((m) =>
 const published = [...page.matchAll(/^  ("?[\w-]+"?): "\/berlin\//gm)].map((m) => m[1].replaceAll('"', ""));
 
 test("у каждого маршрута главной есть тема, и карточка стоит в своей основной теме", () => {
-  assert.equal(pageIds.length, 50);
+  assert.equal(pageIds.length, 54);
   for (const id of [...pageIds, ...published]) assert.ok(ROUTE_THEMES[id], `нет темы для ${id}`);
   for (const id of pageIds) assert.match(page, new RegExp(`data-cat=\\{themeOf\\("${id}"\\)\\}`), id);
   assert.equal(Object.keys(ROUTE_THEMES).length, pageIds.length + published.length);

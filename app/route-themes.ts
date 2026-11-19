@@ -19,6 +19,7 @@ export const THEMES = [
   "Семья и дети",
   "Работа и бизнес",
   "Пособия и льготы",
+  "Защита и помощь",
   "Налоги",
   "Банк и связь",
   "Транспорт и досуг",
@@ -43,7 +44,7 @@ export const ROUTE_THEMES: Record<string, { primary: Theme; also?: Theme[] }> = 
   health: { primary: "Здоровье" },
   doctor: { primary: "Здоровье" },
   urgent: { primary: "Здоровье" },
-  mental: { primary: "Здоровье", also: ["Пособия и льготы"] },
+  mental: { primary: "Здоровье", also: ["Пособия и льготы", "Защита и помощь"] },
   schwerbehinderung: { primary: "Здоровье", also: ["Пособия и льготы"] },
 
   kita: { primary: "Семья и дети" },
@@ -63,6 +64,11 @@ export const ROUTE_THEMES: Record<string, { primary: Theme; also?: Theme[] }> = 
   arbeitslosengeld: { primary: "Пособия и льготы", also: ["Работа и бизнес"] },
   grundsicherungsgeld: { primary: "Пособия и льготы", also: ["Работа и бизнес"] },
   pflegegeld: { primary: "Пособия и льготы", also: ["Здоровье"] },
+
+  discrimination: { primary: "Защита и помощь", also: ["Работа и бизнес", "Жильё"] },
+  homeless: { primary: "Защита и помощь", also: ["Жильё", "Пособия и льготы"] },
+  hardship: { primary: "Защита и помощь", also: ["Пособия и льготы"] },
+  violence: { primary: "Защита и помощь", also: ["Семья и дети", "Здоровье"] },
 
   "tax-id": { primary: "Налоги", also: ["Документы и статус"] },
   steuererklaerung: { primary: "Налоги" },

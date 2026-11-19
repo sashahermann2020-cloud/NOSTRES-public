@@ -47,7 +47,7 @@ export default function AboutPage() {
     <p>Для каждой процедуры NOSTRES показывает только способы, подтверждённые официальными условиями: онлайн, почтой, через представителя или лично. Если дистанционного пути нет, план пишет об этом и ведёт на официальную страницу следующего шага. Ведомство при этом может потребовать личный приём.</p>
 
     <h2>Какие маршруты есть сейчас</h2>
-    <p>Сейчас доступны пятьдесят три маршрута по Берлину и по переезду в Германию, сгруппированные по темам.</p>
+    <p>Сейчас доступны пятьдесят семь маршрутов по Берлину и по переезду в Германию, сгруппированные по темам.</p>
     <h3>Переезд в Германию</h3>
     <ul>
       <li><Link href="/berlin/pereezd-v-germaniyu">переезд в Германию: какой путь вам подходит</Link></li>
@@ -107,6 +107,13 @@ export default function AboutPage() {
       <li><Link href="/berlin/arbeitslosengeld">Arbeitslosengeld: пособие по безработице</Link></li>
       <li><Link href="/berlin/grundsicherungsgeld">Grundsicherungsgeld: бывшее Bürgergeld: основное пособие для нуждающихся</Link></li>
       <li><Link href="/berlin/pflegegeld">Pflegegeld und Pflegegrad: пособие по уходу и степень нуждаемости в уходе</Link></li>
+    </ul>
+    <h3>Защита и помощь</h3>
+    <ul>
+      <li><Link href="/berlin/diskriminaciya">дискриминация: консультация, жалоба и сроки</Link></li>
+      <li><Link href="/berlin/bez-zhilya">без жилья или угроза выселения</Link></li>
+      <li><Link href="/berlin/trudnaya-situaciya">трудная ситуация: еда, деньги, долги и консультация</Link></li>
+      <li><Link href="/berlin/domashnee-nasilie">домашнее насилие: где получить защиту</Link></li>
     </ul>
     <h3>Налоги</h3>
     <ul>

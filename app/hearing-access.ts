@@ -72,6 +72,8 @@ export const hearingForRoute: Record<string, string[]> = {
   doctor: ["interpreterSocial", "doctor116117", "relay"],
   urgent: ["emergency", "doctor116117"],
   mental: ["emergency", "doctor116117", "interpreterSocial", "relay"],
+  violence: ["emergency", "relay"],
+  homeless: ["emergency", "interpreterSocial", "relay"],
 };
 
 export function hearingBlockFor(routeId: string): HearingItem[] {

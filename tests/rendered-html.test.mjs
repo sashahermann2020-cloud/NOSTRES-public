@@ -39,9 +39,9 @@ test("renders the Berlin MVP and official routes", async () => {
   assert.match(html, /Трудно прийти в ведомство или звонить/);
   assert.match(html, /Как помогает NOSTRES/);
   assert.match(html, /Маршруты по вашей задаче/);
-  assert.match(html, /Найдено(<!-- -->)?\s*(<!-- -->)?\s*53/);
+  assert.match(html, /Найдено(<!-- -->)?\s*(<!-- -->)?\s*57/);
   assert.match(html, /Платных специалистов в первой версии нет/);
-  assert.match(html, /Пятьдесят три самостоятельных маршрута/);
+  assert.match(html, /Пятьдесят семь самостоятельных маршрутов/);
   for (const path of ["pereezd-v-germaniyu", "chancenkarte", "viza-rabota", "viza-volontyor", "viza-uchyoba"]) assert.match(html, new RegExp(`/berlin/${path}`));
   assert.match(html, /\/berlin\/transport-tickets/);
   assert.match(html, /\/berlin\/culture-discounts/);

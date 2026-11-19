@@ -1710,6 +1710,130 @@
       ],
       "ruleFunction": "mentalPlan",
       "ruleSource": "app/berlin/new-routes/mental-health-plans.ts"
+    },
+    {
+      "path": "/berlin/diskriminaciya",
+      "kind": "guided",
+      "source": "app/berlin/diskriminaciya/page.tsx",
+      "logic": "GuidedRoute → planFor(\"discrimination\", answers); где (жильё, работа, услуги, учреждение Берлина, полиция Берлина, нападение или угрозы) → цель (консультация или жалоба и возмещение); нападение → план сразу: 110 и nora, Gewaltschutzambulanz без заявления в полицию, консультации LADS «после насилия» и Opferhilfe Berlin; жильё → Fair mieten – Fair wohnen, LADS, срок 2 месяца по § 21 AGG; работа → срок 2 месяца по § 15 AGG письменно, LADS, ADNB, Antidiskriminierungsstelle des Bundes; услуги → § 21 AGG; учреждения Берлина → LADG-Ombudsstelle, Bürgerbeauftragter; полиция → Polizeibeauftragter в течение 6 месяцев, LADG-Ombudsstelle → пять исходов. Законопроект о сроке 4 месяца не вступил в силу (проверка каждые 30 дней).",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам",
+        "Ответ «напали или угрожают» показывает помощь без второго вопроса"
+      ],
+      "routeId": "discrimination",
+      "title": "Дискриминация в Берлине: консультация, жалоба, сроки AGG | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/help-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "discriminationPlan",
+      "ruleSource": "app/berlin/new-routes/help-plans.ts"
+    },
+    {
+      "path": "/berlin/bez-zhilya",
+      "kind": "guided",
+      "source": "app/berlin/bez-zhilya/page.tsx",
+      "logic": "GuidedRoute → planFor(\"homeless\", answers); ситуация: негде ночевать сегодня → план сразу (Kältehilfe: ночлежки без записи, телефон 19–23 ч, Kältebus и Wärmebus ноябрь–март, 112; утром Soziale Wohnhilfe); жилья нет → статус (гражданство или ВНЖ → Soziale Wohnhilfe района, размещение в общежитии, документы, правило района без регистрации; убежище или без ВНЖ → LFU); угроза потери → этап (долг, расторжение, письмо из суда: срок 2 месяца по § 569 BGB, один раз за 2 года) → заявление о погашении долга (Jobcenter или Amt für Soziales, приложение 6), Soziale Wohnhilfe, консультации Stadtmission, Caritas, службы по долгам → пять исходов. Kältehilfe сезонная (проверка каждые 30 дней).",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам",
+        "Ответ «негде ночевать сегодня» показывает ночлег без других вопросов"
+      ],
+      "routeId": "homeless",
+      "title": "Без жилья в Берлине: ночлег, Soziale Wohnhilfe, выселение | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/help-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "homelessPlan",
+      "ruleSource": "app/berlin/new-routes/help-plans.ts"
+    },
+    {
+      "path": "/berlin/trudnaya-situaciya",
+      "kind": "guided",
+      "source": "app/berlin/trudnaya-situaciya/page.tsx",
+      "logic": "GuidedRoute → planFor(\"hardship\", answers); что нужно: еда → LAIB und SEELE Berliner Tafel (раз в неделю от 1 €, список пунктов), бесплатная еда по Kältehilfe, маршрут Grundsicherungsgeld, Красный Крест; денег не хватает → маршруты Grundsicherungsgeld, Wohngeld, Kinderzuschlag, онлайн-консультация Caritas, Berliner Stadtmission; долги → службы по долгам районов, онлайн Caritas, маршрут без жилья при долге за аренду; консультация на своём языке → возраст (до 27: JMD; с 27: MBE и mbeon, ответ за 48 часов), BAMF-NAvI → пять исходов.",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам",
+        "Каждый ответ ведёт к бесплатной помощи или маршруту пособия"
+      ],
+      "routeId": "hardship",
+      "title": "Трудная ситуация в Берлине: еда, пособия, долги, консультация | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/help-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "hardshipPlan",
+      "ruleSource": "app/berlin/new-routes/help-plans.ts"
+    },
+    {
+      "path": "/berlin/domashnee-nasilie",
+      "kind": "guided",
+      "source": "app/berlin/domashnee-nasilie/page.tsx",
+      "logic": "GuidedRoute → planFor(\"violence\", answers); что происходит: опасность сейчас → план сразу (110, nora, BIG Hotline круглосуточно, письменные каналы); женщина → что нужно (безопасное место: BIG Hotline и BIG Clearingstelle, список Frauenhäuser и Zufluchtswohnungen; консультация: сначала письменно Hilfetelefon 116 016 и чат BIG, затем BIG Hotline и мобильная команда, Gewaltschutzambulanz без заявления в полицию); мужчина → Hilfetelefon Gewalt an Männern (чат и телефон), Opferhilfe Berlin; ребёнок → Berliner Notdienst Kinderschutz, Mädchennotdienst, 110; помощь другому → консультация для близких → пять исходов. Письменный канал идёт первым там, где говорить может быть опасно.",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам",
+        "Ответ «опасность сейчас» показывает помощь без второго вопроса"
+      ],
+      "routeId": "violence",
+      "title": "Домашнее насилие в Берлине: BIG Hotline, Frauenhaus, помощь | NOSTRES",
+      "contracts": [
+        "app/berlin/new-routes/route-model.ts",
+        "app/berlin/new-routes/route-plans.ts",
+        "app/berlin/new-routes/help-plans.ts"
+      ],
+      "outcomes": [
+        "received",
+        "waiting",
+        "additional",
+        "refused",
+        "blocked"
+      ],
+      "ruleFunction": "violencePlan",
+      "ruleSource": "app/berlin/new-routes/help-plans.ts"
     }
   ],
   "source_blobs": [

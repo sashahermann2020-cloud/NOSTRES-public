@@ -35,7 +35,7 @@ export const ISSUE_TYPES = new Set([
   "missing_official_option",
 ]);
 
-export const ROUTE_IDS = new Set(["anmeldung", "tax-id", "health", "housing", "lea", "doctor", "urgent", "business", "bank", "telecom", "dog", "wbs", "kindergeld", "jobcenter", "kita", "employment", "elterngeld", "kinderzuschlag", "steuererklaerung", "elternzeit", "wohngeld", "mutterschutz", "bildungspaket", "pflegegeld", "schwerbehinderung", "wohnungsgeber", "umzug", "arbeitslosengeld", "grundsicherungsgeld", "kfz", "einbuergerung", "workpermit", "recognition", "language", "reunion", "sprachkurs", "study", "petmove", "petpass", "vet", "dogtrainer", "transport", "culture", "relocation", "chancenkarte", "workvisa", "volunteer", "studyvisa", "company", "socialnumber", "settlement", "notary", "mental"]);
+export const ROUTE_IDS = new Set(["anmeldung", "tax-id", "health", "housing", "lea", "doctor", "urgent", "business", "bank", "telecom", "dog", "wbs", "kindergeld", "jobcenter", "kita", "employment", "elterngeld", "kinderzuschlag", "steuererklaerung", "elternzeit", "wohngeld", "mutterschutz", "bildungspaket", "pflegegeld", "schwerbehinderung", "wohnungsgeber", "umzug", "arbeitslosengeld", "grundsicherungsgeld", "kfz", "einbuergerung", "workpermit", "recognition", "language", "reunion", "sprachkurs", "study", "petmove", "petpass", "vet", "dogtrainer", "transport", "culture", "relocation", "chancenkarte", "workvisa", "volunteer", "studyvisa", "company", "socialnumber", "settlement", "notary", "mental", "discrimination", "homeless", "hardship", "violence"]);
 
 export const NEXT_ACTION_STATUSES = new Set(["yes", "partly", "no"]);
 export const OFFICIAL_ACTION_STATUSES = new Set(["reached", "not_yet", "blocked"]);
