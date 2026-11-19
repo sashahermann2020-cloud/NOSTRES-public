@@ -595,8 +595,8 @@ export default function AnmeldungJourney({ journeyId = "anmeldung" }: { journeyI
   return (
     <main className="route-page" id="top" tabIndex={-1}>
       <header className="site-header route-page-header">
-        <Link className="brand" href="/" aria-label={tr("NOSTRES: на главную")}>
-          <span className="brand-mark" aria-hidden="true">N</span>
+        <Link className="brand" href="/">
+          <span className="brand-mark" aria-hidden="true" data-mark="N" />
           <span className="brand-copy"><b>NOSTRES</b><small>{germanRuns(tr("Понятный путь"))}</small></span>
         </Link>
         <Link className="plan-return" href="/berlin/start">{germanRuns(tr("Мой план"))}</Link>

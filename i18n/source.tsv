@@ -6853,7 +6853,6 @@ ef198ddf	ui:app/berlin/steuererklaerung/page.tsx	Einkommensteuererklärung (на
 c5b7c5dc	ui:app/berlin/studium-ausbildung/page.tsx	Университет, Studienkolleg или Ausbildung: выбор языка обучения, документы и шаги по официальным источникам.
 2d27e8ce	ui:app/berlin/svyaz/page.tsx	Mobilfunk и Internet (мобильная связь и интернет) | NOSTRES
 72979dc3	ui:app/berlin/svyaz/page.tsx	Что проверить перед договором, как сменить провайдера или расторгнуть договор и что делать при проблемах со скоростью и связью, по правилам Bundesnetzagentur.
-ad725635	ui:app/berlin/TopicBody.tsx	NOSTRES: на главную
 f9b56032	ui:app/berlin/TopicBody.tsx	Понятный путь
 08408bda	ui:app/berlin/TopicBody.tsx	Все маршруты
 75fc0700	ui:app/berlin/TopicBody.tsx	Навигационная цепочка
@@ -7064,7 +7063,6 @@ a07abf8b	ui:app/HearingAccess.tsx	Люди с нарушением слуха
 d18cb816	ui:app/HearingAccess.tsx	Жестовый язык, переводчик в ведомстве и связь без голоса.
 d9396e7d	ui:app/i18n/LanguageSwitcher.tsx	Язык интерфейса
 624f8ab7	ui:app/i18n/SkipLink.tsx	Перейти к основному содержимому
-8deeba2d	ui:app/info-page.tsx	NOSTRES: главная
 887087a5	ui:app/info-page.tsx	Разделы сайта
 71c59938	ui:app/info-page.tsx	Конфиденциальность
 21f8563b	ui:app/info-page.tsx	О проекте
@@ -8219,7 +8217,7 @@ e9e583a9	ui:app/page.tsx	Переезд с животным
 8c09c8da	ui:app/page.tsx	Мобильная связь и интернет
 32adea9e	ui:app/page.tsx	Обязательные страховки
 4cfd009d	ui:app/page.tsx	Опишите ситуацию
-61bba083	ui:app/page.tsx	Например: прописка, квартира, страховка…
+fdeb10e0	ui:app/page.tsx	Прописка, квартира, страховка…
 5416e0c5	ui:app/page.tsx	Найти маршрут
 dad15ae6	ui:app/page.tsx	Все статусы
 50625175	ui:app/page.tsx	Страна вне ЕС

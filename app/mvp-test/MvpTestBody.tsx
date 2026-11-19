@@ -94,8 +94,8 @@ export default function MvpTestBody() {
   return (
     <>
       <header className="site-header route-page-header">
-          <Link className="brand" href="/" aria-label={tr("NOSTRES: на главную")}>
-            <span className="brand-mark" aria-hidden="true">N</span>
+          <Link className="brand" href="/">
+            <span className="brand-mark" aria-hidden="true" data-mark="N" />
             <span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span>
           </Link>
           <span className="pilot-badge">{tr("Тестирование сервиса")}</span>

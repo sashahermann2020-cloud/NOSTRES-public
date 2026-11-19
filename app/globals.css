@@ -108,6 +108,8 @@ h1, h2, h3 { font-family: var(--font-editorial); font-weight: 500; letter-spacin
   font-family: var(--font-editorial);
   font-size: 20px;
 }
+/* Знак N рисуется через CSS: в имени ссылки «NOSTRES» нет лишней буквы, видимый текст совпадает с доступным именем (WCAG 2.5.3). */
+.brand-mark::before { content: attr(data-mark); }
 .brand-copy { display: flex; flex-direction: column; line-height: 1; }
 .brand-copy b { font-size: 18px; letter-spacing: -0.02em; }
 .brand-copy small { margin-top: 5px; color: #657087; font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
@@ -187,7 +189,7 @@ h1 {
 }
 .input-shell { display: grid; grid-template-columns: 24px 1fr; align-items: center; gap: 7px; }
 .input-shell svg { color: #68748a; }
-.input-shell input { width: 100%; padding: 5px 0; color: var(--ink); background: transparent; border: 0; outline: 0; font-size: 17px; }
+.input-shell input { width: 100%; min-width: 0; padding: 5px 0; color: var(--ink); background: transparent; border: 0; outline: 0; font-size: 17px; text-overflow: ellipsis; }
 .primary-action {
   display: inline-flex;
   align-items: center;
@@ -1107,6 +1109,12 @@ body { font-size: 16px; }
 .topic-links { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 0 0 24px; font-size: 14px; }
 .topic-links a { padding: 8px 12px; border: 1px solid var(--line); border-radius: 999px; background: white; text-decoration: none; font-weight: 700; }
 .topic-links a:hover, .topic-links a:focus-visible { background: var(--blue-soft); text-decoration: underline; }
+/* Телефон: темы по ситуации одной прокручиваемой строкой, а не пятью рваными строками. */
+@media (max-width: 640px) {
+  .topic-links { flex-wrap: nowrap; overflow-x: auto; margin-inline: -14px; padding: 2px 14px 8px; scrollbar-width: thin; }
+  .topic-links > span { flex: none; }
+  .topic-links a { flex: none; white-space: nowrap; }
+}
 .topic-shell { max-width: 840px; }
 .topic-crumbs { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 0 0 25px; color: var(--ink-2); font-size: 13px; }
 .topic-crumbs a, .topic-facts a { color: #254d70; text-decoration: underline; text-underline-offset: 3px; }
@@ -1275,6 +1283,12 @@ html[data-text="xlarge"] { zoom: 1.45; }
 .text-size-options button span { display: inline-block; width: 24px; text-align: center; font-weight: 800; }
 .text-size-options button.selected { background: var(--ink); color: #fff; }
 @media print { .text-size-control { display: none; } }
+/* Телефон: кнопка «Аа» уходит вниз при прокрутке вниз и возвращается при прокрутке вверх, в начале и в конце страницы, при фокусе и открытом меню. */
+@media (max-width: 720px) {
+  .text-size-control { transition: transform .2s ease, opacity .2s ease; }
+  .text-size-control[data-away="true"]:not(:focus-within) { transform: translateY(calc(100% + 24px)); opacity: 0; pointer-events: none; }
+}
+@media (prefers-reduced-motion: reduce) { .text-size-control { transition: none; } }
 
 /* Выбор языка */
 .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
@@ -1399,11 +1413,11 @@ h1, h2, h3 { overflow-wrap: break-word; hyphens: manual; }
 }
 /* Узкие телефоны: в шапке остаётся знак N, слово рядом скрывается, чтобы кнопки не наезжали на него (в шапке стартового плана – до 400px). */
 @media (max-width: 359px) {
-  .site-header .brand-copy, .route-page-header .brand-copy { display: none; }
+  .site-header .brand-copy, .route-page-header .brand-copy { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 }
 @media (max-width: 400px) {
   .site-header.route-page-header .brand-copy,
-  .route-page-header:not(.site-header) .brand-copy { display: none; }
+  .route-page-header:not(.site-header) .brand-copy { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 }
 /* Телефон: кнопки в первой строке рядом со знаком, метка или кнопка теста – во всю ширину второй строки. */
 @media (max-width: 720px) {

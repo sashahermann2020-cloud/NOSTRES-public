@@ -342,8 +342,8 @@ export default function Home() {
   return (
     <main id="top" tabIndex={-1}>
       <header className="site-header">
-        <a className="brand" href="#top" aria-label={tr("NOSTRES: на главную")}>
-          <span className="brand-mark" aria-hidden="true">N</span>
+        <a className="brand" href="#top">
+          <span className="brand-mark" aria-hidden="true" data-mark="N" />
           <span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span>
         </a>
         <nav className="main-nav" aria-label={tr("Основная навигация")}>
@@ -378,7 +378,7 @@ export default function Home() {
           <div className="route-builder-top">
             <label className="search-field">
               <span>{tr("Опишите ситуацию")}</span>
-              <span className="input-shell"><SearchIcon /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder={tr("Например: прописка, квартира, страховка…")} /></span>
+              <span className="input-shell"><SearchIcon /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder={tr("Прописка, квартира, страховка…")} /></span>
             </label>
             <button className="primary-action" type="submit">{tr("Найти маршрут")} <ArrowIcon /></button>
           </div>
@@ -536,7 +536,7 @@ export default function Home() {
 
 
       <footer className="site-footer">
-        <a className="brand footer-brand" href="#top"><span className="brand-mark">N</span><span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span></a>
+        <a className="brand footer-brand" href="#top"><span className="brand-mark" aria-hidden="true" data-mark="N" /><span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span></a>
         <p>{tr("Понятный путь после переезда · первый город Берлин")}</p>
         <p>{tr("Информация не является индивидуальной юридической, медицинской или налоговой консультацией.")}</p>
         <nav aria-label={tr("Информация о проекте")} className="footer-links">

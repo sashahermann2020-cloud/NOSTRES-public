@@ -10,8 +10,8 @@ export function InfoPage({ title, children }: { title: string; children: ReactNo
   return (
     <Translated>
       <header className="site-header">
-        <Link className="brand" href="/" aria-label="NOSTRES: главная">
-          <span className="brand-mark">N</span>
+        <Link className="brand" href="/">
+          <span className="brand-mark" aria-hidden="true" data-mark="N" />
           <span className="brand-copy"><b>NOSTRES</b><small>Понятный путь</small></span>
         </Link>
         <nav className="info-nav" aria-label="Разделы сайта">
@@ -29,7 +29,7 @@ export function InfoPage({ title, children }: { title: string; children: ReactNo
       </main>
       <footer className="site-footer info-footer">
         <Link className="brand footer-brand" href="/">
-          <span className="brand-mark">N</span>
+          <span className="brand-mark" aria-hidden="true" data-mark="N" />
           <span className="brand-copy"><b>NOSTRES</b><small>Понятный путь</small></span>
         </Link>
         <nav className="footer-links" aria-label="Информация о проекте">

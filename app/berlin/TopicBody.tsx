@@ -11,7 +11,7 @@ export default function TopicBody({ topic: sourceTopic }: { topic: Topic }) {
   useLocale();
   const topic = trDeep(sourceTopic);
   return <>
-    <header className="route-page-header"><Link className="brand" href="/" aria-label={tr("NOSTRES: на главную")}><span className="brand-mark" aria-hidden="true">N</span><span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span></Link><Link className="start-back" href="/">{tr("Все маршруты")}</Link><HeaderTools /></header>
+    <header className="route-page-header"><Link className="brand" href="/"><span className="brand-mark" aria-hidden="true" data-mark="N" /><span className="brand-copy"><b>NOSTRES</b><small>{tr("Понятный путь")}</small></span></Link><Link className="start-back" href="/">{tr("Все маршруты")}</Link><HeaderTools /></header>
     <div className="start-shell topic-shell">
       <nav aria-label={tr("Навигационная цепочка")} className="topic-crumbs"><Link href="/">{tr("Берлин")}</Link><span aria-hidden="true">/</span><span>{topic.title}</span></nav>
       <h1><ExplainedText text={topic.title} /></h1><p className="start-lede">{topic.lead}</p>
