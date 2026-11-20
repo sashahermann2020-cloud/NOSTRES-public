@@ -25,7 +25,9 @@ Welcome as sponsors: individuals, foundations, non-profit organisations, compani
 
 ## How to support
 
-Donation accounts are being set up. Until they are ready, organisations and companies can write to <alexandra.hermann@nostres.world>.
+Support NOSTRES through Open Collective: <https://opencollective.com/nostres>. Contributions go through Open Source Europe, a Belgian non-profit association (ASBL) that acts as the fiscal host: the money is received and paid out by the host, and every contribution and expense is public on the collective's page.
+
+Organisations and companies that want to discuss support, an invoice or support in kind can write to <alexandra.hermann@nostres.world>.
 
 ## Sponsors
 

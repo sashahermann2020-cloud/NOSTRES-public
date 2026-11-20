@@ -1,5 +1,5 @@
 # Кнопка «Sponsor» на странице репозитория.
-# Когда откроются аккаунты, добавить строки:
+# Когда откроется GitHub Sponsors, добавить строку:
 #   github: sashahermann2020-cloud
-#   open_collective: <имя коллектива>
+open_collective: nostres
 custom: ["https://github.com/sashahermann2020-cloud/NOSTRES-public/blob/main/SPONSORS.md"]

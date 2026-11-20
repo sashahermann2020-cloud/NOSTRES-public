@@ -55,7 +55,7 @@ Route content is informational: check every condition on the official website be
 
 ## Support NOSTRES
 
-NOSTRES is free for its users and stays free. Development, checking routes against official sources and translations are funded by voluntary support. See [SPONSORS.md](SPONSORS.md) for how support is used and who cannot be a sponsor.
+NOSTRES is free for its users and stays free. Development, checking routes against official sources and translations are funded by voluntary support. Support through [Open Collective](https://opencollective.com/nostres) (fiscal host: Open Source Europe). See [SPONSORS.md](SPONSORS.md) for how support is used and who cannot be a sponsor.
 
 ## Security
 
