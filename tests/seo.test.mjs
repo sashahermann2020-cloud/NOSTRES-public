@@ -10,13 +10,14 @@ import { localizeHref } from "../app/i18n/server-context.ts";
 
 test("every indexable page has a unique canonical URL on the target Cloudflare origin", async () => {
   assert.equal(SITE_ORIGIN, "https://nostres.world");
-  assert.equal(INDEXABLE_PATHS.length, 64);
+  assert.equal(INDEXABLE_PATHS.length, 65);
   assert.equal(new Set(INDEXABLE_PATHS).size, INDEXABLE_PATHS.length);
-  assert.equal(sitemap().length, 64 * READY_LOCALES.length);
+  assert.equal(sitemap().length, 65 * READY_LOCALES.length);
   assert.deepEqual(sitemap().filter((entry) => !/^https:\/\/nostres\.world\/[a-z]{2}(\/|$)/.test(entry.url)).map((entry) => entry.url), INDEXABLE_PATHS.map(canonical));
   assert.equal(robots().sitemap, "https://nostres.world/sitemap.xml");
   assert.ok(INDEXABLE_PATHS.includes("/berlin/start"));
   assert.ok(INDEXABLE_PATHS.includes("/about"));
+  assert.ok(INDEXABLE_PATHS.includes("/support"));
   assert.ok(INDEXABLE_PATHS.includes("/contact"));
   assert.ok(INDEXABLE_PATHS.includes("/privacy"));
   assert.ok(INDEXABLE_PATHS.includes("/berlin/transport-tickets"));

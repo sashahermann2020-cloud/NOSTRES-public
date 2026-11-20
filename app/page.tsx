@@ -545,6 +545,7 @@ export default function Home() {
           <a href={lh("/contact")}>{tr("Контакты")}</a>
           <a href={lh("/privacy")}>{tr("Конфиденциальность")}</a>
           <a href={lh("/about")}>{tr("О проекте")}</a>
+          <a href={lh("/support")}>{tr("Поддержать")}</a>
           <span className="app-version">{APP_VERSION}</span>
         </nav>
       </footer>

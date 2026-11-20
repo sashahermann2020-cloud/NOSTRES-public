@@ -1215,6 +1215,8 @@ body { font-size: 16px; }
 .info-body h2 { margin: 34px 0 10px; font-size: 30px; line-height: 1.15; }
 .info-body p { color: var(--ink-2); font-size: 15px; line-height: 1.75; }
 .info-body a { color: #9f4943; text-decoration: underline; text-underline-offset: 3px; }
+/* Кнопка-ссылка на информационной странице (/support): цвет и вид кнопки, а не ссылки текста. */
+.info-body a.primary-action { color: #201d24; text-decoration: none; }
 .info-body h3 { margin: 26px 0 8px; font-size: 21px; line-height: 1.25; }
 .info-body ul, .info-body ol { margin: 0 0 18px; padding-left: 24px; color: var(--ink-2); font-size: 15px; line-height: 1.75; }
 .info-body li { margin-bottom: 6px; padding-left: 4px; }

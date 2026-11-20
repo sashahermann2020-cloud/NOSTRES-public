@@ -43,6 +43,24 @@
       "outcomes": []
     },
     {
+      "path": "/support",
+      "kind": "information",
+      "source": "app/support/page.tsx",
+      "logic": "Информационная страница: на что идёт поддержка, Open Collective (финансовый хост Open Source Europe), письмо для организаций, правило независимости, помощь без денег; без форм и сбора данных",
+      "visual": "PROJECT_SPEC.md#визуальная-система",
+      "content": "PROJECT_SPEC.md#тексты-и-термины",
+      "acceptance": [
+        "Вход и выход соответствуют назначению",
+        "Основная ветка и применимые ошибки проверены",
+        "Возврат и изменение входа сохраняют согласованность",
+        "Визуал и тексты соответствуют общим правилам"
+      ],
+      "routeId": null,
+      "title": "Поддержать NOSTRES: бесплатный сервис без рекламы",
+      "contracts": [],
+      "outcomes": []
+    },
+    {
       "path": "/api/mvp-events",
       "kind": "api",
       "source": "app/api/mvp-events/route.ts",

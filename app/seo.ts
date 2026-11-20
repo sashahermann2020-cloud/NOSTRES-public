@@ -3,6 +3,7 @@ export const SITE_ORIGIN = "https://nostres.world";
 export const INDEXABLE_PATHS = [
   "/",
   "/about",
+  "/support",
   "/contact",
   "/privacy",
   "/berlin/start",

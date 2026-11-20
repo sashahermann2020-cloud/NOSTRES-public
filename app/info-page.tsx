@@ -38,6 +38,7 @@ export function InfoPage({ title, children }: { title: string; children: ReactNo
           <Link href="/contact">Контакты</Link>
           <Link href="/privacy">Конфиденциальность</Link>
           <Link href="/about">О проекте</Link>
+          <Link href="/support">Поддержать</Link>
           <span className="app-version">{APP_VERSION}</span>
         </nav>
       </footer>
